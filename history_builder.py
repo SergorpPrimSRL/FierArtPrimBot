@@ -19,7 +19,7 @@ API = "https://public.mtender.gov.md"
 # Istoricul se construiește treptat, fără să suprasolicităm MTender.
 PAGES_PER_RUN = 3
 
-START_OFFSET = "2023-01-01T00:00:00Z"
+START_OFFSET = "2026-01-01T00:00:00Z"
 
 KEYWORDS = [
     "loc de joacă",
@@ -82,13 +82,65 @@ NORMALIZED_KEYWORDS = [norm(x) for x in KEYWORDS]
 
 
 def get_json(url):
-    req = urllib.request.Request(
-        url,
-        headers={"User-Agent": "FierArtPrimBot-History/1.0"}
-    )
+    import time
 
-    with urllib.request.urlopen(req, timeout=25) as response:
-        return json.loads(response.read().decode("utf-8"))
+    last_error = None
+
+    for attempt in range(1, 4):
+        try:
+            req = urllib.request.Request(
+                url,
+                headers={
+                    "User-Agent": "FierArtPrimBot-History/1.1",
+                    "Accept": "application/json"
+                }
+            )
+
+            with urllib.request.urlopen(
+                req,
+                timeout=30
+            ) as response:
+
+                raw = response.read()
+
+                if not raw:
+                    raise ValueError(
+                        "MTender a returnat răspuns gol"
+                    )
+
+                text = raw.decode(
+                    "utf-8",
+                    errors="replace"
+                ).strip()
+
+                if not text.startswith(("{", "[")):
+                    print(
+                        "Răspuns non-JSON:",
+                        text[:200],
+                        flush=True
+                    )
+
+                    raise ValueError(
+                        "MTender nu a returnat JSON"
+                    )
+
+                return json.loads(text)
+
+        except Exception as error:
+            last_error = error
+
+            print(
+                f"Încercare {attempt}/3 eșuată:",
+                url,
+                "|",
+                error,
+                flush=True
+            )
+
+            if attempt < 3:
+                time.sleep(attempt * 3)
+
+    raise last_error)
 
 
 def records(record):
