@@ -205,5 +205,25 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768204808276",
+    "date": "2026-01-12T08:02:07Z",
+    "title": "Confectionarea si montarea leaganului cu 8 scaune in parcul Budesti",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 182929.93,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768207157063",
+    "date": "2026-01-12T08:41:29Z",
+    "title": "Lucrari de amenajare a spatiului de agrement cu leagane cu asigurare cailor de acces catre str. M.Varlaam din s. Budes i",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 184688.21,
+    "bidders": [],
+    "awards": []
   }
 ]
