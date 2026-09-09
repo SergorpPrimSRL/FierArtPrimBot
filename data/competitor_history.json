@@ -66,5 +66,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1767359818873",
+    "date": "2026-01-02T13:19:12Z",
+    "title": "procurarea unui leagan semicerc UNO",
+    "buyer": "PRIMARIA GRINAUTI",
+    "cpv": "37530000-2",
+    "estimated_amount": 109015.0,
+    "bidders": [],
+    "awards": []
   }
 ]
