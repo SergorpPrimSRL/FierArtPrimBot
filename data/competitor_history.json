@@ -49,5 +49,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1767349401507",
+    "date": "2026-01-02T10:25:42Z",
+    "title": "Teren de joacă",
+    "buyer": "PRIMARIA SATULUI NAVIRNET",
+    "cpv": "37500000-3",
+    "estimated_amount": 36313.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"DANCO CAPITAL\"",
+        "id": "MD-IDNO-1021600054166",
+        "amount": 36313.33,
+        "status": "pending"
+      }
+    ]
   }
 ]
