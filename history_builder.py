@@ -17,7 +17,7 @@ API = "https://public.mtender.gov.md"
 
 # 3 pagini x 100 proceduri la fiecare rulare.
 # Istoricul se construiește treptat, fără să suprasolicităm MTender.
-PAGES_PER_RUN = 3
+PAGES_PER_RUN = 6
 
 START_OFFSET = "2026-01-01T00:00:00Z"
 
