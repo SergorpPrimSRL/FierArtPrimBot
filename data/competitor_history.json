@@ -93,5 +93,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1767690688186",
+    "date": "2026-01-06T09:15:19Z",
+    "title": "Tobogan",
+    "buyer": "PRIMARIA SATULUI SATUL NOU",
+    "cpv": "39300000-5",
+    "estimated_amount": 2208.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. BIGSHOP",
+        "id": "MD-IDNO-1013600039896",
+        "amount": 2208.33,
+        "status": "pending"
+      }
+    ]
   }
 ]
