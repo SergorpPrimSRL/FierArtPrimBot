@@ -154,5 +154,56 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768130790475",
+    "date": "2026-01-11T11:31:39Z",
+    "title": "Procurarea complex de joacă pentru copii",
+    "buyer": "Primaria Cuizauca",
+    "cpv": "37500000-3",
+    "estimated_amount": 51097.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "VICBRAG PARK",
+        "id": "MD-IDNO-1024600083222",
+        "amount": 51097.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768145054337",
+    "date": "2026-01-11T15:28:30Z",
+    "title": "CONFECTIONAREA SI INSTALAREA TEREN DE JOACA CU GARD STR.UZINELOR",
+    "buyer": "ANENII NOI PRIMARIA",
+    "cpv": "45200000-9",
+    "estimated_amount": 31176.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "INTREPRINDEREA MUNICIPALA ANTERMO",
+        "id": "MD-IDNO-1003600092663",
+        "amount": 31176.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768154131436",
+    "date": "2026-01-11T18:02:39Z",
+    "title": "PROCURAREA INVENTAR P/U TEREN DE JOACA SI SPORTIV",
+    "buyer": "ANENII NOI PRIMARIA",
+    "cpv": "37530000-2",
+    "estimated_amount": 21366.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "INTREPRINDEREA MUNICIPALA ANTERMO",
+        "id": "MD-IDNO-1003600092663",
+        "amount": 21366.67,
+        "status": "pending"
+      }
+    ]
   }
 ]
