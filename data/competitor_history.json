@@ -76,5 +76,22 @@
     "estimated_amount": 109015.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1767642571657",
+    "date": "2026-01-05T19:55:57Z",
+    "title": "Procurarea constructiilor speciale",
+    "buyer": "I.P. GIMNAZIUL-GRADINITA DIMITRIE CANTEMIR, DIN",
+    "cpv": "43320000-2",
+    "estimated_amount": 28570.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"EXIMPROD-TRADE\"",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 28570.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
