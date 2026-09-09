@@ -4412,5 +4412,56 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768329908852",
+    "date": "2026-01-13T18:46:55Z",
+    "title": "Verificarea documentaţiei de deviz",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "71200000-0",
+    "estimated_amount": 6000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"DEV-DOC\"",
+        "id": "MD-IDNO-1025600032375",
+        "amount": 6000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768331791044",
+    "date": "2026-01-13T19:17:40Z",
+    "title": "Verificarea Proiectului \"Nr.S01-09-2025-IEE (11) Teren sportiv multifunctional mun.Chisinau, or.Stăuceni, str.Trandafirilor 2/a, Nr.cad: 3153215.1025, AV nr.470 din 19.12.2025\".",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "71200000-0",
+    "estimated_amount": 1000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"TARUS-ELECTRO\"",
+        "id": "MD-IDNO-1016600028925",
+        "amount": 1000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768331966485",
+    "date": "2026-01-13T19:21:13Z",
+    "title": "Verificarea documentaţiei de deviz pentru obiectivul:  Teren sportiv multifuncțional în mun. Chișinău, or. Stăuceni, str. Trandafirilor 2/a, cod cadastral: 3153215.1025 (Iluminatul electric exterior) / S 01-09-2025-IEE conform cont de plată nr.311 din 22.",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "71200000-0",
+    "estimated_amount": 1800.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"DEV-DOC\"",
+        "id": "MD-IDNO-1025600032375",
+        "amount": 1800.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
