@@ -1,0 +1,53 @@
+[
+  {
+    "ocid": "ocds-b3wdp1-MD-1767275011052",
+    "date": "2026-01-01T13:47:04Z",
+    "title": "Procurarea leaganelor pentru teren de joaca.",
+    "buyer": "PRIMARIA COMUNEI OCOLINA",
+    "cpv": "37530000-2",
+    "estimated_amount": 14846.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"POWER TEAM\"",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 14846.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1767291466937",
+    "date": "2026-01-01T18:21:16Z",
+    "title": "Elaborarea proiectului de executie pentru amenajarea parcului Floarea Albastra din orasul Causeni",
+    "buyer": "PRIMARIA ORASULUI CAUSENI",
+    "cpv": "71200000-0",
+    "estimated_amount": 298000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"GOLDTECH SOLUTION\"",
+        "id": "MD-IDNO-1024600015148",
+        "amount": 298000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1767294220975",
+    "date": "2026-01-01T19:06:45Z",
+    "title": "Nisipiera,Balansor pe arc,Complex de joaca EKO-02,Balansoar,Tabla desen",
+    "buyer": "PRIMARIA ORASULUI CAUSENI",
+    "cpv": "39150000-8",
+    "estimated_amount": 149583.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"TOPOBAU\"",
+        "id": "MD-IDNO-1013600002827",
+        "amount": 149583.33,
+        "status": "pending"
+      }
+    ]
+  }
+]
