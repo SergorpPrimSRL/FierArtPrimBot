@@ -242,5 +242,35 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768225830406",
+    "date": "2026-01-12T14:00:12Z",
+    "title": "procurare si montare mobilier urban perosonalizat",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "39100000-3",
+    "estimated_amount": 119908.33,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768226710711",
+    "date": "2026-01-12T14:10:12Z",
+    "title": "Lucrari de amenajare parcare de la drumul de acces spre statia de iepurare din s. Budesti",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 100099.69,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768227273977",
+    "date": "2026-01-12T14:16:25Z",
+    "title": "Betonarea spatiului de agrement cu leagane cu asigurarea cailor de acces către str. M.Varlaam din s. Budești",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 177311.46,
+    "bidders": [],
+    "awards": []
   }
 ]
