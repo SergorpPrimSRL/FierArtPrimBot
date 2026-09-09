@@ -1,0 +1,46 @@
+name: FierArtPrimBot MTender
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fierartprimbot-mtender
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run FierArtPrimBot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python fierart_bot.py
+
+      - name: Save bot state
+        run: |
+          git config user.name "FierArtPrimBot"
+          git config user.email "actions@users.noreply.github.com"
+
+          git add state/state_seen.json 2>/dev/null || true
+
+          if git diff --cached --quiet; then
+            echo "No state changes to save."
+          else
+            git commit -m "Update tender bot state"
+            git push
+          fi
