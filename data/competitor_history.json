@@ -110,5 +110,49 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1767965341596",
+    "date": "2026-01-09T13:34:00Z",
+    "title": "Procurare decoratiuni festive ghirlande",
+    "buyer": "PRIMARIA S.SLOBOZIA MARE",
+    "cpv": "31500000-1",
+    "estimated_amount": 37916.66,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1766148585915",
+    "date": "2026-01-09T14:02:24Z",
+    "title": "Construcția scării și pandusuri între bd. Mihai Eminescu și parcul orășenesc Criuleni. Construcția pantei nr.1, nr.2 și scara de acces nr.2",
+    "buyer": "Agenția de Dezvoltare Regională Centru",
+    "cpv": "45100000-8",
+    "estimated_amount": 711916.0,
+    "bidders": [
+      {
+        "name": "Quantis Eco",
+        "id": "MD-IDNO-1021600022826",
+        "amount": 709002.26
+      },
+      {
+        "name": "SRL \"Muntean-Confinis\"",
+        "id": "MD-IDNO-1003600044592",
+        "amount": 652851.49
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL \"Muntean-Confinis\"",
+        "id": "MD-IDNO-1003600044592",
+        "amount": 652851.49,
+        "status": "pending"
+      },
+      {
+        "name": "Quantis Eco",
+        "id": "MD-IDNO-1021600022826",
+        "amount": 709002.26,
+        "status": "pending"
+      }
+    ]
   }
 ]
