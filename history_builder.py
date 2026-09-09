@@ -140,7 +140,7 @@ def get_json(url):
             if attempt < 3:
                 time.sleep(attempt * 3)
 
-    raise last_error)
+    raise last_error
 
 
 def records(record):
