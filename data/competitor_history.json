@@ -289,5 +289,4128 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768300478326",
+    "date": "2026-01-13T10:36:19Z",
+    "title": "Servicii de inspectare și verificare a lucrărilor (responsabil tehnic) la obiectul ” Lucrări de amenajare teren de joacă pe teren adiacent IP CE Școala Primară-Grădiniță ”Ilie Fulga” din or.Stăuceni”",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "71310000-4",
+    "estimated_amount": 13740.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Baiesu  Victor",
+        "id": "MD-IDNO-0982205014364",
+        "amount": 13740.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1752757498317",
+    "date": "2026-01-13T12:12:30Z",
+    "title": "Achiziţionarea centralizată a Consumabilelor de Laborator conform necesităților instituțiilor medico-sanitare publice- IMSP- pentru anul 2026",
+    "buyer": "CENTRUL PENTRU ACHIZITII PUBLICE CENTRALIZATE IN SANATATE",
+    "cpv": "33100000-1",
+    "estimated_amount": 14864859.06,
+    "bidders": [
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 1340.0
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 60368.0
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4422.0
+      },
+      {
+        "name": "Profilabdiagnostic SRL",
+        "id": "MD-IDNO-1009600045502",
+        "amount": 43320.0
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 177603.8
+      },
+      {
+        "name": "BELNIS SRL",
+        "id": "MD-IDNO-1002600002265",
+        "amount": 1050.0
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 4583.15
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 4696.23
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 142950.0
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 8321.0
+      },
+      {
+        "name": "\"UISPAC\" S.R.L.",
+        "id": "MD-IDNO-1002600006414",
+        "amount": 236130.0
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 24900.0
+      },
+      {
+        "name": "MEDICLIM AM",
+        "id": "MD-IDNO-1003600131744",
+        "amount": 78000.0
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 134700.0
+      },
+      {
+        "name": "M-INTER-FARMA",
+        "id": "MD-IDNO-1003600005263",
+        "amount": 8991.67
+      },
+      {
+        "name": "Medist Grup SRL",
+        "id": "MD-IDNO-1018600004516",
+        "amount": 20000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 186006.84,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 188718.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 257826.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 13718.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 14440.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 14440.0,
+        "status": "pending"
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 17689.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 74857.2,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 81037.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 96195.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 107855.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 7494.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 95199.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 107428.41,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 109845.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 129275.36,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 71021.58,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 84291.67,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 87316.25,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 89964.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 13800.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 14490.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 15180.0,
+        "status": "pending"
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 16905.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 33550.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 36234.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 53009.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 55693.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 90585.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 53680.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 55497.8,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 69296.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 81435.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 92720.0,
+        "status": "pending"
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 118340.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 151187.64,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 157064.0,
+        "status": "pending"
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 184144.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 193053.32,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 166239.54,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 172950.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 179868.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 226564.5,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 2700.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 2835.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 3150.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 12472.39,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 13157.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 16948.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 34460.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 42213.5,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 45556.12,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 65560.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 68629.4,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 70775.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 77360.8,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 91635.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 73999.2,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 34445.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 36852.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 42998.15,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 43056.25,
+        "status": "pending"
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 45650.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 1152.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4990.8,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 14203.14,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 14700.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 14847.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 82192.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 83667.72,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 120486.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 130760.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 130760.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 97.7,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 12892.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 13249.46,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 14210.5,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 16671.7,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 58582.08,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 65594.46,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1275.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 1290.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 3623.95,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 4694.8,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 11241.3,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 12160.4,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 10350.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 10712.25,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 18216.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 171604.26,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 177603.8,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 190599.2,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 197096.9,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 14544.63,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 19889.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 130200.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 140000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 158200.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 12950.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 14000.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 14000.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 15631.0,
+        "status": "pending"
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 17150.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 239.85,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 261.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 262649.6,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 268087.27,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 366888.66,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 371402.95,
+        "status": "pending"
+      },
+      {
+        "name": "BELNIS SRL",
+        "id": "MD-IDNO-1002600002265",
+        "amount": 5510.0,
+        "status": "pending"
+      },
+      {
+        "name": "M-INTER-FARMA",
+        "id": "MD-IDNO-1003600005263",
+        "amount": 9500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 12122.0,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 17290.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 17480.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4544.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 5160.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4975.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 6000.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 148473.0,
+        "status": "pending"
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 165604.5,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 172057.37,
+        "status": "pending"
+      },
+      {
+        "name": "\"UISPAC\" S.R.L.",
+        "id": "MD-IDNO-1002600006414",
+        "amount": 190350.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 201580.65,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 207481.5,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 212240.25,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 130595.64,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 141376.9,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 167821.5,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 183078.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 86115.5,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 103011.96,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 106902.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 118780.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 142536.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 1050666.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 1083467.28,
+        "status": "pending"
+      },
+      {
+        "name": "\"UISPAC\" S.R.L.",
+        "id": "MD-IDNO-1002600006414",
+        "amount": 1165983.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1204422.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 1358178.0,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 6475.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 6882.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 339.9,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 13877.5,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 221450.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 226806.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 267800.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 332175.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 345050.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 29900.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 36725.0,
+        "status": "pending"
+      },
+      {
+        "name": "BELNIS SRL",
+        "id": "MD-IDNO-1002600002265",
+        "amount": 17835.0,
+        "status": "pending"
+      },
+      {
+        "name": "M-INTER-FARMA",
+        "id": "MD-IDNO-1003600005263",
+        "amount": 30450.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 38193.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 46545.0,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 54810.0,
+        "status": "pending"
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 16250.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 18850.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 19493.5,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 25285.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 8510.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 10350.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 10752.5,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 12420.0,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 15716.67,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 987.05,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 1064.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 47.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 49.5,
+        "status": "pending"
+      },
+      {
+        "name": "\"UISPAC\" S.R.L.",
+        "id": "MD-IDNO-1002600006414",
+        "amount": 117058.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 124677.31,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 197030.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 208315.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 3168.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 3168.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 3398.4,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 2016.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1334.75,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 25110.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 32224.5,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 32643.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 35572.5,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 125033.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 155711.2,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 20639.89,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 21266.6,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 23525.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 23713.2,
+        "status": "pending"
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 23995.5,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 32621.33,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 3792.7,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4238.44,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 4301.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 142880.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 24460.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 47676.0,
+        "status": "pending"
+      },
+      {
+        "name": "Profilabdiagnostic SRL",
+        "id": "MD-IDNO-1009600045502",
+        "amount": 131200.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 37155.3,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 40830.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 40830.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 41102.2,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 41809.92,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 17296.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 33927.75,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 114595.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 119365.35,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 141245.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 171892.5,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 195877.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 407.8,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 2372.88,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 2640.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 2664.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 5000.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 8300.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 13500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 17000.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 107199.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 141602.4,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 160798.5,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 189218.7,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 155232.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 155232.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 89170.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 108450.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 112667.5,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 127730.0,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 156650.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 6210.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 5590.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 7540.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 55132.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 60996.04,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 66409.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 80818.5,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 83951.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 21109.2,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 23100.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 27195.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 28560.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 29757.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 33579.63,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 33907.72,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 34335.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 46161.5,
+        "status": "pending"
+      },
+      {
+        "name": "BELNIS SRL",
+        "id": "MD-IDNO-1002600002265",
+        "amount": 7470.0,
+        "status": "pending"
+      },
+      {
+        "name": "M-INTER-FARMA",
+        "id": "MD-IDNO-1003600005263",
+        "amount": 8991.67,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 11703.0,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 15687.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 73309.73,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 13352.58,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 302275.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 308000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 310500.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 384194.25,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 27625.04,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 27736.8,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 30480.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 30480.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 30683.2,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 25284.49,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 47432.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 60368.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 356304.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 31937.64,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 35865.28,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 38740.35,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 39958.6,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 900.0,
+        "status": "pending"
+      },
+      {
+        "name": "BELNIS SRL",
+        "id": "MD-IDNO-1002600002265",
+        "amount": 1050.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1476.0,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 2100.0,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 2500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 102726.25,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 117668.25,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 118290.83,
+        "status": "pending"
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 134700.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 2763.6,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1182.65,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 1309.0,
+        "status": "pending"
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 52000.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 62731.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 63700.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 70200.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 6600.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 6930.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 7012.5,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 61424.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 62373.28,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 78176.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 90042.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 93532.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 13328.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 14014.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 11124.8,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 11370.2,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 15542.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 17940.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 221267.7,
+        "status": "pending"
+      },
+      {
+        "name": "\"UISPAC\" S.R.L.",
+        "id": "MD-IDNO-1002600006414",
+        "amount": 236130.0,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 241145.83,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 244232.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4009.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 4696.23,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 325.6,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 1291.65,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 1340.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1700.4,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 808.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 10295.17,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 11749.92,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 17600.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 26483.2,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 31702.4,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 35280.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 213022.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 218174.16,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 257608.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 319533.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 331918.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 5112.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 6603.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 6816.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 7242.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 24038.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 23966.88,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 27427.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 30938.22,
+        "status": "pending"
+      },
+      {
+        "name": "BELNIS SRL",
+        "id": "MD-IDNO-1002600002265",
+        "amount": 34741.5,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 440860.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 450203.6,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 457310.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 541205.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 75.85,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 20012.26,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 20780.22,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 22587.2,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 26822.3,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 18216.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 24012.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 24426.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 26703.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 4081.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4853.2,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 12446.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 13970.0,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 17462.5,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 17780.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 36404.55,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 36804.6,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 60694.8,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 65616.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 72997.8,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 26622.68,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 28084.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 36176.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 319.5,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 16204.75,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 31585.35,
+        "status": "pending"
+      },
+      {
+        "name": "Profilabdiagnostic SRL",
+        "id": "MD-IDNO-1009600045502",
+        "amount": 86920.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 12117.3,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 12480.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 12577.5,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 76240.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 83864.0,
+        "status": "pending"
+      },
+      {
+        "name": "BELNIS SRL",
+        "id": "MD-IDNO-1002600002265",
+        "amount": 89582.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 103686.4,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 142950.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 22931.25,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 44696.25,
+        "status": "pending"
+      },
+      {
+        "name": "Profilabdiagnostic SRL",
+        "id": "MD-IDNO-1009600045502",
+        "amount": 123000.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 572.4,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 576.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 26320.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 46060.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 47000.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 55460.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 4500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 580.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 800.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 33660.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 35346.3,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 38280.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 40590.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 3772.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4230.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 167053.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 170807.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 174279.45,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 51520.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 87906.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 5300.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 5406.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 5839.54,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 7420.0,
+        "status": "pending"
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 8321.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 66660.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 68917.35,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 73477.5,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 87567.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 21629.4,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 22081.93,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 23010.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 32214.0,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 1480.25,
+        "status": "pending"
+      },
+      {
+        "name": "BELNIS SRL",
+        "id": "MD-IDNO-1002600002265",
+        "amount": 28110.5,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 45794.08,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 46850.83,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 55392.48,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 3467.75,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 4122.5,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 5092.5,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 45617.0,
+        "status": "pending"
+      },
+      {
+        "name": "BELNIS SRL",
+        "id": "MD-IDNO-1002600002265",
+        "amount": 48727.25,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 58472.7,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 79484.17,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 836.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 900.9,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 5166.67,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 6200.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 7370.0,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 4583.15,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 6050.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 13634.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 17644.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 19187.85,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 435.8,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 508.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 376.18,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4422.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 4980.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 2712.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 2922.5,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 259576.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 270617.12,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 333610.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 338180.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 9320.64,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4455.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 4675.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 7685.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 7950.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 8374.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 8480.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 5198.64,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 5687.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 6136.0,
+        "status": "pending"
+      },
+      {
+        "name": "BELNIS SRL",
+        "id": "MD-IDNO-1002600002265",
+        "amount": 11375.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 12068.1,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 12751.2,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 13358.4,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 4078.35,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4450.41,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 4603.05,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 4425.0,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 6637.5,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 7929.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 3574.6,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 3867.6,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1062.6,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 29640.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 31768.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 9380.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 6019.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 7020.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 8385.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 8840.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 10701.25,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 20858.25,
+        "status": "pending"
+      },
+      {
+        "name": "Profilabdiagnostic SRL",
+        "id": "MD-IDNO-1009600045502",
+        "amount": 57400.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 3392.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 3488.0,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 3866.67,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 5925.62,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 9500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 19791.67,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 42262.5,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 42348.75,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 26325.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 41067.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 41593.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 46332.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 6578.3,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 5412.6,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 5499.4,
+        "status": "pending"
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 5549.0,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 6458.33,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 30400.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 32295.25,
+        "status": "pending"
+      },
+      {
+        "name": "Profilabdiagnostic SRL",
+        "id": "MD-IDNO-1009600045502",
+        "amount": 35150.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 5201.91,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 601167.6,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 655142.4,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 11300.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 17628.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 19888.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 165370.2,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 195260.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 242197.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 366.34,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 12230.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 23838.0,
+        "status": "pending"
+      },
+      {
+        "name": "Profilabdiagnostic SRL",
+        "id": "MD-IDNO-1009600045502",
+        "amount": 43320.0,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 6750.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 6885.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 2030.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 2233.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 31691.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 32428.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 40535.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 1836.25,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 2597.87,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 2655.55,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 3484.17,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 736.45,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 37055.25,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 39257.5,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 42130.0,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 37500.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 67238.8,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 71480.5,
+        "status": "pending"
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 73837.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 81613.45,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 539.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1775.95,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 1925.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 3477.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 999.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 999.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 2706.6,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 2808.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 2854.8,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1834.35,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 128822.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 152387.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 163132.64,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 192400.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 204684.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 335.6,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 25126.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 30510.75,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 46663.5,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 37080.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1570.8,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 569.8,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 4800.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 66366.5,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 68534.25,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 71369.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 50490.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 52856.4,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 54774.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 6017.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 359.4,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 1999.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 2414.9,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 4533.03,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4577.32,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 4635.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 24165.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 2950.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 3200.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 8820.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 10710.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 527.45,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 3360.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 22143.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 22143.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 19465.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 19694.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 16400.0,
+        "status": "pending"
+      },
+      {
+        "name": "MEDICLIM AM",
+        "id": "MD-IDNO-1003600131744",
+        "amount": 28000.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 73924.64,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 90760.88,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 60487.07,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 18870.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 22950.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 23842.5,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 27540.0,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 34850.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 1519.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 3220.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 7995.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 33825.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 19535.04,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 24948.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 25704.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 28255.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 975.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 1425.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 540.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 555.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 32840.88,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 37056.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 44513.52,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 47478.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 239250.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 47164.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 56007.25,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 930.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 1000.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 1060.0,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 1200.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 122.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1044.78,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 24000.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 29568.0,
+        "status": "pending"
+      },
+      {
+        "name": "Sanmedico",
+        "id": "MD-IDNO-1003602008154",
+        "amount": 31488.0,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 7041.67,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 32715.25,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 63766.65,
+        "status": "pending"
+      },
+      {
+        "name": "Profilabdiagnostic SRL",
+        "id": "MD-IDNO-1009600045502",
+        "amount": 175480.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 195.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 310.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1367.55,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4308.1,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1500.4,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 9250.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 193197.9,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 204822.87,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 12964.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 13735.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 14740.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 41400.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 95400.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 199.6,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 336.8,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 46678.44,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 89.95,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 16100.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 16703.75,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 17227.0,
+        "status": "pending"
+      },
+      {
+        "name": "LISMEDFARM S.R.L.",
+        "id": "MD-IDNO-1003600113573",
+        "amount": 4480.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 5936.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 6191.36,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 3855.95,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 5216.4,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 24900.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 3552.5,
+        "status": "pending"
+      },
+      {
+        "name": "IM Natusana SRL",
+        "id": "MD-IDNO-1006600025657",
+        "amount": 3697.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 2926.3,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 15750.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 329.45,
+        "status": "pending"
+      },
+      {
+        "name": "MEDICLIM AM",
+        "id": "MD-IDNO-1003600131744",
+        "amount": 78000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 615.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 16610.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 2091.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 56720.24,
+        "status": "pending"
+      },
+      {
+        "name": "Medist Grup SRL",
+        "id": "MD-IDNO-1018600004516",
+        "amount": 20000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 63.95,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 55728.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 9373.08,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 204.75,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4008.0,
+        "status": "pending"
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 4452.0,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 199000.71,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 216174.3,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 229181.79,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 9339.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 53.95,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 399.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 319.8,
+        "status": "pending"
+      },
+      {
+        "name": "DITA ESTFARM S.R.L",
+        "id": "MD-IDNO-1002600046359",
+        "amount": 25804.8,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 3564.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 941.85,
+        "status": "pending"
+      },
+      {
+        "name": "Medglobalfarm",
+        "id": "MD-IDNO-1016600000765.",
+        "amount": 5145.83,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 407.0,
+        "status": "pending"
+      },
+      {
+        "name": "MEDICLIM AM",
+        "id": "MD-IDNO-1003600131744",
+        "amount": 54000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 59760.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 19660.55,
+        "status": "pending"
+      }
+    ]
   }
 ]
