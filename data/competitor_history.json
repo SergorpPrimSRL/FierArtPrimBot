@@ -272,5 +272,22 @@
     "estimated_amount": 177311.46,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768295029220",
+    "date": "2026-01-13T09:06:41Z",
+    "title": "Servicii de elaborare schițe de proiect ",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "71320000-7",
+    "estimated_amount": 82000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"RECONSAL CONS\"",
+        "id": "MD-IDNO-1020600033470",
+        "amount": 82000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
