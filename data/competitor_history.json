@@ -225,5 +225,22 @@
     "estimated_amount": 184688.21,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1767604760109",
+    "date": "2026-01-12T11:36:34Z",
+    "title": "Lucrări de confecționare, livrare și montare a leagănului și mobilierului urban în or. Vadul lui Vodă",
+    "buyer": "Primăria or.Vadul lui Vodă",
+    "cpv": "45200000-9",
+    "estimated_amount": 176735.95,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Iron Deluxe SRL",
+        "id": "MD-IDNO-1023600033220",
+        "amount": 176735.95,
+        "status": "pending"
+      }
+    ]
   }
 ]
