@@ -11,8 +11,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 STATE_DIR = ROOT / "state"
+DATA_DIR = ROOT / "data"
 STATE_DIR.mkdir(exist_ok=True)
+DATA_DIR.mkdir(exist_ok=True)
 STATE_FILE = STATE_DIR / "state_seen.json"
+LATEST_FILE = DATA_DIR / "latest_tenders.json"
 KEYWORDS_FILE = ROOT / "keywords.txt"
 
 API_BASE = "https://public.mtender.gov.md"
@@ -275,6 +278,33 @@ def save_state(state):
         encoding="utf-8"
     )
 
+def load_latest():
+    if not LATEST_FILE.exists():
+        return []
+    try:
+        data = json.loads(LATEST_FILE.read_text(encoding="utf-8"))
+        return data if isinstance(data, list) else []
+    except Exception:
+        return []
+
+def save_latest(items):
+    unique = {}
+    for item in items:
+        ocid = item.get("ocid")
+        if ocid:
+            unique[ocid] = item
+
+    ordered = sorted(
+        unique.values(),
+        key=lambda x: x.get("source_date", ""),
+        reverse=True
+    )[:30]
+
+    LATEST_FILE.write_text(
+        json.dumps(ordered, ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
+
 def load_keywords():
     return [
         x.strip()
@@ -291,6 +321,7 @@ def main():
 
     keywords = load_keywords()
     state = load_state()
+    latest = load_latest()
 
     # Prima rulare: doar ultimele 90 minute, ca să pornim rapid.
     # După ce există state_seen.json: verificăm ultimele 6 ore,
@@ -374,6 +405,28 @@ def main():
                 or "nespecificat"
             )
 
+            url_tender = f"https://mtender.gov.md/tenders/{ocid}"
+
+            latest_entry = {
+                "ocid": ocid,
+                "title": title,
+                "authority": buyer,
+                "amount": amount,
+                "currency": currency or "MDL",
+                "deadline": str(deadline or ""),
+                "deadline_text": fmt_dt(deadline),
+                "status": str(status),
+                "score": score,
+                "label": label(score),
+                "matches": matches[:6],
+                "url": url_tender,
+                "source_date": date,
+                "saved_at": datetime.now(timezone.utc).isoformat()
+            }
+
+            latest = [x for x in latest if x.get("ocid") != ocid]
+            latest.append(latest_entry)
+
             msg = (
                 f"🔔 {label(score)}\n\n"
                 f"{title}\n\n"
@@ -383,7 +436,7 @@ def main():
                 f"⏰ Termen ofertare: {fmt_dt(deadline)}\n"
                 f"📌 Statut: {status}\n\n"
                 f"🎯 Potrivire: {', '.join(matches[:6])}\n\n"
-                f"🔗 https://mtender.gov.md/tenders/{ocid}"
+                f"🔗 {url_tender}"
             )
 
             try:
@@ -401,11 +454,12 @@ def main():
         offset = nxt
 
     save_state(state)
+    save_latest(latest)
 
     log(
         f"GATA | listate={listed} | detalii_citite={fetched} | "
         f"deja_văzute={skipped_seen} | expirate={skipped_expired} | "
-        f"trimise={sent}"
+        f"trimise={sent} | lista_meniu={len(load_latest())}"
     )
 
 if __name__ == "__main__":
