@@ -10,13 +10,13 @@ permissions:
   contents: write
 
 concurrency:
-  group: fierartprimbot-history
+  group: fierartprimbot-repo-write
   cancel-in-progress: false
 
 jobs:
   build-history:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
 
     steps:
       - name: Checkout repository
@@ -32,122 +32,18 @@ jobs:
       - name: Build competitor history
         run: python history_builder.py
 
-           - name: Save history
+      - name: Save history
         run: |
-          set -e
-
           git config user.name "FierArtPrimBot"
           git config user.email "actions@users.noreply.github.com"
 
-          # Salvăm rezultatul produs de collector
-          cp data/history_cursor.json /tmp/history_cursor.json
-          cp data/competitor_history.json /tmp/competitor_history.json
-
-          # Luăm cea mai nouă versiune din main
-          git fetch origin main
-          git reset --hard origin/main
-
-          # Combinăm istoricul nou cu cel deja existent
-          python - <<'PY'
-          import json
-          from pathlib import Path
-
-          def load(path, default):
-              path = Path(path)
-              if not path.exists():
-                  return default
-              try:
-                  return json.loads(path.read_text(encoding="utf-8"))
-              except Exception:
-                  return default
-
-          remote_history = load("data/competitor_history.json", [])
-          new_history = load("/tmp/competitor_history.json", [])
-
-          merged = {}
-
-          for item in remote_history:
-              ocid = item.get("ocid")
-              if ocid:
-                  merged[ocid] = item
-
-          for item in new_history:
-              ocid = item.get("ocid")
-              if ocid:
-                  merged[ocid] = item
-
-          final_history = list(merged.values())
-          final_history.sort(
-              key=lambda x: str(x.get("date") or "")
-          )
-
-          Path("data").mkdir(exist_ok=True)
-
-          Path("data/competitor_history.json").write_text(
-              json.dumps(
-                  final_history,
-                  ensure_ascii=False,
-                  indent=2
-              ),
-              encoding="utf-8"
-          )
-
-          remote_cursor = load(
-              "data/history_cursor.json",
-              {}
-          )
-
-          new_cursor = load(
-              "/tmp/history_cursor.json",
-              {}
-          )
-
-          remote_offset = str(
-              remote_cursor.get("offset") or ""
-          )
-
-          new_offset = str(
-              new_cursor.get("offset") or ""
-          )
-
-          # Nu permitem cursorului să meargă înapoi
-          if new_offset >= remote_offset:
-              final_cursor = new_cursor
-          else:
-              final_cursor = remote_cursor
-
-          final_cursor["records"] = len(final_history)
-
-          Path("data/history_cursor.json").write_text(
-              json.dumps(
-                  final_cursor,
-                  ensure_ascii=False,
-                  indent=2
-              ),
-              encoding="utf-8"
-          )
-
-          print(
-              "Istoric combinat:",
-              len(final_history),
-              "proceduri"
-          )
-          print(
-              "Cursor final:",
-              final_cursor.get("offset")
-          )
-          PY
-
-          git add data/history_cursor.json
-          git add data/competitor_history.json
+          git add data/history_cursor.json 2>/dev/null || true
+          git add data/competitor_history.json 2>/dev/null || true
 
           if git diff --cached --quiet; then
             echo "No history changes to save."
           else
             git commit -m "Update competitor history"
-
-            # Dacă monitorul principal a făcut între timp un commit,
-            # îl păstrăm și apoi împingem istoricul nostru.
             git pull --rebase origin main
             git push origin main
           fi
