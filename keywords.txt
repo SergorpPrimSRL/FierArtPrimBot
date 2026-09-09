@@ -1,0 +1,78 @@
+# FierArtPrimBot
+loc de joacă
+locuri de joacă
+teren de joacă
+terenuri de joacă
+spațiu de joacă
+spații de joacă
+complex de joacă
+complexe de joacă
+echipament de joacă
+echipamente de joacă
+tobogan
+tobogane
+leagăn
+leagăne
+carusel
+carusele
+vârtelniță
+vârtelnițe
+balansoar
+balansoare
+mobilier urban
+mobilier stradal
+bancă stradală
+bănci stradale
+bancă de parc
+bănci de parc
+coș de gunoi
+coșuri de gunoi
+urnă stradală
+urne stradale
+fitness exterior
+fitness în aer liber
+teren sportiv
+terenuri sportive
+teren multifuncțional
+terenuri multifuncționale
+amenajare parc
+amenajarea parcului
+amenajare scuar
+amenajarea scuarului
+amenajare zonă de agrement
+amenajarea zonei de agrement
+echipamente pentru parc
+pergolă
+pergole
+foișor
+foișoare
+stație auto
+stații auto
+stație de așteptare
+stații de așteptare
+pavilion de așteptare
+pavilioane de așteptare
+gard metalic
+garduri metalice
+balustradă metalică
+balustrade metalice
+construcție metalică
+construcții metalice
+platformă pentru colectarea deșeurilor
+platforme pentru colectarea deșeurilor
+platformă pentru deșeuri
+platforme pentru deșeuri
+platforme de colectare a deșeurilor
+platforme pentru colectarea deșeurilor menajere
+decorațiuni festive
+decorațiuni de iarnă
+decorațiuni de crăciun
+iluminat festiv
+brad artificial
+brazi artificiali
+figurine luminoase
+tunel luminos
+dale cauciuc
+dale din cauciuc
+pardoseală din cauciuc
+suprafață din cauciuc
