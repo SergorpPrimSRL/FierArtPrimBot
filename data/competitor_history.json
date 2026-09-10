@@ -4886,5 +4886,39 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1770367927900",
+    "date": "2026-02-06T09:05:57Z",
+    "title": "Achiziționarea de utilaje pentru terenul de joacă din s.Chetrosu,rl.Anenii Noi",
+    "buyer": "PRIMARIA CHETROSU",
+    "cpv": "37450000-7",
+    "estimated_amount": 77833.32,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"NOVA PARK COMPANY\"",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 77833.32,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1770368826349",
+    "date": "2026-02-06T09:14:13Z",
+    "title": "Achiziționarea de utilaje pentru terenul de joacă din s.Chetrosu",
+    "buyer": "PRIMARIA CHETROSU",
+    "cpv": "37450000-7",
+    "estimated_amount": 77833.32,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"NOVA PARK COMPANY\"",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 77833.32,
+        "status": "pending"
+      }
+    ]
   }
 ]
