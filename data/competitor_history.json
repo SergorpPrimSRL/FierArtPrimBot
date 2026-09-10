@@ -4648,5 +4648,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768825316951",
+    "date": "2026-01-19T12:25:52Z",
+    "title": "Coplex de joaca",
+    "buyer": "PRIMARIA COMUNEI SELISTE",
+    "cpv": "37530000-2",
+    "estimated_amount": 28009.17,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"EXIMPROD-TRADE\"",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 28009.17,
+        "status": "pending"
+      }
+    ]
   }
 ]
