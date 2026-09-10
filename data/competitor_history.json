@@ -4546,5 +4546,56 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768506800749",
+    "date": "2026-01-15T19:58:24Z",
+    "title": "servicii de supraveghere tehnica a lucrarilor privind reparatia foisoarelor la gradinita nr. 4 ~Zimbetul~ din mun. Cahul",
+    "buyer": "PRIMARIA MUNICIPIULUI CAHUL",
+    "cpv": "71520000-9",
+    "estimated_amount": 11970.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Bitirescu Vasile",
+        "id": "MD-IDNO-096241053685",
+        "amount": 11970.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768548403170",
+    "date": "2026-01-16T07:32:30Z",
+    "title": "Echipament pentru teren de joaca",
+    "buyer": "PRIMARIA COMUNEI VASILEUTI",
+    "cpv": "37500000-3",
+    "estimated_amount": 60980.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"DASTIM ART\"",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 60980.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768554097026",
+    "date": "2026-01-16T09:05:58Z",
+    "title": "„Reparația foișoarelor în incinta Instituțiile de Educație Timpurie Nr.21,str.Puskin,99, mun. Bălți”",
+    "buyer": "DIRECTIA INVATAMINT,TINERET SI SPORT",
+    "cpv": "45200000-9",
+    "estimated_amount": 199502.86,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"DIZOLESMAXY- LUX\"",
+        "id": "MD-IDNO-1024602010826",
+        "amount": 199502.86,
+        "status": "pending"
+      }
+    ]
   }
 ]
