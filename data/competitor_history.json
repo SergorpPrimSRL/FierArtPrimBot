@@ -4529,5 +4529,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768483865319",
+    "date": "2026-01-15T13:41:48Z",
+    "title": "Rechezite de birou în cadrul proiectului „Susținerea dialogului instituționalizat și sustenabil privind Autonomia Găgăuzia”, Școala de Administrație Publică  ",
+    "buyer": "I.P. UNIVERSITATEA DE STAT DIN MOLDOVA",
+    "cpv": "39160000-1",
+    "estimated_amount": 7053.92,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SOCIETATEA COMERCIALA \"BIROLUX-MT\" S.R.L.",
+        "id": "MD-IDNO-1005600032694",
+        "amount": 7053.92,
+        "status": "pending"
+      }
+    ]
   }
 ]
