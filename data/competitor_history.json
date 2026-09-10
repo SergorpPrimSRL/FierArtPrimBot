@@ -4812,5 +4812,79 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1749561389358",
+    "date": "2026-02-05T12:25:18Z",
+    "title": "achiziționarea Mobilier pentru creșă publică, Echipament pentru teren de joacă",
+    "buyer": "Primaria or.Cupcini",
+    "cpv": "39100000-3",
+    "estimated_amount": 833200.0,
+    "bidders": [
+      {
+        "name": "VMS-COMPANIE",
+        "id": "MD-IDNO-1006602003242",
+        "amount": 293333.32
+      },
+      {
+        "name": "Anstelux SRL",
+        "id": "MD-IDNO-1004600022962",
+        "amount": 316125.0
+      },
+      {
+        "name": "Taticol SRL",
+        "id": "MD-IDNO-1015600032374",
+        "amount": 253745.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Taticol SRL",
+        "id": "MD-IDNO-1015600032374",
+        "amount": 253745.0,
+        "status": "pending"
+      },
+      {
+        "name": "VMS-COMPANIE",
+        "id": "MD-IDNO-1006602003242",
+        "amount": 369800.0,
+        "status": "pending"
+      },
+      {
+        "name": "Anstelux SRL",
+        "id": "MD-IDNO-1004600022962",
+        "amount": 450016.67,
+        "status": "pending"
+      },
+      {
+        "name": "VMS-COMPANIE",
+        "id": "MD-IDNO-1006602003242",
+        "amount": 293333.32,
+        "status": "pending"
+      },
+      {
+        "name": "Anstelux SRL",
+        "id": "MD-IDNO-1004600022962",
+        "amount": 316125.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1770298784003",
+    "date": "2026-02-05T14:36:19Z",
+    "title": "Incarcarea caruselor",
+    "buyer": "PRIMARIA SATULUI SALCUTA",
+    "cpv": "30190000-7",
+    "estimated_amount": 1650.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SETUP-LUX\"",
+        "id": "MD-IDNO-1022608000029",
+        "amount": 1650.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
