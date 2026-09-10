@@ -4761,5 +4761,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1769677833288",
+    "date": "2026-01-29T09:16:20Z",
+    "title": "Achiziționarea de utilaje pentru utilaje pentru terenul de joaca din s.Chetrosu, rl.Anenii Noi",
+    "buyer": "PRIMARIA CHETROSU",
+    "cpv": "37400000-2",
+    "estimated_amount": 130500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"NOVA PARK COMPANY\"",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 130500.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
