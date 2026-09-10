@@ -4597,5 +4597,39 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768557250891",
+    "date": "2026-01-16T09:57:19Z",
+    "title": "Servicii de reparație a complexului sportiv, balansoare și scaune la IPET nr.8 din str.Negruzzi 105, mun. Orhei",
+    "buyer": "PRIMARIA MUNICIPIULUI ORHEI",
+    "cpv": "45200000-9",
+    "estimated_amount": 13216.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"NOVA PARK COMPANY\"",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 13216.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768569355023",
+    "date": "2026-01-16T13:19:34Z",
+    "title": "Echipament pentru terenuri de joacă",
+    "buyer": "PRIMARIA ORASULUI SINGERA",
+    "cpv": "37500000-3",
+    "estimated_amount": 110416.65,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PLAYGROUND STORE\"",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 110416.65,
+        "status": "pending"
+      }
+    ]
   }
 ]
