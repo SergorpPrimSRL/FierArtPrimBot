@@ -4778,5 +4778,39 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1770126920278",
+    "date": "2026-02-03T13:59:48Z",
+    "title": "Mobilier urban la Grădinița de copii nr. 2 “Andrieș”",
+    "buyer": "PRIMARIA ORASULUI NISPORENI",
+    "cpv": "34900000-6",
+    "estimated_amount": 147950.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"NOVA PARK COMPANY\"",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 147950.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1770206407372",
+    "date": "2026-02-04T12:12:41Z",
+    "title": "Echipament pentru teren de joaca",
+    "buyer": "PRIMARIA S.BESGHIOZ",
+    "cpv": "37520000-9",
+    "estimated_amount": 65595.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"POWER TEAM\"",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 65595.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
