@@ -4665,5 +4665,39 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768910777333",
+    "date": "2026-01-20T12:08:18Z",
+    "title": "Servicii arenda teren sportiv",
+    "buyer": "CONSILIUL RAIONAL TELENESTI",
+    "cpv": "70300000-4",
+    "estimated_amount": 10000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "ASOCIATIA OBSTEASCA CLUBUL SPORTIV CRISTIAN OBADA",
+        "id": "MD-IDNO-1021620004174",
+        "amount": 10000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768915643371",
+    "date": "2026-01-20T13:30:51Z",
+    "title": "Complex de joaca pentru copii",
+    "buyer": "PRIMARIA SATULUI MITOC",
+    "cpv": "37530000-2",
+    "estimated_amount": 46100.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"VICBRAG PARK\"",
+        "id": "MD-IDNO-1024600083222",
+        "amount": 46100.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
