@@ -4920,5 +4920,39 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1770632983308",
+    "date": "2026-02-09T11:32:18Z",
+    "title": "Furnizarea echipamentelr si mobilierului pentru institutia prescolara",
+    "buyer": "PRIMARIA SATULUI CALINESTI",
+    "cpv": "37400000-2",
+    "estimated_amount": 100000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"CIVO TRADE MARKET\"",
+        "id": "MD-IDNO-1021600054166",
+        "amount": 100000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1770637364853",
+    "date": "2026-02-09T11:49:00Z",
+    "title": "Achiziționarea serviciilor de verificare a proiectului la obiectul “Amplasarea unei zone sportive polivalente”",
+    "buyer": "PRIMARIA CHETROSU",
+    "cpv": "71220000-6",
+    "estimated_amount": 9000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"ARCAST-COM\"",
+        "id": "MD-IDNO-1003600050573",
+        "amount": 9000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
