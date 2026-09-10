@@ -4631,5 +4631,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1768645093123",
+    "date": "2026-01-17T10:21:00Z",
+    "title": "Complexe sportive, Tobogane pentru copii",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "37530000-2",
+    "estimated_amount": 30000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Ozarciuc Ghennadi",
+        "id": "MD-IDNO-0972103588540",
+        "amount": 30000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
