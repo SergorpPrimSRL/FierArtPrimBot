@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1788532682997",
+    "title": "Lucrări de reparatie a unui foișor dublu pe teritoriul IET „Delia”, mun. Ungheni",
+    "authority": "Primăria mun. Ungheni",
+    "amount": 340000.0,
+    "currency": "MDL",
+    "deadline": "2026-09-17T15:00:00Z",
+    "deadline_text": "17.09.2026 18:00",
+    "status": "suspended",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "foișor"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788532682997",
+    "source_date": "2026-09-10T15:00:00Z",
+    "saved_at": "2026-09-10T15:04:41.586887+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1788963701884",
     "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
     "authority": "Grădina Zoologică",
