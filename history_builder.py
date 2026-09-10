@@ -420,7 +420,12 @@ for page_number in range(1, PAGES_PER_RUN + 1):
         + urllib.parse.quote(cursor, safe="")
     )
 
+    try:
     listing = get_json(url)
+except Exception as e:
+    log(f"MTender indisponibil temporar: {e}")
+    log("Oprire sigură. Cursorul rămâne la ultima pagină procesată.")
+    break
 
     rows = listing.get("data") or []
 
