@@ -4473,5 +4473,61 @@
     "estimated_amount": 125000.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1763444682309",
+    "date": "2026-01-14T21:50:37Z",
+    "title": "Lucrări de construcție, reabilitare și modernizare a stadionului sportiv, str. Melestiu, 12",
+    "buyer": "I.P Centrul de Excelenta in Energetica si Electronica",
+    "cpv": "45200000-9",
+    "estimated_amount": 3000000.0,
+    "bidders": [
+      {
+        "name": "SRL,,WESTART SPORT''",
+        "id": "MD-IDNO-1016600011969",
+        "amount": 2095253.76
+      },
+      {
+        "name": "Eurogalex Prim",
+        "id": "MD-IDNO-1008600035294",
+        "amount": 2683204.21
+      },
+      {
+        "name": "\"Alexidar Grup\"",
+        "id": "MD-IDNO-1012600031745",
+        "amount": 3164719.66
+      },
+      {
+        "name": "Adrika",
+        "id": "MD-IDNO-1014600026086",
+        "amount": 2940605.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL,,WESTART SPORT''",
+        "id": "MD-IDNO-1016600011969",
+        "amount": 2095253.76,
+        "status": "pending"
+      },
+      {
+        "name": "Eurogalex Prim",
+        "id": "MD-IDNO-1008600035294",
+        "amount": 2683204.21,
+        "status": "pending"
+      },
+      {
+        "name": "Adrika",
+        "id": "MD-IDNO-1014600026086",
+        "amount": 2940605.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"Alexidar Grup\"",
+        "id": "MD-IDNO-1012600031745",
+        "amount": 3164719.66,
+        "status": "pending"
+      }
+    ]
   }
 ]
