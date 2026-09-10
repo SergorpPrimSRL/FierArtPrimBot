@@ -4716,5 +4716,50 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1759220851135",
+    "date": "2026-01-27T08:36:34Z",
+    "title": "Echipamentelor de joacă in aer liber pentru copii. ",
+    "buyer": "Primaria Ialoveni",
+    "cpv": "37500000-3",
+    "estimated_amount": 540000.0,
+    "bidders": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 443864.32
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 473289.33
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 538636.24
+      }
+    ],
+    "awards": [
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 334600.0,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 433000.0,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 538636.24,
+        "status": "pending"
+      }
+    ]
   }
 ]
