@@ -4954,5 +4954,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1770639394371",
+    "date": "2026-02-09T12:33:55Z",
+    "title": "Furnizarea echipamentelor și mobilierului pentru instituția pescolara",
+    "buyer": "PRIMARIA SATULUI CALINESTI",
+    "cpv": "39100000-3",
+    "estimated_amount": 73815.83,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"HOMY DECOR\"",
+        "id": "MD-IDNO-1014600019606",
+        "amount": 73815.83,
+        "status": "pending"
+      }
+    ]
   }
 ]
