@@ -4699,5 +4699,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1769284354055",
+    "date": "2026-01-24T19:54:59Z",
+    "title": "Procurarea inventarului de producere, gospodaresc (mobilier, complex de joaca)",
+    "buyer": "PRIMARIA SATULUI CLOCUSNA",
+    "cpv": "39300000-5",
+    "estimated_amount": 77855.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"EXIMPROD-TRADE\"",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 77855.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
