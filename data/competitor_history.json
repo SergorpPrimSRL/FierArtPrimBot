@@ -5056,5 +5056,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1771403284486",
+    "date": "2026-02-18T08:41:46Z",
+    "title": "Mobilier urban: Bănci pentru odihnă și urne pentru deșeuri",
+    "buyer": "PRIMARIA ORASULUI NISPORENI",
+    "cpv": "39110000-6",
+    "estimated_amount": 5936.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"HYDRAULIC EXPRESS\"",
+        "id": "MD-IDNO-1016609002832",
+        "amount": 5936.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
