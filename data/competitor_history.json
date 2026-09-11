@@ -5230,5 +5230,73 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1773734926890",
+    "date": "2026-03-17T08:10:43Z",
+    "title": "Constructia obiectelor metalice nestandarde pentru terenuri de joaca",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE CIOCANA",
+    "cpv": "37500000-3",
+    "estimated_amount": 150000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SOCIETATEA COMERCIALA \"ALCIDAL\" S.R.L.",
+        "id": "MD-IDNO-1005600027735",
+        "amount": 150000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1773737611172",
+    "date": "2026-03-17T08:55:52Z",
+    "title": "Serivii de prelucrarea a scindurii pentru teren de joaca",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE CIOCANA",
+    "cpv": "44100000-1",
+    "estimated_amount": 150000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SOCIETATEA COMERCIALA \"ARINUL PRIM\" S.R.L.",
+        "id": "MD-IDNO-1004600049952",
+        "amount": 150000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1773738067442",
+    "date": "2026-03-17T09:03:01Z",
+    "title": "Elemente la teren de joacă din fibre",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE CIOCANA",
+    "cpv": "37500000-3",
+    "estimated_amount": 150000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "LABORATORUL DE CREAțIE \"STIL TUNING DESIGN\" S.R.L.",
+        "id": "MD-IDNO-1005600049203",
+        "amount": 150000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1773745886886",
+    "date": "2026-03-17T11:15:39Z",
+    "title": "chizitionarea plasei metalice si nemetalice pentru terenuri de joaca",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE CIOCANA",
+    "cpv": "37500000-3",
+    "estimated_amount": 150000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. 3K VOS GROUP",
+        "id": "MD-IDNO-1023600008510",
+        "amount": 150000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
