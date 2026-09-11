@@ -5107,5 +5107,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1772086253358",
+    "date": "2026-02-26T06:28:08Z",
+    "title": "Leagan suspendat",
+    "buyer": "PRIMARIA SATULUI CALINESTI",
+    "cpv": "37530000-2",
+    "estimated_amount": 1125.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. A TEHNO DISTRIBUTIE",
+        "id": "MD-IDNO-1022602001150",
+        "amount": 1125.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
