@@ -4971,5 +4971,56 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1770795953838",
+    "date": "2026-02-11T07:54:40Z",
+    "title": "Construcții speciale",
+    "buyer": "PRIMARIA COMUNEI GHETLOVA",
+    "cpv": "37500000-3",
+    "estimated_amount": 165681.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SERGORP-PRIM\"",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 165681.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1770796731111",
+    "date": "2026-02-11T08:03:00Z",
+    "title": "Construcții speciale",
+    "buyer": "PRIMARIA COMUNEI GHETLOVA",
+    "cpv": "37500000-3",
+    "estimated_amount": 115000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PLAYGROUND STORE\"",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 115000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1770816642452",
+    "date": "2026-02-11T13:33:30Z",
+    "title": "Mobilier stradal divers",
+    "buyer": "PRIMARIA ORASULUI NISPORENI",
+    "cpv": "39100000-3",
+    "estimated_amount": 9500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SOCIETATEA PE ACTIUNI \"AGROTEHNICA\"",
+        "id": "MD-IDNO-1003609012048",
+        "amount": 9500.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
