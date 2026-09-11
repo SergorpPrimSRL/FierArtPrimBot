@@ -1,5 +1,24 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1789119623542",
+    "title": "Tobogan copii",
+    "authority": "PRIMARIA SATULUI VISCAUTI",
+    "amount": 6111.67,
+    "currency": "MDL",
+    "deadline": "",
+    "deadline_text": "nespecificat",
+    "status": "awarding",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "tobogan",
+      "balansoare"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789119623542",
+    "source_date": "2026-09-11T09:46:07Z",
+    "saved_at": "2026-09-11T09:51:49.939398+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1788963701884",
     "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
     "authority": "Grădina Zoologică",
