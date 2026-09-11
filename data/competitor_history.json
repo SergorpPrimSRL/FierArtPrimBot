@@ -5090,5 +5090,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1771591547891",
+    "date": "2026-02-20T12:53:27Z",
+    "title": "COMPLEX DE JOACĂ PENTRU GRĂDINIȚA DE COPII",
+    "buyer": "PRIMARIA COMUNEI PELINEI",
+    "cpv": "37500000-3",
+    "estimated_amount": 60000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"CIVO TRADE MARKET\"",
+        "id": "MD-IDNO-1021600054166",
+        "amount": 60000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
