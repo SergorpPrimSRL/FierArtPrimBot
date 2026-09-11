@@ -5,17 +5,17 @@
     "authority": "Primăria mun. Ungheni",
     "amount": 340000.0,
     "currency": "MDL",
-    "deadline": "2026-09-17T15:00:00Z",
-    "deadline_text": "17.09.2026 18:00",
-    "status": "suspended",
+    "deadline": "2026-09-20T07:08:25Z",
+    "deadline_text": "20.09.2026 10:08",
+    "status": "clarification",
     "score": 95,
     "label": "FOARTE INTERESANTĂ",
     "matches": [
       "foișor"
     ],
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788532682997",
-    "source_date": "2026-09-10T15:00:00Z",
-    "saved_at": "2026-09-10T15:04:41.586887+00:00"
+    "source_date": "2026-09-11T07:08:25Z",
+    "saved_at": "2026-09-11T07:25:24.379428+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1788963701884",
