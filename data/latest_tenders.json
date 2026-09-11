@@ -1,5 +1,24 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1788963701884",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
+    "authority": "Grădina Zoologică",
+    "amount": 466460.0,
+    "currency": "MDL",
+    "deadline": "2026-09-18T06:00:00Z",
+    "deadline_text": "18.09.2026 09:00",
+    "status": "clarification",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "complex de joacă",
+      "complexe de joacă"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788963701884",
+    "source_date": "2026-09-11T11:04:48Z",
+    "saved_at": "2026-09-11T11:05:22.814537+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1789119623542",
     "title": "Tobogan copii",
     "authority": "PRIMARIA SATULUI VISCAUTI",
@@ -17,25 +36,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789119623542",
     "source_date": "2026-09-11T09:46:07Z",
     "saved_at": "2026-09-11T09:51:49.939398+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1788963701884",
-    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
-    "authority": "Grădina Zoologică",
-    "amount": 466460.0,
-    "currency": "MDL",
-    "deadline": "2026-09-18T06:00:00Z",
-    "deadline_text": "18.09.2026 09:00",
-    "status": "clarification",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "complex de joacă",
-      "complexe de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788963701884",
-    "source_date": "2026-09-11T09:06:10Z",
-    "saved_at": "2026-09-11T09:27:24.392162+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1788532682997",
