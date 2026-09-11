@@ -420,124 +420,124 @@ for page_number in range(1, PAGES_PER_RUN + 1):
         + urllib.parse.quote(cursor, safe="")
     )
 
-        try:
-            listing = get_json(url)
-        except Exception as e:
-            log(f"MTender indisponibil temporar: {e}")
-            log("Rularea se oprește fără eroare și va încerca din nou ulterior.")
-            listing = {"data": []}
-        
-            rows = listing.get("data") or []
-        
-            print(
-                f"Pagina {page_number}: {len(rows)} proceduri",
-                flush=True
-            )
-        
-            if not rows:
-                break
+    try:
+        listing = get_json(url)
+    except Exception as e:
+        log(f"MTender indisponibil temporar: {e}")
+        log("Rularea se oprește fără eroare și va încerca din nou ulterior.")
+        listing = {"data": []}
     
-    
-        for row in rows:
-    
-            ocid = str(
-                row.get("ocid") or ""
-            )
-    
-            if not ocid:
-                continue
-    
-            checked += 1
-    
-            try:
-                record = get_json(
-                    f"{API}/tenders/{ocid}"
-                )
-            except Exception as error:
-                print(
-                    "EROARE",
-                    ocid,
-                    error,
-                    flush=True
-                )
-    
-                continue
-    
-    
-            if not relevant(record):
-                continue
-    
-    
-            relevant_count += 1
-    
-            title = str(
-                best_value(
-                    record,
-                    "tender.title"
-                )
-                or best_value(
-                    record,
-                    "tender.description"
-                )
-                or ""
-            )
-    
-    
-            buyer = str(
-                best_value(
-                    record,
-                    "buyer.name"
-                )
-                or best_value(
-                    record,
-                    "tender.procuringEntity.name"
-                )
-                or ""
-            )
-    
-    
-            estimated = best_value(
-                record,
-                "tender.value.amount"
-            )
-    
-    
-            entry = {
-                "ocid": ocid,
-                "date": row.get("date"),
-                "title": title,
-                "buyer": buyer,
-                "cpv": get_cpv(record),
-                "estimated_amount": estimated,
-                "bidders": extract_bidders(record),
-                "awards": extract_awards(record)
-            }
-    
-    
-            by_ocid[ocid] = entry
-    
-            print(
-                "RELEVANT:",
-                title[:90],
-                "| bidders:",
-                len(entry["bidders"]),
-                "| awards:",
-                len(entry["awards"]),
-                flush=True
-            )
-    
-    
-        next_cursor = str(
-            listing.get("offset") or ""
+    rows = listing.get("data") or []
+
+    print(
+        f"Pagina {page_number}: {len(rows)} proceduri",
+        flush=True
+    )
+
+    if not rows:
+        break
+
+
+    for row in rows:
+
+        ocid = str(
+            row.get("ocid") or ""
         )
-    
-        if (
-            not next_cursor
-            or next_cursor == cursor
-        ):
-            break
-    
-        cursor = next_cursor
+
+        if not ocid:
+            continue
+
+        checked += 1
+
+        try:
+            record = get_json(
+                f"{API}/tenders/{ocid}"
+            )
+        except Exception as error:
+            print(
+                "EROARE",
+                ocid,
+                error,
+                flush=True
+            )
+
+            continue
+
+
+        if not relevant(record):
+            continue
+
+
+        relevant_count += 1
+
+        title = str(
+            best_value(
+                record,
+                "tender.title"
+            )
+            or best_value(
+                record,
+                "tender.description"
+            )
+            or ""
+        )
+
+
+        buyer = str(
+            best_value(
+                record,
+                "buyer.name"
+            )
+            or best_value(
+                record,
+                "tender.procuringEntity.name"
+            )
+            or ""
+        )
+
+
+        estimated = best_value(
+            record,
+            "tender.value.amount"
+        )
+
+
+        entry = {
+            "ocid": ocid,
+            "date": row.get("date"),
+            "title": title,
+            "buyer": buyer,
+            "cpv": get_cpv(record),
+            "estimated_amount": estimated,
+            "bidders": extract_bidders(record),
+            "awards": extract_awards(record)
+        }
+
+
+        by_ocid[ocid] = entry
+
+        print(
+            "RELEVANT:",
+            title[:90],
+            "| bidders:",
+            len(entry["bidders"]),
+            "| awards:",
+            len(entry["awards"]),
+            flush=True
+        )
+
+
+    next_cursor = str(
+        listing.get("offset") or ""
+    )
+
+    if (
+        not next_cursor
+        or next_cursor == cursor
+    ):
+        break
+
+    cursor = next_cursor
 
 
 history = list(
