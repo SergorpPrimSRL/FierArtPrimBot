@@ -5213,5 +5213,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1772439343607",
+    "date": "2026-03-02T08:19:33Z",
+    "title": "Achiziţionarea serviciilor de amenajare și instalare a leagănului cu element decorativ în formă de  fluture",
+    "buyer": "PRETURA SECTORULUI BUIUCANI",
+    "cpv": "71420000-8",
+    "estimated_amount": 149998.5,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"BM PUBLIC\"",
+        "id": "MD-IDNO-1011600015537",
+        "amount": 149998.5,
+        "status": "pending"
+      }
+    ]
   }
 ]
