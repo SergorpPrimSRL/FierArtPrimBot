@@ -5298,5 +5298,28 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1773149521541",
+    "date": "2026-03-19T09:27:17Z",
+    "title": "Achiziționarea de decorațiuni festive pentru sărbătorile pascale (Paști), inclusiv montarea acestora",
+    "buyer": "PRIMARIA MUNICIPIULUI BALTI",
+    "cpv": "39298900-6",
+    "estimated_amount": 300000.0,
+    "bidders": [
+      {
+        "name": "BM PUBLIC SRL",
+        "id": "MD-IDNO-1011600015537",
+        "amount": 299990.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "BM PUBLIC SRL",
+        "id": "MD-IDNO-1011600015537",
+        "amount": 299990.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
