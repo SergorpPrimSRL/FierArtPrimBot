@@ -5124,5 +5124,94 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1771230435548",
+    "date": "2026-02-27T09:19:22Z",
+    "title": "Amenajarea unui teren de joaca și sport în or. Vadul lui Vodă",
+    "buyer": "Primăria or.Vadul lui Vodă",
+    "cpv": "37400000-2",
+    "estimated_amount": 280000.0,
+    "bidders": [
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 205296.66
+      },
+      {
+        "name": "Homy Decor SRL",
+        "id": "MD-IDNO-1014600019606",
+        "amount": 255000.0
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 215697.5
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 209325.0
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 239800.0
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 186491.67
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 265375.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 186491.67,
+        "status": "pending"
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 205296.66,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 209325.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 215697.5,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 239800.0,
+        "status": "pending"
+      },
+      {
+        "name": "Homy Decor SRL",
+        "id": "MD-IDNO-1014600019606",
+        "amount": 255000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 265375.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
