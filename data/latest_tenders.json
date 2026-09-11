@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1789023327516",
+    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
+    "authority": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "amount": 1000000.0,
+    "currency": "MDL",
+    "deadline": "2026-10-01T09:00:00Z",
+    "deadline_text": "01.10.2026 12:00",
+    "status": "clarification",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "teren de joacă"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789023327516",
+    "source_date": "2026-09-11T11:23:50Z",
+    "saved_at": "2026-09-11T11:24:57.156081+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1788963701884",
     "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
     "authority": "Grădina Zoologică",
@@ -15,8 +33,8 @@
       "complexe de joacă"
     ],
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788963701884",
-    "source_date": "2026-09-11T11:04:48Z",
-    "saved_at": "2026-09-11T11:05:22.814537+00:00"
+    "source_date": "2026-09-11T11:21:28Z",
+    "saved_at": "2026-09-11T11:24:47.379165+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1789119623542",
@@ -91,23 +109,5 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1787750095499",
     "source_date": "2026-09-10T07:04:34Z",
     "saved_at": "2026-09-10T07:06:58.774465+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789023327516",
-    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
-    "authority": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "amount": 1000000.0,
-    "currency": "MDL",
-    "deadline": "2026-10-01T09:00:00Z",
-    "deadline_text": "01.10.2026 12:00",
-    "status": "empty",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "teren de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789023327516",
-    "source_date": "2026-09-10T07:00:09Z",
-    "saved_at": "2026-09-10T07:06:47.220743+00:00"
   }
 ]
