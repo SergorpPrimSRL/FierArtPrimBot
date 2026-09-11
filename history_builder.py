@@ -424,8 +424,8 @@ try:
     listing = get_json(url)
 except Exception as e:
     log(f"MTender indisponibil temporar: {e}")
-    log("Oprire sigură. Cursorul rămâne la ultima pagină procesată.")
-    break
+    log("Rularea se oprește fără eroare și va încerca din nou ulterior.")
+    listing = {"data": []}
 
     rows = listing.get("data") or []
 
