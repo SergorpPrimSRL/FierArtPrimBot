@@ -255,14 +255,29 @@ def label(score):
     return "POSIBIL RELEVANTĂ"
 
 def send_telegram(token, chat_id, text):
-    return http_post_json(
-        f"https://api.telegram.org/bot{token}/sendMessage",
-        {
-            "chat_id": chat_id,
-            "text": text,
-            "disable_web_page_preview": True
-        }
-    )
+    try:
+        return http_post_json(
+            f"https://api.telegram.org/bot{token}/sendMessage",
+            {
+                "chat_id": chat_id,
+                "text": text,
+                "disable_web_page_preview": True
+            }
+        )
+    except Exception as e:
+        print("EROARE TELEGRAM:", e, flush=True)
+
+        if hasattr(e, "read"):
+            try:
+                print(
+                    "RASPUNS TELEGRAM:",
+                    e.read().decode("utf-8", errors="ignore"),
+                    flush=True
+                )
+            except Exception:
+                pass
+
+        raise
 
 def load_state():
     if not STATE_FILE.exists():
