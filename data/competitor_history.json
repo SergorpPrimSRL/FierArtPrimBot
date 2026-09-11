@@ -5022,5 +5022,39 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1770896061083",
+    "date": "2026-02-12T11:57:26Z",
+    "title": "Achiziția de jucării",
+    "buyer": "PRIMARIA COMUNEI COSNITA",
+    "cpv": "37500000-3",
+    "estimated_amount": 21406.07,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SOCIETATEA COMERCIALA \"MEDIAMAGNAT GRUP\" S.R.L.",
+        "id": "MD-IDNO-1006600032462",
+        "amount": 21406.07,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1770899866656",
+    "date": "2026-02-12T12:52:25Z",
+    "title": "Achiziția de jucării",
+    "buyer": "PRIMARIA COMUNEI COSNITA",
+    "cpv": "37500000-3",
+    "estimated_amount": 5953.39,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SOCIETATEA COMERCIALA \"MEDIAMAGNAT GRUP\" S.R.L.",
+        "id": "MD-IDNO-1006600032462",
+        "amount": 5953.39,
+        "status": "pending"
+      }
+    ]
   }
 ]
