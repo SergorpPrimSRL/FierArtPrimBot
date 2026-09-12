@@ -5500,5 +5500,69 @@
     "estimated_amount": 38408.33,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1775628781102",
+    "date": "2026-04-08T06:16:26Z",
+    "title": "Alimentarea cu apă pentru irigare teren de joacă în zona de agrement din s. Budesti conform proiectului nr.17-AE",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 33799.36,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1775629134158",
+    "date": "2026-04-08T06:20:50Z",
+    "title": "Cherestea calibrată și rindelită industrial pentru pentru foișoarele de vară ale instituțiilor de educație timpurie",
+    "buyer": "PRIMARIA ORASULUI RISCANI",
+    "cpv": "03410000-7",
+    "estimated_amount": 134500.92,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"VASTOL SALEN\"",
+        "id": "MD-IDNO-1019602000508",
+        "amount": 134500.92,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1775629526637",
+    "date": "2026-04-08T06:30:02Z",
+    "title": "Elaborator de deviz",
+    "buyer": "PRIMARIA CARACUSENII VECHI",
+    "cpv": "98300000-6",
+    "estimated_amount": 15332.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Lavric Tatiana",
+        "id": "MD-IDNO-2004007077557",
+        "amount": 15332.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1774855362235",
+    "date": "2026-04-08T07:00:00Z",
+    "title": "mobilier urban (vaze , bănci  cu  instalarea și montarea) prin mun. Soroca.",
+    "buyer": "Primaria municipiului Soroca",
+    "cpv": "39100000-3",
+    "estimated_amount": 566250.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1775210354942",
+    "date": "2026-04-08T07:43:01Z",
+    "title": "Materiale de construcție ",
+    "buyer": "I.M.S.P. CENTRUL NATIONAL DE ASISTENTA MEDICALA URGENTA PRES",
+    "cpv": "44100000-1",
+    "estimated_amount": 637288.0,
+    "bidders": [],
+    "awards": []
   }
 ]
