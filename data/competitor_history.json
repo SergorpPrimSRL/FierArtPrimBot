@@ -5591,5 +5591,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1776180111498",
+    "date": "2026-04-14T15:24:36Z",
+    "title": "ECHIPAMENT P/U TEREN DE JOACA GR.IZVORAS",
+    "buyer": "ANENII NOI PRIMARIA",
+    "cpv": "34900000-6",
+    "estimated_amount": 149833.3,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PLAYGROUND STORE\"",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 149833.3,
+        "status": "pending"
+      }
+    ]
   }
 ]
