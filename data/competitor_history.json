@@ -5574,5 +5574,22 @@
     "estimated_amount": 85000.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1776147193686",
+    "date": "2026-04-14T06:40:23Z",
+    "title": "Produse de panificatie",
+    "buyer": "PRIMARIA SATULUI ALEXEEVCA",
+    "cpv": "15810000-9",
+    "estimated_amount": 7.3,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"ASTRA\"",
+        "id": "MD-IDNO-1003604001159",
+        "amount": 7.3,
+        "status": "pending"
+      }
+    ]
   }
 ]
