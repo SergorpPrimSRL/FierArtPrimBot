@@ -5687,5 +5687,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1776258569702",
+    "date": "2026-04-15T13:12:37Z",
+    "title": "servicii de supraveghere tehnică a lucrărilor: Construcția scării și pandusuri între bd. Mihai Eminescu și parcul orășenesc Criuleni. Construcția pantei nr.1, nr.2 și scara de acces",
+    "buyer": "AGENTIA DE DEZVOLTARE REGIONALA CENTRU",
+    "cpv": "71500000-3",
+    "estimated_amount": 7181.36,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. RESPONCONS",
+        "id": "MD-IDNO-1022600022672 ",
+        "amount": 7181.36,
+        "status": "pending"
+      }
+    ]
   }
 ]
