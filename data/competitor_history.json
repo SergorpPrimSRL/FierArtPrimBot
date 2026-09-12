@@ -5625,5 +5625,67 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1774511775954",
+    "date": "2026-04-15T10:58:04Z",
+    "title": "Invitație de participare la reofertare în scopul atribuirii contractului subsecvent pentru achiziția echipamentelor de joacă model 1, inclusiv instalarea și amenajarea ",
+    "buyer": "DIRECȚIA GENERALA LOCATIV-COMUNALA ȘI AMENAJARE A CONSILIULU",
+    "cpv": "37535240-1",
+    "estimated_amount": 3000000.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 2044195.25
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 2238760.8
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 1479856.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 1479856.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 2044195.25,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 2238760.8,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1776254428953",
+    "date": "2026-04-15T12:05:11Z",
+    "title": "Lucrări de reparație curente de instalarea pavajului la foișor și trotuarul de lângă stadionul sportiv în s.Zubrești, r-nul Strășeni ",
+    "buyer": "Primăria Zubrești",
+    "cpv": "45200000-9",
+    "estimated_amount": 9990.01,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Ruslan LIPCAN",
+        "id": "MD-IDNO-2000043073889",
+        "amount": 9990.01,
+        "status": "pending"
+      }
+    ]
   }
 ]
