@@ -5761,5 +5761,32 @@
     "estimated_amount": 188123.05,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1776887070215",
+    "date": "2026-04-22T19:46:26Z",
+    "title": "Servicii de inspectare și verificare a lucrărilor (responsabil tehnic) la obiectul ” Amenajarea parcului public cu construcții cultural-sportive pe terenul cu nr. cadastral 31532161134 situat în mun. Chișinău, or. Stăuceni, str. Unirii”",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "71310000-4",
+    "estimated_amount": 196500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Baiesu  Victor",
+        "id": "MD-IDNO-0982205014364",
+        "amount": 196500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1775719680954",
+    "date": "2026-04-23T04:39:17Z",
+    "title": " Mobilier urban(urne și scaune cu instalarea  și montarea) din mun. Soroca   ",
+    "buyer": "Primaria municipiului Soroca",
+    "cpv": "39100000-3",
+    "estimated_amount": 637500.0,
+    "bidders": [],
+    "awards": []
   }
 ]
