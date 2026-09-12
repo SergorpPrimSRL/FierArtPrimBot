@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1789023327516",
+    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
+    "authority": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "amount": 1000000.0,
+    "currency": "MDL",
+    "deadline": "2026-10-01T09:00:00Z",
+    "deadline_text": "01.10.2026 12:00",
+    "status": "clarification",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "teren de joacă"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789023327516",
+    "source_date": "2026-09-12T08:53:48Z",
+    "saved_at": "2026-09-12T09:04:46.391548+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1788963701884",
     "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
     "authority": "Grădina Zoologică",
@@ -17,24 +35,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788963701884",
     "source_date": "2026-09-11T14:49:55Z",
     "saved_at": "2026-09-11T14:52:51.633455+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789023327516",
-    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
-    "authority": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "amount": 1000000.0,
-    "currency": "MDL",
-    "deadline": "2026-10-01T09:00:00Z",
-    "deadline_text": "01.10.2026 12:00",
-    "status": "clarification",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "teren de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789023327516",
-    "source_date": "2026-09-11T14:07:19Z",
-    "saved_at": "2026-09-11T14:27:25.187743+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1789128600159",
