@@ -5456,5 +5456,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1775046295199",
+    "date": "2026-04-01T12:37:40Z",
+    "title": "Teren de joaca",
+    "buyer": "PRIMARIA SATULUI BELEAVINTI",
+    "cpv": "37530000-2",
+    "estimated_amount": 59305.83,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SERGORP-PRIM\"",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 59305.83,
+        "status": "pending"
+      }
+    ]
   }
 ]
