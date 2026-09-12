@@ -5731,5 +5731,15 @@
     "estimated_amount": 99966.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1775634302948",
+    "date": "2026-04-21T07:17:18Z",
+    "title": "Materiale de construcție ",
+    "buyer": "I.M.S.P. CENTRUL NATIONAL DE ASISTENTA MEDICALA URGENTA PRES",
+    "cpv": "44100000-1",
+    "estimated_amount": 637288.0,
+    "bidders": [],
+    "awards": []
   }
 ]
