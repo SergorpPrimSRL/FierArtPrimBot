@@ -5473,5 +5473,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1775127637435",
+    "date": "2026-04-02T11:03:17Z",
+    "title": "Achiziționarea scaunelor stradale cu spătar concepute pentru dotarea cu mobilier urban a parcurilor, străzilor, spațiilor publice sau cartierelor rezidențiale din mun. Soroca.",
+    "buyer": "PRIMARIA MUNICIPIULUI SOROCA",
+    "cpv": "39110000-6",
+    "estimated_amount": 62500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SOCIETATEA PE ACTIUNI \"HIDROINPEX\"",
+        "id": "MD-IDNO-1003607005170",
+        "amount": 62500.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
