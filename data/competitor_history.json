@@ -5338,5 +5338,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1774511578126",
+    "date": "2026-03-26T07:53:14Z",
+    "title": "Echipamente de joacă model 1, inclusiv instalarea și amenajarea",
+    "buyer": "",
+    "cpv": "",
+    "estimated_amount": 3000000.0,
+    "bidders": [],
+    "awards": []
   }
 ]
