@@ -5871,5 +5871,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1777274475481",
+    "date": "2026-04-27T07:26:11Z",
+    "title": "Leagăn semicerc",
+    "buyer": "PRIMARIA COMUNEI RAZENI",
+    "cpv": "37500000-3",
+    "estimated_amount": 82914.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PRO TRON MEDIA\"",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 82914.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
