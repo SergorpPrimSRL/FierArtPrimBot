@@ -414,6 +414,14 @@ def main():
             title = title_of(record)
             buyer = authority_of(record)
             amount = best_value(record, ["tender.value.amount"])
+            
+            try:
+                amount_value = float(amount or 0)
+            except Exception:
+                amount_value = 0
+
+            if amount_value < 100000:
+                continue
             currency = best_value(record, ["tender.value.currency"])
             status = (
                 best_value(record, ["tender.statusDetails", "tender.status"])
