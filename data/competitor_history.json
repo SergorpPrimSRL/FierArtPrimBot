@@ -5741,5 +5741,25 @@
     "estimated_amount": 637288.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1774873382619",
+    "date": "2026-04-22T07:30:00Z",
+    "title": "„ Echipament și inventar pentru „cursele” parcului de aventură” în cadrul proiectului „Cantemir Adventure Park-CAP”",
+    "buyer": "Agenția de Dezvoltare Regională Sud",
+    "cpv": "43325000-7",
+    "estimated_amount": 2478635.04,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1776843623512",
+    "date": "2026-04-22T07:53:47Z",
+    "title": "Lucrări de confecționare a leagănului",
+    "buyer": "PRETURA SECTORULUI CENTRU",
+    "cpv": "45260000-7",
+    "estimated_amount": 188123.05,
+    "bidders": [],
+    "awards": []
   }
 ]
