@@ -5368,5 +5368,93 @@
     "estimated_amount": 275000.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1774960462539",
+    "date": "2026-03-31T12:34:22Z",
+    "title": "Amenajarea parcării si c[ii de acces către cimitirul s Baltata raionul Criuleni",
+    "buyer": "primaria com Baltata",
+    "cpv": "",
+    "estimated_amount": 196869.1,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1770987794965",
+    "date": "2026-04-01T05:31:10Z",
+    "title": "Lucrări de amenajarea parcului public pe terenul cu nr. cadastral: 3129220.2287 din s. Măgdăcești, r-ul Criuleni",
+    "buyer": "Primaria Magdacesti",
+    "cpv": "45200000-9",
+    "estimated_amount": 14571164.86,
+    "bidders": [
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 13298886.78
+      },
+      {
+        "name": "PRO EX 2005 SRL",
+        "id": "MD-IDNO-1002600004948",
+        "amount": 12679522.71
+      },
+      {
+        "name": "SRL ANADEM-CONSTRUCT",
+        "id": "MD-IDNO-1010600007784",
+        "amount": 13680445.99
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 12371466.5
+      },
+      {
+        "name": "Soltan Construct",
+        "id": "MD-IDNO-1021600037763",
+        "amount": 14061842.24
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 14500000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 12371466.5,
+        "status": "pending"
+      },
+      {
+        "name": "PRO EX 2005 SRL",
+        "id": "MD-IDNO-1002600004948",
+        "amount": 12679522.71,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 13298886.78,
+        "status": "pending"
+      },
+      {
+        "name": "SRL ANADEM-CONSTRUCT",
+        "id": "MD-IDNO-1010600007784",
+        "amount": 13680445.99,
+        "status": "pending"
+      },
+      {
+        "name": "Soltan Construct",
+        "id": "MD-IDNO-1021600037763",
+        "amount": 14061842.24,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 14500000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
