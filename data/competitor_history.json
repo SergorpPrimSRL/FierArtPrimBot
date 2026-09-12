@@ -5608,5 +5608,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1776246505912",
+    "date": "2026-04-15T09:51:58Z",
+    "title": "Servicii topografice p/u proiectare și amenajarea parcului din or. Soroca ",
+    "buyer": "PRIMARIA MUNICIPIULUI SOROCA",
+    "cpv": "71330000-0",
+    "estimated_amount": 21100.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"UTMETRICS 3D\"",
+        "id": "MD-IDNO-1023600040851",
+        "amount": 21100.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
