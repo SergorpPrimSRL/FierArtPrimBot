@@ -5321,5 +5321,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1774354740172",
+    "date": "2026-03-24T12:28:20Z",
+    "title": "Servicii de divertisment pentru copiii din or.Vatra (topogane gonflabile, carusel și trambuline) pentru 31 mai 2026",
+    "buyer": "PRIMARIA OR.VATRA,MUN.CHISINAU",
+    "cpv": "92300000-4",
+    "estimated_amount": 84000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"AMELIA KIDS\"",
+        "id": "MD-IDNO-1018600018021",
+        "amount": 84000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
