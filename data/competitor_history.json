@@ -5490,5 +5490,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1775134399074",
+    "date": "2026-04-02T12:58:02Z",
+    "title": "Procurare decoratiuni festive ghirlande",
+    "buyer": "PRIMARIA S.SLOBOZIA MARE",
+    "cpv": "31500000-1",
+    "estimated_amount": 38408.33,
+    "bidders": [],
+    "awards": []
   }
 ]
