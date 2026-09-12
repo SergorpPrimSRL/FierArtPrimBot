@@ -5788,5 +5788,88 @@
     "estimated_amount": 637500.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1777015910797",
+    "date": "2026-04-24T07:35:31Z",
+    "title": "foisor",
+    "buyer": "PRIMARIA COMUNEI CUCONESTII NOI",
+    "cpv": "44100000-1",
+    "estimated_amount": 129166.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SERGORP-PRIM\"",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 129166.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1777022528168",
+    "date": "2026-04-24T09:27:23Z",
+    "title": "Procurarea leaganului DUO personalizat ,inclusiv un cos personalizat",
+    "buyer": "PRIMARIA SATULUI HILIUTI",
+    "cpv": "42990000-2",
+    "estimated_amount": 64843.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1774007902748",
+    "date": "2026-04-24T11:12:27Z",
+    "title": "Lucrări de reparaţia capitală și amenajarea scuarului Aleea Clasicilor str. M. Hîncu, mun. Hîncești",
+    "buyer": "Primaria municipiului Hincesti",
+    "cpv": "45100000-8",
+    "estimated_amount": 576592.27,
+    "bidders": [
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 479082.11
+      },
+      {
+        "name": "UDS-CONSTRUCT",
+        "id": "MD-IDNO-1023611001966",
+        "amount": 521585.72
+      },
+      {
+        "name": "SRL SUD-TERRA",
+        "id": "MD-IDNO-1014611001799",
+        "amount": 466667.0
+      },
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 478475.73
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL SUD-TERRA",
+        "id": "MD-IDNO-1014611001799",
+        "amount": 466667.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 478475.73,
+        "status": "pending"
+      },
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 479082.11,
+        "status": "pending"
+      },
+      {
+        "name": "UDS-CONSTRUCT",
+        "id": "MD-IDNO-1023611001966",
+        "amount": 521585.72,
+        "status": "pending"
+      }
+    ]
   }
 ]
