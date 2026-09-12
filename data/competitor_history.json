@@ -5704,5 +5704,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1776328612218",
+    "date": "2026-04-16T08:44:14Z",
+    "title": "Decorațiuni festive în mun. Bălți, parcul central ”Mihai Volontir”",
+    "buyer": "PRIMARIA MUNICIPIULUI BALTI",
+    "cpv": "39290000-1",
+    "estimated_amount": 44625.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"ECOWOODBAG\"",
+        "id": "MD-IDNO-1020600031845",
+        "amount": 44625.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
