@@ -5888,5 +5888,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1777548439621",
+    "date": "2026-04-30T11:30:13Z",
+    "title": "Achiziție de mobilier urban, articole pentru iluminat decorativ și confecții metalice pentru amenajări",
+    "buyer": "PRIMARIA ORASULUI STEFAN VODA",
+    "cpv": "34900000-6",
+    "estimated_amount": 100679.17,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SERGORP-PRIM\"",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 100679.17,
+        "status": "pending"
+      }
+    ]
   }
 ]
