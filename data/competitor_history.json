@@ -8626,5 +8626,45 @@
     "estimated_amount": 267000.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1777375283718",
+    "date": "2026-06-30T07:15:54Z",
+    "title": "Echipament și inventar pentru „cursele” parcului de aventură REPETAT",
+    "buyer": "Agenția de Dezvoltare Regională Sud",
+    "cpv": "43325000-7",
+    "estimated_amount": 2478635.04,
+    "bidders": [
+      {
+        "name": "Aflux-Prim",
+        "id": "MD-IDNO-1008602001596",
+        "amount": 2675853.17
+      }
+    ],
+    "awards": [
+      {
+        "name": "Aflux-Prim",
+        "id": "MD-IDNO-1008602001596",
+        "amount": 2675853.17,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1782807828919",
+    "date": "2026-06-30T08:25:39Z",
+    "title": "Mobilier urban",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE CIOCANA",
+    "cpv": "34900000-6",
+    "estimated_amount": 2666.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"RADIAL PLUS\"",
+        "id": "MD-IDNO-1003600050300",
+        "amount": 2666.67,
+        "status": "pending"
+      }
+    ]
   }
 ]
