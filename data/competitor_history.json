@@ -7171,5 +7171,764 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1775129849466",
+    "date": "2026-05-27T20:52:01Z",
+    "title": "Consumabile de laborator",
+    "buyer": "Agenția de Mediu",
+    "cpv": "33100000-1",
+    "estimated_amount": 1174650.0,
+    "bidders": [
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 4440.0
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 12450.0
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 2764.0
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 18000.0
+      },
+      {
+        "name": "Bio Analitica",
+        "id": "MD-IDNO-1015600017171",
+        "amount": 34641.99
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 13520.0
+      },
+      {
+        "name": "Kirantoni",
+        "id": "MD-IDNO-1011600001572",
+        "amount": 129272.0
+      },
+      {
+        "name": "Acseal Gaz SRL",
+        "id": "MD-IDNO-1006600022416",
+        "amount": 54200.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Bio Analitica",
+        "id": "MD-IDNO-1015600017171",
+        "amount": 12440.0,
+        "status": "pending"
+      },
+      {
+        "name": "Kirantoni",
+        "id": "MD-IDNO-1011600001572",
+        "amount": 14144.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 15960.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1740.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 8686.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 14120.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 4786.0,
+        "status": "pending"
+      },
+      {
+        "name": "Kirantoni",
+        "id": "MD-IDNO-1011600001572",
+        "amount": 6455.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 4800.0,
+        "status": "pending"
+      },
+      {
+        "name": "Bio Analitica",
+        "id": "MD-IDNO-1015600017171",
+        "amount": 34663.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 56000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Bio Analitica",
+        "id": "MD-IDNO-1015600017171",
+        "amount": 35999.99,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 43200.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 54010.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1300.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 2032.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 4440.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 990.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1215.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1720.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 2000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 8892.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 9120.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 3440.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 4200.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 4606.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 5400.0,
+        "status": "pending"
+      },
+      {
+        "name": "Acseal Gaz SRL",
+        "id": "MD-IDNO-1006600022416",
+        "amount": 54200.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 71500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 3075.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 3975.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 737.5,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 1025.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 8350.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 9520.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 12450.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1200.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 3158.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 3720.0,
+        "status": "pending"
+      },
+      {
+        "name": "Bio Analitica",
+        "id": "MD-IDNO-1015600017171",
+        "amount": 13222.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 20400.0,
+        "status": "pending"
+      },
+      {
+        "name": "Kirantoni",
+        "id": "MD-IDNO-1011600001572",
+        "amount": 46914.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 52400.0,
+        "status": "pending"
+      },
+      {
+        "name": "Bio Analitica",
+        "id": "MD-IDNO-1015600017171",
+        "amount": 68400.0,
+        "status": "pending"
+      },
+      {
+        "name": "Bio Analitica",
+        "id": "MD-IDNO-1015600017171",
+        "amount": 76000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 170100.0,
+        "status": "pending"
+      },
+      {
+        "name": "Kirantoni",
+        "id": "MD-IDNO-1011600001572",
+        "amount": 225000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Kirantoni",
+        "id": "MD-IDNO-1011600001572",
+        "amount": 27932.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 16913.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 1480.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 1800.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 1943.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 2275.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1610.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 3750.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 4364.0,
+        "status": "pending"
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 18300.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 6900.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 6580.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 11350.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 1660.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 1786.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 2207.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1530.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 3904.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 5804.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 2950.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1100.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 2764.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 3700.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 7360.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 10000.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 2625.0,
+        "status": "pending"
+      },
+      {
+        "name": "Kirantoni",
+        "id": "MD-IDNO-1011600001572",
+        "amount": 15976.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 9000.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 9270.0,
+        "status": "pending"
+      },
+      {
+        "name": "Bio Analitica",
+        "id": "MD-IDNO-1015600017171",
+        "amount": 11815.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 26000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 200.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 102400.0,
+        "status": "pending"
+      },
+      {
+        "name": "Bio Analitica",
+        "id": "MD-IDNO-1015600017171",
+        "amount": 102960.0,
+        "status": "pending"
+      },
+      {
+        "name": "Kirantoni",
+        "id": "MD-IDNO-1011600001572",
+        "amount": 129272.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 4768.0,
+        "status": "pending"
+      },
+      {
+        "name": "Kirantoni",
+        "id": "MD-IDNO-1011600001572",
+        "amount": 6434.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 7135.0,
+        "status": "pending"
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 18000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 26244.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 31720.0,
+        "status": "pending"
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 2900.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 7240.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 8940.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 3380.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 12928.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 2108.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 27216.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 2340.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 2400.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 1570.0,
+        "status": "pending"
+      },
+      {
+        "name": "Laboratorium Grup",
+        "id": "MD-IDNO-1023600042925",
+        "amount": 2087.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 2100.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 3150.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1050.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 2208.0,
+        "status": "pending"
+      },
+      {
+        "name": "Bio Analitica",
+        "id": "MD-IDNO-1015600017171",
+        "amount": 34641.99,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 55000.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 412.5,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 1002.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 850.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 4851.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 6926.0,
+        "status": "pending"
+      },
+      {
+        "name": "Bio Analitica",
+        "id": "MD-IDNO-1015600017171",
+        "amount": 37081.0,
+        "status": "pending"
+      },
+      {
+        "name": "Temei-Vtac SRL",
+        "id": "MD-IDNO-1003600068064",
+        "amount": 54000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 13520.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lokmera",
+        "id": "MD-IDNO-1007600011105",
+        "amount": 11742.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1778072695956",
+    "date": "2026-05-28T06:54:52Z",
+    "title": "Mobilier urban în cadrul Proiectului CITY WALK",
+    "buyer": "Direcția Generală Arhitectură, Urbanism și Relații Funciare",
+    "cpv": "34900000-6",
+    "estimated_amount": 480000.0,
+    "bidders": [
+      {
+        "name": "Barzine - Cons",
+        "id": "MD-IDNO-1008600012121",
+        "amount": 478620.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Barzine - Cons",
+        "id": "MD-IDNO-1008600012121",
+        "amount": 478620.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
