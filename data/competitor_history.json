@@ -7947,5 +7947,32 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1780477672715",
+    "date": "2026-06-03T09:12:56Z",
+    "title": "elemente pentru teren de joaca",
+    "buyer": "PRIMARIA MUNICIPIULUI CAHUL",
+    "cpv": "37500000-3",
+    "estimated_amount": 123000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"DALI CREATIONS\"",
+        "id": "MD-IDNO-1020606002988",
+        "amount": 123000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1780491650408",
+    "date": "2026-06-03T13:20:39Z",
+    "title": "Lucrări de reparație teren de joacă la IET nr. 158,183,185  ",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 750000.0,
+    "bidders": [],
+    "awards": []
   }
 ]
