@@ -8616,5 +8616,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1782723481528",
+    "date": "2026-06-29T08:58:01Z",
+    "title": "Teren de joaca pentru copii s.Sturzovca, Glodeni",
+    "buyer": "Primaria satului Sturzovca",
+    "cpv": "",
+    "estimated_amount": 267000.0,
+    "bidders": [],
+    "awards": []
   }
 ]
