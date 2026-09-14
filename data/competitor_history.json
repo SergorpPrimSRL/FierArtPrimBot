@@ -8070,5 +8070,25 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1781177008541",
+    "date": "2026-06-11T11:29:40Z",
+    "title": "SERVICII IN CULITURA(ORGANIZAREA EVENIMENTULUI -1 IUNIE)",
+    "buyer": "PRIMARIA COMUNEI BARONCEA",
+    "cpv": "79990000-0",
+    "estimated_amount": 15000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1781179597357",
+    "date": "2026-06-11T12:09:14Z",
+    "title": "Achiziționarea echipamentelor pentru dotarea instituției de educație timpurie",
+    "buyer": "PRIMARIA COMUNEI VARZARESTI",
+    "cpv": "37500000-3",
+    "estimated_amount": 38889.79,
+    "bidders": [],
+    "awards": []
   }
 ]
