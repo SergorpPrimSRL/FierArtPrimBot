@@ -1,5 +1,24 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1788963701884",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
+    "authority": "Grădina Zoologică",
+    "amount": 466460.0,
+    "currency": "MDL",
+    "deadline": "2026-09-18T11:58:06Z",
+    "deadline_text": "18.09.2026 14:58",
+    "status": "clarification",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "complex de joacă",
+      "complexe de joacă"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788963701884",
+    "source_date": "2026-09-14T09:35:26Z",
+    "saved_at": "2026-09-14T09:40:34.143632+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1788532682997",
     "title": "Lucrări de reparatie a unui foișor dublu pe teritoriul IET „Delia”, mun. Ungheni",
     "authority": "Primăria mun. Ungheni",
@@ -16,25 +35,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788532682997",
     "source_date": "2026-09-14T08:35:01Z",
     "saved_at": "2026-09-14T08:41:03.480277+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1788963701884",
-    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
-    "authority": "Grădina Zoologică",
-    "amount": 466460.0,
-    "currency": "MDL",
-    "deadline": "2026-09-18T11:58:06Z",
-    "deadline_text": "18.09.2026 14:58",
-    "status": "clarification",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "complex de joacă",
-      "complexe de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788963701884",
-    "source_date": "2026-09-14T08:03:25Z",
-    "saved_at": "2026-09-14T08:05:36.445225+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1789023327516",
