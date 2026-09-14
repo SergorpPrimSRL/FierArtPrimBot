@@ -8204,5 +8204,32 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1781530892628",
+    "date": "2026-06-15T13:45:41Z",
+    "title": "servicii neatribuite altor aliniate",
+    "buyer": "PRIMARIA COMUNEI CUCONESTII NOI",
+    "cpv": "98390000-3",
+    "estimated_amount": 3925.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. TEXTIL-CONFORT",
+        "id": "MD-IDNO-1008604002782",
+        "amount": 3925.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1781587629673",
+    "date": "2026-06-16T05:36:12Z",
+    "title": "Procurare si montare mobilier urban personalizat",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "34900000-6",
+    "estimated_amount": 42500.0,
+    "bidders": [],
+    "awards": []
   }
 ]
