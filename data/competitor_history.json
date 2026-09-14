@@ -5925,5 +5925,828 @@
     "estimated_amount": 641994.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1779111241964",
+    "date": "2026-05-18T13:34:01Z",
+    "title": "Complex de joacă din str. C. Bălțului, 76 și Luceaărul,2 și 11 din m. Soroca.",
+    "buyer": "Primaria municipiului Soroca",
+    "cpv": "",
+    "estimated_amount": 725000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1777276789654",
+    "date": "2026-05-19T05:57:43Z",
+    "title": "Sticlărie pentru laborator",
+    "buyer": "I.P. \"CNSAPSA\"",
+    "cpv": "33793000-5",
+    "estimated_amount": 104047.0,
+    "bidders": [
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 325.0
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 422.5
+      },
+      {
+        "name": "SC\"Imunotehnomed\"SRL",
+        "id": "MD-IDNO-1002600012565",
+        "amount": 13319.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 4491.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 8392.5,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 597.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 850.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1420.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1570.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 345.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 450.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1095.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1150.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 137.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 172.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 167.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 230.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 357.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 414.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 94.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 120.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 138.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1260.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1434.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1102.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1380.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 192.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 210.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1025.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1600.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 600.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 700.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 120.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 790.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1075.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 3125.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 3575.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 210.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 270.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC\"Imunotehnomed\"SRL",
+        "id": "MD-IDNO-1002600012565",
+        "amount": 13319.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1180.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1802.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 95.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 118.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 298.75,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 400.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 547.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 735.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 325.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 362.5,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 497.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 710.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 397.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 495.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 60.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1353.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1710.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 180.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 49.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 86.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 74.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 106.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 440.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 750.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 950.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 890.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 600.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 775.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 817.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 420.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 498.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 162.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 192.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 570.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 645.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1367.5,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 1375.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 752.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 320.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 422.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 620.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 720.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 785.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1120.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 690.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1170.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 283.5,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 215.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 264.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 776.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 820.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 88.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 119.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 174.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1636.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 2060.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 97.8,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 165.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 825.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 146.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 195.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 140.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 143.8,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 96.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 360.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 590.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 164.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 220.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 620.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1650.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 736.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 760.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1260.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 185.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 198.9,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 300.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 380.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1800.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 780.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 144.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 160.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 900.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1112.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 590.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1098.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 1180.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 270.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 389.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 152.5,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 556.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 3570.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIOTECHLAB",
+        "id": "MD-IDNO-1004600067330",
+        "amount": 860.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 388.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ecochimie",
+        "id": "MD-IDNO-1002600052156",
+        "amount": 574.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
