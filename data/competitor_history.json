@@ -6866,5 +6866,249 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1776761865827",
+    "date": "2026-05-25T06:35:31Z",
+    "title": "Complexuri de joacă, inclusiv instalarea",
+    "buyer": "Pretura sectorului Ciocana",
+    "cpv": "37500000-3",
+    "estimated_amount": 1151894.4,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 707268.33
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 786500.0
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 1159850.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 707268.33,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 786500.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 1159850.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1772094962744",
+    "date": "2026-05-25T07:10:49Z",
+    "title": "Lucrări de pavare a ogrăzilor",
+    "buyer": "Primăria Cimișlia",
+    "cpv": "45200000-9",
+    "estimated_amount": 1026675.99,
+    "bidders": [
+      {
+        "name": "FIRMA ”PRIMA-FICHIR” SRL",
+        "id": "MD-IDNO-1003611002134",
+        "amount": 641791.55
+      },
+      {
+        "name": "SC,,Elinatcons”SRL",
+        "id": "MD-IDNO-1005600012588",
+        "amount": 230230.04
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 250532.94
+      },
+      {
+        "name": "UDS-CONSTRUCT",
+        "id": "MD-IDNO-1023611001966",
+        "amount": 222350.34
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 240000.0
+      },
+      {
+        "name": "K.M.V.TRANS.GRUP",
+        "id": "MD-IDNO-1023611003708",
+        "amount": 477485.05
+      },
+      {
+        "name": "SRL VERTEX-STROY",
+        "id": "MD-IDNO-1023611001807",
+        "amount": 499540.85
+      }
+    ],
+    "awards": [
+      {
+        "name": "K.M.V.TRANS.GRUP",
+        "id": "MD-IDNO-1023611003708",
+        "amount": 173103.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC,,Elinatcons”SRL",
+        "id": "MD-IDNO-1005600012588",
+        "amount": 173225.51,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 179113.52,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 194000.0,
+        "status": "pending"
+      },
+      {
+        "name": "UDS-CONSTRUCT",
+        "id": "MD-IDNO-1023611001966",
+        "amount": 194113.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL VERTEX-STROY",
+        "id": "MD-IDNO-1023611001807",
+        "amount": 198000.0,
+        "status": "pending"
+      },
+      {
+        "name": "FIRMA ”PRIMA-FICHIR” SRL",
+        "id": "MD-IDNO-1003611002134",
+        "amount": 239000.0,
+        "status": "pending"
+      },
+      {
+        "name": "K.M.V.TRANS.GRUP",
+        "id": "MD-IDNO-1023611003708",
+        "amount": 448190.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL VERTEX-STROY",
+        "id": "MD-IDNO-1023611001807",
+        "amount": 449999.0,
+        "status": "pending"
+      },
+      {
+        "name": "UDS-CONSTRUCT",
+        "id": "MD-IDNO-1023611001966",
+        "amount": 449999.99,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 450000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC,,Elinatcons”SRL",
+        "id": "MD-IDNO-1005600012588",
+        "amount": 462837.0,
+        "status": "pending"
+      },
+      {
+        "name": "FIRMA ”PRIMA-FICHIR” SRL",
+        "id": "MD-IDNO-1003611002134",
+        "amount": 469000.0,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 470240.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1779702439270",
+    "date": "2026-05-25T09:49:08Z",
+    "title": "mobilier urban",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE CIOCANA",
+    "cpv": "34900000-6",
+    "estimated_amount": 6180.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "UZINA MECANICA \"ARTMET\" S.A.",
+        "id": "MD-IDNO-1002600037193",
+        "amount": 6180.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1779704230386",
+    "date": "2026-05-25T10:20:20Z",
+    "title": "Mobilier urban",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE CIOCANA",
+    "cpv": "34900000-6",
+    "estimated_amount": 6270.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "UZINA MECANICA \"ARTMET\" S.A.",
+        "id": "MD-IDNO-1002600037193",
+        "amount": 6270.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1777712893870",
+    "date": "2026-05-25T11:30:00Z",
+    "title": "Foi de odihnă ( Servicii de alimentare si cazare a copiilor în taberele de odihnă ) pentru sezonul estival 2026",
+    "buyer": "Direcția Educație a Consiliului Raional Criuleni",
+    "cpv": "55200000-2",
+    "estimated_amount": 2086800.0,
+    "bidders": [
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 1374450.0
+      },
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 1650000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 1374450.0,
+        "status": "pending"
+      },
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 1650000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
