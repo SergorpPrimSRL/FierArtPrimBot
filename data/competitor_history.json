@@ -8090,5 +8090,51 @@
     "estimated_amount": 38889.79,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1778185930893",
+    "date": "2026-06-12T08:56:18Z",
+    "title": "Achiziția echipamentelor pentru terenurile de joacă exterioare la IMSP Spitalul Raional Anenii Noi și Fălești",
+    "buyer": "Lumos Moldova",
+    "cpv": "37535200-9",
+    "estimated_amount": 400000.0,
+    "bidders": [
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 188750.0
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 179640.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 179640.0,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 196070.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 177430.0,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 188750.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
