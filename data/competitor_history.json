@@ -8425,5 +8425,196 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1780651666412",
+    "date": "2026-06-26T06:01:34Z",
+    "title": "Lucrări de construcție la obiectivul ”Amenajarea scuarului și pavarea teritoriului aferent Casei de Cultură din satul Țînțăreni”",
+    "buyer": "Primaria Tintareni, rl. Anenii Noi",
+    "cpv": "45200000-9",
+    "estimated_amount": 2030666.67,
+    "bidders": [
+      {
+        "name": "Srl Bolixan-Exim",
+        "id": "MD-IDNO-1011600020751",
+        "amount": 1421352.37
+      },
+      {
+        "name": "CRISDAM CONSTRUCT",
+        "id": "MD-IDNO-1015600007044",
+        "amount": 1498383.63
+      },
+      {
+        "name": "GREEN ENGINEERING SRL",
+        "id": "MD-IDNO-1013600036806",
+        "amount": 1931513.75
+      },
+      {
+        "name": "Armat Profil SRL",
+        "id": "MD-IDNO-1012600013286",
+        "amount": 1416667.0
+      },
+      {
+        "name": "Softconstruct",
+        "id": "MD-IDNO-1014600001023",
+        "amount": 2000000.0
+      },
+      {
+        "name": "VELEMAX ENGINEERING",
+        "id": "MD-IDNO-1015600010149",
+        "amount": 1723929.85
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 1618107.49
+      },
+      {
+        "name": "Group One SRL",
+        "id": "MD-IDNO-1003601003808",
+        "amount": 1569450.09
+      },
+      {
+        "name": "Vig House",
+        "id": "MD-IDNO-1018600024334",
+        "amount": 1729551.99
+      },
+      {
+        "name": "''Eurogrupstim'' SRL",
+        "id": "MD-IDNO-1014600036168",
+        "amount": 1588157.37
+      }
+    ],
+    "awards": [
+      {
+        "name": "Armat Profil SRL",
+        "id": "MD-IDNO-1012600013286",
+        "amount": 1416667.0,
+        "status": "pending"
+      },
+      {
+        "name": "Srl Bolixan-Exim",
+        "id": "MD-IDNO-1011600020751",
+        "amount": 1421352.37,
+        "status": "pending"
+      },
+      {
+        "name": "CRISDAM CONSTRUCT",
+        "id": "MD-IDNO-1015600007044",
+        "amount": 1498383.63,
+        "status": "pending"
+      },
+      {
+        "name": "Group One SRL",
+        "id": "MD-IDNO-1003601003808",
+        "amount": 1569450.09,
+        "status": "pending"
+      },
+      {
+        "name": "''Eurogrupstim'' SRL",
+        "id": "MD-IDNO-1014600036168",
+        "amount": 1588157.37,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 1618107.49,
+        "status": "pending"
+      },
+      {
+        "name": "VELEMAX ENGINEERING",
+        "id": "MD-IDNO-1015600010149",
+        "amount": 1723929.85,
+        "status": "pending"
+      },
+      {
+        "name": "Vig House",
+        "id": "MD-IDNO-1018600024334",
+        "amount": 1729551.99,
+        "status": "pending"
+      },
+      {
+        "name": "GREEN ENGINEERING SRL",
+        "id": "MD-IDNO-1013600036806",
+        "amount": 1931513.75,
+        "status": "pending"
+      },
+      {
+        "name": "Softconstruct",
+        "id": "MD-IDNO-1014600001023",
+        "amount": 2000000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1779311719510",
+    "date": "2026-06-26T08:45:09Z",
+    "title": "Achiziție echipamente pentru Camera Senzorială, Kinetoterapie și Terapie Ocupațională ",
+    "buyer": "Lumos Moldova",
+    "cpv": "37500000-3",
+    "estimated_amount": 688000.0,
+    "bidders": [
+      {
+        "name": "LEXSPORT S.R.L",
+        "id": "MD-IDNO-1012600000077",
+        "amount": 195564.0
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 195120.0
+      },
+      {
+        "name": "INTERBRANDS PROD",
+        "id": "MD-IDNO-1021600033341",
+        "amount": 295000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 189000.0,
+        "status": "pending"
+      },
+      {
+        "name": "LEXSPORT S.R.L",
+        "id": "MD-IDNO-1012600000077",
+        "amount": 189920.0,
+        "status": "pending"
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 195120.0,
+        "status": "pending"
+      },
+      {
+        "name": "LEXSPORT S.R.L",
+        "id": "MD-IDNO-1012600000077",
+        "amount": 195564.0,
+        "status": "pending"
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 294000.0,
+        "status": "pending"
+      },
+      {
+        "name": "INTERBRANDS PROD",
+        "id": "MD-IDNO-1021600033341",
+        "amount": 295000.0,
+        "status": "pending"
+      },
+      {
+        "name": "LEXSPORT S.R.L",
+        "id": "MD-IDNO-1012600000077",
+        "amount": 301160.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
