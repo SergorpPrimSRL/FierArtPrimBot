@@ -8302,5 +8302,50 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1779793694763",
+    "date": "2026-06-17T13:09:21Z",
+    "title": "Set de jucării pentru copiii din învățământul preșcolar",
+    "buyer": "Ministerul Educației și Cercetării",
+    "cpv": "37520000-9",
+    "estimated_amount": 1651167.0,
+    "bidders": [
+      {
+        "name": "Didact Vega",
+        "id": "MD-IDNO-1011600040409",
+        "amount": 1556755.0
+      },
+      {
+        "name": "Cartdidact",
+        "id": "MD-IDNO-1003600026653",
+        "amount": 2108800.0
+      },
+      {
+        "name": "INTERBRANDS PROD",
+        "id": "MD-IDNO-1021600033341",
+        "amount": 1599890.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Didact Vega",
+        "id": "MD-IDNO-1011600040409",
+        "amount": 1554900.0,
+        "status": "pending"
+      },
+      {
+        "name": "INTERBRANDS PROD",
+        "id": "MD-IDNO-1021600033341",
+        "amount": 1555000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Cartdidact",
+        "id": "MD-IDNO-1003600026653",
+        "amount": 2108800.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
