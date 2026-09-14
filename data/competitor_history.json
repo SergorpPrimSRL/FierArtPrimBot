@@ -8231,5 +8231,42 @@
     "estimated_amount": 42500.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1780493169207",
+    "date": "2026-06-16T09:45:32Z",
+    "title": "Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 1000000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1781614180140",
+    "date": "2026-06-16T12:53:03Z",
+    "title": "Procurarea leagăn , model semicerc",
+    "buyer": "PRIMARIA ORASULUI DROCHIA",
+    "cpv": "39100000-3",
+    "estimated_amount": 90666.66,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1781614395434",
+    "date": "2026-06-16T12:58:01Z",
+    "title": "Construcția foișorului și a porții de la intrare la tabăra de odihnă Dumbrava",
+    "buyer": "DIRECTIA INVATAMINT SOLDANESTI",
+    "cpv": "44400000-4",
+    "estimated_amount": 234354.22,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SGIM GROUP\"",
+        "id": "MD-IDNO-1018606002721",
+        "amount": 234354.22,
+        "status": "pending"
+      }
+    ]
   }
 ]
