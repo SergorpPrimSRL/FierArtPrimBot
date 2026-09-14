@@ -7110,5 +7110,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1779782056630",
+    "date": "2026-05-26T07:58:11Z",
+    "title": "Amenajarea unui leagan urban suspendat",
+    "buyer": "PRIMARIA FLORESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 199916.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SERGORP-PRIM\"",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 199916.67,
+        "status": "pending"
+      }
+    ]
   }
 ]
