@@ -7930,5 +7930,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1780037978634",
+    "date": "2026-05-29T07:11:40Z",
+    "title": "leagăn semicerc",
+    "buyer": "PRIMARIA MUNICIPIULUI CAHUL",
+    "cpv": "37530000-2",
+    "estimated_amount": 93816.66,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. PRO TRON MEDIA",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 93816.66,
+        "status": "pending"
+      }
+    ]
   }
 ]
