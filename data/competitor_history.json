@@ -8008,5 +8008,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1780816261212",
+    "date": "2026-06-07T07:13:12Z",
+    "title": "SERVICII DE INSTALARE A UNUI SET FORMAT DIN PATRU LEAGANE",
+    "buyer": "PRIMARIA COMUNEI COTIUJENII MARI",
+    "cpv": "98300000-6",
+    "estimated_amount": 6860.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "JOVMIR\tVALERIU",
+        "id": "MD-IDNO-0961405870880",
+        "amount": 6860.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
