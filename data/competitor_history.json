@@ -8381,5 +8381,49 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1782127086214",
+    "date": "2026-06-22T11:26:48Z",
+    "title": "Servicii de proiectare, elaborarea Planului Urbanistic de Detaliu pentru Centru Multifuncțional Sportiv Regional s.Pîrlița r.Ungheni",
+    "buyer": "Primaria Pîrlița",
+    "cpv": "71200000-0",
+    "estimated_amount": 163400.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Golsan Com SRL",
+        "id": "MD-IDNO-1021600012696",
+        "amount": 163400.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1782134529976",
+    "date": "2026-06-22T13:24:03Z",
+    "title": "servicii de elaborare a documentației de proiect pentru \"Amenajarea parcului Gradina Publica Vatra Budestiului”",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "71300000-1",
+    "estimated_amount": 148333.33,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1782198383768",
+    "date": "2026-06-23T07:08:59Z",
+    "title": "Complex de joacă parcul central din s.Cojusna ",
+    "buyer": "PRIMARIA SATULUI COJUSNA",
+    "cpv": "37500000-3",
+    "estimated_amount": 179796.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"POWER TEAM\"",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 179796.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
