@@ -6849,5 +6849,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1779456037101",
+    "date": "2026-05-22T13:23:57Z",
+    "title": "Foișoare 2x3",
+    "buyer": "PRIMARIA FLORESTI",
+    "cpv": "39100000-3",
+    "estimated_amount": 143750.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SOCIETATEA COMERCIALA \"ASLOGISTIC\" S.R.L.",
+        "id": "MD-IDNO-1005600057439",
+        "amount": 143750.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
