@@ -8025,5 +8025,50 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1778775610901",
+    "date": "2026-06-09T14:26:46Z",
+    "title": "Achiziționarea foilor (biletelor) de odihnă de vară pentru elevi (copii), sezonul estival 2026 ",
+    "buyer": "DIRECȚIA ÎNVĂȚĂMÂNT HÂNCEȘTI",
+    "cpv": "55200000-2",
+    "estimated_amount": 1532000.0,
+    "bidders": [
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 386100.0
+      },
+      {
+        "name": "Primaria Bobeica",
+        "id": "MD-IDNO-1007601005796",
+        "amount": 357500.0
+      },
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 880400.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 880400.0,
+        "status": "pending"
+      },
+      {
+        "name": "Primaria Bobeica",
+        "id": "MD-IDNO-1007601005796",
+        "amount": 357500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 386100.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
