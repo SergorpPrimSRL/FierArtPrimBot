@@ -6826,5 +6826,28 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1776938473523",
+    "date": "2026-05-21T06:33:30Z",
+    "title": "Modernizarea si diversificarea infrastructurii sportive, prin amenajarea unui teren de padel,  a pistei de alergări și a tribunelor pentru teren sportiv",
+    "buyer": "IP LT IL Caragiale Orhei",
+    "cpv": "45200000-9",
+    "estimated_amount": 2217108.0,
+    "bidders": [
+      {
+        "name": "SCARTEH SRL",
+        "id": "MD-IDNO-1013600018440",
+        "amount": 2725447.53
+      }
+    ],
+    "awards": [
+      {
+        "name": "SCARTEH SRL",
+        "id": "MD-IDNO-1013600018440",
+        "amount": 2725447.53,
+        "status": "pending"
+      }
+    ]
   }
 ]
