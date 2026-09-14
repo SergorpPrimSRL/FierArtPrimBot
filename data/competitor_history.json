@@ -8347,5 +8347,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1781849422945",
+    "date": "2026-06-19T06:42:31Z",
+    "title": "Servicii de verificare a devizului de cheltuieli la reparația curentă cu amenjarea a unui teren de joacă",
+    "buyer": "PRIMARIA COMUNEI ZAIM",
+    "cpv": "71200000-0",
+    "estimated_amount": 800.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"DEVBEE GROUP\"",
+        "id": "MD-IDNO-1025600006370",
+        "amount": 800.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
