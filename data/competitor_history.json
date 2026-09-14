@@ -7974,5 +7974,39 @@
     "estimated_amount": 750000.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1780642419000",
+    "date": "2026-06-05T06:58:49Z",
+    "title": "Materiale de constructie",
+    "buyer": "SECTIA CULTURA IALOVENI",
+    "cpv": "44100000-1",
+    "estimated_amount": 3586.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"EXCAVARE SERVICE\"",
+        "id": "MD-IDNO-1006600031627",
+        "amount": 3586.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1780647086019",
+    "date": "2026-06-05T08:20:17Z",
+    "title": "Servicii pentru intretinerea și amenajarea scuarului or.Vatra pentru anul 2026",
+    "buyer": "PRIMARIA OR.VATRA,MUN.CHISINAU",
+    "cpv": "77300000-3",
+    "estimated_amount": 59538.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Rauzari Ilie",
+        "id": "MD-IDNO-2005003012371",
+        "amount": 59538.33,
+        "status": "pending"
+      }
+    ]
   }
 ]
