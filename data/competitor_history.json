@@ -6748,5 +6748,83 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1774612719725",
+    "date": "2026-05-19T13:16:44Z",
+    "title": "Achiziționarea serviciilor de organizare a odihnei şi întremării sănătăţii copiilor și adolescenților în perioada de vară anul 2026",
+    "buyer": "Casa Națională de Asigurări Sociale",
+    "cpv": "55200000-2",
+    "estimated_amount": 12310000.0,
+    "bidders": [
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 1500000.0
+      },
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 4188000.0
+      },
+      {
+        "name": "AO Conceb",
+        "id": "MD-IDNO-1019620004412",
+        "amount": 6424600.0
+      },
+      {
+        "name": "CASA DE ODIHNA CAMPING",
+        "id": "MD-IDNO-1026600014466",
+        "amount": 10573750.0
+      },
+      {
+        "name": "Casele de Odihna si Recuperare \"Perlele Nistrului\" SRL",
+        "id": "MD-IDNO-1010600019664",
+        "amount": 10360000.0
+      },
+      {
+        "name": "SRL \"Agro-Tiras",
+        "id": "MD-IDNO-1002601001715",
+        "amount": 1500000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 1500000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL \"Agro-Tiras",
+        "id": "MD-IDNO-1002601001715",
+        "amount": 1500000.0,
+        "status": "pending"
+      },
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 4188000.0,
+        "status": "pending"
+      },
+      {
+        "name": "AO Conceb",
+        "id": "MD-IDNO-1019620004412",
+        "amount": 6424600.0,
+        "status": "pending"
+      },
+      {
+        "name": "Casele de Odihna si Recuperare \"Perlele Nistrului\" SRL",
+        "id": "MD-IDNO-1010600019664",
+        "amount": 10360000.0,
+        "status": "pending"
+      },
+      {
+        "name": "CASA DE ODIHNA CAMPING",
+        "id": "MD-IDNO-1026600014466",
+        "amount": 10573750.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
