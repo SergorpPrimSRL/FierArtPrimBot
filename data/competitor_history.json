@@ -8364,5 +8364,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1781870007756",
+    "date": "2026-06-19T12:02:39Z",
+    "title": "Echipament pentru terenuri de joaca",
+    "buyer": "PRIMARIA COMUNEI BOGDANESTI",
+    "cpv": "37530000-2",
+    "estimated_amount": 215000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"GRAND GEO\"",
+        "id": "MD-IDNO-1022600046292",
+        "amount": 215000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
