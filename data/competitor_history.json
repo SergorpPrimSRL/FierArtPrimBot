@@ -8136,5 +8136,73 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1779709706329",
+    "date": "2026-06-15T07:44:57Z",
+    "title": "Mobilier urban în cadrul Proiectului CITY WALK",
+    "buyer": "Direcția Generală Arhitectură, Urbanism și Relații Funciare",
+    "cpv": "34900000-6",
+    "estimated_amount": 480000.0,
+    "bidders": [
+      {
+        "name": "Riff Stone",
+        "id": "MD-IDNO-1017600049507",
+        "amount": 480000.0
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 479760.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 479760.0,
+        "status": "pending"
+      },
+      {
+        "name": "Riff Stone",
+        "id": "MD-IDNO-1017600049507",
+        "amount": 480000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1781512665014",
+    "date": "2026-06-15T08:40:10Z",
+    "title": "Achiziție de mobilier urban",
+    "buyer": "PRIMARIA ORASULUI STEFAN VODA",
+    "cpv": "34900000-6",
+    "estimated_amount": 80000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"ZIDMAXFER\"",
+        "id": "MD-IDNO-1024608003079",
+        "amount": 80000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1781513543725",
+    "date": "2026-06-15T08:55:01Z",
+    "title": "Mobilier urban și elemente de amenajare pentru terenul de joacă al IET Grădinița de Copii nr. 2",
+    "buyer": "PRIMARIA ORASULUI STEFAN VODA",
+    "cpv": "34900000-6",
+    "estimated_amount": 57698.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"EXIMPROD-TRADE\"",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 57698.33,
+        "status": "pending"
+      }
+    ]
   }
 ]
