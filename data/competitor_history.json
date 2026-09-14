@@ -7127,5 +7127,49 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1779796189186",
+    "date": "2026-05-26T11:52:11Z",
+    "title": "Achiziționarea de echipamente de joacă pentru terenul de joacă al orașului Taraclia pentru anul 2026",
+    "buyer": "PRIMARIA ORASULUI TARACLIA",
+    "cpv": "37500000-3",
+    "estimated_amount": 140000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1779796936579",
+    "date": "2026-05-26T12:05:12Z",
+    "title": "Foișor și leagăn, str. Ion Creangă 7 or. Florești” Conform proiectului Bugetarea Participativă 2026",
+    "buyer": "PRIMARIA FLORESTI",
+    "cpv": "39100000-3",
+    "estimated_amount": 83242.32,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"REGINA-LEMN-PLAST\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 83242.32,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1779797482735",
+    "date": "2026-05-26T12:15:22Z",
+    "title": "teren  de joacă, str. M. Viteazul 25/3, or. Florești” Conform proiectului Bugetarea Participativă 2026",
+    "buyer": "PRIMARIA FLORESTI",
+    "cpv": "37500000-3",
+    "estimated_amount": 78800.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PLAYGROUND STORE\"",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 78800.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
