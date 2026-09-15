@@ -9814,5 +9814,39 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1786694254689",
+    "date": "2026-08-14T08:02:28Z",
+    "title": "Unelte si scule ,inventar de producere si gospodaresc",
+    "buyer": "PRIMARIA COMUNEI PINZARENI",
+    "cpv": "44500000-5",
+    "estimated_amount": 35479.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"NOVA PARK COMPANY\"",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 35479.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1786873539947",
+    "date": "2026-08-16T09:48:41Z",
+    "title": "Leagăn model CIRCULAR",
+    "buyer": "PRIMARIA COMUNEI CIORESCU",
+    "cpv": "39290000-1",
+    "estimated_amount": 91666.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. PRO TRON MEDIA",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 91666.67,
+        "status": "pending"
+      }
+    ]
   }
 ]
