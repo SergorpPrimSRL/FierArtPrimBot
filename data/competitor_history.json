@@ -9446,5 +9446,22 @@
     "estimated_amount": 98610.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1784794566960",
+    "date": "2026-07-23T08:21:34Z",
+    "title": "Servicii de tobogan gonflabil în cadrul evenimentului dedicat Zilei Copiilor 1 Iunie 2026",
+    "buyer": "PRIMARIA ORASULUI TELENESTI",
+    "cpv": "92300000-4",
+    "estimated_amount": 12000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"NOVAGENIUS\"",
+        "id": "MD-IDNO-1016606004167",
+        "amount": 12000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
