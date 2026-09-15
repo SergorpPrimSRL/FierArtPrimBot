@@ -9179,5 +9179,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1784016381878",
+    "date": "2026-07-14T08:12:30Z",
+    "title": "gard metalic",
+    "buyer": "PRIMARIA COMUNEI SCHINENI",
+    "cpv": "44200000-2",
+    "estimated_amount": 13696.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SOCIETATEA COMERCIALA \"AVAN-CONST\" S.R.L.",
+        "id": "MD-IDNO-1004607003933",
+        "amount": 13696.67,
+        "status": "pending"
+      }
+    ]
   }
 ]
