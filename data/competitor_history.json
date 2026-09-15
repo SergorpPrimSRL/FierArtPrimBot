@@ -9747,5 +9747,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1785766036390",
+    "date": "2026-08-11T05:00:00Z",
+    "title": "Reparatii curente a scenei de vara si amenajarea parcului din s Bulboci rnul Soroca",
+    "buyer": "Primaria Bulboci",
+    "cpv": "45200000-9",
+    "estimated_amount": 582083.58,
+    "bidders": [],
+    "awards": []
   }
 ]
