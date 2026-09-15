@@ -8967,5 +8967,59 @@
     "estimated_amount": 139199.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783499179846",
+    "date": "2026-07-08T08:26:19Z",
+    "title": "– Spațiu de recreere și socializare pentru mic și mare",
+    "buyer": "Primaria comunei Tareuca",
+    "cpv": "",
+    "estimated_amount": 139199.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783499479937",
+    "date": "2026-07-08T08:31:19Z",
+    "title": "– Spațiu de recreere și socializare pentru mic și mare",
+    "buyer": "Primaria comunei Tareuca",
+    "cpv": "",
+    "estimated_amount": 139199.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783511004948",
+    "date": "2026-07-08T11:45:52Z",
+    "title": "Lucrări de amenajare a terenului și confecționarea, montarea leagănului și mobilierului urban în or. Vadul lui Vodă, mun. Chișinău",
+    "buyer": "Primăria or.Vadul lui Vodă",
+    "cpv": "45100000-8",
+    "estimated_amount": 174710.06,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Iron Deluxe SRL",
+        "id": "MD-IDNO-1005600012120",
+        "amount": 174710.06,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783511983875",
+    "date": "2026-07-08T12:02:00Z",
+    "title": "EBI 000962551 Tobogan",
+    "buyer": "Primaria Banesti",
+    "cpv": "37500000-3",
+    "estimated_amount": 3102.5,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "\"EXIMPROD-TRADE\" S.R.L.",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 3102.5,
+        "status": "pending"
+      }
+    ]
   }
 ]
