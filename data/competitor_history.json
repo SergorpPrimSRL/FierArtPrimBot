@@ -8666,5 +8666,39 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1782825000923",
+    "date": "2026-06-30T13:20:15Z",
+    "title": "Balansoar, tobogan, leagan pentru teren de joaca",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE BUIUCANI",
+    "cpv": "37530000-2",
+    "estimated_amount": 33065.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"POWER TEAM\"",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 33065.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1782890963299",
+    "date": "2026-07-01T07:34:43Z",
+    "title": "Procurarea uneltelor si sculelor, inventarului de producere ",
+    "buyer": "PRIMARIA SATULUI SAUCA",
+    "cpv": "37500000-3",
+    "estimated_amount": 2482.5,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"EXIMPROD-TRADE\"",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 2482.5,
+        "status": "pending"
+      }
+    ]
   }
 ]
