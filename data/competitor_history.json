@@ -9865,5 +9865,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1787129349210",
+    "date": "2026-08-19T08:57:25Z",
+    "title": "Foișor din metal bănci, stâlpi pentru felinar,  coș pentru gunoi,  panou informativ.",
+    "buyer": "OCNITA OR.PRIMARIA",
+    "cpv": "45200000-9",
+    "estimated_amount": 245500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. ALEXSTROI",
+        "id": "MD-IDNO-1019604000801",
+        "amount": 245500.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
