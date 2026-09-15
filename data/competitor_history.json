@@ -9111,5 +9111,73 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783937591034",
+    "date": "2026-07-13T10:16:02Z",
+    "title": "Mobilier urban ",
+    "buyer": "ANENII NOI PRIMARIA",
+    "cpv": "34900000-6",
+    "estimated_amount": 148333.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"GRAPHTEC\"",
+        "id": "MD-IDNO-1025604008833",
+        "amount": 148333.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783938012530",
+    "date": "2026-07-13T10:27:56Z",
+    "title": "Achiziţionarea garduț și dale de cauciuc la teren de joaca str.Chisinaului ,or.Anenii Noi",
+    "buyer": "ANENII NOI PRIMARIA",
+    "cpv": "37500000-3",
+    "estimated_amount": 149983.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SERGORP-PRIM\"",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 149983.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783939195253",
+    "date": "2026-07-13T10:42:28Z",
+    "title": "Echipamente pentru locul de joacă și a mobilierului urban (bănci și urne de gunoi)",
+    "buyer": "PRIMARIA COMUNEI VARZARESTI",
+    "cpv": "37500000-3",
+    "estimated_amount": 84166.66,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"TRIO CONSTRUCT\"",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 84166.66,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783940618441",
+    "date": "2026-07-13T11:06:22Z",
+    "title": "Procurarea leagănului din lemn pentru Parcul Tinerilor",
+    "buyer": "ANENII NOI PRIMARIA",
+    "cpv": "37500000-3",
+    "estimated_amount": 10833.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. LEMN EXPERT SERVICE",
+        "id": "MD-IDNO-1022600045217",
+        "amount": 10833.33,
+        "status": "pending"
+      }
+    ]
   }
 ]
