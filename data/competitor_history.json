@@ -9223,5 +9223,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1784128849303",
+    "date": "2026-07-15T15:23:38Z",
+    "title": "Tobogan spiralat H 150",
+    "buyer": "PRIMARIA ORASULUI SINGERA",
+    "cpv": "37530000-2",
+    "estimated_amount": 8666.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"TRIO CONSTRUCT\"",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 8666.67,
+        "status": "pending"
+      }
+    ]
   }
 ]
