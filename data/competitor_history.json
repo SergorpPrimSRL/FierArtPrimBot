@@ -9473,5 +9473,22 @@
     "estimated_amount": 582083.58,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1785132030796",
+    "date": "2026-07-27T06:04:24Z",
+    "title": "Leagan L 26/26 personalizat",
+    "buyer": "PRIMARIA SATULUI LIMBENII VECHI",
+    "cpv": "37520000-9",
+    "estimated_amount": 120833.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SERGORP-PRIM\"",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 120833.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
