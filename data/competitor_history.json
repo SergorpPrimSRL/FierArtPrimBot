@@ -8906,5 +8906,56 @@
     "estimated_amount": 54220.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1778766180310",
+    "date": "2026-07-07T10:16:41Z",
+    "title": "Amenajarea terenurilor de joacă” (Echipamente pentru locuri de joacă (inclusiv instalarea)  la IET subordonate DETS Botanica anul 2026.”",
+    "buyer": "Direcția Educație Tineret și Sport Sectorul Botanica",
+    "cpv": "37500000-3",
+    "estimated_amount": 423000.0,
+    "bidders": [
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 141590.0
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 151940.0
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 223334.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 220834.0,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 223330.0,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 141590.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 151940.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
