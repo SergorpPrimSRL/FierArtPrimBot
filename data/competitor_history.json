@@ -9339,5 +9339,62 @@
     "estimated_amount": 144099.74,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783499963617",
+    "date": "2026-07-17T09:30:55Z",
+    "title": "Spațiu de recreere și socializare pentru mic și mare",
+    "buyer": "Primaria comunei Tareuca",
+    "cpv": "37500000-3",
+    "estimated_amount": 139199.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 118917.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 118917.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1784299807374",
+    "date": "2026-07-17T14:51:37Z",
+    "title": "Servicii închiriere tobogane gonflabile ",
+    "buyer": "PRIMARIA COMUNEI FALESTII NOI",
+    "cpv": "92300000-4",
+    "estimated_amount": 19980.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"MC STIL IMPORT\"",
+        "id": "MD-IDNO-1012600021489",
+        "amount": 19980.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1784304954077",
+    "date": "2026-07-17T16:18:27Z",
+    "title": "Pavilion- Foișor din lemn",
+    "buyer": "PRIMARIA COMUNEI FALESTII NOI",
+    "cpv": "45260000-7",
+    "estimated_amount": 105000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SOCIETATEA COMERCIALA \"ELMONT-PRIM\" S.R.L.",
+        "id": "MD-IDNO-1005600036522",
+        "amount": 105000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
