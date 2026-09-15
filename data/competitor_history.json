@@ -8896,5 +8896,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783338968822",
+    "date": "2026-07-06T11:59:30Z",
+    "title": "Produse structurale",
+    "buyer": "PRIMARIA COMUNEI ALEXANDRESTI",
+    "cpv": "44200000-2",
+    "estimated_amount": 54220.0,
+    "bidders": [],
+    "awards": []
   }
 ]
