@@ -9413,5 +9413,38 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783535267827",
+    "date": "2026-07-20T20:38:00Z",
+    "title": "Selectarea unei companii pentru dotarea și amenajarea terenului de joacă destinat copiilor beneficiari ai Serviciului social „Centrul de zi pentru îngrijirea copiilor cu vârsta 9 luni – 3 ani” din or. Sîngerei",
+    "buyer": "A.O. \"SOLIDARII NEAMULUI\"",
+    "cpv": "37535200-9",
+    "estimated_amount": 200000.0,
+    "bidders": [
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 199898.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 199898.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1784635590647",
+    "date": "2026-07-21T12:10:36Z",
+    "title": "Procurarea altor mijloace fixe",
+    "buyer": "PRIMARIA COMUNEI BRANISTE",
+    "cpv": "37500000-3",
+    "estimated_amount": 98610.0,
+    "bidders": [],
+    "awards": []
   }
 ]
