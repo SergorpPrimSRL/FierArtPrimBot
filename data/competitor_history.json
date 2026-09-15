@@ -8700,5 +8700,25 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1782243538061",
+    "date": "2026-07-02T20:40:00Z",
+    "title": "Selectarea unei companii pentru dotarea și amenajarea terenului de joacă destinat copiilor beneficiari ai Serviciului social „Centrul de zi pentru îngrijirea copiilor cu vârsta 9 luni – 3 ani” din or. Sîngerei",
+    "buyer": "A.O. \"SOLIDARII NEAMULUI\"",
+    "cpv": "37535200-9",
+    "estimated_amount": 200000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1782374988988",
+    "date": "2026-07-02T21:00:00Z",
+    "title": "Spațiu de recreere și socializare pentru mic și mare",
+    "buyer": "Primaria comunei Tareuca",
+    "cpv": "37500000-3",
+    "estimated_amount": 139199.0,
+    "bidders": [],
+    "awards": []
   }
 ]
