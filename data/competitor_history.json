@@ -9077,5 +9077,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783595579748",
+    "date": "2026-07-09T11:22:08Z",
+    "title": "Servicii de divertisment pentru copii la sărbătoarea Hramul satului  Elizaveta",
+    "buyer": "PRIMARIA S.ELIZAVETA",
+    "cpv": "92300000-4",
+    "estimated_amount": 20000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. FASSON-GLOBAL",
+        "id": "MD-IDNO-1020602000986",
+        "amount": 20000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
