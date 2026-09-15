@@ -8720,5 +8720,147 @@
     "estimated_amount": 139199.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783077607701",
+    "date": "2026-07-03T11:25:47Z",
+    "title": "Servicii de verificare a devizilor",
+    "buyer": "PRIMARIA SATULUI COTIUJENI",
+    "cpv": "71200000-0",
+    "estimated_amount": 3062.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"INDARCON PRIM\"",
+        "id": "MD-IDNO-1022600030646",
+        "amount": 3062.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1779967638545",
+    "date": "2026-07-03T12:21:21Z",
+    "title": "Mobilier urban",
+    "buyer": "DIRECȚIA GENERALA LOCATIV-COMUNALA ȘI AMENAJARE A CONSILIULU",
+    "cpv": "34928400-2",
+    "estimated_amount": 5508000.0,
+    "bidders": [
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 2196997.92
+      },
+      {
+        "name": "BARZINE-CONS",
+        "id": "MD-IDNO-1008600012121",
+        "amount": 1986000.0
+      },
+      {
+        "name": "Rodonit-Com",
+        "id": "MD-IDNO-1017600050376",
+        "amount": 2459210.0
+      },
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 2676999.0
+      },
+      {
+        "name": "Fabro-Fier",
+        "id": "MD-IDNO-1008608002779",
+        "amount": 1998060.0
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 2659020.0
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 2256800.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "BARZINE-CONS",
+        "id": "MD-IDNO-1008600012121",
+        "amount": 1986000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Fabro-Fier",
+        "id": "MD-IDNO-1008608002779",
+        "amount": 1998060.0,
+        "status": "pending"
+      },
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 2037331.28,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 2087600.0,
+        "status": "pending"
+      },
+      {
+        "name": "Rodonit-Com",
+        "id": "MD-IDNO-1017600050376",
+        "amount": 2278210.0,
+        "status": "pending"
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 2333000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 2496999.52,
+        "status": "pending"
+      },
+      {
+        "name": "BARZINE-CONS",
+        "id": "MD-IDNO-1008600012121",
+        "amount": 2145000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 2196997.92,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 2256800.0,
+        "status": "pending"
+      },
+      {
+        "name": "Rodonit-Com",
+        "id": "MD-IDNO-1017600050376",
+        "amount": 2459210.0,
+        "status": "pending"
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 2659020.0,
+        "status": "pending"
+      },
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 2676999.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
