@@ -10060,5 +10060,127 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1787301398653",
+    "date": "2026-08-21T08:36:38Z",
+    "title": "Achiziționarea și instalarea leagănului cu acoperiș în or.Vatra, str.Ștefan Vodă nr.39 ",
+    "buyer": "PRIMARIA OR.VATRA,MUN.CHISINAU",
+    "cpv": "",
+    "estimated_amount": 105000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1787302312378",
+    "date": "2026-08-21T08:56:20Z",
+    "title": "Achiziționarea și instalarea leagănului cu acoperiș în or.Vatra, str.Ștefan Vodă nr.39 ",
+    "buyer": "PRIMARIA OR.VATRA,MUN.CHISINAU",
+    "cpv": "34900000-6",
+    "estimated_amount": 105000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. IRON DELUXE",
+        "id": "MD-IDNO-1023600033220",
+        "amount": 105000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1787308849987",
+    "date": "2026-08-21T10:46:18Z",
+    "title": "Servicii de divertisment pentru copiii din or.Vatra (topogane gonflabile, carusel și trambuline) pentru 14 octombrie 2026 – Hramul orașului Vatra",
+    "buyer": "PRIMARIA OR.VATRA,MUN.CHISINAU",
+    "cpv": "92300000-4",
+    "estimated_amount": 84000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"AMELIA KIDS\"",
+        "id": "MD-IDNO-1018600018021",
+        "amount": 84000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1786534178967",
+    "date": "2026-08-21T11:02:43Z",
+    "title": "Amenajarea unui teren de joacă pentru copii, inclusiv livrarea, montarea și punerea în funcțiune a echipamentelor de joacă în satul Ghidighici, mun. Chișinău",
+    "buyer": "Primaria Ghidighici",
+    "cpv": "37500000-3",
+    "estimated_amount": 216000.0,
+    "bidders": [
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 199400.0
+      },
+      {
+        "name": "HIDROIZOLARE PENTRU FIECARE",
+        "id": "MD-IDNO-1024605007537",
+        "amount": 173000.0
+      },
+      {
+        "name": "Fabro-Fier",
+        "id": "MD-IDNO-1008608002779",
+        "amount": 182000.0
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 220000.0
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 158393.33
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 212980.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 158393.33,
+        "status": "pending"
+      },
+      {
+        "name": "HIDROIZOLARE PENTRU FIECARE",
+        "id": "MD-IDNO-1024605007537",
+        "amount": 173000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Fabro-Fier",
+        "id": "MD-IDNO-1008608002779",
+        "amount": 182000.0,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 199400.0,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 212980.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 220000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
