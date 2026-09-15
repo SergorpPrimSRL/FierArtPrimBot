@@ -9757,5 +9757,62 @@
     "estimated_amount": 582083.58,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1785481544044",
+    "date": "2026-08-12T08:00:40Z",
+    "title": "Lucrări de Instalarea echipament de joaca și fitness Școala - Specială 12",
+    "buyer": "Direcția Educație Tineret și Sport Sectorul Botanica",
+    "cpv": "45200000-9",
+    "estimated_amount": 246539.3,
+    "bidders": [
+      {
+        "name": "Goldtech Solution",
+        "id": "MD-IDNO-1024600015148",
+        "amount": 245000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Goldtech Solution",
+        "id": "MD-IDNO-1024600015148",
+        "amount": 245000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1785769529590",
+    "date": "2026-08-12T12:10:25Z",
+    "title": "Foi de odihnă ( Servicii de alimentare si cazare a copiilor în taberele de odihnă ) pentru sezonul estival 2026",
+    "buyer": "Direcția Educație a Consiliului Raional Criuleni",
+    "cpv": "55200000-2",
+    "estimated_amount": 712350.0,
+    "bidders": [
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 495423.0
+      },
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 708000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 495423.0,
+        "status": "pending"
+      },
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 708000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
