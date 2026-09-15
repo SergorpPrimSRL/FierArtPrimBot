@@ -9679,5 +9679,39 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783267890124",
+    "date": "2026-08-04T10:37:23Z",
+    "title": "Amenajarea a doua foisoare moderne în curtea IP L.T.,,Academia copiilor,, din str.Albisoara 16/3 mun. Chisinau",
+    "buyer": "IPLTAcademiaCopiilor",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [
+      {
+        "name": "Camonir",
+        "id": "MD-IDNO-1004600018804",
+        "amount": 213719.0
+      },
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 239850.45
+      }
+    ],
+    "awards": [
+      {
+        "name": "Camonir",
+        "id": "MD-IDNO-1004600018804",
+        "amount": 213719.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 239850.45,
+        "status": "pending"
+      }
+    ]
   }
 ]
