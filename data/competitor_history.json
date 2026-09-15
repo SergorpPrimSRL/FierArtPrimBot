@@ -9882,5 +9882,183 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1779111820093",
+    "date": "2026-08-20T07:17:56Z",
+    "title": "Complex de joacă str. C. Bălțului,76, Luceafărul ,2,11 din m. Soroca.",
+    "buyer": "Primaria municipiului Soroca",
+    "cpv": "37400000-2",
+    "estimated_amount": 725000.0,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 600000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 600000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1777297527346",
+    "date": "2026-08-20T07:19:18Z",
+    "title": "Mobilier urban(urne,vază, scaune) pwentru necesitățile m. Soroca",
+    "buyer": "Primaria municipiului Soroca",
+    "cpv": "37400000-2",
+    "estimated_amount": 599775.0,
+    "bidders": [
+      {
+        "name": "SRL Radial Plus",
+        "id": "MD-IDNO-1003600050300",
+        "amount": 592815.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL Radial Plus",
+        "id": "MD-IDNO-1003600050300",
+        "amount": 592815.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1787218911319",
+    "date": "2026-08-20T09:43:57Z",
+    "title": "FOISOARE DIN METAL",
+    "buyer": "PRIMARIA SATULUI LIMBENII VECHI",
+    "cpv": "37500000-3",
+    "estimated_amount": 74958.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "C.C. DIN SATUL ZAIM",
+        "id": "MD-IDNO-1003608004240",
+        "amount": 74958.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1787219535231",
+    "date": "2026-08-20T09:57:21Z",
+    "title": "ALTE MIJLOACE FIXE",
+    "buyer": "PRIMARIA SATULUI LIMBENII VECHI",
+    "cpv": "37500000-3",
+    "estimated_amount": 109355.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SERGORP-PRIM\"",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 109355.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1786442761130",
+    "date": "2026-08-20T13:01:04Z",
+    "title": "Mobilier urban (bănci stradale și coșuri de gunoi)",
+    "buyer": "PRIMARIA COMUNEI CIORESCU",
+    "cpv": "34928000-8",
+    "estimated_amount": 193000.0,
+    "bidders": [
+      {
+        "name": "SRL PLESCO IOMAR",
+        "id": "MD-IDNO-1022604000858",
+        "amount": 46500.0
+      },
+      {
+        "name": "Miliser SRL",
+        "id": "MD-IDNO-1007600024624",
+        "amount": 78000.0
+      },
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 60000.0
+      },
+      {
+        "name": "S.R.L Urban Nova Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 52375.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 60000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Urban Nova Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 62250.0,
+        "status": "pending"
+      },
+      {
+        "name": "Miliser SRL",
+        "id": "MD-IDNO-1007600024624",
+        "amount": 62500.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL PLESCO IOMAR",
+        "id": "MD-IDNO-1022604000858",
+        "amount": 68700.0,
+        "status": "pending"
+      },
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 69000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Urban Nova Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 77850.0,
+        "status": "pending"
+      },
+      {
+        "name": "Miliser SRL",
+        "id": "MD-IDNO-1007600024624",
+        "amount": 78000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL PLESCO IOMAR",
+        "id": "MD-IDNO-1022604000858",
+        "amount": 46500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 48750.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Urban Nova Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 52375.0,
+        "status": "pending"
+      },
+      {
+        "name": "Miliser SRL",
+        "id": "MD-IDNO-1007600024624",
+        "amount": 52500.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
