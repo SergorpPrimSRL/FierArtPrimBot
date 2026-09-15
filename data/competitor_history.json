@@ -9713,5 +9713,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1786003824211",
+    "date": "2026-08-06T08:13:45Z",
+    "title": "Echipament pentru terenuri de joacă",
+    "buyer": "PRIMARIA SATULUI MERENI",
+    "cpv": "37500000-3",
+    "estimated_amount": 69333.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SITERRA COMPANY\"",
+        "id": "MD-IDNO-1020600021992",
+        "amount": 69333.33,
+        "status": "pending"
+      }
+    ]
   }
 ]
