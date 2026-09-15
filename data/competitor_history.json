@@ -9196,5 +9196,32 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1784099001972",
+    "date": "2026-07-15T07:05:12Z",
+    "title": "Amenajarea statiei de asteptare cu gard metalic dcorativ pe str. Chisinaului din s. Budești",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 121666.67,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1784099615351",
+    "date": "2026-07-15T07:23:49Z",
+    "title": "Servicii de divertisment pentru copii",
+    "buyer": "OCNITA OR.PRIMARIA",
+    "cpv": "92300000-4",
+    "estimated_amount": 22750.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"COCOGRUP\"",
+        "id": "MD-IDNO-1009609002773",
+        "amount": 22750.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
