@@ -9490,5 +9490,79 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1784203443063",
+    "date": "2026-07-29T13:12:55Z",
+    "title": "Lucrări de reparație la instituții din subordinea DETS sect. Buiucani",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 1873474.0,
+    "bidders": [
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 169512.06
+      },
+      {
+        "name": "SC MIHCONS PLUS",
+        "id": "MD-IDNO-1005600035248",
+        "amount": 722889.94
+      },
+      {
+        "name": "SRL Anreal Cons",
+        "id": "MD-IDNO-1016600000879",
+        "amount": 523610.0
+      },
+      {
+        "name": "SRL Frabo Grup",
+        "id": "MD-IDNO-1014600032919",
+        "amount": 509736.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL Frabo Grup",
+        "id": "MD-IDNO-1014600032919",
+        "amount": 509736.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL Anreal Cons",
+        "id": "MD-IDNO-1016600000879",
+        "amount": 523610.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC MIHCONS PLUS",
+        "id": "MD-IDNO-1005600035248",
+        "amount": 572655.7,
+        "status": "pending"
+      },
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 573081.14,
+        "status": "pending"
+      },
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 169512.06,
+        "status": "pending"
+      },
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 539409.2,
+        "status": "pending"
+      },
+      {
+        "name": "SC MIHCONS PLUS",
+        "id": "MD-IDNO-1005600035248",
+        "amount": 722889.94,
+        "status": "pending"
+      }
+    ]
   }
 ]
