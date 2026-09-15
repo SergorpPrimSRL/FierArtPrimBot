@@ -9240,5 +9240,104 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1774860427879",
+    "date": "2026-07-16T10:31:52Z",
+    "title": "Complex de joacă exterior multifuncțional ",
+    "buyer": "Ministerul Educației și Cercetării",
+    "cpv": "37535200-9",
+    "estimated_amount": 4170000.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 3723958.33
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 3041666.67
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 4160000.0
+      },
+      {
+        "name": "Didact Vega",
+        "id": "MD-IDNO-1011600040409",
+        "amount": 4150000.0
+      },
+      {
+        "name": "Fabro-Fier",
+        "id": "MD-IDNO-1008608002779",
+        "amount": 2589000.0
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 3750000.0
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 3896000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Fabro-Fier",
+        "id": "MD-IDNO-1008608002779",
+        "amount": 2589000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 2840000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Didact Vega",
+        "id": "MD-IDNO-1011600040409",
+        "amount": 2850000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 3499000.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 3500000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 3600000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 3723958.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1784199355549",
+    "date": "2026-07-16T10:59:38Z",
+    "title": "Lucrări de amenajare cu pavaj ",
+    "buyer": "PRETURA SECTORULUI CENTRU",
+    "cpv": "45230000-8",
+    "estimated_amount": 144099.74,
+    "bidders": [],
+    "awards": []
   }
 ]
