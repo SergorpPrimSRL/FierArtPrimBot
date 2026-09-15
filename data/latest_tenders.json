@@ -1,5 +1,24 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1789368831343",
+    "title": "Construcția scenei metalice în s.Țarigrad, r-nul Drochia",
+    "authority": "Primaria Tarigrad",
+    "amount": 212076.06,
+    "currency": "MDL",
+    "deadline": "2026-09-23T07:00:00Z",
+    "deadline_text": "23.09.2026 10:00",
+    "status": "clarification",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "scenei",
+      "construcția scenei"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789368831343",
+    "source_date": "2026-09-15T11:15:14Z",
+    "saved_at": "2026-09-15T11:25:42.562062+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1788963701884",
     "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
     "authority": "Grădina Zoologică",
