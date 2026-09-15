@@ -9396,5 +9396,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1784527845953",
+    "date": "2026-07-20T06:15:29Z",
+    "title": "Procurarea construcţiilor speciale – Foișor pentru grădiniță",
+    "buyer": "PRIMARIA ORASULUI BASARABEASCA",
+    "cpv": "44400000-4",
+    "estimated_amount": 266633.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"FIER-ART-PRIM\"",
+        "id": "MD-IDNO-1019608000647",
+        "amount": 266633.33,
+        "status": "pending"
+      }
+    ]
   }
 ]
