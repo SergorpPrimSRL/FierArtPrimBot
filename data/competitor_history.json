@@ -9094,5 +9094,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1783604961299",
+    "date": "2026-07-09T13:55:34Z",
+    "title": "Servicii de reparație a complexului sportiv, balansoare și scaune la IPET nr.8 din str.Negruzzi 105, mun. Orhei",
+    "buyer": "PRIMARIA MUNICIPIULUI ORHEI",
+    "cpv": "45200000-9",
+    "estimated_amount": 20750.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"NOVA PARK COMPANY\"",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 20750.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
