@@ -9564,5 +9564,120 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1785745985828",
+    "date": "2026-08-03T08:33:05Z",
+    "title": "Repații curente a scenei de vară și amenajarea parcului din s. Bulboci rnul Soroca",
+    "buyer": "Primaria Bulboci",
+    "cpv": "",
+    "estimated_amount": 582083.58,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1785750338773",
+    "date": "2026-08-03T10:01:00Z",
+    "title": "Repații curente a scenei de vară și amenajarea parcului din s. Bulboci rnul Soroca",
+    "buyer": "Primaria Bulboci",
+    "cpv": "",
+    "estimated_amount": 582083.58,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1785752643869",
+    "date": "2026-08-03T10:29:15Z",
+    "title": "Mobilier de grădină pentru IMSP SR Căușeni",
+    "buyer": "I.M.S.P.S.R. Causeni ANA SI ALEXANDRU",
+    "cpv": "39150000-8",
+    "estimated_amount": 70000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PRODECOILUMINARE\"",
+        "id": "MD-IDNO-1017600043974",
+        "amount": 70000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1785738085774",
+    "date": "2026-08-03T13:36:32Z",
+    "title": "Reparații curente a scenei de vară și amenajarea parcului din s. Bulboci rnul Soroca",
+    "buyer": "Primaria Bulboci",
+    "cpv": "",
+    "estimated_amount": 582083.58,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1784683019540",
+    "date": "2026-08-03T14:41:36Z",
+    "title": "Echipament pentru terenuri de joacă (inclusiv livrare și instalare), CPV: 37535200-9 ",
+    "buyer": "Primaria Puhaceni",
+    "cpv": "37500000-3",
+    "estimated_amount": 333000.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 318620.83
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 314800.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 314800.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 318620.83,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1785822794561",
+    "date": "2026-08-04T05:57:50Z",
+    "title": "Leagan semicerc",
+    "buyer": "PRIMARIA COMUNEI PRODANESTI",
+    "cpv": "37500000-3",
+    "estimated_amount": 104960.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. PRO TRON MEDIA",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 104960.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1785829304443",
+    "date": "2026-08-04T07:44:06Z",
+    "title": "Servicii de închiriere tobogane",
+    "buyer": "PRIMARIA COMUNEI DRASLICENI",
+    "cpv": "37500000-3",
+    "estimated_amount": 13800.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"MC STIL IMPORT\"",
+        "id": "MD-IDNO-1012600021489",
+        "amount": 13800.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
