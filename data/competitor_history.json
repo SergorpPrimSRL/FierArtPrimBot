@@ -327,6 +327,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1736844724990",
+    "date": "2025-01-14T09:23:52Z",
+    "title": "Materiale necesare pentru Camera Senzorială, conform necesităților LT” Lucian Blaga” din mun. Bălți",
+    "buyer": "DIRECTIA INVATAMINT,TINERET SI SPORT",
+    "cpv": "37500000-3",
+    "estimated_amount": 149958.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SC ”LEXSPORT” SRL",
+        "id": "MD-IDNO-1012600000077",
+        "amount": 149958.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
