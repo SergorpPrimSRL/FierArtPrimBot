@@ -10182,5 +10182,130 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1784100926109",
+    "date": "2026-08-24T14:17:50Z",
+    "title": "Lucrări de reparație capitală a grupei de creșă și a foișorului aferent în cadrul proiectului «Primii pași spre viitor – extinderea serviciilor de creșă în satul Hîrbovăț, raionul Anenii Noi",
+    "buyer": "Primaria Hirbovat",
+    "cpv": "45400000-1",
+    "estimated_amount": 1047653.09,
+    "bidders": [
+      {
+        "name": "TERMPROVIT",
+        "id": "MD-IDNO-1005608001520",
+        "amount": 754806.09
+      },
+      {
+        "name": "VIKMAR INVEST SRL",
+        "id": "MD-IDNO-1014600026123",
+        "amount": 827038.0
+      },
+      {
+        "name": "CP INVEST CONSTRUCT S.R.L.",
+        "id": "MD-IDNO-1023600046679",
+        "amount": 692440.71
+      },
+      {
+        "name": "Reniur cons",
+        "id": "MD-IDNO-1008600012730",
+        "amount": 171356.86
+      }
+    ],
+    "awards": [
+      {
+        "name": "TERMPROVIT",
+        "id": "MD-IDNO-1005608001520",
+        "amount": 159646.88,
+        "status": "pending"
+      },
+      {
+        "name": "Reniur cons",
+        "id": "MD-IDNO-1008600012730",
+        "amount": 171356.86,
+        "status": "pending"
+      },
+      {
+        "name": "CP INVEST CONSTRUCT S.R.L.",
+        "id": "MD-IDNO-1023600046679",
+        "amount": 173566.21,
+        "status": "pending"
+      },
+      {
+        "name": "VIKMAR INVEST SRL",
+        "id": "MD-IDNO-1014600026123",
+        "amount": 176561.74,
+        "status": "pending"
+      },
+      {
+        "name": "CP INVEST CONSTRUCT S.R.L.",
+        "id": "MD-IDNO-1023600046679",
+        "amount": 692440.71,
+        "status": "pending"
+      },
+      {
+        "name": "Reniur cons",
+        "id": "MD-IDNO-1008600012730",
+        "amount": 713789.77,
+        "status": "pending"
+      },
+      {
+        "name": "TERMPROVIT",
+        "id": "MD-IDNO-1005608001520",
+        "amount": 754806.09,
+        "status": "pending"
+      },
+      {
+        "name": "VIKMAR INVEST SRL",
+        "id": "MD-IDNO-1014600026123",
+        "amount": 827038.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1787230629739",
+    "date": "2026-08-25T08:11:57Z",
+    "title": "Reparație curentă cu amenajarea terenului de joacă a scuarului fostei grădinițe din satul Zaim",
+    "buyer": "PRIMARIA COMUNEI ZAIM",
+    "cpv": "37535000-7",
+    "estimated_amount": 217537.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 217490.87
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 199058.33
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 176324.19
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 176324.19,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 199058.33,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 217490.87,
+        "status": "pending"
+      }
+    ]
   }
 ]
