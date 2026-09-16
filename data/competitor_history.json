@@ -10703,5 +10703,49 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1787923241747",
+    "date": "2026-09-10T06:18:39Z",
+    "title": "Lucrari de instalare a echipamentelor de joaca si mobilier urban str. Lomonosov 49",
+    "buyer": "Pretura sectorului Centru",
+    "cpv": "45200000-9",
+    "estimated_amount": 443557.65,
+    "bidders": [
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 378317.0
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 455256.36
+      }
+    ],
+    "awards": [
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 378317.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 455256.36,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1787750095499",
+    "date": "2026-09-10T07:04:34Z",
+    "title": "Platforme pentru colectarea deșeurilor menajere, inclusiv instalarea și amenajarea",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "34900000-6",
+    "estimated_amount": 4900000.0,
+    "bidders": [],
+    "awards": []
   }
 ]
