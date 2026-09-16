@@ -249,6 +249,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1736510331835",
+    "date": "2025-01-10T12:02:27Z",
+    "title": "Servicii de elaborare a devizelor ”Rețele aer/oxigen și ”Amenajare parcare”",
+    "buyer": "I.M.S.P. INSTITUTUL MAMEI SI COPILULUI",
+    "cpv": "71200000-0",
+    "estimated_amount": 30000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Arhidiv SRL",
+        "id": "MD-IDNO-102600049806",
+        "amount": 30000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
