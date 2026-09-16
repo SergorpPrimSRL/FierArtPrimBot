@@ -1,5 +1,61 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1729673882298",
+    "date": "2025-01-02T12:37:54Z",
+    "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
+    "buyer": "Primăria com. Tomaiul Nou",
+    "cpv": "45200000-9",
+    "estimated_amount": 819670.0,
+    "bidders": [
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 746186.33
+      },
+      {
+        "name": "Design și Inginerie",
+        "id": "MD-IDNO-1019606000012",
+        "amount": 807103.57
+      },
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 815988.36
+      },
+      {
+        "name": "L EOCONS PLUS SRL",
+        "id": "MD-IDNO-1003605001097",
+        "amount": 714699.39
+      }
+    ],
+    "awards": [
+      {
+        "name": "L EOCONS PLUS SRL",
+        "id": "MD-IDNO-1003605001097",
+        "amount": 714699.39,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 746186.33,
+        "status": "pending"
+      },
+      {
+        "name": "Design și Inginerie",
+        "id": "MD-IDNO-1019606000012",
+        "amount": 807103.57,
+        "status": "pending"
+      },
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 815988.36,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
