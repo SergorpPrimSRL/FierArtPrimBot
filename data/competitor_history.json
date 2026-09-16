@@ -300,6 +300,33 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1736774121436",
+    "date": "2025-01-13T13:18:56Z",
+    "title": "Procurarea balansor,leagan la teren de joaca",
+    "buyer": "PRIMARIA COMUNEI CALUGAR",
+    "cpv": "37500000-3",
+    "estimated_amount": 20500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "AE-ACCI-1019600055179",
+        "amount": 20500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1736781821501",
+    "date": "2025-01-13T15:25:35Z",
+    "title": "Extinderea gardului din parcul public cu teren de joacă pentru copii situat pe str. A.Mateevici, or Stăuceni, mun. Chișinău",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "45200000-9",
+    "estimated_amount": 112840.15,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
