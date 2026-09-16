@@ -10646,5 +10646,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1788684760128",
+    "date": "2026-09-06T08:54:37Z",
+    "title": "SERVICII DE INSTALARE A UNUI SET FORMAT DIN PATRU LEAGANE SITUAT IN S. COTIUJENII MARI",
+    "buyer": "PRIMARIA COMUNEI COTIUJENII MARI",
+    "cpv": "50700000-2",
+    "estimated_amount": 7000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Racu\tIurie",
+        "id": "MD-IDNO-2001038032834",
+        "amount": 7000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
