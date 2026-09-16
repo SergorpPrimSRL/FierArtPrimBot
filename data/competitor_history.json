@@ -56,6 +56,94 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1732797213453",
+    "date": "2025-01-03T11:18:08Z",
+    "title": "Teren sportiv pe teritoriul Gimnaziului Romanesti (teren nr. cad. 80301090184)",
+    "buyer": "Primaria Romanesti",
+    "cpv": "45200000-9",
+    "estimated_amount": 823044.78,
+    "bidders": [
+      {
+        "name": "VISOM - CONS",
+        "id": "MD-IDNO-1020600017616",
+        "amount": 678815.0
+      },
+      {
+        "name": "IMO POST",
+        "id": "MD-IDNO-1008611002564",
+        "amount": 699594.28
+      },
+      {
+        "name": "Optimum SLine",
+        "id": "MD-IDNO-1022600043936",
+        "amount": 686668.39
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 799981.63
+      },
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 737973.19
+      },
+      {
+        "name": "New Future Tech",
+        "id": "MD-IDNO-1020600014693",
+        "amount": 673108.23
+      }
+    ],
+    "awards": [
+      {
+        "name": "New Future Tech",
+        "id": "MD-IDNO-1020600014693",
+        "amount": 673108.23,
+        "status": "pending"
+      },
+      {
+        "name": "VISOM - CONS",
+        "id": "MD-IDNO-1020600017616",
+        "amount": 678815.0,
+        "status": "pending"
+      },
+      {
+        "name": "Optimum SLine",
+        "id": "MD-IDNO-1022600043936",
+        "amount": 686668.39,
+        "status": "pending"
+      },
+      {
+        "name": "IMO POST",
+        "id": "MD-IDNO-1008611002564",
+        "amount": 699594.28,
+        "status": "pending"
+      },
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 737973.19,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 799981.63,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1735903804608",
+    "date": "2025-01-03T11:35:23Z",
+    "title": "Reîncărcarea cărușelor",
+    "buyer": "DIRECTIA FINANTE A CONSILIULUI RAIONAL ANENII NOI",
+    "cpv": "50300000-8",
+    "estimated_amount": 508.33,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
