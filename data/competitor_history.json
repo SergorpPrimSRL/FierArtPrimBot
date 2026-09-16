@@ -14471,5 +14471,22 @@
     "estimated_amount": 1000000.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789559461283",
+    "date": "2026-09-16T11:53:55Z",
+    "title": "Echipament pentru terenuri de joacă",
+    "buyer": "PRIMARIA SATULUI CALINESTI",
+    "cpv": "37500000-3",
+    "estimated_amount": 1855.31,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"ION CECAN\"",
+        "id": "MD-IDNO-1006602008465",
+        "amount": 1855.31,
+        "status": "pending"
+      }
+    ]
   }
 ]
