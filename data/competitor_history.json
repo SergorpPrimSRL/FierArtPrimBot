@@ -14488,5 +14488,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789561858041",
+    "date": "2026-09-16T12:40:56Z",
+    "title": "Achiziționarea uneltelor și sculelor, inventarului de producere și gospodăresc și procurarea altor materiale.",
+    "buyer": "PRIMARIA LEOVA",
+    "cpv": "34900000-6",
+    "estimated_amount": 47833.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"VIZOL-STUDIO\"",
+        "id": "MD-IDNO-1005611000031",
+        "amount": 47833.33,
+        "status": "pending"
+      }
+    ]
   }
 ]
