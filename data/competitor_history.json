@@ -283,6 +283,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1736766634576",
+    "date": "2025-01-13T11:13:32Z",
+    "title": "Confectionarea si instalarea foisorului",
+    "buyer": "PRIMARIA COMUNEI CALUGAR",
+    "cpv": "37500000-3",
+    "estimated_amount": 25755.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SA Agroservice",
+        "id": "AE-ACCI-1003602021906",
+        "amount": 25755.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
