@@ -178,6 +178,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1736360444306",
+    "date": "2025-01-08T18:24:37Z",
+    "title": "LEAGAN GLOBO SEMICERC",
+    "buyer": "PRIMARIA ORASULUI CAUSENI",
+    "cpv": "39110000-6",
+    "estimated_amount": 108333.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 108333.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
