@@ -10629,5 +10629,22 @@
     "estimated_amount": 460010.83,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1788504297290",
+    "date": "2026-09-04T06:47:34Z",
+    "title": "Lucrari de instalare a sistemului de irigare prin picurare pentru amenajarea parcului s.Socoleni",
+    "buyer": "AO OMUL SFINTESTE LOCUL",
+    "cpv": "45230000-8",
+    "estimated_amount": 140811.88,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"GARDEN SOLUTIONS\"",
+        "id": "MD-IDNO-1024604016198",
+        "amount": 140811.88,
+        "status": "pending"
+      }
+    ]
   }
 ]
