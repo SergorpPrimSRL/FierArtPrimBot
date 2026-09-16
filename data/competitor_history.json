@@ -10861,16 +10861,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1789023327516",
-    "date": "2026-09-12T08:53:48Z",
-    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "45200000-9",
-    "estimated_amount": 1000000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1789374168819",
     "date": "2026-09-14T08:25:44Z",
     "title": "servicii de proiectare pentru amenajarea scuarului",
@@ -14464,11 +14454,21 @@
   },
   {
     "ocid": "ocds-b3wdp1-MD-1789547989637",
-    "date": "2026-09-16T10:14:10Z",
+    "date": "2026-09-16T10:42:31Z",
     "title": "Complexe de joacă, inclusiv instalarea și amenajarea lor pe teritoriul municipiului Bălți din str.Tiraspol, nr.7, str.Independenței, nr.94 și bd. Larisa, nr.7 ",
     "buyer": " Primăria mun. Bălți",
     "cpv": "37500000-3",
     "estimated_amount": 1004126.73,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789023327516",
+    "date": "2026-09-16T11:33:27Z",
+    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 1000000.0,
     "bidders": [],
     "awards": []
   }
