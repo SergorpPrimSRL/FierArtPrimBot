@@ -10747,5 +10747,22 @@
     "estimated_amount": 4900000.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789119623542",
+    "date": "2026-09-11T09:46:07Z",
+    "title": "Tobogan copii",
+    "buyer": "PRIMARIA SATULUI VISCAUTI",
+    "cpv": "37500000-3",
+    "estimated_amount": 6111.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"ELITEH TRADE\"",
+        "id": "MD-IDNO-1013600028810",
+        "amount": 6111.67,
+        "status": "pending"
+      }
+    ]
   }
 ]
