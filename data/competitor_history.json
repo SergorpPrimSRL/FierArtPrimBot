@@ -10596,5 +10596,38 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1786685840519",
+    "date": "2026-08-28T04:18:58Z",
+    "title": "Reparații curente a scenei de vară și amenajarea parcului din s. Bulboci rnul Soroca",
+    "buyer": "Primaria Bulboci",
+    "cpv": "45200000-9",
+    "estimated_amount": 582083.58,
+    "bidders": [
+      {
+        "name": "bianca&vladtrans",
+        "id": "MD-IDNO-1010607000692",
+        "amount": 512255.79
+      }
+    ],
+    "awards": [
+      {
+        "name": "bianca&vladtrans",
+        "id": "MD-IDNO-1010607000692",
+        "amount": 512255.79,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1786520944739",
+    "date": "2026-08-28T08:21:37Z",
+    "title": "Procurarea materialelor pentru scopuri didactice, științifice și alte scopuri pentru instituțiile subordonate Direcției Educație, Tineret și Sport sectorul Ciocana ",
+    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
+    "cpv": "37500000-3",
+    "estimated_amount": 460010.83,
+    "bidders": [],
+    "awards": []
   }
 ]
