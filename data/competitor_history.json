@@ -195,6 +195,60 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1736425596411",
+    "date": "2025-01-09T12:30:19Z",
+    "title": "Complex de joacă pentru IET nr. 110 și IET nr. 145",
+    "buyer": "DIRECTIA EDUCATIE, TINERET SI SPORT SECTORUL BUIUCANI",
+    "cpv": "37530000-2",
+    "estimated_amount": 149500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Alexei Com",
+        "id": "AE-ACCI-1016600040471",
+        "amount": 149500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1736431790608",
+    "date": "2025-01-09T14:18:21Z",
+    "title": "Achiziționarea mobilierului pentru instituțiile de educație timpurie și Tabăra Cireșarii",
+    "buyer": "D E T S S.CENTRU",
+    "cpv": "39100000-3",
+    "estimated_amount": 149163.34,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Econom Lux Group SRL",
+        "id": "AE-ACCI-1013600028957",
+        "amount": 149163.34,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1736433811412",
+    "date": "2025-01-09T14:43:31Z",
+    "title": "Confectionarea si instalarea foisorului",
+    "buyer": "PRIMARIA COMUNEI CALUGAR",
+    "cpv": "",
+    "estimated_amount": 25755.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1736434418737",
+    "date": "2025-01-09T14:53:38Z",
+    "title": "Confectionarea si instalarea foisorului",
+    "buyer": "PRIMARIA COMUNEI CALUGAR",
+    "cpv": "",
+    "estimated_amount": 25755.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
