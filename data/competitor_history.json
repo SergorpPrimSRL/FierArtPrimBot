@@ -10663,5 +10663,45 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1785764377164",
+    "date": "2026-09-07T09:01:41Z",
+    "title": "Reabilitarea infrastructurii de recreere ( teren de joacă pentru copii) amplasate pe str. N.M. Spătaru nr.30 și str. Tineretului  nr.40 din or. Cricova",
+    "buyer": "Primăria or. Cricova",
+    "cpv": "37500000-3",
+    "estimated_amount": 397800.0,
+    "bidders": [
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 370041.67
+      }
+    ],
+    "awards": [
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 370041.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1788777637540",
+    "date": "2026-09-07T10:43:15Z",
+    "title": "Echipamente pentru terenuri de joacă (Subvenții pru proiectul)",
+    "buyer": "COBUSCA VECHE PRIMARIA",
+    "cpv": "37500000-3",
+    "estimated_amount": 56818.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "\"SPIRITUL UNITATII\"",
+        "id": "MD-IDNO-1025620005272",
+        "amount": 56818.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
