@@ -512,16 +512,16 @@ row_date = str(
 if row_date >= END_OFFSET:
     continue
       
-        entry = {
-            "ocid": ocid,
-            "date": row.get("date"),
-            "title": title,
-            "buyer": buyer,
-            "cpv": get_cpv(record),
-            "estimated_amount": estimated,
-            "bidders": extract_bidders(record),
-            "awards": extract_awards(record)
-        }
+entry = {
+    "ocid": ocid,
+    "date": row.get("date"),
+    "title": title,
+    "buyer": buyer,
+    "cpv": get_cpv(record),
+    "estimated_amount": estimated,
+    "bidders": extract_bidders(record),
+    "awards": extract_awards(record)
+}
 
 
         by_ocid[ocid] = entry
