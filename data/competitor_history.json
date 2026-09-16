@@ -10896,5 +10896,80 @@
     "estimated_amount": 340000.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1788765233969",
+    "date": "2026-09-14T11:00:00Z",
+    "title": "Procurarea materialelor pentru scopuri didactice, științifice și alte scopuri pentru instituțiile subordonate Direcției Educație, Tineret și Sport sectorul Ciocana  (procedură repetată)",
+    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
+    "cpv": "37500000-3",
+    "estimated_amount": 460010.83,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789386223244",
+    "date": "2026-09-14T12:58:57Z",
+    "title": "Procurarea si instalarea complexelor de joaca si aparatelor de sport.",
+    "buyer": "PRIMARIA COMUNEI CRUZESTI",
+    "cpv": "37420000-8",
+    "estimated_amount": 20833.33,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1787583334612",
+    "date": "2026-09-14T15:30:53Z",
+    "title": "Lucrari de reparatii interioare la grupele cresa Foisor si Liliana,  gradinita Licurici, mun. Ungheni",
+    "buyer": "Primăria mun. Ungheni",
+    "cpv": "45400000-1",
+    "estimated_amount": 2092516.0,
+    "bidders": [
+      {
+        "name": "SERVICII COMUNALE UNGHENI",
+        "id": "MD-IDNO-1008609004415",
+        "amount": 1891581.39
+      },
+      {
+        "name": "''Eurogrupstim'' SRL",
+        "id": "MD-IDNO-1014600036168",
+        "amount": 1586257.45
+      },
+      {
+        "name": "Inteligent Instal",
+        "id": "MD-IDNO-1022600022937",
+        "amount": 1934216.54
+      }
+    ],
+    "awards": [
+      {
+        "name": "''Eurogrupstim'' SRL",
+        "id": "MD-IDNO-1014600036168",
+        "amount": 1586257.45,
+        "status": "pending"
+      },
+      {
+        "name": "SERVICII COMUNALE UNGHENI",
+        "id": "MD-IDNO-1008609004415",
+        "amount": 1891581.39,
+        "status": "pending"
+      },
+      {
+        "name": "Inteligent Instal",
+        "id": "MD-IDNO-1022600022937",
+        "amount": 1934216.54,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1788963701884",
+    "date": "2026-09-14T19:58:06Z",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
+    "buyer": "Grădina Zoologică",
+    "cpv": "37500000-3",
+    "estimated_amount": 466460.0,
+    "bidders": [],
+    "awards": []
   }
 ]
