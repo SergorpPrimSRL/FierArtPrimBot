@@ -144,6 +144,40 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1735156111213",
+    "date": "2025-01-05T09:03:08Z",
+    "title": "Procurarea complex de joaca",
+    "buyer": "PRIMARIA SATULUI SALCUTA",
+    "cpv": "44100000-1",
+    "estimated_amount": 39475.83,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "EXIMPROD-TRADE S.R.L",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 39475.83,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1734960055640",
+    "date": "2025-01-05T11:03:33Z",
+    "title": "Documentatia de proiect 'Teren sportiv multifunctional' si 'Teren de minifotbal cu acoperire artificiala'",
+    "buyer": "PRIMARIA SATULUI OPACI",
+    "cpv": "79900000-3",
+    "estimated_amount": 31200.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.C. ORDO - STIL S.R.L",
+        "id": "MD-IDNO-EAT 000689707",
+        "amount": 31200.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
