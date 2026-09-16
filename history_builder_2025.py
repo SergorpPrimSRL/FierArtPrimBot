@@ -505,36 +505,36 @@ for page_number in range(1, PAGES_PER_RUN + 1):
             "tender.value.amount"
         )
 
-row_date = str(
-    row.get("date") or ""
-)
-
-if row_date >= END_OFFSET:
-    continue
-      
-entry = {
-    "ocid": ocid,
-    "date": row.get("date"),
-    "title": title,
-    "buyer": buyer,
-    "cpv": get_cpv(record),
-    "estimated_amount": estimated,
-    "bidders": extract_bidders(record),
-    "awards": extract_awards(record)
-}
-
-
-by_ocid[ocid] = entry
-
-print(
-    "RELEVANT:",
-    title[:90],
-    "| bidders:",
-    len(entry["bidders"]),
-    "| awards:",
-    len(entry["awards"]),
-    flush=True
-)
+    row_date = str(
+        row.get("date") or ""
+    )
+    
+    if row_date >= END_OFFSET:
+        continue
+          
+    entry = {
+        "ocid": ocid,
+        "date": row.get("date"),
+        "title": title,
+        "buyer": buyer,
+        "cpv": get_cpv(record),
+        "estimated_amount": estimated,
+        "bidders": extract_bidders(record),
+        "awards": extract_awards(record)
+    }
+    
+    
+    by_ocid[ocid] = entry
+    
+    print(
+        "RELEVANT:",
+        title[:90],
+        "| bidders:",
+        len(entry["bidders"]),
+        "| awards:",
+        len(entry["awards"]),
+        flush=True
+    )
 
 
 next_cursor = str(
