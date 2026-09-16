@@ -2,6 +2,8 @@ name: Build Competitor History 2025
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0,30 * * * *"
 
 jobs:
   build-history-2025:
