@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1789023327516",
+    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
+    "authority": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "amount": 1000000.0,
+    "currency": "MDL",
+    "deadline": "2026-10-01T09:00:00Z",
+    "deadline_text": "01.10.2026 12:00",
+    "status": "clarification",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "teren de joacă"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789023327516",
+    "source_date": "2026-09-16T11:33:27Z",
+    "saved_at": "2026-09-16T11:38:17.870753+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1789547989637",
     "title": "Complexe de joacă, inclusiv instalarea și amenajarea lor pe teritoriul municipiului Bălți din str.Tiraspol, nr.7, str.Independenței, nr.94 și bd. Larisa, nr.7 ",
     "authority": " Primăria mun. Bălți",
@@ -90,24 +108,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788532682997",
     "source_date": "2026-09-14T08:35:01Z",
     "saved_at": "2026-09-14T08:41:03.480277+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789023327516",
-    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
-    "authority": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "amount": 1000000.0,
-    "currency": "MDL",
-    "deadline": "2026-10-01T09:00:00Z",
-    "deadline_text": "01.10.2026 12:00",
-    "status": "clarification",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "teren de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789023327516",
-    "source_date": "2026-09-12T08:53:48Z",
-    "saved_at": "2026-09-12T09:04:46.391548+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1789128600159",
