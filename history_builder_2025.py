@@ -524,30 +524,30 @@ entry = {
 }
 
 
-        by_ocid[ocid] = entry
+by_ocid[ocid] = entry
 
-        print(
-            "RELEVANT:",
-            title[:90],
-            "| bidders:",
-            len(entry["bidders"]),
-            "| awards:",
-            len(entry["awards"]),
-            flush=True
-        )
+print(
+    "RELEVANT:",
+    title[:90],
+    "| bidders:",
+    len(entry["bidders"]),
+    "| awards:",
+    len(entry["awards"]),
+    flush=True
+)
 
 
-    next_cursor = str(
-        listing.get("offset") or ""
-    )
+next_cursor = str(
+    listing.get("offset") or ""
+)
 
-    if (
-        not next_cursor
-        or next_cursor == cursor
-    ):
-        break
+if (
+    not next_cursor
+    or next_cursor == cursor
+):
+    break
 
-    cursor = next_cursor
+cursor = next_cursor
 
 
 history = list(
