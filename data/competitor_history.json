@@ -10764,5 +10764,137 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789128600159",
+    "date": "2026-09-11T12:13:28Z",
+    "title": "Servicii de elaborarea documentatiei de deviz pentru lucrari de amenajare a unuiloc de popas cu foisor",
+    "buyer": "PRIMARIA SATULUI RUDI",
+    "cpv": "98390000-3",
+    "estimated_amount": 3000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "INTREPRINZATOR INDIVIDUAL IAZINSCHI VALERIU",
+        "id": "MD-IDNO-1014607001011",
+        "amount": 3000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1769100386262",
+    "date": "2026-09-11T17:11:35Z",
+    "title": "Lucrări de amenajare a teritoriului (drumuri acces, platforme, garduri interioare, parcări, zone verzi, mobilier urban, etc.). Contract cu finanțare multianuală 2026-2028",
+    "buyer": "AGENŢIA ASIGURARE RESURSE ŞI ADMINISTRARE PATRIMONIU A MINISTERULUI APĂRĂRII",
+    "cpv": "45111291-4",
+    "estimated_amount": 91670000.0,
+    "bidders": [
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 86770594.26
+      },
+      {
+        "name": "Neledimpex",
+        "id": "MD-IDNO-1007600055200",
+        "amount": 72497120.98
+      },
+      {
+        "name": "SC \"Prestigiu - AZ\" SRL",
+        "id": "MD-IDNO-1005600037219",
+        "amount": 77487393.39
+      },
+      {
+        "name": "Horus",
+        "id": "MD-IDNO-1002600011498",
+        "amount": 116929440.67
+      },
+      {
+        "name": "S.A. LUSMECON",
+        "id": "MD-IDNO-1002600050842",
+        "amount": 83749792.8
+      },
+      {
+        "name": "DAS",
+        "id": "MD-IDNO-1986070",
+        "amount": 84999728.93
+      }
+    ],
+    "awards": [
+      {
+        "name": "Neledimpex",
+        "id": "MD-IDNO-1007600055200",
+        "amount": 72497120.98,
+        "status": "pending"
+      },
+      {
+        "name": "SC \"Prestigiu - AZ\" SRL",
+        "id": "MD-IDNO-1005600037219",
+        "amount": 77487393.39,
+        "status": "pending"
+      },
+      {
+        "name": "S.A. LUSMECON",
+        "id": "MD-IDNO-1002600050842",
+        "amount": 83749792.8,
+        "status": "pending"
+      },
+      {
+        "name": "DAS",
+        "id": "MD-IDNO-1986070",
+        "amount": 84999728.93,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 86770594.26,
+        "status": "pending"
+      },
+      {
+        "name": "Horus",
+        "id": "MD-IDNO-1002600011498",
+        "amount": 116929440.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789023327516",
+    "date": "2026-09-12T08:53:48Z",
+    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 1000000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789374168819",
+    "date": "2026-09-14T08:25:44Z",
+    "title": "servicii de proiectare pentru amenajarea scuarului",
+    "buyer": "PRIMARIA MUNICIPIULUI CAHUL",
+    "cpv": "71320000-7",
+    "estimated_amount": 94350.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"RECONSAL CONS\"",
+        "id": "MD-IDNO-1020600033470",
+        "amount": 94350.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1788532682997",
+    "date": "2026-09-14T08:35:01Z",
+    "title": "Lucrări de reparatie a unui foișor dublu pe teritoriul IET „Delia”, mun. Ungheni",
+    "buyer": "Primăria mun. Ungheni",
+    "cpv": "45200000-9",
+    "estimated_amount": 340000.0,
+    "bidders": [],
+    "awards": []
   }
 ]
