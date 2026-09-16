@@ -537,17 +537,17 @@ for page_number in range(1, PAGES_PER_RUN + 1):
     )
 
 
-next_cursor = str(
-    listing.get("offset") or ""
-)
+    next_cursor = str(
+        listing.get("offset") or ""
+    )
 
-if (
-    not next_cursor
-    or next_cursor == cursor
-):
-    break
+    if (
+        not next_cursor
+        or next_cursor == cursor
+    ):
+        break
 
-cursor = next_cursor
+    cursor = next_cursor
 
 
 history = list(
