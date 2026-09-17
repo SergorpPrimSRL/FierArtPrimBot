@@ -544,6 +544,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1737706483719",
+    "date": "2025-01-24T08:18:43Z",
+    "title": "Teren de joacă pentru copii",
+    "buyer": "Primaria Cuizauca",
+    "cpv": "37500000-3",
+    "estimated_amount": 7633.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 7633.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1737721184168",
+    "date": "2025-01-24T12:25:07Z",
+    "title": "Jucării de exterior",
+    "buyer": "CENTRUL DE ASISTENTA SI PROTECTIE A VICTIMELOR SI POTENTIALE",
+    "cpv": "37500000-3",
+    "estimated_amount": 1250.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Ovatio SRL",
+        "id": "AE-ACCI-1002600046212",
+        "amount": 1250.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
