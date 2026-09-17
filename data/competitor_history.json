@@ -422,6 +422,57 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1737108907964",
+    "date": "2025-01-17T10:18:21Z",
+    "title": "Lucrări de amenajare a scuarului de pe str. Decebal (BAM) cu leagăne ”Chișinău”",
+    "buyer": "PRIMARIA MUNICIPIULUI BALTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 200000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. „SERGORP-PRIM”",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 200000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1737110042088",
+    "date": "2025-01-17T10:37:13Z",
+    "title": "Lucrări de amenajare a scuarului de pe str. Ștefan cel Mare cu leagăn ”Roma”",
+    "buyer": "PRIMARIA MUNICIPIULUI BALTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 200000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. „Fier Art Prim”",
+        "id": "MD-IDNO-1019608000647",
+        "amount": 200000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1737115305434",
+    "date": "2025-01-17T12:05:24Z",
+    "title": "Servicii de divertisment",
+    "buyer": "Primăria or.Vadul lui Vodă",
+    "cpv": "92300000-4",
+    "estimated_amount": 15000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Dinastia Aventura",
+        "id": "MD-IDNO-1019600000113",
+        "amount": 15000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
