@@ -676,6 +676,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1739197490781",
+    "date": "2025-02-10T14:27:12Z",
+    "title": "Gard metalic",
+    "buyer": "GIMNAZIUL DU?MANI DIN S. DU?MANI, R-NUL GLODENI",
+    "cpv": "45200000-9",
+    "estimated_amount": 100000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Termopane Nord",
+        "id": "AE-ACCI-1015602000382",
+        "amount": 100000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
