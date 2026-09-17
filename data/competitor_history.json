@@ -527,6 +527,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1737631448139",
+    "date": "2025-01-23T11:26:38Z",
+    "title": "echipament fitness exterior 12.24",
+    "buyer": "I.P.LICEUL TEORETIC ANDREI VARTIC DIN O.IALOVENI",
+    "cpv": "37440000-4",
+    "estimated_amount": 47750.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL PLAYGROUND SORE",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 47750.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
