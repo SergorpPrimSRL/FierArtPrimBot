@@ -825,6 +825,80 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1737450406927",
+    "date": "2025-02-20T14:21:07Z",
+    "title": "Amenajarea stadionului multifunctional de volei, baschet cu ingradirea acestuia si acoperire artificiala pe terenul cu numarul cadastral 7616119.258 din satul Copanca raionul Causeni si Amenajarea teritoriului adiacent cu teren de joacapentru copii si zona de sport pe terenul cu numarul cadastral 7616119.278 din satul Copanca raionul Causeni",
+    "buyer": "Primaria satului Copanca",
+    "cpv": "45200000-9",
+    "estimated_amount": 1729070.0,
+    "bidders": [
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 133215.67
+      }
+    ],
+    "awards": [
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 133215.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1733148197155",
+    "date": "2025-02-21T06:59:56Z",
+    "title": "Amenajarea terenului sportiv și teren de joacă pentru copii situat în satul  Sărata Răzeși , r-nul Leova ",
+    "buyer": "PRIMARIA S. SARATA-RAZESI",
+    "cpv": "45111291-4",
+    "estimated_amount": 558870.0,
+    "bidders": [
+      {
+        "name": "IMO POST",
+        "id": "MD-IDNO-1008611002564",
+        "amount": 525268.99
+      },
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 466343.2
+      }
+    ],
+    "awards": [
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 384999.0,
+        "status": "pending"
+      },
+      {
+        "name": "IMO POST",
+        "id": "MD-IDNO-1008611002564",
+        "amount": 385000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1740122292128",
+    "date": "2025-02-21T07:21:28Z",
+    "title": "Servicii  de elaborare devize  „Amenajarea scuarului la Casa Națională din orașul Nisporeni”.",
+    "buyer": "PRIMARIA ORASULUI NISPORENI",
+    "cpv": "98390000-3",
+    "estimated_amount": 7500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Popescu Vasile",
+        "id": "MD-IDNO-2005049004428",
+        "amount": 7500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
