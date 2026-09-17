@@ -781,6 +781,33 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1739347904201",
+    "date": "2025-02-17T13:33:53Z",
+    "title": "Terenuri de joaca  amenajate (la gradiniță)",
+    "buyer": "PRIMARIA SATULUI BURSUC",
+    "cpv": "37500000-3",
+    "estimated_amount": 168447.5,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1739796524259",
+    "date": "2025-02-17T13:36:10Z",
+    "title": "Procurarea cărților la biblioteca Mateuți",
+    "buyer": "PRIMARIA SATULUI MATEUTI",
+    "cpv": "22100000-1",
+    "estimated_amount": 1056.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Poligraf-Design SRL",
+        "id": "MD-IDNO-1003600161736",
+        "amount": 1056.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
