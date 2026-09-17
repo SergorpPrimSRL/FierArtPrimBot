@@ -899,6 +899,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1740140582486",
+    "date": "2025-02-21T12:26:23Z",
+    "title": "Echipamente pentru teren de joaca si fitnes",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE CIOCANA",
+    "cpv": "37500000-3",
+    "estimated_amount": 150000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Power TEAM SRL",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 150000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
