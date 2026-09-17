@@ -11541,8 +11541,156 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1788263030607",
+    "date": "2026-09-15T13:00:00Z",
+    "title": "echipament pentru terenuri de joaca",
+    "buyer": "Primăria municipiului Cahul",
+    "cpv": "37500000-3",
+    "estimated_amount": 488000.0,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 232375.0
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 254341.66
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 245500.0
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 233075.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 199950.0,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 200000.0,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 245500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 254341.66,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 229000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 230000.2,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 258858.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789547989637",
+    "date": "2026-09-16T10:42:31Z",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea lor pe teritoriul municipiului Bălți din str.Tiraspol, nr.7, str.Independenței, nr.94 și bd. Larisa, nr.7 ",
+    "buyer": " Primăria mun. Bălți",
+    "cpv": "37500000-3",
+    "estimated_amount": 1004126.73,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789023327516",
+    "date": "2026-09-16T11:33:27Z",
+    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 1000000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789559461283",
+    "date": "2026-09-16T11:53:55Z",
+    "title": "Echipament pentru terenuri de joacă",
+    "buyer": "PRIMARIA SATULUI CALINESTI",
+    "cpv": "37500000-3",
+    "estimated_amount": 1855.31,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"ION CECAN\"",
+        "id": "MD-IDNO-1006602008465",
+        "amount": 1855.31,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789561858041",
+    "date": "2026-09-16T12:40:56Z",
+    "title": "Achiziționarea uneltelor și sculelor, inventarului de producere și gospodăresc și procurarea altor materiale.",
+    "buyer": "PRIMARIA LEOVA",
+    "cpv": "34900000-6",
+    "estimated_amount": 47833.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"VIZOL-STUDIO\"",
+        "id": "MD-IDNO-1005611000031",
+        "amount": 47833.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789026204026",
+    "date": "2026-09-17T05:09:41Z",
+    "title": "„ Echipamente și mobilier pentru terenul de joaca, inclusiv asamblarea, montarea, fixarea și punerea în funcțiune  în orașul Telenești și satul Băneștii Noi pentru implementarea inițiativelor civice selectate prin intermediul Laboratorului de Inovație Civică, ediția 2026”",
+    "buyer": "Primaria Telenesti",
+    "cpv": "37400000-2",
+    "estimated_amount": 225350.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789536301233",
+    "date": "2026-09-17T08:23:31Z",
+    "title": "Mobilier  pentru instituțiile din subordinea DETS sect. Buiucani ",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "39100000-3",
+    "estimated_amount": 2289229.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1782911431488",
-    "date": "2026-09-15T09:01:46Z",
+    "date": "2026-09-17T08:44:30Z",
     "title": "Achiziționarea centralizată a consumabilelor de laborator conform necesităților instituțiilor medico-sanitare publice IMSP - beneficiari pentru anul 2027",
     "buyer": "CENTRUL PENTRU ACHIZITII PUBLICE CENTRALIZATE IN SANATATE",
     "cpv": "33100000-1",
@@ -14935,153 +15083,5 @@
         "status": "pending"
       }
     ]
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1788263030607",
-    "date": "2026-09-15T13:00:00Z",
-    "title": "echipament pentru terenuri de joaca",
-    "buyer": "Primăria municipiului Cahul",
-    "cpv": "37500000-3",
-    "estimated_amount": 488000.0,
-    "bidders": [
-      {
-        "name": "Trio Construct SRL",
-        "id": "MD-IDNO-1016600013974",
-        "amount": 232375.0
-      },
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 254341.66
-      },
-      {
-        "name": "PLAYPARK",
-        "id": "MD-IDNO-1023600065456",
-        "amount": 245500.0
-      },
-      {
-        "name": "Dastimart",
-        "id": "MD-IDNO-1021600020039",
-        "amount": 233075.0
-      }
-    ],
-    "awards": [
-      {
-        "name": "Trio Construct SRL",
-        "id": "MD-IDNO-1016600013974",
-        "amount": 199950.0,
-        "status": "pending"
-      },
-      {
-        "name": "Dastimart",
-        "id": "MD-IDNO-1021600020039",
-        "amount": 200000.0,
-        "status": "pending"
-      },
-      {
-        "name": "PLAYPARK",
-        "id": "MD-IDNO-1023600065456",
-        "amount": 245500.0,
-        "status": "pending"
-      },
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 254341.66,
-        "status": "pending"
-      },
-      {
-        "name": "Trio Construct SRL",
-        "id": "MD-IDNO-1016600013974",
-        "amount": 229000.0,
-        "status": "pending"
-      },
-      {
-        "name": "Dastimart",
-        "id": "MD-IDNO-1021600020039",
-        "amount": 230000.2,
-        "status": "pending"
-      },
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 258858.33,
-        "status": "pending"
-      }
-    ]
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789547989637",
-    "date": "2026-09-16T10:42:31Z",
-    "title": "Complexe de joacă, inclusiv instalarea și amenajarea lor pe teritoriul municipiului Bălți din str.Tiraspol, nr.7, str.Independenței, nr.94 și bd. Larisa, nr.7 ",
-    "buyer": " Primăria mun. Bălți",
-    "cpv": "37500000-3",
-    "estimated_amount": 1004126.73,
-    "bidders": [],
-    "awards": []
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789023327516",
-    "date": "2026-09-16T11:33:27Z",
-    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "45200000-9",
-    "estimated_amount": 1000000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789559461283",
-    "date": "2026-09-16T11:53:55Z",
-    "title": "Echipament pentru terenuri de joacă",
-    "buyer": "PRIMARIA SATULUI CALINESTI",
-    "cpv": "37500000-3",
-    "estimated_amount": 1855.31,
-    "bidders": [],
-    "awards": [
-      {
-        "name": "S.R.L. \"ION CECAN\"",
-        "id": "MD-IDNO-1006602008465",
-        "amount": 1855.31,
-        "status": "pending"
-      }
-    ]
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789561858041",
-    "date": "2026-09-16T12:40:56Z",
-    "title": "Achiziționarea uneltelor și sculelor, inventarului de producere și gospodăresc și procurarea altor materiale.",
-    "buyer": "PRIMARIA LEOVA",
-    "cpv": "34900000-6",
-    "estimated_amount": 47833.33,
-    "bidders": [],
-    "awards": [
-      {
-        "name": "S.R.L. \"VIZOL-STUDIO\"",
-        "id": "MD-IDNO-1005611000031",
-        "amount": 47833.33,
-        "status": "pending"
-      }
-    ]
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789026204026",
-    "date": "2026-09-17T05:09:41Z",
-    "title": "„ Echipamente și mobilier pentru terenul de joaca, inclusiv asamblarea, montarea, fixarea și punerea în funcțiune  în orașul Telenești și satul Băneștii Noi pentru implementarea inițiativelor civice selectate prin intermediul Laboratorului de Inovație Civică, ediția 2026”",
-    "buyer": "Primaria Telenesti",
-    "cpv": "37400000-2",
-    "estimated_amount": 225350.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789536301233",
-    "date": "2026-09-17T07:30:42Z",
-    "title": "Mobilier  pentru instituțiile din subordinea DETS sect. Buiucani ",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "39100000-3",
-    "estimated_amount": 2289229.0,
-    "bidders": [],
-    "awards": []
   }
 ]
