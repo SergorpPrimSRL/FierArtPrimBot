@@ -15286,5 +15286,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789661043947",
+    "date": "2026-09-17T16:04:03Z",
+    "title": "Teren de joacă copii s.Ciobanovca",
+    "buyer": "Primaria Ciobanovca",
+    "cpv": "",
+    "estimated_amount": 40000.0,
+    "bidders": [],
+    "awards": []
   }
 ]
