@@ -473,6 +473,43 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1737124594833",
+    "date": "2025-01-17T14:40:50Z",
+    "title": "Achiziţionare și instalare a echipamentelor de joacă pentru copii în parcul central, Mihai Volontir, din mun. Bălți",
+    "buyer": "PRIMARIA MUNICIPIULUI BALTI",
+    "cpv": "43300000-6",
+    "estimated_amount": 160738.19,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. „VMS-COMPANIE”",
+        "id": "MD-IDNO-1006602003242",
+        "amount": 160738.19,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1737130550759",
+    "date": "2025-01-17T16:23:07Z",
+    "title": "reparatie foisor gradinita",
+    "buyer": "PRIMARIA COMUNEI SCHINENI",
+    "cpv": "45200000-9",
+    "estimated_amount": 88823.77,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1737135179396",
+    "date": "2025-01-17T17:36:02Z",
+    "title": "supraveghere tehnica foisor",
+    "buyer": "PRIMARIA COMUNEI SCHINENI",
+    "cpv": "71200000-0",
+    "estimated_amount": 1172.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
