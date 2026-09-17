@@ -737,6 +737,50 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1739539826039",
+    "date": "2025-02-14T13:46:28Z",
+    "title": "Produse lactate",
+    "buyer": "PRIMARIA SATULUI ALEXEEVCA",
+    "cpv": "15510000-6",
+    "estimated_amount": 14.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1731923237505",
+    "date": "2025-02-16T08:34:29Z",
+    "title": "Renovarea și amenajarea scuarului din Ștefănești",
+    "buyer": "Primaria Stefanesti",
+    "cpv": "45200000-9",
+    "estimated_amount": 1546364.0,
+    "bidders": [
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 1201157.81
+      },
+      {
+        "name": "Danlevita",
+        "id": "MD-IDNO-1003602004927",
+        "amount": 1433250.86
+      }
+    ],
+    "awards": [
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 1201157.81,
+        "status": "pending"
+      },
+      {
+        "name": "Danlevita",
+        "id": "MD-IDNO-1003602004927",
+        "amount": 1433250.86,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
