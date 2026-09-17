@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1789026204026",
+    "title": "„ Echipamente și mobilier pentru terenul de joaca, inclusiv asamblarea, montarea, fixarea și punerea în funcțiune  în orașul Telenești și satul Băneștii Noi pentru implementarea inițiativelor civice selectate prin intermediul Laboratorului de Inovație Civică, ediția 2026”",
+    "authority": "Primaria Telenesti",
+    "amount": 225350.0,
+    "currency": "MDL",
+    "deadline": "2026-09-30T10:30:00Z",
+    "deadline_text": "30.09.2026 13:30",
+    "status": "clarification",
+    "score": 85,
+    "label": "INTERESANTĂ",
+    "matches": [
+      "mobilier urban"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789026204026",
+    "source_date": "2026-09-17T05:09:41Z",
+    "saved_at": "2026-09-17T05:23:38.667151+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1789023327516",
     "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
     "authority": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
@@ -34,24 +52,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789547989637",
     "source_date": "2026-09-16T10:42:31Z",
     "saved_at": "2026-09-16T11:25:34.464853+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789026204026",
-    "title": "„ Echipamente și mobilier pentru terenul de joaca, inclusiv asamblarea, montarea, fixarea și punerea în funcțiune  în orașul Telenești și satul Băneștii Noi pentru implementarea inițiativelor civice selectate prin intermediul Laboratorului de Inovație Civică, ediția 2026”",
-    "authority": "Primaria Telenesti",
-    "amount": 225350.0,
-    "currency": "MDL",
-    "deadline": "2026-09-30T10:30:00Z",
-    "deadline_text": "30.09.2026 13:30",
-    "status": "clarification",
-    "score": 85,
-    "label": "INTERESANTĂ",
-    "matches": [
-      "mobilier urban"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789026204026",
-    "source_date": "2026-09-15T15:04:54Z",
-    "saved_at": "2026-09-15T15:05:22.000761+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1789368831343",
