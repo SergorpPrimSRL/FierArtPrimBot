@@ -710,6 +710,33 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1739450492319",
+    "date": "2025-02-13T12:45:25Z",
+    "title": "elemente la complex de joaca",
+    "buyer": "PRIMARIA MILESTII MICI",
+    "cpv": "42900000-5",
+    "estimated_amount": 8333.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. EXIMPROD-TRADE",
+        "id": "AE-ACCI-\t1021609001886",
+        "amount": 8333.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1739456715585",
+    "date": "2025-02-13T14:52:57Z",
+    "title": "Produse de panificație",
+    "buyer": "PRIMARIA SATULUI ALEXEEVCA",
+    "cpv": "15810000-9",
+    "estimated_amount": 8.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
