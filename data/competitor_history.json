@@ -595,6 +595,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1738243546860",
+    "date": "2025-01-30T13:35:40Z",
+    "title": "Complex de joacă pentru copii, inclusiv instalarea și amenajarea lui în satul  Vechi. ",
+    "buyer": "PRIMARIA ORASULUI TELENESTI",
+    "cpv": "37520000-9",
+    "estimated_amount": 174868.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "NOVA PARK COMPANY ,, SR",
+        "id": "MD-IDNO- 1019600055179",
+        "amount": 174868.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
