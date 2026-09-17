@@ -11584,51 +11584,6 @@
     "awards": []
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1787583334612",
-    "date": "2026-09-14T15:30:53Z",
-    "title": "Lucrari de reparatii interioare la grupele cresa Foisor si Liliana,  gradinita Licurici, mun. Ungheni",
-    "buyer": "Primăria mun. Ungheni",
-    "cpv": "45400000-1",
-    "estimated_amount": 2092516.0,
-    "bidders": [
-      {
-        "name": "SERVICII COMUNALE UNGHENI",
-        "id": "MD-IDNO-1008609004415",
-        "amount": 1891581.39
-      },
-      {
-        "name": "''Eurogrupstim'' SRL",
-        "id": "MD-IDNO-1014600036168",
-        "amount": 1586257.45
-      },
-      {
-        "name": "Inteligent Instal",
-        "id": "MD-IDNO-1022600022937",
-        "amount": 1934216.54
-      }
-    ],
-    "awards": [
-      {
-        "name": "''Eurogrupstim'' SRL",
-        "id": "MD-IDNO-1014600036168",
-        "amount": 1586257.45,
-        "status": "pending"
-      },
-      {
-        "name": "SERVICII COMUNALE UNGHENI",
-        "id": "MD-IDNO-1008609004415",
-        "amount": 1891581.39,
-        "status": "pending"
-      },
-      {
-        "name": "Inteligent Instal",
-        "id": "MD-IDNO-1022600022937",
-        "amount": 1934216.54,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1788963701884",
     "date": "2026-09-14T19:58:06Z",
     "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
@@ -15178,6 +15133,51 @@
         "name": "Ecochimie",
         "id": "MD-IDNO-1002600052156",
         "amount": 22704.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1787583334612",
+    "date": "2026-09-17T12:45:09Z",
+    "title": "Lucrari de reparatii interioare la grupele cresa Foisor si Liliana,  gradinita Licurici, mun. Ungheni",
+    "buyer": "Primăria mun. Ungheni",
+    "cpv": "45400000-1",
+    "estimated_amount": 2092516.0,
+    "bidders": [
+      {
+        "name": "SERVICII COMUNALE UNGHENI",
+        "id": "MD-IDNO-1008609004415",
+        "amount": 1891581.39
+      },
+      {
+        "name": "''Eurogrupstim'' SRL",
+        "id": "MD-IDNO-1014600036168",
+        "amount": 1586257.45
+      },
+      {
+        "name": "Inteligent Instal",
+        "id": "MD-IDNO-1022600022937",
+        "amount": 1934216.54
+      }
+    ],
+    "awards": [
+      {
+        "name": "''Eurogrupstim'' SRL",
+        "id": "MD-IDNO-1014600036168",
+        "amount": 1586257.45,
+        "status": "pending"
+      },
+      {
+        "name": "SERVICII COMUNALE UNGHENI",
+        "id": "MD-IDNO-1008609004415",
+        "amount": 1891581.39,
+        "status": "pending"
+      },
+      {
+        "name": "Inteligent Instal",
+        "id": "MD-IDNO-1022600022937",
+        "amount": 1934216.54,
         "status": "pending"
       }
     ]
