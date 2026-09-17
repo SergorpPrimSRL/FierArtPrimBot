@@ -939,6 +939,29 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1739174197465",
+    "date": "2025-03-03T12:57:40Z",
+    "title": "Mobilier urban, inclusiv instalarea pe str. Vlaicu Pârcălab",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "34900000-6",
+    "estimated_amount": 160000.0,
+    "bidders": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 150000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 150000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
