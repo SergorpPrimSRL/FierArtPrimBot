@@ -408,6 +408,11 @@ def main():
                 keywords
             )
 
+if "mobilier urban" in norm(title_of(record)):
+    log(
+        f"DEBUG MOBILIER URBAN | score={score} | matches={matches} | title={title_of(record)}"
+    )
+            
             if score < THRESHOLD:
                 continue
 
