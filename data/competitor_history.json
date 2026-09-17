@@ -15011,16 +15011,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1789536301233",
-    "date": "2026-09-16T05:52:51Z",
-    "title": "Mobilier  pentru instituțiile din subordinea DETS sect. Buiucani ",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "39100000-3",
-    "estimated_amount": 2289229.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1789547989637",
     "date": "2026-09-16T10:42:31Z",
     "title": "Complexe de joacă, inclusiv instalarea și amenajarea lor pe teritoriul municipiului Bălți din str.Tiraspol, nr.7, str.Independenței, nr.94 și bd. Larisa, nr.7 ",
@@ -15081,6 +15071,16 @@
     "buyer": "Primaria Telenesti",
     "cpv": "37400000-2",
     "estimated_amount": 225350.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789536301233",
+    "date": "2026-09-17T07:12:56Z",
+    "title": "Mobilier  pentru instituțiile din subordinea DETS sect. Buiucani ",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "39100000-3",
+    "estimated_amount": 2289229.0,
     "bidders": [],
     "awards": []
   }
