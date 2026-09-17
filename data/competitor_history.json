@@ -578,6 +578,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1738065256671",
+    "date": "2025-01-28T12:01:14Z",
+    "title": "Teren de joacă în satul Budăi",
+    "buyer": "PRIMARIA TIPALA",
+    "cpv": "37500000-3",
+    "estimated_amount": 89534.99,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 89534.99,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
