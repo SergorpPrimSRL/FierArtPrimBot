@@ -14960,16 +14960,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1789026204026",
-    "date": "2026-09-15T15:04:54Z",
-    "title": "„ Echipamente și mobilier pentru terenul de joaca, inclusiv asamblarea, montarea, fixarea și punerea în funcțiune  în orașul Telenești și satul Băneștii Noi pentru implementarea inițiativelor civice selectate prin intermediul Laboratorului de Inovație Civică, ediția 2026”",
-    "buyer": "Primaria Telenesti",
-    "cpv": "37400000-2",
-    "estimated_amount": 225350.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1789536301233",
     "date": "2026-09-16T05:52:51Z",
     "title": "Mobilier  pentru instituțiile din subordinea DETS sect. Buiucani ",
@@ -15032,5 +15022,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789026204026",
+    "date": "2026-09-17T05:09:41Z",
+    "title": "„ Echipamente și mobilier pentru terenul de joaca, inclusiv asamblarea, montarea, fixarea și punerea în funcțiune  în orașul Telenești și satul Băneștii Noi pentru implementarea inițiativelor civice selectate prin intermediul Laboratorului de Inovație Civică, ediția 2026”",
+    "buyer": "Primaria Telenesti",
+    "cpv": "37400000-2",
+    "estimated_amount": 225350.0,
+    "bidders": [],
+    "awards": []
   }
 ]
