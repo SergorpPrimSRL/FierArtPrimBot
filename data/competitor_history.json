@@ -632,6 +632,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1738756639052",
+    "date": "2025-02-05T12:03:41Z",
+    "title": "Apă şi canalizare, alte servicii comunale",
+    "buyer": "PRIMARIA SATULUI SADOVOE",
+    "cpv": "65100000-4",
+    "estimated_amount": 82860.5,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "ÎM  „ Apa Canal Sadovoe „",
+        "id": "MD-IDNO-1018602000383",
+        "amount": 82860.5,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
