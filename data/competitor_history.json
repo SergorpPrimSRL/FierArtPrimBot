@@ -649,6 +649,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1738842908683",
+    "date": "2025-02-06T12:33:13Z",
+    "title": "Cărți",
+    "buyer": "DIRECTIA CULTURA A PRIMARIEI MUN. BALTI",
+    "cpv": "22110000-4",
+    "estimated_amount": 8000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Moldpresa Grup",
+        "id": "MD-IDNO-1013600038202",
+        "amount": 8000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
