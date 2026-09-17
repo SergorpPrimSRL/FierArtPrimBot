@@ -808,6 +808,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1739969414179",
+    "date": "2025-02-19T12:59:55Z",
+    "title": "Echipament pentru teren de joacă",
+    "buyer": "PRIMARIA COMUNEI PELINEI",
+    "cpv": "37530000-2",
+    "estimated_amount": 125000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Power Team SRL",
+        "id": "AE-ACCI-1002600025121",
+        "amount": 125000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
