@@ -1477,6 +1477,41 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1742409572162",
+    "date": "2025-04-03T07:02:29Z",
+    "title": "Procurarea echipamentelor pentru dotarea Camerei senzoriale, kinetoterapie și terapie ocupațională",
+    "buyer": "Lumos Moldova",
+    "cpv": "37500000-3",
+    "estimated_amount": 120000.0,
+    "bidders": [
+      {
+        "name": "LEXSPORT S.R.L",
+        "id": "MD-IDNO-1012600000077",
+        "amount": 70280.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "LEXSPORT S.R.L",
+        "id": "MD-IDNO-1012600000077",
+        "amount": 11600.0,
+        "status": "pending"
+      },
+      {
+        "name": "LEXSPORT S.R.L",
+        "id": "MD-IDNO-1012600000077",
+        "amount": 70280.0,
+        "status": "pending"
+      },
+      {
+        "name": "LEXSPORT S.R.L",
+        "id": "MD-IDNO-1012600000077",
+        "amount": 38120.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
