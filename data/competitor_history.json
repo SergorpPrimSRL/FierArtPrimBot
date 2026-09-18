@@ -1190,6 +1190,61 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1740061483416",
+    "date": "2025-03-14T08:03:30Z",
+    "title": "Amenajarea stadionului multifunctional de volei, baschet cu ingradirea acestuia si acoperire artificiala pe terenul cu numarul cadastral 7616119.258 din satul Copanca raionul Causeni si Amenajarea teritoriului adiacent cu teren de joacapentru copii si zona de sport pe terenul cu numarul cadastral 7616119.278 din satul Copanca raionul Causeni",
+    "buyer": "Primaria satului Copanca",
+    "cpv": "45200000-9",
+    "estimated_amount": 1729070.0,
+    "bidders": [
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 1591270.49
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 1866357.69
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 1467000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 1467000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 1591270.49,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 1866357.69,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1741941734144",
+    "date": "2025-03-14T08:46:45Z",
+    "title": "procurarea echipamentului pentru teren de joaca",
+    "buyer": "PRIMARIA PASCANI",
+    "cpv": "37450000-7",
+    "estimated_amount": 141875.01,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
