@@ -5,9 +5,9 @@
     "authority": "PRIMARIA ORASULUI NISPORENI",
     "amount": 3592220.0,
     "currency": "MDL",
-    "deadline": "",
-    "deadline_text": "nespecificat",
-    "status": "planning",
+    "deadline": "2026-10-09T10:00:00Z",
+    "deadline_text": "09.10.2026 13:00",
+    "status": "empty",
     "score": 100,
     "label": "FOARTE INTERESANTĂ",
     "matches": [
@@ -15,8 +15,8 @@
       "construcția scenei"
     ],
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789736394782",
-    "source_date": "2026-09-18T12:59:54Z",
-    "saved_at": "2026-09-18T13:04:44.188857+00:00"
+    "source_date": "2026-09-18T13:05:43Z",
+    "saved_at": "2026-09-18T13:23:11.607526+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1789026204026",
