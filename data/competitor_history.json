@@ -12314,80 +12314,6 @@
     "awards": []
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1788263030607",
-    "date": "2026-09-15T13:00:00Z",
-    "title": "echipament pentru terenuri de joaca",
-    "buyer": "Primăria municipiului Cahul",
-    "cpv": "37500000-3",
-    "estimated_amount": 488000.0,
-    "bidders": [
-      {
-        "name": "Trio Construct SRL",
-        "id": "MD-IDNO-1016600013974",
-        "amount": 232375.0
-      },
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 254341.66
-      },
-      {
-        "name": "PLAYPARK",
-        "id": "MD-IDNO-1023600065456",
-        "amount": 245500.0
-      },
-      {
-        "name": "Dastimart",
-        "id": "MD-IDNO-1021600020039",
-        "amount": 233075.0
-      }
-    ],
-    "awards": [
-      {
-        "name": "Trio Construct SRL",
-        "id": "MD-IDNO-1016600013974",
-        "amount": 199950.0,
-        "status": "pending"
-      },
-      {
-        "name": "Dastimart",
-        "id": "MD-IDNO-1021600020039",
-        "amount": 200000.0,
-        "status": "pending"
-      },
-      {
-        "name": "PLAYPARK",
-        "id": "MD-IDNO-1023600065456",
-        "amount": 245500.0,
-        "status": "pending"
-      },
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 254341.66,
-        "status": "pending"
-      },
-      {
-        "name": "Trio Construct SRL",
-        "id": "MD-IDNO-1016600013974",
-        "amount": 229000.0,
-        "status": "pending"
-      },
-      {
-        "name": "Dastimart",
-        "id": "MD-IDNO-1021600020039",
-        "amount": 230000.2,
-        "status": "pending"
-      },
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 258858.33,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1789547989637",
     "date": "2026-09-16T10:42:31Z",
     "title": "Complexe de joacă, inclusiv instalarea și amenajarea lor pe teritoriul municipiului Bălți din str.Tiraspol, nr.7, str.Independenței, nr.94 și bd. Larisa, nr.7 ",
@@ -15921,5 +15847,79 @@
     "estimated_amount": 40000.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1788263030607",
+    "date": "2026-09-18T11:05:59Z",
+    "title": "echipament pentru terenuri de joaca",
+    "buyer": "Primăria municipiului Cahul",
+    "cpv": "37500000-3",
+    "estimated_amount": 488000.0,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 232375.0
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 254341.66
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 245500.0
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 233075.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 199950.0,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 200000.0,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 245500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 254341.66,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 229000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 230000.2,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 258858.33,
+        "status": "pending"
+      }
+    ]
   }
 ]
