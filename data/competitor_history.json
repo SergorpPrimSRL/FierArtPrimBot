@@ -1139,6 +1139,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1741791409798",
+    "date": "2025-03-12T14:59:33Z",
+    "title": "Reparatia mobilier urban",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE CIOCANA",
+    "cpv": "34900000-6",
+    "estimated_amount": 50000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "AlexGarden Concept SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 50000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
