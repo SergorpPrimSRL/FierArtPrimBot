@@ -1245,6 +1245,150 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1742198022692",
+    "date": "2025-03-17T07:58:05Z",
+    "title": "reparatie capitala a constuctiilor speciale",
+    "buyer": "PRIMARIA SATULUI TIRNOVA",
+    "cpv": "45210000-2",
+    "estimated_amount": 81732.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1739258103302",
+    "date": "2025-03-17T09:10:20Z",
+    "title": "Lucrări de amenajare a zonelor de agrement (terenuri de joacă pentru copii în s.Ocolina și s.Țepilova) din comuna Ocolina, raionul Soroca  ",
+    "buyer": "PRIMARIA COMUNEI OCOLINA",
+    "cpv": "45212100-7",
+    "estimated_amount": 823190.0,
+    "bidders": [
+      {
+        "name": "lina_ ing srl",
+        "id": "MD-IDNO-1018600044565",
+        "amount": 657107.42
+      },
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 648853.95
+      },
+      {
+        "name": "Ludviocons-Prim",
+        "id": "MD-IDNO-1013602004504",
+        "amount": 671764.9
+      },
+      {
+        "name": "PRO CONSTRUCT",
+        "id": "MD-IDNO-1023607001819",
+        "amount": 626922.8
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 763414.2
+      },
+      {
+        "name": "Prodomus SRL",
+        "id": "MD-IDNO-1005600058528",
+        "amount": 955295.19
+      },
+      {
+        "name": "IMO POST",
+        "id": "MD-IDNO-1008611002564",
+        "amount": 690944.37
+      },
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 724233.37
+      }
+    ],
+    "awards": [
+      {
+        "name": "PRO CONSTRUCT",
+        "id": "MD-IDNO-1023607001819",
+        "amount": 626922.8,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 648853.95,
+        "status": "pending"
+      },
+      {
+        "name": "lina_ ing srl",
+        "id": "MD-IDNO-1018600044565",
+        "amount": 657107.42,
+        "status": "pending"
+      },
+      {
+        "name": "Ludviocons-Prim",
+        "id": "MD-IDNO-1013602004504",
+        "amount": 671764.9,
+        "status": "pending"
+      },
+      {
+        "name": "IMO POST",
+        "id": "MD-IDNO-1008611002564",
+        "amount": 690944.37,
+        "status": "pending"
+      },
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 724233.37,
+        "status": "pending"
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 763414.2,
+        "status": "pending"
+      },
+      {
+        "name": "Prodomus SRL",
+        "id": "MD-IDNO-1005600058528",
+        "amount": 955295.19,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1742214330271",
+    "date": "2025-03-17T12:36:10Z",
+    "title": "Amenajarea parcului  și terenului de joacă la primaria satului Mateuți",
+    "buyer": "PRIMARIA SATULUI MATEUTI",
+    "cpv": "45100000-8",
+    "estimated_amount": 497975.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "CERTICUS SRL",
+        "id": "MD-IDNO-1011606003121",
+        "amount": 497975.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1742215289654",
+    "date": "2025-03-17T12:44:16Z",
+    "title": "Servicii de responsabil tehnic a lucrărilor de amenajare a parcului cu teren de joacă la primaria satului Mateuți",
+    "buyer": "PRIMARIA SATULUI MATEUTI",
+    "cpv": "71500000-3",
+    "estimated_amount": 9100.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Vlad Polihovici",
+        "id": "MD-IDNO-1007606000752",
+        "amount": 9100.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
