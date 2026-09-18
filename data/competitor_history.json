@@ -12294,16 +12294,6 @@
     "awards": []
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1788765233969",
-    "date": "2026-09-14T11:00:00Z",
-    "title": "Procurarea materialelor pentru scopuri didactice, științifice și alte scopuri pentru instituțiile subordonate Direcției Educație, Tineret și Sport sectorul Ciocana  (procedură repetată)",
-    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
-    "cpv": "37500000-3",
-    "estimated_amount": 460010.83,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1789386223244",
     "date": "2026-09-14T12:58:57Z",
     "title": "Procurarea si instalarea complexelor de joaca si aparatelor de sport.",
@@ -15919,6 +15909,16 @@
     "buyer": "Primaria Ciobanovca",
     "cpv": "",
     "estimated_amount": 40000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1788765233969",
+    "date": "2026-09-18T06:00:00Z",
+    "title": "Procurarea materialelor pentru scopuri didactice, științifice și alte scopuri pentru instituțiile subordonate Direcției Educație, Tineret și Sport sectorul Ciocana  (procedură repetată)",
+    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
+    "cpv": "37500000-3",
+    "estimated_amount": 460010.83,
     "bidders": [],
     "awards": []
   }
