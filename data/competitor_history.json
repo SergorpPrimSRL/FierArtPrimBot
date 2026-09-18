@@ -1460,6 +1460,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1743492152082",
+    "date": "2025-04-01T07:28:43Z",
+    "title": "servicii de supraveghere a lucrărilor la obiectul ”Lucrări de reparație a foișorului de tip dublu și de tip ordinar la gradinitele de copii din mun. Cahul (gradinita de copii nr. 2”)",
+    "buyer": "PRIMARIA MUNICIPIULUI CAHUL",
+    "cpv": "71520000-9",
+    "estimated_amount": 6955.32,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "PF Bitirescu Vasile",
+        "id": "MD-IDNO-0962410153685",
+        "amount": 6955.32,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
