@@ -1,5 +1,24 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1789368831343",
+    "title": "Construcția scenei metalice în s.Țarigrad, r-nul Drochia",
+    "authority": "Primaria Tarigrad",
+    "amount": 212076.06,
+    "currency": "MDL",
+    "deadline": "2026-09-23T07:00:00Z",
+    "deadline_text": "23.09.2026 10:00",
+    "status": "empty",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "scenei",
+      "construcția scenei"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789368831343",
+    "source_date": "2026-09-18T13:27:09Z",
+    "saved_at": "2026-09-18T13:36:25.496073+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1789736394782",
     "title": "Construcția scenei acoperite pentru spectacole în aer liber în Parcul Central  din or. Nisporeni ",
     "authority": "PRIMARIA ORASULUI NISPORENI",
@@ -71,25 +90,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789547989637",
     "source_date": "2026-09-16T10:42:31Z",
     "saved_at": "2026-09-16T11:25:34.464853+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789368831343",
-    "title": "Construcția scenei metalice în s.Țarigrad, r-nul Drochia",
-    "authority": "Primaria Tarigrad",
-    "amount": 212076.06,
-    "currency": "MDL",
-    "deadline": "2026-09-23T07:00:00Z",
-    "deadline_text": "23.09.2026 10:00",
-    "status": "clarification",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "scenei",
-      "construcția scenei"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789368831343",
-    "source_date": "2026-09-15T14:38:12Z",
-    "saved_at": "2026-09-15T14:52:32.325966+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1788963701884",
