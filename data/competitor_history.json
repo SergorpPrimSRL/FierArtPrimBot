@@ -1389,6 +1389,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1742218672763",
+    "date": "2025-03-17T13:47:15Z",
+    "title": "Procurarea altor mijloace fixe",
+    "buyer": "PRIMARIA COMUNEI BURLANESTI",
+    "cpv": "43310000-9",
+    "estimated_amount": 129908.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL FIER ART PRIM",
+        "id": "MD-IDNO-1019608000647",
+        "amount": 129908.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
