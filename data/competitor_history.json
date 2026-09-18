@@ -1156,6 +1156,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1741859696028",
+    "date": "2025-03-13T09:58:22Z",
+    "title": "Servicii de supraveghere tehnică",
+    "buyer": "PRIMARIA S. SARATA-RAZESI",
+    "cpv": "71250000-5",
+    "estimated_amount": 4620.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.C.PREANT.S.R.L.",
+        "id": "MD-IDNO-1007605006252",
+        "amount": 4620.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1741871935512",
+    "date": "2025-03-13T13:24:09Z",
+    "title": "achiziției: Echipament pentru teren de joaca , Grădinița “Îngeraș” s.Pașcani",
+    "buyer": "PRIMARIA COMUNEI PASCANI",
+    "cpv": "37500000-3",
+    "estimated_amount": 74810.83,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Power Team” SRL",
+        "id": "AE-ACCI-1002600025121",
+        "amount": 74810.83,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
