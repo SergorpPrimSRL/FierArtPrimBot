@@ -1006,6 +1006,139 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1739969002498",
+    "date": "2025-03-12T08:21:53Z",
+    "title": "Lucrări de confecționare și montare a leagănelor, inclusiv și amenajarea teritoriului în parcul central din satul Cojușna",
+    "buyer": "Primaria Cojusna",
+    "cpv": "45100000-8",
+    "estimated_amount": 300000.0,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 220644.6
+      },
+      {
+        "name": "B.I.C.E. - INVEST - Europa",
+        "id": "MD-IDNO-1015602000083",
+        "amount": 286411.09
+      },
+      {
+        "name": "ROYAL PRIMCONSTRUCT",
+        "id": "MD-IDNO-1021600040008",
+        "amount": 215897.02
+      },
+      {
+        "name": "LIVART PRIM SRL",
+        "id": "MD-IDNO-1012600038364",
+        "amount": 267607.2
+      },
+      {
+        "name": "JOFAM-ELITE SRL",
+        "id": "MD-IDNO-1022600038723",
+        "amount": 290477.73
+      },
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 256695.85
+      },
+      {
+        "name": "“ELMMA PLUS COMPANY” SRL",
+        "id": "MD-IDNO-1019600040829",
+        "amount": 288944.1
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 191897.0
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 249223.07
+      },
+      {
+        "name": "SEALCOM SERVICE",
+        "id": "MD-IDNO-1020600007442",
+        "amount": 232044.58
+      },
+      {
+        "name": "lina_ ing srl",
+        "id": "MD-IDNO-1018600044565",
+        "amount": 249101.6
+      }
+    ],
+    "awards": [
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 191897.0,
+        "status": "pending"
+      },
+      {
+        "name": "ROYAL PRIMCONSTRUCT",
+        "id": "MD-IDNO-1021600040008",
+        "amount": 215897.02,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 220644.6,
+        "status": "pending"
+      },
+      {
+        "name": "SEALCOM SERVICE",
+        "id": "MD-IDNO-1020600007442",
+        "amount": 232044.58,
+        "status": "pending"
+      },
+      {
+        "name": "lina_ ing srl",
+        "id": "MD-IDNO-1018600044565",
+        "amount": 249101.6,
+        "status": "pending"
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 249223.07,
+        "status": "pending"
+      },
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 256695.85,
+        "status": "pending"
+      },
+      {
+        "name": "LIVART PRIM SRL",
+        "id": "MD-IDNO-1012600038364",
+        "amount": 267607.2,
+        "status": "pending"
+      },
+      {
+        "name": "B.I.C.E. - INVEST - Europa",
+        "id": "MD-IDNO-1015602000083",
+        "amount": 286411.09,
+        "status": "pending"
+      },
+      {
+        "name": "“ELMMA PLUS COMPANY” SRL",
+        "id": "MD-IDNO-1019600040829",
+        "amount": 288944.1,
+        "status": "pending"
+      },
+      {
+        "name": "JOFAM-ELITE SRL",
+        "id": "MD-IDNO-1022600038723",
+        "amount": 290477.73,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
