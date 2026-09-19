@@ -2124,6 +2124,56 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1746682858327",
+    "date": "2025-05-08T05:46:32Z",
+    "title": "Aparat fitness exterior",
+    "buyer": "I.P.GIMNAZIUL LUCEAFARUL DIN OR.BIRUINTA,R.SINGE",
+    "cpv": "37440000-4",
+    "estimated_amount": 16075.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Eliteh Trade S.R.L.",
+        "id": "MD-IDNO-1013600028810",
+        "amount": 16075.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1744966603779",
+    "date": "2025-05-08T09:03:18Z",
+    "title": "Amenajarea zonei de agrement cu teren de sport si teren de joaca com.Chirca",
+    "buyer": "Primaria Chirca",
+    "cpv": "45200000-9",
+    "estimated_amount": 1666025.0,
+    "bidders": [
+      {
+        "name": "ECONING",
+        "id": "MD-IDNO-1013600027145",
+        "amount": 1665182.05
+      }
+    ],
+    "awards": [
+      {
+        "name": "ECONING",
+        "id": "MD-IDNO-1013600027145",
+        "amount": 1665182.05,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1746706996948",
+    "date": "2025-05-08T12:37:52Z",
+    "title": "Servicii de reparatii curente și procurarea echipamentelor pentru terenul de joacă (inclusiv livrarea și montarea",
+    "buyer": "PRIMARIA SATULUI SUSLENI",
+    "cpv": "37500000-3",
+    "estimated_amount": 199951.28,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
