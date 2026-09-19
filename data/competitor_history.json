@@ -2242,6 +2242,140 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1744959252197",
+    "date": "2025-05-16T10:39:38Z",
+    "title": "Mobilier urban (inclusiv montarea), în scuarul ”Meșterul Popular” din municipiul Bălți",
+    "buyer": " Primăria mun. Bălți",
+    "cpv": "34900000-6",
+    "estimated_amount": 676386.67,
+    "bidders": [
+      {
+        "name": "Aflux-Prim",
+        "id": "MD-IDNO-1008602001596",
+        "amount": 652776.61
+      },
+      {
+        "name": "VMS-COMPANIE",
+        "id": "MD-IDNO-1006602003242",
+        "amount": 615097.53
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 376733.0
+      },
+      {
+        "name": "Prodecoiluminare",
+        "id": "MD-IDNO-1017600043974",
+        "amount": 538574.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 376733.0,
+        "status": "pending"
+      },
+      {
+        "name": "Prodecoiluminare",
+        "id": "MD-IDNO-1017600043974",
+        "amount": 442000.0,
+        "status": "pending"
+      },
+      {
+        "name": "VMS-COMPANIE",
+        "id": "MD-IDNO-1006602003242",
+        "amount": 442600.0,
+        "status": "pending"
+      },
+      {
+        "name": "Aflux-Prim",
+        "id": "MD-IDNO-1008602001596",
+        "amount": 652776.61,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1743086724219",
+    "date": "2025-05-16T13:19:31Z",
+    "title": "Servicii de organizare a odihnei şi întremării sănătăţii copiilor și adolescenților în perioada de vară anul 2025",
+    "buyer": "Casa Națională de Asigurări Sociale",
+    "cpv": "55200000-2",
+    "estimated_amount": 11236500.0,
+    "bidders": [
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 1485000.0
+      },
+      {
+        "name": "Casa de odihna Camping Vadul lui Voda SRL",
+        "id": "MD-IDNO-1003600133438",
+        "amount": 11232956.0
+      },
+      {
+        "name": "SRL \"Agro-Tiras",
+        "id": "MD-IDNO-1002601001715",
+        "amount": 1450000.0
+      },
+      {
+        "name": "Casele de Odihna si Recuperare \"Perlele Nistrului\" SRL",
+        "id": "MD-IDNO-1010600019664",
+        "amount": 10360000.0
+      },
+      {
+        "name": "AO Conceb",
+        "id": "MD-IDNO-1019620004412",
+        "amount": 6151600.0
+      },
+      {
+        "name": "DIRECTIA INVATAMINT GENERAL CIMISLIA",
+        "id": "MD-IDNO-1007601008959",
+        "amount": 2268000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL \"Agro-Tiras",
+        "id": "MD-IDNO-1002601001715",
+        "amount": 1450000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 1485000.0,
+        "status": "pending"
+      },
+      {
+        "name": "DIRECTIA INVATAMINT GENERAL CIMISLIA",
+        "id": "MD-IDNO-1007601008959",
+        "amount": 2268000.0,
+        "status": "pending"
+      },
+      {
+        "name": "AO Conceb",
+        "id": "MD-IDNO-1019620004412",
+        "amount": 6151600.0,
+        "status": "pending"
+      },
+      {
+        "name": "Casele de Odihna si Recuperare \"Perlele Nistrului\" SRL",
+        "id": "MD-IDNO-1010600019664",
+        "amount": 10360000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Casa de odihna Camping Vadul lui Voda SRL",
+        "id": "MD-IDNO-1003600133438",
+        "amount": 11232956.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
