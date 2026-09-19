@@ -1774,6 +1774,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1744404321933",
+    "date": "2025-04-11T20:50:19Z",
+    "title": "Achizitionarea de mobilier urban",
+    "buyer": "BALANESTI PC",
+    "cpv": "39100000-3",
+    "estimated_amount": 31775.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "nr.TVA MEZCARCON-GRUP S.R.L.",
+        "id": "MD-IDNO-1014600037316",
+        "amount": 31775.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
