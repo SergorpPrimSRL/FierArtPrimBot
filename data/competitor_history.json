@@ -1791,6 +1791,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1744637489766",
+    "date": "2025-04-14T13:34:23Z",
+    "title": "echipament pentru teren de joaca.",
+    "buyer": "PRIMARIA COMUNEI PASCANI",
+    "cpv": "37500000-3",
+    "estimated_amount": 41666.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "„Power Team” SRL",
+        "id": "AE-ACCI-1002600025121",
+        "amount": 41666.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
