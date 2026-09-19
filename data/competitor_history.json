@@ -2069,6 +2069,61 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1746601130486",
+    "date": "2025-05-07T07:02:03Z",
+    "title": "Organizarea și amenajarea scuarului amplasat pe terenul proprietate publică,situat în r-nul Florești, or.Ghindești, str.Făbricii -Amenajarea teritoriului",
+    "buyer": "PRIMARIA ORASULUI GHINDESTI",
+    "cpv": "77310000-6",
+    "estimated_amount": 496552.71,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1746601474358",
+    "date": "2025-05-07T07:07:13Z",
+    "title": "Organizarea și amenajarea scuarului amplasat pe terenul proprietate publică,situat în r-nul Florești, or.Ghindești, str.Făbricii -Iluminare",
+    "buyer": "PRIMARIA ORASULUI GHINDESTI",
+    "cpv": "77300000-3",
+    "estimated_amount": 361712.5,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1743660738098",
+    "date": "2025-05-07T12:47:35Z",
+    "title": "Achiziție echipamente pentru Camera Senzorială, Kinetoterapie și Terapie Ocupațională ",
+    "buyer": "Lumos Moldova",
+    "cpv": "37500000-3",
+    "estimated_amount": 120000.0,
+    "bidders": [
+      {
+        "name": "LEXSPORT S.R.L",
+        "id": "MD-IDNO-1012600000077",
+        "amount": 38120.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "LEXSPORT S.R.L",
+        "id": "MD-IDNO-1012600000077",
+        "amount": 11600.0,
+        "status": "pending"
+      },
+      {
+        "name": "LEXSPORT S.R.L",
+        "id": "MD-IDNO-1012600000077",
+        "amount": 38120.0,
+        "status": "pending"
+      },
+      {
+        "name": "LEXSPORT S.R.L",
+        "id": "MD-IDNO-1012600000077",
+        "amount": 70280.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
