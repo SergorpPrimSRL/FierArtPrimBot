@@ -1522,6 +1522,231 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1744095492866",
+    "date": "2025-04-08T08:30:14Z",
+    "title": "Organizarea și amenajarea scuarului amplasat pe proprietate publică ,situat în r-ul Florești,or.Ghindești,str.Făbricii",
+    "buyer": "Primaria or. Ghindesti",
+    "cpv": "45200000-9",
+    "estimated_amount": 933500.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1741966175798",
+    "date": "2025-04-08T08:47:23Z",
+    "title": "Echipamente de joacă, inclusiv instalarea și amenajarea (prin Acord-cadru)",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 67000000.0,
+    "bidders": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 558092.3
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 432255.75
+      },
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 829639.23
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 921170.24
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 25000000.0
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 546417.71
+      }
+    ],
+    "awards": [
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 546417.71,
+        "status": "pending"
+      },
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 835726.88,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 921170.24,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 1141717.3,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 25000000.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 558092.3,
+        "status": "pending"
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 593961.86,
+        "status": "pending"
+      },
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 625037.51,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 17000000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 349425.21,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 432255.75,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 514717.3,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 515870.24,
+        "status": "pending"
+      },
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 829639.23,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1742196985948",
+    "date": "2025-04-08T10:48:56Z",
+    "title": "Amenajarea parcului Viitorului (pavaj  si banci) din s.Puhoi,r. Ialoveni",
+    "buyer": "Primaria Puhoi",
+    "cpv": "45200000-9",
+    "estimated_amount": 406400.84,
+    "bidders": [
+      {
+        "name": "ROYAL PRIMCONSTRUCT",
+        "id": "MD-IDNO-1021600040008",
+        "amount": 249741.75
+      },
+      {
+        "name": "lina_ ing srl",
+        "id": "MD-IDNO-1018600044565",
+        "amount": 294925.96
+      },
+      {
+        "name": "Vicoliv Grup SRL",
+        "id": "MD-IDNO-1014600018975",
+        "amount": 386451.55
+      },
+      {
+        "name": "SRL Marialexprim",
+        "id": "MD-IDNO-1011608000825",
+        "amount": 317263.0
+      },
+      {
+        "name": "\"ANCAROS CONSTRUCT\"",
+        "id": "MD-IDNO-1020600041743",
+        "amount": 337490.34
+      },
+      {
+        "name": "Betonel Construct Prim",
+        "id": "MD-IDNO-1020600000476",
+        "amount": 271102.54
+      },
+      {
+        "name": "CRISDAM CONSTRUCT",
+        "id": "MD-IDNO-1015600007044",
+        "amount": 263501.28
+      }
+    ],
+    "awards": [
+      {
+        "name": "ROYAL PRIMCONSTRUCT",
+        "id": "MD-IDNO-1021600040008",
+        "amount": 249741.75,
+        "status": "pending"
+      },
+      {
+        "name": "CRISDAM CONSTRUCT",
+        "id": "MD-IDNO-1015600007044",
+        "amount": 263501.28,
+        "status": "pending"
+      },
+      {
+        "name": "Betonel Construct Prim",
+        "id": "MD-IDNO-1020600000476",
+        "amount": 271102.54,
+        "status": "pending"
+      },
+      {
+        "name": "lina_ ing srl",
+        "id": "MD-IDNO-1018600044565",
+        "amount": 294925.96,
+        "status": "pending"
+      },
+      {
+        "name": "SRL Marialexprim",
+        "id": "MD-IDNO-1011608000825",
+        "amount": 317263.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"ANCAROS CONSTRUCT\"",
+        "id": "MD-IDNO-1020600041743",
+        "amount": 337490.34,
+        "status": "pending"
+      },
+      {
+        "name": "Vicoliv Grup SRL",
+        "id": "MD-IDNO-1014600018975",
+        "amount": 386451.55,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
