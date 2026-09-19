@@ -2052,6 +2052,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1746521831570",
+    "date": "2025-05-06T09:02:55Z",
+    "title": "lucrari de reparatie a foisorului la gradinita de copii nr. 8 ~Prichindel~",
+    "buyer": "PRIMARIA MUNICIPIULUI CAHUL",
+    "cpv": "45210000-2",
+    "estimated_amount": 75052.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 75052.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
