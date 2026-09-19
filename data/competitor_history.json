@@ -1747,6 +1747,33 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1744200726960",
+    "date": "2025-04-09T12:24:25Z",
+    "title": "Cazan ",
+    "buyer": "PRIMARIA SATULUI ALEXEEVCA",
+    "cpv": "39710000-2",
+    "estimated_amount": 46000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1744221795541",
+    "date": "2025-04-09T18:05:19Z",
+    "title": "Achiziţionarea servicii de proiectare, elaborare a documentației de proiect și deviz pentru: Amenajarea parcului public ",
+    "buyer": "PRIMARIA SATULUI MAGDACESTI",
+    "cpv": "71320000-7",
+    "estimated_amount": 157300.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "„DCR PROIECT” S.R.L",
+        "id": "MD-IDNO-1023600019530",
+        "amount": 157300.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
