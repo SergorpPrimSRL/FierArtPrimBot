@@ -1808,6 +1808,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1744792208844",
+    "date": "2025-04-16T08:35:03Z",
+    "title": "Servicii de elaborare a schiței de proiect p/u „Amenajarea parcului din preajma străzii Ștefan cel Mare 15-18",
+    "buyer": "PRIMARIA MUNICIPIULUI SOROCA",
+    "cpv": "79400000-8",
+    "estimated_amount": 68920.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. „S.A.D.-PROIECT”",
+        "id": "MD-IDNO-1013600011692",
+        "amount": 68920.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1744799579411",
+    "date": "2025-04-16T11:53:42Z",
+    "title": "Amenajarea Parcului Aleea satenilor",
+    "buyer": "PRIMARIA SATULUI PERESECINA",
+    "cpv": "45200000-9",
+    "estimated_amount": 199515.87,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Grădinarul Meu",
+        "id": "MD-IDNO-1020600014224",
+        "amount": 199515.87,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
