@@ -2197,6 +2197,51 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1746168952879",
+    "date": "2025-05-14T11:36:56Z",
+    "title": "Echipamente destinate amenajării a terenurilor de joacă pentru copii pe teritoriul Grădiniței din s. Bursuc (inclusiv instalarea acestora)",
+    "buyer": "PRIMARIA SATULUI BURSUC",
+    "cpv": "37535200-9",
+    "estimated_amount": 168447.5,
+    "bidders": [
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 127266.67
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 158800.0
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 149000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 127266.67,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 149000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 158800.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
