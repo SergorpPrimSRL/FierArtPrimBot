@@ -16537,16 +16537,6 @@
     "awards": []
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1789661043947",
-    "date": "2026-09-18T08:48:40Z",
-    "title": "Teren de joacă copii s.Ciobanovca",
-    "buyer": "Primaria Ciobanovca",
-    "cpv": "37400000-2",
-    "estimated_amount": 40000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1788263030607",
     "date": "2026-09-18T11:05:59Z",
     "title": "echipament pentru terenuri de joaca",
@@ -16674,5 +16664,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789661043947",
+    "date": "2026-09-19T20:02:22Z",
+    "title": "Teren de joacă copii s.Ciobanovca",
+    "buyer": "Primaria Ciobanovca",
+    "cpv": "37400000-2",
+    "estimated_amount": 40000.0,
+    "bidders": [],
+    "awards": []
   }
 ]
