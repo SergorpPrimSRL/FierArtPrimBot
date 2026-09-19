@@ -2018,6 +2018,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1745424219682",
+    "date": "2025-04-23T16:11:04Z",
+    "title": "Teren de joacă în sec 306 case (str.Fîntîna lui Radu)",
+    "buyer": "PRIMARIA SATULUI COLONITA",
+    "cpv": "37400000-2",
+    "estimated_amount": 238537.6,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "„DASTIM ART” S.R.L.",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 238537.6,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
