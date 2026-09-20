@@ -2496,6 +2496,51 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1746078486164",
+    "date": "2025-05-30T07:00:00Z",
+    "title": "Foi de odihnă ( Servicii de alimentare si cazare a copiilor în taberele de odihnă ) pentru sezonul estival 2025",
+    "buyer": "Direcția Educație a Consiliului Raional Criuleni",
+    "cpv": "55200000-2",
+    "estimated_amount": 2086800.0,
+    "bidders": [
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 1474410.0
+      },
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 2084864.0
+      },
+      {
+        "name": "I.M.COCT-Prietenia",
+        "id": "MD-IDNO-1007600030890",
+        "amount": 1425000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "I.M.COCT-Prietenia",
+        "id": "MD-IDNO-1007600030890",
+        "amount": 1425000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 1474410.0,
+        "status": "pending"
+      },
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 2084864.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
