@@ -2430,6 +2430,62 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1747224520635",
+    "date": "2025-05-28T07:57:59Z",
+    "title": "Complexe de joacă, Carusel, Balansor, Figurine pe arc cu livrare și instalare",
+    "buyer": "PRIMARIA COMUNEI CIORESCU",
+    "cpv": "37500000-3",
+    "estimated_amount": 299600.0,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 234083.33
+      },
+      {
+        "name": "Eco Building Stage",
+        "id": "MD-IDNO-1012600022637",
+        "amount": 299166.67
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 250637.17
+      },
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 256620.83
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 234083.33,
+        "status": "pending"
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 250637.17,
+        "status": "pending"
+      },
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 256620.83,
+        "status": "pending"
+      },
+      {
+        "name": "Eco Building Stage",
+        "id": "MD-IDNO-1012600022637",
+        "amount": 299166.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
