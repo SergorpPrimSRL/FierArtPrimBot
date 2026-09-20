@@ -2541,6 +2541,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1749020556588",
+    "date": "2025-06-04T07:05:15Z",
+    "title": "Echipament pentru terenuri de joacă pentru copii",
+    "buyer": "PRIMARIA ORASULUI RISCANI",
+    "cpv": "37530000-2",
+    "estimated_amount": 150000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL ”Eximprod Trade”",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 150000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
