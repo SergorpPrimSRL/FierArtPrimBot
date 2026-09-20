@@ -2376,6 +2376,60 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1748239352038",
+    "date": "2025-05-26T06:09:29Z",
+    "title": "Leagan p/u mature L-10, Umbreluța p/u banca, Reparația Virtelnita defectat, Copacul decorative inima, Aparat de fitness",
+    "buyer": "PRIMARIA ORASULUI BASARABEASCA",
+    "cpv": "37400000-2",
+    "estimated_amount": 104892.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1732460794117",
+    "date": "2025-05-26T06:15:24Z",
+    "title": "Echipamente terenuri de joacă copii",
+    "buyer": "Primaria or. Floresti",
+    "cpv": "37535200-9",
+    "estimated_amount": 364666.67,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 292500.0
+      },
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 335000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 269500.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 270000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1748248983570",
+    "date": "2025-05-26T08:43:03Z",
+    "title": "Alimentarea carușelor cu toner  la DR Sud",
+    "buyer": "INSPECTORATUL GENERAL PENTRU MIGRATIE",
+    "cpv": "",
+    "estimated_amount": 330.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
