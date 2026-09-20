@@ -2558,6 +2558,72 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1749043407957",
+    "date": "2025-06-04T13:29:34Z",
+    "title": "Servicii distractive",
+    "buyer": "PRIMARIA COMUNEI RUSENI",
+    "cpv": "92300000-4",
+    "estimated_amount": 10000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1748249431197",
+    "date": "2025-06-05T09:32:28Z",
+    "title": "Procurarea și instalarea unui teren de joacă pentru copii în orașul Rezina",
+    "buyer": "Primaria or. Rezina",
+    "cpv": "37500000-3",
+    "estimated_amount": 250000.0,
+    "bidders": [
+      {
+        "name": "PLAYPARK S.R.L.",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 197700.0
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 220000.0
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 184041.67
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 226035.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 184041.67,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK S.R.L.",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 197700.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 220000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 226035.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
