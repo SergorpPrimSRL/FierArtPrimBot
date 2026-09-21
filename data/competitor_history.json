@@ -2641,6 +2641,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1749639268023",
+    "date": "2025-06-11T10:58:49Z",
+    "title": "MODERNIZARE TEREN SPORTIV MULTIFUNCTIONAL",
+    "buyer": "Primaria Baurci-Moldoveni",
+    "cpv": "50800000-3",
+    "estimated_amount": 373885.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Trend-Construct",
+        "id": "MD-IDNO-1014603002065",
+        "amount": 373885.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
