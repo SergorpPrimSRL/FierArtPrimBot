@@ -1,5 +1,41 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1788532682997",
+    "title": "Lucrări de reparatie a unui foișor dublu pe teritoriul IET „Delia”, mun. Ungheni",
+    "authority": "Primăria mun. Ungheni",
+    "amount": 340000.0,
+    "currency": "MDL",
+    "deadline": "2026-09-21T08:35:00Z",
+    "deadline_text": "21.09.2026 11:35",
+    "status": "auction",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "foișor"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788532682997",
+    "source_date": "2026-09-21T08:35:00Z",
+    "saved_at": "2026-09-21T08:39:04.633362+00:00"
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789979391557",
+    "title": "Servicii de amenajare a trei terenuri de joacă din cadrul Grădiniței nr. 45, sat. Brăila, com. Băcioi  cu plăci de cauciuc pe o suprafață de 141 m²",
+    "authority": "Primaria comunei Bacioi",
+    "amount": 146872.83,
+    "currency": "MDL",
+    "deadline": "",
+    "deadline_text": "nespecificat",
+    "status": "awarding",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "terenuri de joacă"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789979391557",
+    "source_date": "2026-09-21T08:31:33Z",
+    "saved_at": "2026-09-21T08:38:58.230213+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1787750095499",
     "title": "Platforme pentru colectarea deșeurilor menajere, inclusiv instalarea și amenajarea",
     "authority": "Direcţia Generală Locativ Comunală şi Amenajare",
@@ -128,24 +164,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788963701884",
     "source_date": "2026-09-14T19:58:06Z",
     "saved_at": "2026-09-14T20:05:14.649522+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1788532682997",
-    "title": "Lucrări de reparatie a unui foișor dublu pe teritoriul IET „Delia”, mun. Ungheni",
-    "authority": "Primăria mun. Ungheni",
-    "amount": 340000.0,
-    "currency": "MDL",
-    "deadline": "2026-09-21T08:35:00Z",
-    "deadline_text": "21.09.2026 11:35",
-    "status": "tendering",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "foișor"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788532682997",
-    "source_date": "2026-09-14T08:35:01Z",
-    "saved_at": "2026-09-14T08:41:03.480277+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1789128600159",
