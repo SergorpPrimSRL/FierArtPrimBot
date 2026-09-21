@@ -3031,6 +3031,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1752148932094",
+    "date": "2025-07-10T12:19:44Z",
+    "title": "Amenajarea unui teren de joacă în satul Găureni",
+    "buyer": "BALANESTI PC",
+    "cpv": "37500000-3",
+    "estimated_amount": 219160.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Mezcarcon-GRUP",
+        "id": "MD-IDNO-1014600037316",
+        "amount": 219160.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
