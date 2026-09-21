@@ -2893,6 +2893,29 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1738676272727",
+    "date": "2025-06-24T11:04:24Z",
+    "title": "Turnichet de acces (sistem)",
+    "buyer": "IMSP Spitalul Clinic Republican„Timofei Moșneaga”",
+    "cpv": "42900000-5",
+    "estimated_amount": 250000.0,
+    "bidders": [
+      {
+        "name": "ARSCOM",
+        "id": "MD-IDNO-1003600034627",
+        "amount": 287166.67
+      }
+    ],
+    "awards": [
+      {
+        "name": "ARSCOM",
+        "id": "MD-IDNO-1003600034627",
+        "amount": 287166.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
