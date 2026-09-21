@@ -2804,6 +2804,95 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1749218197234",
+    "date": "2025-06-23T08:04:29Z",
+    "title": "Mobilier  urban",
+    "buyer": "Primăria comunei Cocieri",
+    "cpv": "34900000-6",
+    "estimated_amount": 83500.0,
+    "bidders": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 76000.0
+      },
+      {
+        "name": "Lux Arbo",
+        "id": "MD-IDNO-1017611004470",
+        "amount": 77600.0
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 76333.33
+      }
+    ],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 76000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 76333.33,
+        "status": "pending"
+      },
+      {
+        "name": "Lux Arbo",
+        "id": "MD-IDNO-1017611004470",
+        "amount": 77600.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1750667361938",
+    "date": "2025-06-23T08:31:15Z",
+    "title": "Amenajarea parcului de agrement din str. Chisinaului intersectie cu str. Traian din s. Budesti",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 198182.62,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1750676492902",
+    "date": "2025-06-23T11:09:02Z",
+    "title": "Materiale de construcţii şi articole conexe",
+    "buyer": "Primăria comunei Cocieri",
+    "cpv": "44100000-1",
+    "estimated_amount": 6082.5,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "METRO CASH&CARRY MOLDOVA SRL",
+        "id": "MD-IDNO-1004601002738",
+        "amount": 6082.5,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1750681581877",
+    "date": "2025-06-23T12:29:36Z",
+    "title": "Lucrări  de proiectare ,,Amenajarea parcului-padure,,Poteca sănătății\"",
+    "buyer": "PRIMARIA ORASULUI REZINA",
+    "cpv": "71400000-2",
+    "estimated_amount": 188333.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "RO2R Design S.R.L.",
+        "id": "MD-IDNO-1022600024757",
+        "amount": 188333.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
