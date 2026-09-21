@@ -2963,6 +2963,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1751889732472",
+    "date": "2025-07-07T12:10:16Z",
+    "title": "Servicii de închiriere tobogane și trambuline pentru programul de acțiuni de Ziua Copiilor-1 iunie, în orașul Stăuceni, mun. Chișinău",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "70130000-1",
+    "estimated_amount": 125600.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "”TOBOGANE PRIM” SRL",
+        "id": "MD-IDNO-1025600030625",
+        "amount": 125600.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
