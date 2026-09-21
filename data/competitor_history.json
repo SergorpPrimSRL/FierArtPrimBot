@@ -13761,16 +13761,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1788532682997",
-    "date": "2026-09-14T08:35:01Z",
-    "title": "Lucrări de reparatie a unui foișor dublu pe teritoriul IET „Delia”, mun. Ungheni",
-    "buyer": "Primăria mun. Ungheni",
-    "cpv": "45200000-9",
-    "estimated_amount": 340000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1789386223244",
     "date": "2026-09-14T12:58:57Z",
     "title": "Procurarea si instalarea complexelor de joaca si aparatelor de sport.",
@@ -17443,5 +17433,32 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789979391557",
+    "date": "2026-09-21T08:31:33Z",
+    "title": "Servicii de amenajare a trei terenuri de joacă din cadrul Grădiniței nr. 45, sat. Brăila, com. Băcioi  cu plăci de cauciuc pe o suprafață de 141 m²",
+    "buyer": "Primaria comunei Bacioi",
+    "cpv": "19500000-1",
+    "estimated_amount": 146872.83,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Playground Store",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 146872.83,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1788532682997",
+    "date": "2026-09-21T08:35:00Z",
+    "title": "Lucrări de reparatie a unui foișor dublu pe teritoriul IET „Delia”, mun. Ungheni",
+    "buyer": "Primăria mun. Ungheni",
+    "cpv": "45200000-9",
+    "estimated_amount": 340000.0,
+    "bidders": [],
+    "awards": []
   }
 ]
