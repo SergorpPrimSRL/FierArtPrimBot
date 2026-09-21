@@ -13658,40 +13658,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1787923241747",
-    "date": "2026-09-10T06:18:39Z",
-    "title": "Lucrari de instalare a echipamentelor de joaca si mobilier urban str. Lomonosov 49",
-    "buyer": "Pretura sectorului Centru",
-    "cpv": "45200000-9",
-    "estimated_amount": 443557.65,
-    "bidders": [
-      {
-        "name": "SERGORP-PRIM",
-        "id": "MD-IDNO-1018608001681",
-        "amount": 378317.0
-      },
-      {
-        "name": "ALEXGREEN CONCEPT SRL",
-        "id": "MD-IDNO-1017600033283",
-        "amount": 455256.36
-      }
-    ],
-    "awards": [
-      {
-        "name": "SERGORP-PRIM",
-        "id": "MD-IDNO-1018608001681",
-        "amount": 378317.0,
-        "status": "pending"
-      },
-      {
-        "name": "ALEXGREEN CONCEPT SRL",
-        "id": "MD-IDNO-1017600033283",
-        "amount": 455256.36,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1789119623542",
     "date": "2026-09-11T09:46:07Z",
     "title": "Tobogan copii",
@@ -17520,5 +17486,39 @@
     "estimated_amount": 40000.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1787923241747",
+    "date": "2026-09-21T13:49:31Z",
+    "title": "Lucrari de instalare a echipamentelor de joaca si mobilier urban str. Lomonosov 49",
+    "buyer": "Pretura sectorului Centru",
+    "cpv": "45200000-9",
+    "estimated_amount": 443557.65,
+    "bidders": [
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 378317.0
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 455256.36
+      }
+    ],
+    "awards": [
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 378317.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 455256.36,
+        "status": "pending"
+      }
+    ]
   }
 ]
