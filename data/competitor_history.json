@@ -2658,6 +2658,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1749723566234",
+    "date": "2025-06-12T10:49:23Z",
+    "title": "Procurarea si instalarea echipamentului de joaca si de sport pe terenuri multifunctionale din c.Bozieni,rl Hincesti",
+    "buyer": "PRIMARIA COMUNEI BOZIENI",
+    "cpv": "37500000-3",
+    "estimated_amount": 83333.34,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL,,EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 83333.34,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
