@@ -2726,6 +2726,84 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1742393261648",
+    "date": "2025-06-20T08:25:34Z",
+    "title": "„Sistemul de alimentație cu apă în satul Fundurii Noi, raionul Glodeni” (actualizare, etapa 2) în cadrul proiectului Extinderea serviciilor publice locale de asigurare cu apă în raionul Glodeni",
+    "buyer": "Agenția de Dezvoltare Regională Nord",
+    "cpv": "45232150-8",
+    "estimated_amount": 2236500.0,
+    "bidders": [
+      {
+        "name": "Danlevita",
+        "id": "MD-IDNO-1003602004927",
+        "amount": 1733759.68
+      },
+      {
+        "name": "ATAR INTER",
+        "id": "MD-IDNO-1015600010057",
+        "amount": 2113131.6
+      },
+      {
+        "name": "Orizont",
+        "id": "MD-IDNO-1003600059222",
+        "amount": 1978138.45
+      },
+      {
+        "name": "\"Devastcom\" S.R.L.",
+        "id": "MD-IDNO-1006600051009",
+        "amount": 1783651.37
+      },
+      {
+        "name": "Faitec-M SRL",
+        "id": "MD-IDNO-1003602014467",
+        "amount": 1660483.93
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 2159674.95
+      }
+    ],
+    "awards": [
+      {
+        "name": "Faitec-M SRL",
+        "id": "MD-IDNO-1003602014467",
+        "amount": 1660483.93,
+        "status": "pending"
+      },
+      {
+        "name": "Danlevita",
+        "id": "MD-IDNO-1003602004927",
+        "amount": 1733759.68,
+        "status": "pending"
+      },
+      {
+        "name": "\"Devastcom\" S.R.L.",
+        "id": "MD-IDNO-1006600051009",
+        "amount": 1783651.37,
+        "status": "pending"
+      },
+      {
+        "name": "Orizont",
+        "id": "MD-IDNO-1003600059222",
+        "amount": 1978138.45,
+        "status": "pending"
+      },
+      {
+        "name": "ATAR INTER",
+        "id": "MD-IDNO-1015600010057",
+        "amount": 2113131.6,
+        "status": "pending"
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 2159674.95,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
