@@ -3014,6 +3014,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1752066510216",
+    "date": "2025-07-09T13:11:40Z",
+    "title": "Cărţi de bibliotecă",
+    "buyer": "Primaria Romanesti",
+    "cpv": "22100000-1",
+    "estimated_amount": 9991.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "EDITURA CARTIER",
+        "id": "MD-IDNO-1002600022131",
+        "amount": 9991.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
