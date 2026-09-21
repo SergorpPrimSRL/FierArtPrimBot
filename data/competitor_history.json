@@ -2709,6 +2709,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1750312040916",
+    "date": "2025-06-19T05:51:22Z",
+    "title": "echipament pentru teren de joacă",
+    "buyer": "PRIMARIA MUNICIPIULUI CAHUL",
+    "cpv": "37410000-5",
+    "estimated_amount": 61755.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL DASTIM",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 61755.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
