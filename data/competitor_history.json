@@ -2980,6 +2980,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1751889594594",
+    "date": "2025-07-07T12:36:51Z",
+    "title": "Procurarea materialelor de construcție",
+    "buyer": "PRIMARIA COMUNEI ONESTI",
+    "cpv": "44110000-4",
+    "estimated_amount": 5678.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "II Șved Ghenadie",
+        "id": "MD-IDNO-1004605004165",
+        "amount": 5678.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
