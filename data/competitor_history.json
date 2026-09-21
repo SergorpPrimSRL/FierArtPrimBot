@@ -13814,16 +13814,6 @@
     "awards": []
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1789023327516",
-    "date": "2026-09-16T11:33:27Z",
-    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "45200000-9",
-    "estimated_amount": 1000000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1789559461283",
     "date": "2026-09-16T11:53:55Z",
     "title": "Echipament pentru terenuri de joacă",
@@ -17481,6 +17471,16 @@
     "buyer": "Primăria mun. Ungheni",
     "cpv": "45200000-9",
     "estimated_amount": 340000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789023327516",
+    "date": "2026-09-21T09:00:00Z",
+    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 1000000.0,
     "bidders": [],
     "awards": []
   }
