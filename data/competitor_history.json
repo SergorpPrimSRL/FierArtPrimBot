@@ -2675,6 +2675,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1749819294953",
+    "date": "2025-06-13T12:57:33Z",
+    "title": "Achiziţionarea, livrarea și instalarea gardului și foișorului p/u copii str.Chișinăului   ",
+    "buyer": "ANENII NOI PRIMARIA",
+    "cpv": "34990000-3",
+    "estimated_amount": 45342.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL PLAYGROUND",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 45342.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
