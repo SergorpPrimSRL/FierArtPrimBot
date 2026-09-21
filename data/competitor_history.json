@@ -13848,16 +13848,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1789026204026",
-    "date": "2026-09-17T05:09:41Z",
-    "title": "„ Echipamente și mobilier pentru terenul de joaca, inclusiv asamblarea, montarea, fixarea și punerea în funcțiune  în orașul Telenești și satul Băneștii Noi pentru implementarea inițiativelor civice selectate prin intermediul Laboratorului de Inovație Civică, ediția 2026”",
-    "buyer": "Primaria Telenesti",
-    "cpv": "37400000-2",
-    "estimated_amount": 225350.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1782911431488",
     "date": "2026-09-17T08:44:30Z",
     "title": "Achiziționarea centralizată a consumabilelor de laborator conform necesităților instituțiilor medico-sanitare publice IMSP - beneficiari pentru anul 2027",
@@ -17383,16 +17373,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1789661043947",
-    "date": "2026-09-20T10:10:43Z",
-    "title": "Teren de joacă copii s.Ciobanovca",
-    "buyer": "Primaria Ciobanovca",
-    "cpv": "37400000-2",
-    "estimated_amount": 40000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1789536301233",
     "date": "2026-09-21T05:15:08Z",
     "title": "Mobilier  pentru instituțiile din subordinea DETS sect. Buiucani ",
@@ -17481,6 +17461,26 @@
     "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
     "cpv": "45200000-9",
     "estimated_amount": 1000000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789026204026",
+    "date": "2026-09-21T10:00:00Z",
+    "title": "„ Echipamente și mobilier pentru terenul de joaca, inclusiv asamblarea, montarea, fixarea și punerea în funcțiune  în orașul Telenești și satul Băneștii Noi pentru implementarea inițiativelor civice selectate prin intermediul Laboratorului de Inovație Civică, ediția 2026”",
+    "buyer": "Primaria Telenesti",
+    "cpv": "37400000-2",
+    "estimated_amount": 225350.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789661043947",
+    "date": "2026-09-21T10:08:17Z",
+    "title": "Teren de joacă copii s.Ciobanovca",
+    "buyer": "Primaria Ciobanovca",
+    "cpv": "37400000-2",
+    "estimated_amount": 40000.0,
     "bidders": [],
     "awards": []
   }
