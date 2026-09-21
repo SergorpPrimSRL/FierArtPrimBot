@@ -2997,6 +2997,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1752044318645",
+    "date": "2025-07-09T07:00:20Z",
+    "title": "Servicii de actualizare, imprimare, stampilare si verificare a documentației de devize conform prețurilor la zi și modificărilor din proiectul de execuție pentru ”Amenajarea parcului public cu construcții cultural - sportive pe terenul cu nr. cadastral 31",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "71300000-1",
+    "estimated_amount": 25000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "ENPICON S.R.L",
+        "id": "MD-IDNO-1023600055455",
+        "amount": 25000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
