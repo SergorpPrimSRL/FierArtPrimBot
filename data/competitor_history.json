@@ -3770,6 +3770,84 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1684860021634",
+    "date": "2025-08-20T08:41:13Z",
+    "title": "Lucrări de reparaţie  capitală a străzilor din or. Floreşti: (str. 8  martie și str. Dragoș  Vodă cartier bulevardul  Victoriei nr. 11, 13, 15,  17, 19)",
+    "buyer": "Primaria or. Floresti",
+    "cpv": "45233141-9",
+    "estimated_amount": 3426358.91,
+    "bidders": [
+      {
+        "name": "SC”DROMAS-CONS”S.R.L.",
+        "id": "MD-IDNO-1003600107905",
+        "amount": 2755397.39
+      },
+      {
+        "name": "D&CC Capital",
+        "id": "MD-IDNO-1022607000631",
+        "amount": 3243883.69
+      },
+      {
+        "name": "Magistrala-Nistru",
+        "id": "MD-IDNO-1003607000038",
+        "amount": 2594317.36
+      },
+      {
+        "name": "IPS ”Corsag” SRL",
+        "id": "MD-IDNO-1004600029396",
+        "amount": 2689002.29
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 3367759.75
+      },
+      {
+        "name": "SA Drumuri-Soroca",
+        "id": "MD-IDNO-1003607003279",
+        "amount": 2523399.75
+      }
+    ],
+    "awards": [
+      {
+        "name": "SA Drumuri-Soroca",
+        "id": "MD-IDNO-1003607003279",
+        "amount": 2523399.75,
+        "status": "pending"
+      },
+      {
+        "name": "Magistrala-Nistru",
+        "id": "MD-IDNO-1003607000038",
+        "amount": 2594317.36,
+        "status": "pending"
+      },
+      {
+        "name": "IPS ”Corsag” SRL",
+        "id": "MD-IDNO-1004600029396",
+        "amount": 2689002.29,
+        "status": "pending"
+      },
+      {
+        "name": "SC”DROMAS-CONS”S.R.L.",
+        "id": "MD-IDNO-1003600107905",
+        "amount": 2755397.39,
+        "status": "pending"
+      },
+      {
+        "name": "D&CC Capital",
+        "id": "MD-IDNO-1022607000631",
+        "amount": 3243883.69,
+        "status": "pending"
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 3367759.75,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
