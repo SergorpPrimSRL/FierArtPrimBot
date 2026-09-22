@@ -3414,6 +3414,106 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1754209594451",
+    "date": "2025-08-03T08:29:48Z",
+    "title": "lucrari de constructie",
+    "buyer": "PRIMARIA MOLESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 95416.67,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1752148350963",
+    "date": "2025-08-04T11:48:12Z",
+    "title": "Echipamente de joacă, inclusiv instalarea și amenajarea lor pe teritoriul din mun. Bălți",
+    "buyer": " Primăria mun. Bălți",
+    "cpv": "37500000-3",
+    "estimated_amount": 1305107.83,
+    "bidders": [
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 1171415.02
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 980376.0
+      },
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 1249317.47
+      },
+      {
+        "name": "\"VLADMIH COMPANY \"",
+        "id": "MD-IDNO-1014602000950",
+        "amount": 1245003.16
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 980376.0,
+        "status": "pending"
+      },
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 1171415.02,
+        "status": "pending"
+      },
+      {
+        "name": "\"VLADMIH COMPANY \"",
+        "id": "MD-IDNO-1014602000950",
+        "amount": 1245003.16,
+        "status": "pending"
+      },
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 1249317.47,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1753104360354",
+    "date": "2025-08-04T12:41:21Z",
+    "title": "Amenajarea Parcului Generațiilor. Lucrări de amenajare prin pavaj,iluminat și spații verzi.",
+    "buyer": "Primaria c.Cuhnesti r-ul Glodeni RM",
+    "cpv": "45200000-9",
+    "estimated_amount": 395542.12,
+    "bidders": [
+      {
+        "name": "MEGA NORD CONSTRUCT",
+        "id": "MD-IDNO-1011604002876",
+        "amount": 383166.8
+      },
+      {
+        "name": "SRL Zepto",
+        "id": "MD-IDNO-1018600024415",
+        "amount": 379523.05
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL Zepto",
+        "id": "MD-IDNO-1018600024415",
+        "amount": 379523.05,
+        "status": "pending"
+      },
+      {
+        "name": "MEGA NORD CONSTRUCT",
+        "id": "MD-IDNO-1011604002876",
+        "amount": 383166.8,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
