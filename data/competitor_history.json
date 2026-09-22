@@ -3848,6 +3848,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1755758149337",
+    "date": "2025-08-21T06:39:11Z",
+    "title": "Procurarea caruselului",
+    "buyer": "PRIMARIA COMUNEI SOLCANI",
+    "cpv": "37400000-2",
+    "estimated_amount": 7333.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Eximprod-Trade",
+        "id": "AE-ACCI-1021609001886",
+        "amount": 7333.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1755847456591",
+    "date": "2025-08-22T07:32:32Z",
+    "title": "Gropi de nisip pentru terenuri de joacă",
+    "buyer": "PRIMARIA SATULUI CIUCIULENI",
+    "cpv": "37530000-2",
+    "estimated_amount": 12500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 12500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
