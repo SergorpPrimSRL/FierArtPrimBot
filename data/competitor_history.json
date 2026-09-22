@@ -3289,6 +3289,91 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1752673985323",
+    "date": "2025-07-28T08:11:08Z",
+    "title": "achiziţionarea lucrarilor de amenajare a unui complex de joacă Primăria comunei Iarova, r. Soroca",
+    "buyer": "Primaria comunei Iarova",
+    "cpv": "45200000-9",
+    "estimated_amount": 291468.0,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 287730.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 287730.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1753690821230",
+    "date": "2025-07-28T08:23:26Z",
+    "title": "Achiziționarea scaunelor stradale cu spătar p/u dotarea cu mobilier urban a parcurilor, străzilor, spațiilor publice",
+    "buyer": "PRIMARIA MUNICIPIULUI SOROCA",
+    "cpv": "39110000-6",
+    "estimated_amount": 66583.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.A. „HIDROINPEX”",
+        "id": "MD-IDNO-1003607005170",
+        "amount": 66583.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1753103069724",
+    "date": "2025-07-29T04:57:03Z",
+    "title": "achiziţionarea lucrărilor de reparatie curentă a sistemului de încălzire la IET Foișor din s.Vădeni, r-nul Soroca",
+    "buyer": "Primaria comunei Vadeni",
+    "cpv": "45200000-9",
+    "estimated_amount": 233000.0,
+    "bidders": [
+      {
+        "name": "Termodinamic Trade",
+        "id": "MD-IDNO-1016607001439",
+        "amount": 191666.67
+      },
+      {
+        "name": "Cebascom",
+        "id": "MD-IDNO-1011600019568",
+        "amount": 156565.02
+      },
+      {
+        "name": "B.I.C.E. - INVEST - Europa",
+        "id": "MD-IDNO-1015602000083",
+        "amount": 227501.72
+      }
+    ],
+    "awards": [
+      {
+        "name": "Cebascom",
+        "id": "MD-IDNO-1011600019568",
+        "amount": 156565.02,
+        "status": "pending"
+      },
+      {
+        "name": "Termodinamic Trade",
+        "id": "MD-IDNO-1016607001439",
+        "amount": 191666.67,
+        "status": "pending"
+      },
+      {
+        "name": "B.I.C.E. - INVEST - Europa",
+        "id": "MD-IDNO-1015602000083",
+        "amount": 227501.72,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
