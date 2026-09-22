@@ -4438,6 +4438,176 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1757417071989",
+    "date": "2025-09-09T12:01:27Z",
+    "title": "Achiziționarea și instalarea echipamentelor de joacă pentru copii.",
+    "buyer": "PRIMARIA SATULUI SCORENI",
+    "cpv": "37530000-2",
+    "estimated_amount": 119785.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "„Power-Team” S.R.L",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 119785.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1756198381286",
+    "date": "2025-09-09T12:32:17Z",
+    "title": "Achiziționarea echipamentului  pentru amenajarea terenurilor de joacă la Grădinița de copii nr.1 din s.Vorniceni, r-nul Strășeni.  (inclusiv transportarea și instalarea echipamentelor)",
+    "buyer": "Primăria Vorniceni",
+    "cpv": "37535200-9",
+    "estimated_amount": 482600.0,
+    "bidders": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 442450.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 442450.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1754655799355",
+    "date": "2025-09-09T12:43:06Z",
+    "title": "Teren sportiv multifunctional, s. Suruceni, r-l Ialoveni",
+    "buyer": "Primaria Suruceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 2134587.96,
+    "bidders": [
+      {
+        "name": "SRL ANADEM-CONSTRUCT",
+        "id": "MD-IDNO-1010600007784",
+        "amount": 2219573.43
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL ANADEM-CONSTRUCT",
+        "id": "MD-IDNO-1010600007784",
+        "amount": 2219573.43,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1754048786495",
+    "date": "2025-09-10T06:13:18Z",
+    "title": "Amenajarea parcului public cu construcții cultural-sportive pe terenul cu nr. cadastral 31532161134 situat în mun. Chișinău, or. Stăuceni, str. Unirii",
+    "buyer": "Primaria orașului Stauceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 46098103.26,
+    "bidders": [
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 39197728.66
+      },
+      {
+        "name": "Aflux-Prim",
+        "id": "MD-IDNO-1008602001596",
+        "amount": 45597685.05
+      },
+      {
+        "name": "Emcom E&E",
+        "id": "MD-IDNO-1011600027451",
+        "amount": 39999674.27
+      }
+    ],
+    "awards": [
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 39197728.66,
+        "status": "pending"
+      },
+      {
+        "name": "Emcom E&E",
+        "id": "MD-IDNO-1011600027451",
+        "amount": 39999674.27,
+        "status": "pending"
+      },
+      {
+        "name": "Aflux-Prim",
+        "id": "MD-IDNO-1008602001596",
+        "amount": 45597685.05,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1755442749214",
+    "date": "2025-09-10T07:24:09Z",
+    "title": "Achizitionarea echipamentelor pentru amenajarea scuarului din centrul localitatii Schineni, raionul Soroca",
+    "buyer": "PRIMARIA COMUNEI SCHINENI",
+    "cpv": "37500000-3",
+    "estimated_amount": 499583.33,
+    "bidders": [
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 375875.0
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 457083.34
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 460200.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 371375.0,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 447000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 457000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1757498935211",
+    "date": "2025-09-10T10:12:04Z",
+    "title": "echipamente pentru terenuri de joacă",
+    "buyer": "PRIMARIA MUNICIPIULUI CAHUL",
+    "cpv": "37530000-2",
+    "estimated_amount": 19600.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL DASTIM ART",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 19600.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
