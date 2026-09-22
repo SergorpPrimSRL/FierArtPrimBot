@@ -18097,11 +18097,21 @@
   },
   {
     "ocid": "ocds-b3wdp1-MD-1789547989637",
-    "date": "2026-09-22T08:18:12Z",
+    "date": "2026-09-22T08:24:19Z",
     "title": "Complexe de joacă, inclusiv instalarea și amenajarea lor pe teritoriul municipiului Bălți din str.Tiraspol, nr.7, str.Independenței, nr.94 și bd. Larisa, nr.7 ",
     "buyer": " Primăria mun. Bălți",
     "cpv": "37500000-3",
     "estimated_amount": 1004126.73,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1790066499744",
+    "date": "2026-09-22T08:41:39Z",
+    "title": "procurarea echipamentului pu teren de joaca",
+    "buyer": "PRIMARIA PASCANI",
+    "cpv": "",
+    "estimated_amount": 80034.99,
     "bidders": [],
     "awards": []
   }
