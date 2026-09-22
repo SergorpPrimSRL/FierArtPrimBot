@@ -4290,6 +4290,154 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1756988655753",
+    "date": "2025-09-04T12:25:51Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "",
+    "estimated_amount": 240000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1756988896755",
+    "date": "2025-09-04T12:28:16Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "",
+    "estimated_amount": 240000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1756989184864",
+    "date": "2025-09-04T12:33:04Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "",
+    "estimated_amount": 2400000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1756989316263",
+    "date": "2025-09-04T12:35:16Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "",
+    "estimated_amount": 240000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1756989756674",
+    "date": "2025-09-04T12:42:36Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "",
+    "estimated_amount": 240000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1756990436172",
+    "date": "2025-09-04T12:53:56Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "",
+    "estimated_amount": 240000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1756990947330",
+    "date": "2025-09-04T13:02:27Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "",
+    "estimated_amount": 240000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1742900862189",
+    "date": "2025-09-08T07:17:32Z",
+    "title": "Mobilier urban, inclusiv instalarea în curțile de bloc",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "34900000-6",
+    "estimated_amount": 6175000.0,
+    "bidders": [
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 2779166.66
+      },
+      {
+        "name": "Fabro-Fier",
+        "id": "MD-IDNO-1008608002779",
+        "amount": 2387750.0
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 1746645.84
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 2508375.0
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 2652500.0
+      },
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 2077100.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 1746645.84,
+        "status": "pending"
+      },
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 2077100.0,
+        "status": "pending"
+      },
+      {
+        "name": "Fabro-Fier",
+        "id": "MD-IDNO-1008608002779",
+        "amount": 2387750.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 2508375.0,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 2652500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 2779166.66,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
