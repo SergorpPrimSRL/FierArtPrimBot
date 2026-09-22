@@ -3537,6 +3537,43 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1754640184252",
+    "date": "2025-08-08T08:03:04Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "",
+    "estimated_amount": 240000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1754649972208",
+    "date": "2025-08-08T10:46:12Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "",
+    "estimated_amount": 240000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1754852388767",
+    "date": "2025-08-10T19:03:23Z",
+    "title": "Achizitionarea complexului de joaca,a balansoarului pe arc, a balansoarului si a aparatelor de fitness ",
+    "buyer": "PRIMARIA ORASULUI CAUSENI",
+    "cpv": "37480000-6",
+    "estimated_amount": 147241.68,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "\"BADAR-M\" S.R.L.",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 147241.68,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
