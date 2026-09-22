@@ -3514,6 +3514,29 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1657181465676",
+    "date": "2025-08-07T10:35:02Z",
+    "title": "Teren de agrement multifunctional din sectorul \"Bozu\", or. Ialoveni (REPETAT)",
+    "buyer": "Agenția de Dezvoltare Regională Centru",
+    "cpv": "45100000-8",
+    "estimated_amount": 7313366.66,
+    "bidders": [
+      {
+        "name": "Sigma VenMer",
+        "id": "MD-IDNO-1007600018551",
+        "amount": 8879379.8
+      }
+    ],
+    "awards": [
+      {
+        "name": "Sigma VenMer",
+        "id": "MD-IDNO-1007600018551",
+        "amount": 8879379.8,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
