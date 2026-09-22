@@ -3658,6 +3658,101 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1755148212959",
+    "date": "2025-08-14T05:39:25Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "37500000-3",
+    "estimated_amount": 240000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1753451228721",
+    "date": "2025-08-14T05:49:04Z",
+    "title": "Echipament pentru terenuri de joacă",
+    "buyer": "Primăria comunei Cocieri",
+    "cpv": "37500000-3",
+    "estimated_amount": 275000.0,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 254916.67
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 263500.0
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 287066.63
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 254916.67,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 263500.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 287066.63,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1755148918342",
+    "date": "2025-08-14T05:49:05Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "37500000-3",
+    "estimated_amount": 240000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1755151197964",
+    "date": "2025-08-14T05:59:57Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "",
+    "estimated_amount": 240000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1755152362274",
+    "date": "2025-08-14T06:19:22Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "",
+    "estimated_amount": 240000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1755177477987",
+    "date": "2025-08-14T13:17:57Z",
+    "title": " Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "",
+    "estimated_amount": 240000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
