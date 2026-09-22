@@ -3916,6 +3916,230 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1737564410855",
+    "date": "2025-08-26T07:29:13Z",
+    "title": "Lucrărilor de reparație a Grădinițelor  din or. Cimișlia",
+    "buyer": "Primăria Cimișlia",
+    "cpv": "45200000-9",
+    "estimated_amount": 1857461.73,
+    "bidders": [
+      {
+        "name": "SRL EUSEVAS CONS",
+        "id": "MD-IDNO-1006600015070",
+        "amount": 166361.0
+      },
+      {
+        "name": "Management Invest Group",
+        "id": "MD-IDNO-1020600039508",
+        "amount": 471607.93
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 557000.0
+      },
+      {
+        "name": "SRL,,Kedacons”",
+        "id": "MD-IDNO-1018600005878",
+        "amount": 360340.0
+      },
+      {
+        "name": "ALARCON GROUP",
+        "id": "MD-IDNO-1017605003285",
+        "amount": 402137.71
+      },
+      {
+        "name": "Lux Arbo",
+        "id": "MD-IDNO-1017611004470",
+        "amount": 183934.45
+      },
+      {
+        "name": "Ludmila Agroconstructii",
+        "id": "MD-IDNO-1021600010681",
+        "amount": 442600.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL,,Kedacons”",
+        "id": "MD-IDNO-1018600005878",
+        "amount": 299900.0,
+        "status": "pending"
+      },
+      {
+        "name": "Management Invest Group",
+        "id": "MD-IDNO-1020600039508",
+        "amount": 299999.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 300000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL EUSEVAS CONS",
+        "id": "MD-IDNO-1006600015070",
+        "amount": 380431.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALARCON GROUP",
+        "id": "MD-IDNO-1017605003285",
+        "amount": 402137.71,
+        "status": "pending"
+      },
+      {
+        "name": "Ludmila Agroconstructii",
+        "id": "MD-IDNO-1021600010681",
+        "amount": 442600.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,,Kedacons”",
+        "id": "MD-IDNO-1018600005878",
+        "amount": 199900.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 200000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL EUSEVAS CONS",
+        "id": "MD-IDNO-1006600015070",
+        "amount": 208000.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALARCON GROUP",
+        "id": "MD-IDNO-1017605003285",
+        "amount": 233599.9,
+        "status": "pending"
+      },
+      {
+        "name": "Ludmila Agroconstructii",
+        "id": "MD-IDNO-1021600010681",
+        "amount": 236940.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lux Arbo",
+        "id": "MD-IDNO-1017611004470",
+        "amount": 139500.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 140000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL EUSEVAS CONS",
+        "id": "MD-IDNO-1006600015070",
+        "amount": 158900.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,,Kedacons”",
+        "id": "MD-IDNO-1018600005878",
+        "amount": 158999.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALARCON GROUP",
+        "id": "MD-IDNO-1017605003285",
+        "amount": 186748.17,
+        "status": "pending"
+      },
+      {
+        "name": "Ludmila Agroconstructii",
+        "id": "MD-IDNO-1021600010681",
+        "amount": 358708.48,
+        "status": "pending"
+      },
+      {
+        "name": "SRL EUSEVAS CONS",
+        "id": "MD-IDNO-1006600015070",
+        "amount": 92224.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 92324.25,
+        "status": "pending"
+      },
+      {
+        "name": "ALARCON GROUP",
+        "id": "MD-IDNO-1017605003285",
+        "amount": 107215.52,
+        "status": "pending"
+      },
+      {
+        "name": "Management Invest Group",
+        "id": "MD-IDNO-1020600039508",
+        "amount": 399999.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 400000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,,Kedacons”",
+        "id": "MD-IDNO-1018600005878",
+        "amount": 410000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL EUSEVAS CONS",
+        "id": "MD-IDNO-1006600015070",
+        "amount": 459583.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALARCON GROUP",
+        "id": "MD-IDNO-1017605003285",
+        "amount": 508267.02,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1756362552729",
+    "date": "2025-08-28T06:36:16Z",
+    "title": "Servicii de reparatie curenta a foisorului",
+    "buyer": "I.P.SCOALA PRIMARA NR.12 ANATOL POPOVICI DIN CHI",
+    "cpv": "45400000-1",
+    "estimated_amount": 88309.73,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "\"SANDCRIST CONS\" S.R.L",
+        "id": "AE-ACCI-1023600023953",
+        "amount": 88309.73,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1756366356161",
+    "date": "2025-08-28T07:34:33Z",
+    "title": "procurarea a doua mijloace fixe si instalare lor-leagan",
+    "buyer": "Primaria Colibasi",
+    "cpv": "39300000-5",
+    "estimated_amount": 198915.25,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
