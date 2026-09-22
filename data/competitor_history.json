@@ -4901,6 +4901,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1758280049204",
+    "date": "2025-09-19T11:17:35Z",
+    "title": "procurarea mijloacelor fixe",
+    "buyer": "PRIMARIA SATULUI RAUTEL",
+    "cpv": "37530000-2",
+    "estimated_amount": 179998.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Sergorp-Prim",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 179998.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
