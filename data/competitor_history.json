@@ -3183,6 +3183,33 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1753345369431",
+    "date": "2025-07-24T08:27:17Z",
+    "title": "Foișor pentru grădiniță, cu dimensiunile de 5x3 metri.",
+    "buyer": "PRIMARIA ORASULUI BASARABEASCA",
+    "cpv": "37500000-3",
+    "estimated_amount": 199875.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1753360831443",
+    "date": "2025-07-24T12:50:29Z",
+    "title": "Complex și accesorii de joacă pentru copii din s. Varnița",
+    "buyer": "VARNITA PRIMARIA",
+    "cpv": "43300000-6",
+    "estimated_amount": 143655.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL EXIMPROD TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 143655.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
