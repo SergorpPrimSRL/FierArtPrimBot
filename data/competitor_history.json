@@ -3139,6 +3139,50 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1752243546345",
+    "date": "2025-07-23T07:35:22Z",
+    "title": "Bunuri pentru dotarea Grădiniței din s. Hancăuți, r-ul Edineț",
+    "buyer": "Primăria Hancăuți r-nul Edineț",
+    "cpv": "37500000-3",
+    "estimated_amount": 689210.83,
+    "bidders": [
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 676674.17
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 514250.01
+      }
+    ],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 514250.01,
+        "status": "pending"
+      },
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 643107.89,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1753266580340",
+    "date": "2025-07-23T10:31:53Z",
+    "title": "ECHIPAMENT DE JOACA SI AGREMENT PENTRU COPII",
+    "buyer": "PRIMARIA VOINESCU",
+    "cpv": "37520000-9",
+    "estimated_amount": 141667.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
