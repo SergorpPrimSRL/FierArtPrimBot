@@ -4788,6 +4788,119 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1754031329956",
+    "date": "2025-09-17T11:41:54Z",
+    "title": "Sistem de umbrire motorizat (pergole)",
+    "buyer": "Aeroportul International Chisinau",
+    "cpv": "45200000-9",
+    "estimated_amount": 975000.0,
+    "bidders": [
+      {
+        "name": "Gardecor",
+        "id": "MD-IDNO-1004600025594",
+        "amount": 1040000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Gardecor",
+        "id": "MD-IDNO-1004600025594",
+        "amount": 1040000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1758177780419",
+    "date": "2025-09-18T07:29:10Z",
+    "title": "Leagan cu 2 scaune pentru terenul de joaca",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE BUIUCANI",
+    "cpv": "37530000-2",
+    "estimated_amount": 19128.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 19128.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1758184781322",
+    "date": "2025-09-18T08:48:45Z",
+    "title": "echipament pentru teren de joacă",
+    "buyer": "IMSP Spitalul raional Strășeni",
+    "cpv": "37500000-3",
+    "estimated_amount": 99620.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Power Team",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 99620.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1757322313072",
+    "date": "2025-09-18T10:54:18Z",
+    "title": "Amenajarea scuarului",
+    "buyer": "PRIMARIA COMUNEI CRUZESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 133333.0,
+    "bidders": [
+      {
+        "name": "PRO-KASS-INV",
+        "id": "MD-IDNO-1024600083299",
+        "amount": 129767.55
+      },
+      {
+        "name": "CRISDAM CONSTRUCT",
+        "id": "MD-IDNO-1015600007044",
+        "amount": 116917.67
+      },
+      {
+        "name": "Meridian Construct",
+        "id": "MD-IDNO-1022600018167",
+        "amount": 119236.43
+      },
+      {
+        "name": "CP INVEST CONSTRUCT",
+        "id": "MD-IDNO-1023600046679",
+        "amount": 127150.26
+      }
+    ],
+    "awards": [
+      {
+        "name": "PRO-KASS-INV",
+        "id": "MD-IDNO-1024600083299",
+        "amount": 116900.0,
+        "status": "pending"
+      },
+      {
+        "name": "CRISDAM CONSTRUCT",
+        "id": "MD-IDNO-1015600007044",
+        "amount": 116917.67,
+        "status": "pending"
+      },
+      {
+        "name": "Meridian Construct",
+        "id": "MD-IDNO-1022600018167",
+        "amount": 119236.43,
+        "status": "pending"
+      },
+      {
+        "name": "CP INVEST CONSTRUCT",
+        "id": "MD-IDNO-1023600046679",
+        "amount": 127150.26,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
