@@ -18535,5 +18535,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1790080317078",
+    "date": "2026-09-22T12:34:21Z",
+    "title": "Lucrari de constructie si instalare a leaganului Eugen Doga",
+    "buyer": "Primaria or. Glodeni",
+    "cpv": "45200000-9",
+    "estimated_amount": 199984.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 199984.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
