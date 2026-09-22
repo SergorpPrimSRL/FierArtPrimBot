@@ -18789,11 +18789,21 @@
   },
   {
     "ocid": "ocds-b3wdp1-MD-1790082982107",
-    "date": "2026-09-22T13:16:21Z",
+    "date": "2026-09-22T13:19:54Z",
     "title": "SERVICII DE REPARATIE CURENTA SUBSOLULUI, LEAGANELOR P/U COPII SI GARDULUI DE IMPREJMUIRE A GRADINITEI TEREMOC",
     "buyer": "PRIMARIA COMUNEI BARONCEA",
-    "cpv": "",
+    "cpv": "45400000-1",
     "estimated_amount": 8741.25,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1790083870064",
+    "date": "2026-09-22T13:37:45Z",
+    "title": "Procurare constructii speciale ",
+    "buyer": "PRIMARIA COMUNEI BARONCEA",
+    "cpv": "45200000-9",
+    "estimated_amount": 177470.0,
     "bidders": [],
     "awards": []
   }
