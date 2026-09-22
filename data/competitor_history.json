@@ -3753,6 +3753,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1755513909827",
+    "date": "2025-08-18T10:49:38Z",
+    "title": "Lucrări de reconstrucție a unui foisor la IP Șc. Primară,,Anatolie Popovici”",
+    "buyer": "I.P.SCOALA PRIMARA NR.12 ANATOL POPOVICI DIN CHI",
+    "cpv": "45400000-1",
+    "estimated_amount": 199967.91,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "CONSTRUCT TADOR S.R.L.,",
+        "id": "AE-ACCI-1014620002147",
+        "amount": 199967.91,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
