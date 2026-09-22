@@ -4680,6 +4680,57 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1756132628122",
+    "date": "2025-09-15T13:49:23Z",
+    "title": "Mobilier",
+    "buyer": "IMSP Policlinica de Stat",
+    "cpv": "39100000-3",
+    "estimated_amount": 250826.66,
+    "bidders": [
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 9166.66
+      },
+      {
+        "name": "VMS-COMPANIE",
+        "id": "MD-IDNO-1006602003242",
+        "amount": 161500.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 9166.66,
+        "status": "pending"
+      },
+      {
+        "name": "VMS-COMPANIE",
+        "id": "MD-IDNO-1006602003242",
+        "amount": 161500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1758012309627",
+    "date": "2025-09-16T08:48:48Z",
+    "title": "Procurarea toboganului",
+    "buyer": "PRIMARIA HALAHORA DE SUS",
+    "cpv": "37530000-2",
+    "estimated_amount": 1813.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Eximprod Trade",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 1813.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
