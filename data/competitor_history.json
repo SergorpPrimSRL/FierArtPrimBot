@@ -3882,6 +3882,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1755852049436",
+    "date": "2025-08-22T08:45:41Z",
+    "title": "lucrari de reparatie a pardoselii la Foișor la Gradința din s. Malcoci, r. Ialoveni",
+    "buyer": "PRIMARIA SATULUI MALCOCI",
+    "cpv": "45200000-9",
+    "estimated_amount": 126895.13,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "”Mihcoactiv” SRL",
+        "id": "MD-IDNO-1014600017026",
+        "amount": 126895.13,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1756109145738",
+    "date": "2025-08-25T08:08:30Z",
+    "title": "Servicii de supraveghere de autor la amenajare scuar, skate park, parcare auto și altele",
+    "buyer": "PRIMARIA SINGEREI",
+    "cpv": "71200000-0",
+    "estimated_amount": 18860.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "MASSIVE PROJECT SRL",
+        "id": "MD-IDNO-1023600005070",
+        "amount": 18860.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
