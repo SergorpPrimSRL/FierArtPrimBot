@@ -5081,6 +5081,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1759303902244",
+    "date": "2025-10-01T07:34:33Z",
+    "title": "Servicii de supraveghere de autor",
+    "buyer": "Primaria Romanesti",
+    "cpv": "71500000-3",
+    "estimated_amount": 2570.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL LETANIK OFFICE",
+        "id": "MD-IDNO-1023600021878",
+        "amount": 2570.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1759305440229",
+    "date": "2025-10-01T08:03:18Z",
+    "title": "Construcție din metal și lemn ,,Foișor pentru recreere”",
+    "buyer": "COMISIA ELECTORALA CENTRALA",
+    "cpv": "44100000-1",
+    "estimated_amount": 115711.2,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL „Pro Tron Media”",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 115711.2,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
