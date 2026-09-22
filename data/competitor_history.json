@@ -4979,6 +4979,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1759134513439",
+    "date": "2025-09-29T08:31:36Z",
+    "title": "Servicii de organizare și desfășurare a Festivalului ”Burlănești - leagăn de dor”",
+    "buyer": "MINISTERUL CULTURII",
+    "cpv": "79950000-8",
+    "estimated_amount": 38661.34,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Centrul de Cultură și Artă Ginta Latină",
+        "id": "MD-IDNO-1003600160588",
+        "amount": 38661.34,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1759144684865",
+    "date": "2025-09-29T11:25:55Z",
+    "title": "Servicii de tobogan gonflabil pentru copii la 1 iunie ",
+    "buyer": "PRIMARIA ORASULUI TELENESTI",
+    "cpv": "92330000-3",
+    "estimated_amount": 10000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Patentar “NOVAGENIUS”SRL",
+        "id": "MD-IDNO-1016606004167",
+        "amount": 10000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
