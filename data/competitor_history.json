@@ -5013,6 +5013,74 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1759211633672",
+    "date": "2025-09-30T06:01:19Z",
+    "title": "Procurarea unui complex de joacă str.8 Martie , or.Rezina",
+    "buyer": "PRIMARIA ORASULUI REZINA",
+    "cpv": "37500000-3",
+    "estimated_amount": 100208.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "PLAYGROUND STORE S.R.L.",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 100208.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1756796221735",
+    "date": "2025-09-30T07:36:33Z",
+    "title": "Lucrări de confecționare și instalare a băncilor si urnelor. Mobilier urban.",
+    "buyer": "Primaria orasului Drochia",
+    "cpv": "45200000-9",
+    "estimated_amount": 493942.0,
+    "bidders": [
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 460338.8
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 345785.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 345785.0,
+        "status": "pending"
+      },
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 460338.8,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1759238286331",
+    "date": "2025-09-30T13:22:25Z",
+    "title": "Lucrări de reparația a pardoselelor din foișoarele de pe tereitoriul grădiniței de copii nr.6, or.Rezina.",
+    "buyer": "PRIMARIA ORASULUI REZINA",
+    "cpv": "45450000-6",
+    "estimated_amount": 199993.49,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Î.M. Servicii Comunal Locative Rezina",
+        "id": "MD-IDNO-1003606012829",
+        "amount": 199993.49,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
