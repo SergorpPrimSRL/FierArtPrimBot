@@ -4731,6 +4731,63 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1756112230293",
+    "date": "2025-09-16T11:51:30Z",
+    "title": "Echipamente de joaca  pentru grupele \" Fluturasii\" \"Clopoteii\"\"Iepurasii din satul Mereni rnul Anenii Noi ",
+    "buyer": "Primaria Mereni",
+    "cpv": "39300000-5",
+    "estimated_amount": 379000.0,
+    "bidders": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 317250.0
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 260000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 260000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 317250.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1755669363246",
+    "date": "2025-09-17T10:25:23Z",
+    "title": "Achiziționarea echipamentelor de joacă pentru mun. Bălți",
+    "buyer": "PRIMARIA MUNICIPIULUI BALTI",
+    "cpv": "37535200-9",
+    "estimated_amount": 300000.0,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 299750.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 299750.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
