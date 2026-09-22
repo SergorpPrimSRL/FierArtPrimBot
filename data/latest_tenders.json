@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1789547989637",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea lor pe teritoriul municipiului Bălți din str.Tiraspol, nr.7, str.Independenței, nr.94 și bd. Larisa, nr.7 ",
+    "authority": " Primăria mun. Bălți",
+    "amount": 1004126.73,
+    "currency": "MDL",
+    "deadline": "2026-10-02T07:00:00Z",
+    "deadline_text": "02.10.2026 10:00",
+    "status": "clarification",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "complexe de joacă"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789547989637",
+    "source_date": "2026-09-22T08:24:19Z",
+    "saved_at": "2026-09-22T08:25:48.288197+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1789026204026",
     "title": "„ Echipamente și mobilier pentru terenul de joaca, inclusiv asamblarea, montarea, fixarea și punerea în funcțiune  în orașul Telenești și satul Băneștii Noi pentru implementarea inițiativelor civice selectate prin intermediul Laboratorului de Inovație Civică, ediția 2026”",
     "authority": "Primaria Telenesti",
@@ -127,24 +145,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789736394782",
     "source_date": "2026-09-18T13:05:43Z",
     "saved_at": "2026-09-18T13:23:11.607526+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789547989637",
-    "title": "Complexe de joacă, inclusiv instalarea și amenajarea lor pe teritoriul municipiului Bălți din str.Tiraspol, nr.7, str.Independenței, nr.94 și bd. Larisa, nr.7 ",
-    "authority": " Primăria mun. Bălți",
-    "amount": 1004126.73,
-    "currency": "MDL",
-    "deadline": "2026-10-02T07:00:00Z",
-    "deadline_text": "02.10.2026 10:00",
-    "status": "clarification",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "complexe de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789547989637",
-    "source_date": "2026-09-16T10:42:31Z",
-    "saved_at": "2026-09-16T11:25:34.464853+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1788963701884",
