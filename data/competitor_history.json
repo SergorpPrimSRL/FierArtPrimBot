@@ -18776,5 +18776,25 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1790082414706",
+    "date": "2026-09-22T13:11:41Z",
+    "title": "SERVICII DE ORGANIZAREA EVENIMENTULUI DEDICATE 1 IUNIE",
+    "buyer": "PRIMARIA COMUNEI BARONCEA",
+    "cpv": "79990000-0",
+    "estimated_amount": 15000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1790082982107",
+    "date": "2026-09-22T13:16:21Z",
+    "title": "SERVICII DE REPARATIE CURENTA SUBSOLULUI, LEAGANELOR P/U COPII SI GARDULUI DE IMPREJMUIRE A GRADINITEI TEREMOC",
+    "buyer": "PRIMARIA COMUNEI BARONCEA",
+    "cpv": "",
+    "estimated_amount": 8741.25,
+    "bidders": [],
+    "awards": []
   }
 ]
