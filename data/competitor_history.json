@@ -3210,6 +3210,85 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1753434472482",
+    "date": "2025-07-25T09:13:38Z",
+    "title": "leagan,foisor",
+    "buyer": "PRIMARIA MILESTII MICI",
+    "cpv": "51500000-7",
+    "estimated_amount": 47575.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. PRO TRON MEDIA",
+        "id": "AE-ACCI-\t1011600007699",
+        "amount": 47575.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1753434948447",
+    "date": "2025-07-25T09:19:31Z",
+    "title": "amenajarea platformei pentru foisor",
+    "buyer": "PRIMARIA MILESTII MICI",
+    "cpv": "45200000-9",
+    "estimated_amount": 54850.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. PRO TRON MEDIA",
+        "id": "AE-ACCI-\t1011600007699",
+        "amount": 54850.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1752488981007",
+    "date": "2025-07-26T18:43:18Z",
+    "title": "achiziţionarea lucrărilor de reparație a blocurilor sanitare la Grldinița de copii IET \"Foișor\"din s. Vădeni, r-nul Soroca",
+    "buyer": "Primaria comunei Vadeni",
+    "cpv": "45200000-9",
+    "estimated_amount": 293851.0,
+    "bidders": [
+      {
+        "name": "SRL NavaConex",
+        "id": "MD-IDNO-1021607001527",
+        "amount": 240150.76
+      },
+      {
+        "name": "Gabion Art",
+        "id": "MD-IDNO-1019607003423",
+        "amount": 264424.79
+      },
+      {
+        "name": "SRL Pro-Fedco",
+        "id": "MD-IDNO-1023607002573",
+        "amount": 279795.56
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL NavaConex",
+        "id": "MD-IDNO-1021607001527",
+        "amount": 240150.76,
+        "status": "pending"
+      },
+      {
+        "name": "Gabion Art",
+        "id": "MD-IDNO-1019607003423",
+        "amount": 264424.79,
+        "status": "pending"
+      },
+      {
+        "name": "SRL Pro-Fedco",
+        "id": "MD-IDNO-1023607002573",
+        "amount": 279795.56,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
