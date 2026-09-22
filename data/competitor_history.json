@@ -4618,6 +4618,68 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1757659317246",
+    "date": "2025-09-12T06:57:47Z",
+    "title": "MOBILIER URBAN",
+    "buyer": "PRIMARIA COMUNEI MINDRESTI",
+    "cpv": "37500000-3",
+    "estimated_amount": 72617.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Sergoro-Prim SRL",
+        "id": "AE-ACCI-1018608001681",
+        "amount": 72617.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1752820856784",
+    "date": "2025-09-12T09:37:42Z",
+    "title": "Construcția a 15 platforme pentru colectarea deșeurilor solide din comuna Calfa",
+    "buyer": "Primaria Calfa",
+    "cpv": "45222110-3",
+    "estimated_amount": 1109113.0,
+    "bidders": [
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 1062620.72
+      },
+      {
+        "name": "FCI \"Capital\" SRL",
+        "id": "MD-IDNO-1003605002810",
+        "amount": 910685.9
+      },
+      {
+        "name": "Euro Light",
+        "id": "MD-IDNO-1016600031961",
+        "amount": 1054730.2
+      }
+    ],
+    "awards": [
+      {
+        "name": "FCI \"Capital\" SRL",
+        "id": "MD-IDNO-1003605002810",
+        "amount": 910685.9,
+        "status": "pending"
+      },
+      {
+        "name": "Euro Light",
+        "id": "MD-IDNO-1016600031961",
+        "amount": 1054730.2,
+        "status": "pending"
+      },
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 1062620.72,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
