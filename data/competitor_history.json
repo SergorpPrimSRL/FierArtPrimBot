@@ -4239,6 +4239,57 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1749391748639",
+    "date": "2025-09-04T07:48:11Z",
+    "title": "complex de joacă din str. V. Stroescu,77 și Mateevici,17 ( cu instalarea  și montarea) din mun. Soroca  ",
+    "buyer": "Primaria municipiului Soroca",
+    "cpv": "37400000-2",
+    "estimated_amount": 500000.0,
+    "bidders": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 460881.66
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 375000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 375000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 400000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1756980672300",
+    "date": "2025-09-04T10:18:58Z",
+    "title": "Deservirea muzicala a concertului Burlanesti leagan de dor",
+    "buyer": "PRIMARIA COMUNEI BURLANESTI",
+    "cpv": "79900000-3",
+    "estimated_amount": 7000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Cegolea Alexandr",
+        "id": "MD-IDNO-2003004006810",
+        "amount": 7000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
