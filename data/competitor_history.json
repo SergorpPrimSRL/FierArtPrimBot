@@ -3122,6 +3122,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1753101320351",
+    "date": "2025-07-21T12:41:07Z",
+    "title": "Servicii de proiectare ”Amenajarea parcului Unirii Răzeni Măgurele” din s. Răzeni raionul Ialoveni",
+    "buyer": "PRIMARIA COMUNEI RAZENI",
+    "cpv": "71200000-0",
+    "estimated_amount": 260000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL „FUSE ARCHITECTURE",
+        "id": "MD-IDNO-1025600003335",
+        "amount": 260000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
