@@ -5175,6 +5175,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1759906746224",
+    "date": "2025-10-08T07:07:33Z",
+    "title": "Procurare echipament teren de joaca",
+    "buyer": "PRIMARIA SATULUI SLOBOZIA-DUSCA",
+    "cpv": "37400000-2",
+    "estimated_amount": 97917.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"EXIMPROD-TRADE\"",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 97917.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
