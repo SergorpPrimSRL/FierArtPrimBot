@@ -6118,6 +6118,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1761225000756",
+    "date": "2025-10-23T13:12:58Z",
+    "title": "Complex de joaca",
+    "buyer": "PRIMARIA SATULUI DUBNA",
+    "cpv": "43320000-2",
+    "estimated_amount": 125000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PLAYGROUND STORE\"",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 125000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
