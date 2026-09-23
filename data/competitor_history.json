@@ -5842,6 +5842,78 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1758896852207",
+    "date": "2025-10-17T14:50:40Z",
+    "title": "Mobilier",
+    "buyer": "IMSP Policlinica de Stat",
+    "cpv": "39100000-3",
+    "estimated_amount": 250826.66,
+    "bidders": [
+      {
+        "name": "SA Tehoptimed",
+        "id": "MD-IDNO-1003600087162",
+        "amount": 143287.5
+      },
+      {
+        "name": "MED-M",
+        "id": "MD-IDNO-1020611000359",
+        "amount": 116566.0
+      },
+      {
+        "name": "ImpulsProGroup",
+        "id": "MD-IDNO-1007600001757",
+        "amount": 122000.0
+      },
+      {
+        "name": "Decoprim Plus SRL",
+        "id": "MD-IDNO-1014600043227",
+        "amount": 113525.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "MED-M",
+        "id": "MD-IDNO-1020611000359",
+        "amount": 116566.0,
+        "status": "pending"
+      },
+      {
+        "name": "ImpulsProGroup",
+        "id": "MD-IDNO-1007600001757",
+        "amount": 122000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SA Tehoptimed",
+        "id": "MD-IDNO-1003600087162",
+        "amount": 143287.5,
+        "status": "pending"
+      },
+      {
+        "name": "Decoprim Plus SRL",
+        "id": "MD-IDNO-1014600043227",
+        "amount": 113525.0,
+        "status": "pending"
+      },
+      {
+        "name": "MED-M",
+        "id": "MD-IDNO-1020611000359",
+        "amount": 119282.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1760940442660",
+    "date": "2025-10-20T06:09:49Z",
+    "title": "Foisor din metal",
+    "buyer": "PRIMARIA ORASULUI DROCHIA",
+    "cpv": "45260000-7",
+    "estimated_amount": 39862.5,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
