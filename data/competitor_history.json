@@ -6349,6 +6349,51 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1761293881687",
+    "date": "2025-11-03T08:27:20Z",
+    "title": "Achiziționarea de echipamente pentru şcoala din s.Pîrîta  (achiziţionarea a 5 seturi diferite atît pentru educaţia sportivă cît şi pentru testarea şi îmbunătăţirea platformei educaţionale), conform acordului de parteneriat din cadrul proiectului Interreg NEXT România-Republica Moldova                                                                                            ",
+    "buyer": "Primaria Pîrîta",
+    "cpv": "37400000-2",
+    "estimated_amount": 292000.0,
+    "bidders": [
+      {
+        "name": "SPORT LINE",
+        "id": "MD-IDNO-1003600064837",
+        "amount": 51790.84
+      }
+    ],
+    "awards": [
+      {
+        "name": "SPORT LINE",
+        "id": "MD-IDNO-1003600064837",
+        "amount": 51790.84,
+        "status": "pending"
+      },
+      {
+        "name": "SPORT LINE",
+        "id": "MD-IDNO-1003600064837",
+        "amount": 138333.33,
+        "status": "pending"
+      },
+      {
+        "name": "SPORT LINE",
+        "id": "MD-IDNO-1003600064837",
+        "amount": 47800.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1761134201630",
+    "date": "2025-11-03T13:00:00Z",
+    "title": "Mobilier urban",
+    "buyer": "Primaria s. Elizaveta",
+    "cpv": "34900000-6",
+    "estimated_amount": 297483.34,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
