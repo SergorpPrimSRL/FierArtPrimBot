@@ -5914,6 +5914,84 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1756991541644",
+    "date": "2025-10-20T12:41:52Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte “ Leagăn modern cu scrinciob și loc de șezut”  ",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "37520000-9",
+    "estimated_amount": 240000.0,
+    "bidders": [
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 225000.0
+      },
+      {
+        "name": "SRL PLESCO IOMAR",
+        "id": "MD-IDNO-1022604000858",
+        "amount": 190800.0
+      },
+      {
+        "name": "ALEXPAUL SRL",
+        "id": "MD-IDNO-1024600011760",
+        "amount": 132000.0
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 225000.0
+      },
+      {
+        "name": "Lux Arbo",
+        "id": "MD-IDNO-1017611004470",
+        "amount": 137160.0
+      },
+      {
+        "name": "Art Flame",
+        "id": "MD-IDNO-1016600040002",
+        "amount": 204000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "ALEXPAUL SRL",
+        "id": "MD-IDNO-1024600011760",
+        "amount": 132000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lux Arbo",
+        "id": "MD-IDNO-1017611004470",
+        "amount": 137160.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL PLESCO IOMAR",
+        "id": "MD-IDNO-1022604000858",
+        "amount": 190800.0,
+        "status": "pending"
+      },
+      {
+        "name": "Art Flame",
+        "id": "MD-IDNO-1016600040002",
+        "amount": 204000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 225000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 225000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
