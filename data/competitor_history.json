@@ -5588,6 +5588,74 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1760431682808",
+    "date": "2025-10-14T08:50:18Z",
+    "title": "Mobilier urban (urna, banca)",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "34920000-2",
+    "estimated_amount": 6750.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. RADIAL PLUS",
+        "id": "MD-IDNO-1003600050300",
+        "amount": 6750.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1760431852711",
+    "date": "2025-10-14T08:53:43Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte; Leagăn modern cu scrinciob și loc",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "37530000-2",
+    "estimated_amount": 108000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. ALEXPAUL",
+        "id": "MD-IDNO-1024600011760",
+        "amount": 108000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1760432206641",
+    "date": "2025-10-14T09:00:23Z",
+    "title": "Servicii/lucrări la turnarea platformelor de beton pentru instalarea Leagăn modern cu scrinciob",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "45230000-8",
+    "estimated_amount": 50000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. ALEXPAUL",
+        "id": "MD-IDNO-1024600011760",
+        "amount": 50000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1760434308122",
+    "date": "2025-10-14T09:34:55Z",
+    "title": "Decorațiuni de iarnă pentru căsuțe expozinionale",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "39230000-3",
+    "estimated_amount": 39000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PRO TRON MEDIA\"",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 39000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
