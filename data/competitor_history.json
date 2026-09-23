@@ -5456,6 +5456,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1760340525593",
+    "date": "2025-10-13T07:30:39Z",
+    "title": "Teren de joacă pentru amenajarea spațiului public din s. Băcioi, com. Băcioi, mun. Chișinău",
+    "buyer": "Primaria comunei Bacioi",
+    "cpv": "37400000-2",
+    "estimated_amount": 103850.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Playground Store",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 103850.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
