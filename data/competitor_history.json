@@ -5656,6 +5656,63 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1759903871811",
+    "date": "2025-10-14T12:49:27Z",
+    "title": "Servicii de plantare a arborilor și arbuștilor, pe fîșii din preajma drumurilor locale, în scuaruri, parcuri publice, alei, zone verzi la grădinițe de copii, școli, gimnazii, biserică , terenuri de joacă  ",
+    "buyer": "AO IZVORUL CREDINTEI",
+    "cpv": "03100000-2",
+    "estimated_amount": 262500.0,
+    "bidders": [
+      {
+        "name": "G.T. BORCOMAN VALENTINA",
+        "id": "MD-IDNO-1025604001649",
+        "amount": 314900.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "G.T. BORCOMAN VALENTINA",
+        "id": "MD-IDNO-1025604001649",
+        "amount": 314900.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1760447924681",
+    "date": "2025-10-14T13:21:39Z",
+    "title": "Achiziționarea de mobilier urban, terenul din parcul Victoriei  - cartierul 6, mun. Bălți",
+    "buyer": "PRIMARIA MUNICIPIULUI BALTI",
+    "cpv": "34920000-2",
+    "estimated_amount": 199983.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"FIER-ART-PRIM\"",
+        "id": "MD-IDNO-1019608000647",
+        "amount": 199983.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1760451304470",
+    "date": "2025-10-14T14:16:36Z",
+    "title": "Servicii de inspectare și verificare a lucrărilor (responsabil tehnic) la obiectul ” Amenajarea parcului public cu construcții cultural-sportive pe terenul cu nr. cadastral 31532161134 situat în mun. Chișinău, or. Stăuceni, str. Unirii”",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "71520000-9",
+    "estimated_amount": 100000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Baiesu  Victor",
+        "id": "MD-IDNO-0982205014364",
+        "amount": 100000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
