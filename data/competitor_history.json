@@ -6523,6 +6523,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1762953683099",
+    "date": "2025-11-12T13:34:59Z",
+    "title": "Materiale de constructie ",
+    "buyer": "PRIMARIA COMUNEI PELINEI",
+    "cpv": "44100000-1",
+    "estimated_amount": 5288.78,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PRACTIC-COM I.M.\"",
+        "id": "MD-IDNO-1010603001750",
+        "amount": 5288.78,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
