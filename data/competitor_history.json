@@ -6084,6 +6084,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1759134669683",
+    "date": "2025-10-23T06:25:35Z",
+    "title": "Amenajarea unui spațiu de agrement cu mobilier urban și  echipamente de joacă, situat în comuna Parcani, raionul Soroca",
+    "buyer": "Primaria comunei Parcani",
+    "cpv": "39300000-5",
+    "estimated_amount": 339825.0,
+    "bidders": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 324825.0
+      },
+      {
+        "name": "R.V.B-Const",
+        "id": "MD-IDNO-1022607000310",
+        "amount": 303358.24
+      }
+    ],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 303000.0,
+        "status": "pending"
+      },
+      {
+        "name": "R.V.B-Const",
+        "id": "MD-IDNO-1022607000310",
+        "amount": 303358.24,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
