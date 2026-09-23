@@ -5490,6 +5490,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1760358452652",
+    "date": "2025-10-13T12:29:32Z",
+    "title": "prestarea serviciilor p/u avizarea, coordonarea și elaborarea documentației de proiect pentru „Reabilitarea lacului pentru Caiac-Canoe, reconstruirea cu extindere a spațiilor pentru sportivi, amenajarea terenului adiacent în vederea îmbunătățirii cu un pa",
+    "buyer": "ANENII NOI PRIMARIA",
+    "cpv": "45100000-8",
+    "estimated_amount": 20000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"ARHIION ART\"",
+        "id": "MD-IDNO-1024600034040",
+        "amount": 20000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1760358926479",
+    "date": "2025-10-13T12:38:56Z",
+    "title": "Segmente de gard metalic",
+    "buyer": "PRIMARIA ORASULUI CALARASI",
+    "cpv": "34900000-6",
+    "estimated_amount": 12833.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "INTREPRINDEREA MUNICIPALA GOSPODARIA COMUNAL-LOCATIVA CALARASI",
+        "id": "MD-IDNO-1003609007259",
+        "amount": 12833.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
