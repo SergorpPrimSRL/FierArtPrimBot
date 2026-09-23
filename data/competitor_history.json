@@ -5747,6 +5747,101 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1757079221860",
+    "date": "2025-10-17T07:28:58Z",
+    "title": "reparația foișoarelor la grădinița de copii nr. 4 ”Zîmbetul” din mun. Cahul",
+    "buyer": "Primăria municipiului Cahul",
+    "cpv": "45200000-9",
+    "estimated_amount": 961957.6,
+    "bidders": [
+      {
+        "name": "Lifestar - Com",
+        "id": "MD-IDNO-1003603008450",
+        "amount": 935377.29
+      },
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 708261.83
+      },
+      {
+        "name": "VIZOL-STUDIO",
+        "id": "MD-IDNO-1005611000031",
+        "amount": 618844.43
+      },
+      {
+        "name": "Arta Zidarului",
+        "id": "MD-IDNO-1008605005403",
+        "amount": 960000.0
+      },
+      {
+        "name": "UDS-CONSTRUCT",
+        "id": "MD-IDNO-1023611001966",
+        "amount": 725726.94
+      },
+      {
+        "name": "OguzTransStroi",
+        "id": "MD-IDNO-1016611001494",
+        "amount": 908571.26
+      }
+    ],
+    "awards": [
+      {
+        "name": "VIZOL-STUDIO",
+        "id": "MD-IDNO-1005611000031",
+        "amount": 618844.43,
+        "status": "pending"
+      },
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 708261.83,
+        "status": "pending"
+      },
+      {
+        "name": "UDS-CONSTRUCT",
+        "id": "MD-IDNO-1023611001966",
+        "amount": 725726.94,
+        "status": "pending"
+      },
+      {
+        "name": "OguzTransStroi",
+        "id": "MD-IDNO-1016611001494",
+        "amount": 908571.26,
+        "status": "pending"
+      },
+      {
+        "name": "Lifestar - Com",
+        "id": "MD-IDNO-1003603008450",
+        "amount": 935377.29,
+        "status": "pending"
+      },
+      {
+        "name": "Arta Zidarului",
+        "id": "MD-IDNO-1008605005403",
+        "amount": 960000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1760700951466",
+    "date": "2025-10-17T11:39:19Z",
+    "title": "Lucrari de reparatie a pardoselii la Foisor, la Gradinita din s. Malcoci r-nul Ialoveni",
+    "buyer": "PRIMARIA SATULUI MALCOCI",
+    "cpv": "45200000-9",
+    "estimated_amount": 126895.13,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"MIHCOACTIV\"",
+        "id": "MD-IDNO-1014600017026",
+        "amount": 126895.13,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
