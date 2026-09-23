@@ -6540,6 +6540,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1763108692423",
+    "date": "2025-11-14T08:30:40Z",
+    "title": "Echipament pentru teren de joacă",
+    "buyer": "I.M.S.P. CLINICA UNIVERSITARA DE ASISTENTA MEDICALA PRIMARA ",
+    "cpv": "37500000-3",
+    "estimated_amount": 27280.83,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SMADIC&CO\"",
+        "id": "MD-IDNO-1019600011937",
+        "amount": 27280.83,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
