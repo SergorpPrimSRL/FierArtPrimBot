@@ -5992,6 +5992,98 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1758779144172",
+    "date": "2025-10-21T10:44:47Z",
+    "title": "Mobilier urban ",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "34900000-6",
+    "estimated_amount": 260000.0,
+    "bidders": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 226000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 226000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1755694956545",
+    "date": "2025-10-21T10:46:25Z",
+    "title": "Lucrări de implementare a proiectelor în cadrul Programului Bugetul Civil",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "45200000-9",
+    "estimated_amount": 597000.0,
+    "bidders": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 98770.16
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 100000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 247203.79,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 227500.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 235864.62,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 98770.16,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 100000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1761045862730",
+    "date": "2025-10-21T11:42:11Z",
+    "title": "Strămutarea pilonilor ",
+    "buyer": "PRIMARIA SATULUI COLONITA",
+    "cpv": "98300000-6",
+    "estimated_amount": 118553.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. SAVITA ENERGY",
+        "id": "MD-IDNO-1016600011419",
+        "amount": 118553.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
