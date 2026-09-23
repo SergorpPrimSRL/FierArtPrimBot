@@ -5713,6 +5713,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1759216485576",
+    "date": "2025-10-15T10:46:21Z",
+    "title": "Complex de joacă, inclusiv lucrări de instalare și amenajare",
+    "buyer": " Primăria mun. Bălți",
+    "cpv": "37500000-3",
+    "estimated_amount": 397133.31,
+    "bidders": [
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 397080.0
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 388166.67
+      }
+    ],
+    "awards": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 380195.67,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 388160.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
