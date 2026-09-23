@@ -5524,6 +5524,70 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1760421335387",
+    "date": "2025-10-14T06:00:30Z",
+    "title": "Procurare mobilier urban si servicii de amenajare",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "98300000-6",
+    "estimated_amount": 98388.32,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1760424458465",
+    "date": "2025-10-14T06:50:05Z",
+    "title": "Procurare si montare mobilier urban personalizat",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "34900000-6",
+    "estimated_amount": 83250.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1760427154705",
+    "date": "2025-10-14T07:34:27Z",
+    "title": "Amenajarea scuarului adiacent str. Izvorul Vietii din s. Budesti",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 189055.26,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1760430241456",
+    "date": "2025-10-14T08:25:21Z",
+    "title": "Servicii de verificarea proiectului la obiectul nr.07/25-VP Teren sportiv multifuncțional, mun. Chisinau, or. Stauceni, RM",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "71330000-0",
+    "estimated_amount": 8500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"ARCAST-COM\"",
+        "id": "MD-IDNO-1003600050573",
+        "amount": 8500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1760431507548",
+    "date": "2025-10-14T08:48:04Z",
+    "title": "Construcții masive executate din metal și lemn, cu ornament tradițional pe de-o parte; Leagăn modern cu scrinciob și loc",
+    "buyer": "PRIMARIA MUNICIPIULUI EDINET",
+    "cpv": "37530000-2",
+    "estimated_amount": 132000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. ALEXPAUL",
+        "id": "MD-IDNO-1024600011760",
+        "amount": 132000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
