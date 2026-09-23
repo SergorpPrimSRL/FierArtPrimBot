@@ -6283,6 +6283,62 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1757422464886",
+    "date": "2025-10-29T10:23:30Z",
+    "title": "Teren sportiv multifunctional, s. Suruceni, r-l Ialoveni",
+    "buyer": "Primaria Suruceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 2134587.96,
+    "bidders": [
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 2027811.58
+      },
+      {
+        "name": "Profact Construct",
+        "id": "MD-IDNO-1010600024992",
+        "amount": 2125836.17
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 2350218.38
+      },
+      {
+        "name": "LIVART PRIM SRL",
+        "id": "MD-IDNO-1012600038364",
+        "amount": 2042412.21
+      }
+    ],
+    "awards": [
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 2027811.58,
+        "status": "pending"
+      },
+      {
+        "name": "LIVART PRIM SRL",
+        "id": "MD-IDNO-1012600038364",
+        "amount": 2042412.21,
+        "status": "pending"
+      },
+      {
+        "name": "Profact Construct",
+        "id": "MD-IDNO-1010600024992",
+        "amount": 2125836.17,
+        "status": "pending"
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 2350218.38,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
