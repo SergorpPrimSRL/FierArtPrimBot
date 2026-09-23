@@ -5226,6 +5226,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1760008387812",
+    "date": "2025-10-09T11:17:17Z",
+    "title": "Mobilier urban",
+    "buyer": "PRIMARIA ORASULUI STEFAN VODA",
+    "cpv": "34920000-2",
+    "estimated_amount": 17466.66,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SERGORP-PRIM\"",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 17466.66,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
