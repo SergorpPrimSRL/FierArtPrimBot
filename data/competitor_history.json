@@ -6434,6 +6434,68 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1741334452961",
+    "date": "2025-11-10T09:20:45Z",
+    "title": "Amenajarea parcului str. Mira, or.Taraclia (Proiect BSB000108)   ",
+    "buyer": "Consiliul Raional Taraclia",
+    "cpv": "45200000-9",
+    "estimated_amount": 3451745.0,
+    "bidders": [
+      {
+        "name": "GLAV-STROY COMPANY SRL",
+        "id": "MD-IDNO-1022611000696",
+        "amount": 4627970.0
+      },
+      {
+        "name": "SRL DAGBILCOM",
+        "id": "MD-IDNO-1009603000238",
+        "amount": 2921763.0
+      },
+      {
+        "name": "SRL SUD-TERRA",
+        "id": "MD-IDNO-1014611001799",
+        "amount": 3399638.98
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL DAGBILCOM",
+        "id": "MD-IDNO-1009603000238",
+        "amount": 2921763.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL SUD-TERRA",
+        "id": "MD-IDNO-1014611001799",
+        "amount": 3399638.98,
+        "status": "pending"
+      },
+      {
+        "name": "GLAV-STROY COMPANY SRL",
+        "id": "MD-IDNO-1022611000696",
+        "amount": 4627970.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1762775883898",
+    "date": "2025-11-10T12:08:13Z",
+    "title": "achiziții de valoare mică",
+    "buyer": "Primaria Frumoasa rul-Calarasi",
+    "cpv": "19500000-1",
+    "estimated_amount": 604.95,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL GHIOCEL",
+        "id": "MD-IDNO-1003609005370",
+        "amount": 604.95,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
