@@ -5429,6 +5429,33 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1760297844335",
+    "date": "2025-10-12T19:37:24Z",
+    "title": "Achiziționarea serviciilor de Proiectare « Reparația curentă a etajului P+1E din blocul căminului studențesc cu nr. cad. 0100205.203.02 din mun. Chișinău, sect. Centru, str. Armenească, nr. 40 »; 1.2. « Amenajarea scuarului din incinta Blocului nr. 2 al Academiei de Muzică, Teatru și Arte Plastice, situată pe str. A. Mateevici nr. 87, mun. Chișinău »;",
+    "buyer": "Academia de Muzică, Teatru și Arte Plastice",
+    "cpv": "",
+    "estimated_amount": 1475000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1760297908511",
+    "date": "2025-10-12T19:40:33Z",
+    "title": "Achiziționarea serviciilor de Proiectare « Reparația curentă a etajului P+1E din blocul căminului studențesc cu nr. cad. 0100205.203.02 din mun. Chișinău, sect. Centru, str. Armenească, nr. 40 »; 1.2. « Amenajarea scuarului din incinta Blocului nr. 2 al Academiei de Muzică, Teatru și Arte Plastice, situată pe str. A. Mateevici nr. 87, mun. Chișinău »;",
+    "buyer": "Academia de Muzică, Teatru și Arte Plastice",
+    "cpv": "71242000-6",
+    "estimated_amount": 147500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Tarchitects Group",
+        "id": "MD-IDNO-1010600018058",
+        "amount": 147500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
