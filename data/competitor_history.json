@@ -5473,6 +5473,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1760345296386",
+    "date": "2025-10-13T08:50:07Z",
+    "title": "Bunuri – Foto Zonă „# BĂCIOI” pentru amenajarea Parcului Central din s. Băcioi, com. Băcioi, mun. Chișinău",
+    "buyer": "Primaria comunei Bacioi",
+    "cpv": "44400000-4",
+    "estimated_amount": 78758.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 78758.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
