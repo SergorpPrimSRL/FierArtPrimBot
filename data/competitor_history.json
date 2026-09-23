@@ -6557,6 +6557,50 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1763411666814",
+    "date": "2025-11-17T20:38:07Z",
+    "title": "COMPLEX DE JOACA,BALANSOAR PE ARC,APARATE DE FITNES,LEAGAN SEO 01A",
+    "buyer": "PRIMARIA ORASULUI CAUSENI",
+    "cpv": "37410000-5",
+    "estimated_amount": 149583.35,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"BADAR-M\"",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 149583.35,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1763450266204",
+    "date": "2025-11-18T07:21:45Z",
+    "title": "Elaborarea proiectului de execuție p/u „Amenajarea scuarului din preajma străzii Ștefan cel Mare 16-18, mun. Soroca”",
+    "buyer": "PRIMARIA MUNICIPIULUI SOROCA",
+    "cpv": "79400000-8",
+    "estimated_amount": 137800.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"S.A.D. PROIECT\"",
+        "id": "MD-IDNO-1013600011692",
+        "amount": 137800.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1761993739581",
+    "date": "2025-11-18T08:00:01Z",
+    "title": "Amenajarea scuarului pe terenul cu nr. cadastral 3810103313, situat in raionul Dubasari, satul Cocieri, cod postal 4571, str. Renasterii nr.66",
+    "buyer": "Primăria comunei Cocieri",
+    "cpv": "45100000-8",
+    "estimated_amount": 1932300.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
