@@ -5192,6 +5192,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1759922251437",
+    "date": "2025-10-08T11:22:38Z",
+    "title": "Reparații curente la  scările de  acces la foișoare la grădinița Licurici din s.Ciorescu",
+    "buyer": "PRIMARIA COMUNEI CIORESCU",
+    "cpv": "45260000-7",
+    "estimated_amount": 195000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"TERRA SPORT\"",
+        "id": "MD-IDNO-1024600071537",
+        "amount": 195000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1759927531670",
+    "date": "2025-10-08T12:50:27Z",
+    "title": "procurarea pieselor de schimb",
+    "buyer": "Primaria Cuizauca",
+    "cpv": "37500000-3",
+    "estimated_amount": 17250.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 17250.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
