@@ -7438,6 +7438,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1767100372261",
+    "date": "2025-12-30T13:19:11Z",
+    "title": "Produse alimentare",
+    "buyer": "PRIMARIA SATULUI NAVIRNET",
+    "cpv": "43300000-6",
+    "estimated_amount": 147841.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"POWER TEAM\"",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 147841.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1767102592412",
+    "date": "2025-12-30T13:52:19Z",
+    "title": "Teren de joacă",
+    "buyer": "PRIMARIA SATULUI NAVIRNET",
+    "cpv": "37500000-3",
+    "estimated_amount": 42873.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"DANCO CAPITAL\"",
+        "id": "MD-IDNO-1021600054166",
+        "amount": 42873.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
