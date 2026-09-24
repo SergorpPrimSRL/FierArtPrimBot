@@ -6601,6 +6601,51 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1761843883898",
+    "date": "2025-11-21T06:16:18Z",
+    "title": "Lucrări de amenajare teren de joacă pe teren adiacent IP CE Școala Primară-Grădiniță ”Ilie Fulga” din or.Stăuceni",
+    "buyer": "Primaria orașului Stauceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 1280481.21,
+    "bidders": [
+      {
+        "name": "SRL,,WESTART SPORT''",
+        "id": "MD-IDNO-1016600011969",
+        "amount": 1075777.11
+      },
+      {
+        "name": "LIVART PRIM SRL",
+        "id": "MD-IDNO-1012600038364",
+        "amount": 1040884.88
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 1264117.44
+      }
+    ],
+    "awards": [
+      {
+        "name": "LIVART PRIM SRL",
+        "id": "MD-IDNO-1012600038364",
+        "amount": 1040884.88,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,,WESTART SPORT''",
+        "id": "MD-IDNO-1016600011969",
+        "amount": 1075777.11,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 1264117.44,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
