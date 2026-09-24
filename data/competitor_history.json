@@ -7238,6 +7238,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1766153378799",
+    "date": "2025-12-19T14:13:06Z",
+    "title": "Foisor",
+    "buyer": "PRIMARIA COMUNEI CUCONESTII NOI",
+    "cpv": "45400000-1",
+    "estimated_amount": 37500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"FIER-ART-PRIM\"",
+        "id": "MD-IDNO-1019608000647",
+        "amount": 37500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
