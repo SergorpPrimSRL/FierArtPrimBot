@@ -7350,6 +7350,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1766652649732",
+    "date": "2025-12-25T08:53:16Z",
+    "title": "ACTIVITATE RECREATIVE SI DESTRACTIVE PU COPII (TOPOGANE, BATUTE, CARUSEL)",
+    "buyer": "PRIMARIA COMUNEI LAPUSNA",
+    "cpv": "98300000-6",
+    "estimated_amount": 25000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"MICLE-FIL\"",
+        "id": "MD-IDNO-1018600019969",
+        "amount": 25000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
