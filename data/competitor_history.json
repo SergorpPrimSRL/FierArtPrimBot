@@ -7316,6 +7316,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1766557661943",
+    "date": "2025-12-24T06:30:28Z",
+    "title": "procurarea de echipament pentru teren de joacă pentru grădinița nr 2",
+    "buyer": "PRIMARIA CANTEMIR",
+    "cpv": "37530000-2",
+    "estimated_amount": 24500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"DALI CREATIONS\"",
+        "id": "MD-IDNO-1020606002988",
+        "amount": 24500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1766566333225",
+    "date": "2025-12-24T08:57:51Z",
+    "title": "lucrari de inlocuire a mobilierului urban vechi si deteriorat cu mobilier urban nou in curtile de bloc din sectorul Buiucani.",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE BUIUCANI",
+    "cpv": "45230000-8",
+    "estimated_amount": 44026.41,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"KOSMICONS\"",
+        "id": "MD-IDNO-1022606002395",
+        "amount": 44026.41,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
