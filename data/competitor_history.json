@@ -7377,6 +7377,67 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1767076372371",
+    "date": "2025-12-30T06:42:39Z",
+    "title": "игровое оборудование_для детского сада",
+    "buyer": "PRIMARIA S.TOMAI",
+    "cpv": "37500000-3",
+    "estimated_amount": 199903.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"DASTIM ART\"",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 199903.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1767080140873",
+    "date": "2025-12-30T07:45:08Z",
+    "title": "Проект «Томай территория равных возможностей», реализуется согласно выгранного гранта финансируемого CALM",
+    "buyer": "PRIMARIA S.TOMAI",
+    "cpv": "45200000-9",
+    "estimated_amount": 135600.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PRO TRON MEDIA\"",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 135600.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1767083586689",
+    "date": "2025-12-30T08:33:06Z",
+    "title": "Echipament pentru terenuri de joacă ",
+    "buyer": "Primaria Panasesti",
+    "cpv": "",
+    "estimated_amount": 289750.01,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1767085930135",
+    "date": "2025-12-30T09:19:12Z",
+    "title": "Teren de joaca Maxi-02",
+    "buyer": "PRIMARIA SATULUI DOROTCAIA",
+    "cpv": "37530000-2",
+    "estimated_amount": 45666.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"NOVA PARK COMPANY\"",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 45666.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
