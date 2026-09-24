@@ -6712,6 +6712,161 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1763547112256",
+    "date": "2025-11-24T07:53:39Z",
+    "title": "Servicii de montare decorațiuni de iarnă în orașul Stăuceni și s. Goianul Nou",
+    "buyer": "Primaria orașului Stauceni",
+    "cpv": "98300000-6",
+    "estimated_amount": 292000.0,
+    "bidders": [
+      {
+        "name": "Prodecoiluminare",
+        "id": "MD-IDNO-1017600043974",
+        "amount": 291221.0
+      },
+      {
+        "name": "CIMELI ART SRL",
+        "id": "MD-IDNO-1025600033660",
+        "amount": 269900.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "CIMELI ART SRL",
+        "id": "MD-IDNO-1025600033660",
+        "amount": 269900.0,
+        "status": "pending"
+      },
+      {
+        "name": "Prodecoiluminare",
+        "id": "MD-IDNO-1017600043974",
+        "amount": 291221.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1762327680816",
+    "date": "2025-11-24T08:11:24Z",
+    "title": "Mobilier, tehnica informatională și de calcul pentru dotarea Grădiniței de copii din s. Ghindești, rl.Florești",
+    "buyer": "PRIMARIA S.GHINDESTI",
+    "cpv": "39100000-3",
+    "estimated_amount": 1038271.0,
+    "bidders": [
+      {
+        "name": "S.C. MEDIEVAL-ART S.R.L.",
+        "id": "MD-IDNO-1007600039398",
+        "amount": 49470.0
+      },
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 175000.0
+      },
+      {
+        "name": "Anghel-Lux",
+        "id": "MD-IDNO-1014600041979",
+        "amount": 122575.0
+      },
+      {
+        "name": "COM TEX",
+        "id": "MD-IDNO-1023611001139",
+        "amount": 85190.0
+      },
+      {
+        "name": "BTS PRO",
+        "id": "MD-IDNO-1008600061565",
+        "amount": 27255.0
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 200000.0
+      },
+      {
+        "name": "SRL Falenat",
+        "id": "MD-IDNO-1007602011316",
+        "amount": 41566.67
+      }
+    ],
+    "awards": [
+      {
+        "name": "COM TEX",
+        "id": "MD-IDNO-1023611001139",
+        "amount": 85190.0,
+        "status": "pending"
+      },
+      {
+        "name": "Anghel-Lux",
+        "id": "MD-IDNO-1014600041979",
+        "amount": 122575.0,
+        "status": "pending"
+      },
+      {
+        "name": "BTS PRO",
+        "id": "MD-IDNO-1008600061565",
+        "amount": 16880.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. MEDIEVAL-ART S.R.L.",
+        "id": "MD-IDNO-1007600039398",
+        "amount": 23468.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 175000.0,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 200000.0,
+        "status": "pending"
+      },
+      {
+        "name": "BTS PRO",
+        "id": "MD-IDNO-1008600061565",
+        "amount": 27255.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. MEDIEVAL-ART S.R.L.",
+        "id": "MD-IDNO-1007600039398",
+        "amount": 49470.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL Falenat",
+        "id": "MD-IDNO-1007602011316",
+        "amount": 41566.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1763983204332",
+    "date": "2025-11-24T11:20:04Z",
+    "title": "echipament pentru teren de joaca ",
+    "buyer": "Primaria orasului Iargara",
+    "cpv": "",
+    "estimated_amount": 160833.33,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1764002248314",
+    "date": "2025-11-24T16:37:28Z",
+    "title": "Foișoare 2x3",
+    "buyer": "PRIMARIA FLORESTI",
+    "cpv": "",
+    "estimated_amount": 135791.67,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
