@@ -7472,6 +7472,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1767180379410",
+    "date": "2025-12-31T11:28:13Z",
+    "title": "reparatia teren de joaca",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE CIOCANA",
+    "cpv": "37500000-3",
+    "estimated_amount": 1833.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"ECOELASTIC LUX\"",
+        "id": "MD-IDNO-1017600042232",
+        "amount": 1833.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1767180685068",
+    "date": "2025-12-31T11:33:07Z",
+    "title": "mobilier urban",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE CIOCANA",
+    "cpv": "34900000-6",
+    "estimated_amount": 9310.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "UZINA MECANICA \"ARTMET\" S.A.",
+        "id": "MD-IDNO-1002600037193",
+        "amount": 9310.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
