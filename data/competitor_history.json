@@ -21877,5 +21877,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1790248112675",
+    "date": "2026-09-24T11:08:32Z",
+    "title": "procurarea uneltelor și sculelor",
+    "buyer": "PRIMARIA SATULUI CIUCUR-MINGIR",
+    "cpv": "",
+    "estimated_amount": 85200.0,
+    "bidders": [],
+    "awards": []
   }
 ]
