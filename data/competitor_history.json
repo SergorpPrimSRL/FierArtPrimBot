@@ -7121,6 +7121,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1765527063462",
+    "date": "2025-12-12T08:16:03Z",
+    "title": "Achiziționarea complexului de joacă pentru copii",
+    "buyer": "PRIMARIA COMUNEI COSNITA",
+    "cpv": "37500000-3",
+    "estimated_amount": 125000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PLAYPARK\"",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 125000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
