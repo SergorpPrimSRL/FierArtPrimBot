@@ -6944,6 +6944,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1764164226519",
+    "date": "2025-11-26T13:43:16Z",
+    "title": "Montarea și întreținerea iluminatului stradal a stdionului de mini  fotbal și teren de joacă p/u copiii. ",
+    "buyer": "PRIMARIA COMUNEI ONESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 60992.86,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "INTREPRINZATOR INDIVIDUAL \"UNGUREANU VALERIU\"",
+        "id": "MD-IDNO-1011605000581",
+        "amount": 60992.86,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
