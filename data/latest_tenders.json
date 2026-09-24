@@ -1,5 +1,24 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1790236795436",
+    "title": "Scenă pentru activități culturale și de agrement în comuna Bîrlădeni",
+    "authority": "Primaria comunei Birladeni",
+    "amount": 361806.54,
+    "currency": "MDL",
+    "deadline": "",
+    "deadline_text": "nespecificat",
+    "status": "planning",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "scenă",
+      "scena"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1790236795436",
+    "source_date": "2026-09-24T07:59:55Z",
+    "saved_at": "2026-09-24T08:05:21.113994+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1790073132490",
     "title": "«Amenajarea  zonei  de  agrement  din  com.  Berlinti, s.  Caracusenii  Noi,  raionul  Briceni»",
     "authority": "PRIMARIA COMUNEI BERLINTI",
