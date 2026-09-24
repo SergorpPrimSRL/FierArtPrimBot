@@ -7022,6 +7022,51 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1762790561912",
+    "date": "2025-12-05T10:41:39Z",
+    "title": "Amenajarea unui teren de joacă modern în comuna Onești,r-nul Hîncești",
+    "buyer": "PRIMARIA COMUNEI ONESTI",
+    "cpv": "37535200-9",
+    "estimated_amount": 291666.66,
+    "bidders": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 227916.66
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 267250.0
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 263584.17
+      }
+    ],
+    "awards": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 227916.66,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 263000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 263584.17,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
