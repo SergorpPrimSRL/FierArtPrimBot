@@ -1,6 +1,6 @@
 [
   {
-    "ocid": "ocds-b3wdp1-MD-1790236795436",
+    "ocid": "ocds-b3wdp1-MD-1790247791967",
     "title": "Scenă pentru activități culturale și de agrement în comuna Bîrlădeni",
     "authority": "Primaria comunei Birladeni",
     "amount": 361806.54,
@@ -14,9 +14,28 @@
       "scenă",
       "scena"
     ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1790247791967",
+    "source_date": "2026-09-24T11:03:11Z",
+    "saved_at": "2026-09-24T11:04:59.415781+00:00"
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1790236795436",
+    "title": "Scenă pentru activități culturale și de agrement în comuna Bîrlădeni",
+    "authority": "Primaria comunei Birladeni",
+    "amount": 361806.54,
+    "currency": "MDL",
+    "deadline": "2026-09-29T11:00:00Z",
+    "deadline_text": "29.09.2026 14:00",
+    "status": "empty",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "scenă",
+      "scena"
+    ],
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1790236795436",
-    "source_date": "2026-09-24T07:59:55Z",
-    "saved_at": "2026-09-24T08:05:21.113994+00:00"
+    "source_date": "2026-09-24T10:59:17Z",
+    "saved_at": "2026-09-24T11:04:47.973350+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1790073132490",
