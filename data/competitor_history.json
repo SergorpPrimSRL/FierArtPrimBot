@@ -7138,6 +7138,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1765791921668",
+    "date": "2025-12-15T09:48:01Z",
+    "title": "Devize locale și a caiet de sarcini la obiectul „Amenajarea parcului și microcomplexului sportiv din s. Elizaveta”",
+    "buyer": "PRIMARIA S.ELIZAVETA",
+    "cpv": "77100000-1",
+    "estimated_amount": 1446.27,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"TAMIR-NORD\"",
+        "id": "MD-IDNO-1009602002785",
+        "amount": 1446.27,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
