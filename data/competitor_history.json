@@ -6988,6 +6988,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1764834591190",
+    "date": "2025-12-04T07:56:53Z",
+    "title": "Procurarea unui foișor din lemn",
+    "buyer": "PRIMARIA COMUNEI TANATARII-NOI",
+    "cpv": "39140000-5",
+    "estimated_amount": 75000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SERGORP-PRIM\"",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 75000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
