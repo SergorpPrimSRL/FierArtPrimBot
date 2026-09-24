@@ -7155,6 +7155,62 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1763470005840",
+    "date": "2025-12-16T12:12:50Z",
+    "title": "Amenajarea scuarului pe terenul cu nr. cadastral 3810103313, situat in raionul Dubasari, satul Cocieri, cod postal 4571, str. Renasterii nr.66",
+    "buyer": "Primăria comunei Cocieri",
+    "cpv": "45100000-8",
+    "estimated_amount": 1932300.0,
+    "bidders": [
+      {
+        "name": "VACONS TRADE",
+        "id": "MD-IDNO-1019600023448",
+        "amount": 1900909.92
+      },
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 1907923.85
+      },
+      {
+        "name": "\"SERVICONS PLUS\" S.R.L.",
+        "id": "MD-IDNO-1020600000719",
+        "amount": 1830747.83
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 2151857.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "\"SERVICONS PLUS\" S.R.L.",
+        "id": "MD-IDNO-1020600000719",
+        "amount": 1830747.83,
+        "status": "pending"
+      },
+      {
+        "name": "VACONS TRADE",
+        "id": "MD-IDNO-1019600023448",
+        "amount": 1900909.92,
+        "status": "pending"
+      },
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 1907923.85,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 2151857.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
