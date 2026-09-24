@@ -7255,6 +7255,33 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1766393609735",
+    "date": "2025-12-22T08:55:59Z",
+    "title": "ACCESORII PENTRU TEREN DE JOACA",
+    "buyer": "PRIMARIA COMUNEI ZIRNESTI",
+    "cpv": "37530000-2",
+    "estimated_amount": 12858.34,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1766406411221",
+    "date": "2025-12-22T12:31:11Z",
+    "title": "Decorațiuni festive cu ghirlande, inclusiv montare.",
+    "buyer": "PRIMARIA COMUNEI DRASLICENI",
+    "cpv": "31500000-1",
+    "estimated_amount": 178450.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PRO TRON MEDIA\"",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 178450.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
