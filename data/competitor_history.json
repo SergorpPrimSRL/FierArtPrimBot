@@ -7077,6 +7077,50 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1765372195931",
+    "date": "2025-12-10T13:13:00Z",
+    "title": "Amenajarea scuarului",
+    "buyer": "PRIMARIA COMUNEI CRUZESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 17012.5,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1765377236728",
+    "date": "2025-12-10T14:38:24Z",
+    "title": "Gard metalic lungimea 2 m.l.,Servicii de montare  a gardului , Servicii de vopsire a gardului",
+    "buyer": "PRIMARIA TIPALA",
+    "cpv": "44200000-2",
+    "estimated_amount": 17160.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"METAL VIP COMPANY\"",
+        "id": "MD-IDNO-1025605004119",
+        "amount": 17160.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1765400023100",
+    "date": "2025-12-10T20:55:53Z",
+    "title": "Elaborare deviz la amenajarea parcului de odihna",
+    "buyer": "PRIMARIA SATULUI PETRUNEA",
+    "cpv": "71200000-0",
+    "estimated_amount": 4200.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Arama Ion",
+        "id": "MD-IDNO-2002009032499",
+        "amount": 4200.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
