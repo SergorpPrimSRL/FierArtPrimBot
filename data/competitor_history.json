@@ -21608,51 +21608,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1788532682997",
-    "date": "2026-09-22T12:14:08Z",
-    "title": "Lucrări de reparatie a unui foișor dublu pe teritoriul IET „Delia”, mun. Ungheni",
-    "buyer": "Primăria mun. Ungheni",
-    "cpv": "45200000-9",
-    "estimated_amount": 340000.0,
-    "bidders": [
-      {
-        "name": "''Eurogrupstim'' SRL",
-        "id": "MD-IDNO-1014600036168",
-        "amount": 333145.44
-      },
-      {
-        "name": "SERVICII COMUNALE UNGHENI",
-        "id": "MD-IDNO-1008609004415",
-        "amount": 305636.9
-      },
-      {
-        "name": "SRL \"Javelin N.A.\"",
-        "id": "MD-IDNO-1003609004546",
-        "amount": 369218.36
-      }
-    ],
-    "awards": [
-      {
-        "name": "SRL \"Javelin N.A.\"",
-        "id": "MD-IDNO-1003609004546",
-        "amount": 305600.0,
-        "status": "pending"
-      },
-      {
-        "name": "SERVICII COMUNALE UNGHENI",
-        "id": "MD-IDNO-1008609004415",
-        "amount": 305636.9,
-        "status": "pending"
-      },
-      {
-        "name": "''Eurogrupstim'' SRL",
-        "id": "MD-IDNO-1014600036168",
-        "amount": 333145.44,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1790080317078",
     "date": "2026-09-22T12:34:21Z",
     "title": "Lucrari de constructie si instalare a leaganului Eugen Doga",
@@ -21740,6 +21695,51 @@
         "name": "S.R.L Urban Nova Grup",
         "id": "MD-IDNO-1008600038815",
         "amount": 3886005.65,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1788532682997",
+    "date": "2026-09-24T07:07:11Z",
+    "title": "Lucrări de reparatie a unui foișor dublu pe teritoriul IET „Delia”, mun. Ungheni",
+    "buyer": "Primăria mun. Ungheni",
+    "cpv": "45200000-9",
+    "estimated_amount": 340000.0,
+    "bidders": [
+      {
+        "name": "''Eurogrupstim'' SRL",
+        "id": "MD-IDNO-1014600036168",
+        "amount": 333145.44
+      },
+      {
+        "name": "SERVICII COMUNALE UNGHENI",
+        "id": "MD-IDNO-1008609004415",
+        "amount": 305636.9
+      },
+      {
+        "name": "SRL \"Javelin N.A.\"",
+        "id": "MD-IDNO-1003609004546",
+        "amount": 369218.36
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL \"Javelin N.A.\"",
+        "id": "MD-IDNO-1003609004546",
+        "amount": 305600.0,
+        "status": "pending"
+      },
+      {
+        "name": "SERVICII COMUNALE UNGHENI",
+        "id": "MD-IDNO-1008609004415",
+        "amount": 305636.9,
+        "status": "pending"
+      },
+      {
+        "name": "''Eurogrupstim'' SRL",
+        "id": "MD-IDNO-1014600036168",
+        "amount": 333145.44,
         "status": "pending"
       }
     ]
