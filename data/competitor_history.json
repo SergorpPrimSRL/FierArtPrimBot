@@ -7005,6 +7005,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1764845534396",
+    "date": "2025-12-04T10:56:43Z",
+    "title": "Teren de joaca Maxy",
+    "buyer": "PRIMARIA SATULUI DOROTCAIA",
+    "cpv": "43320000-2",
+    "estimated_amount": 45666.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"NOVA PARK COMPANY\"",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 45666.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
