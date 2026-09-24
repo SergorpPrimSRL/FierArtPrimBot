@@ -7211,6 +7211,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1765894468439",
+    "date": "2025-12-16T14:24:16Z",
+    "title": "Balansor, leagan p/u terenul de joaca",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE BUIUCANI",
+    "cpv": "37530000-2",
+    "estimated_amount": 32729.99,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"POWER TEAM\"",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 32729.99,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
