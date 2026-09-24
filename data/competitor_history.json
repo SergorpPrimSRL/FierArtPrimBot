@@ -6646,6 +6646,72 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1762501775898",
+    "date": "2025-11-21T13:49:58Z",
+    "title": "Amenajarea unui teren de joacă modern pentru copii din s. Dănceni r-ul Ialoveni",
+    "buyer": "PRIMARIA SATULUI DANCENI",
+    "cpv": "37535200-9",
+    "estimated_amount": 400720.0,
+    "bidders": [
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 397114.52
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 378825.18
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 370052.07
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 385067.71
+      }
+    ],
+    "awards": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 360044.8,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 361000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 385067.71,
+        "status": "pending"
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 397114.52,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1763796485242",
+    "date": "2025-11-22T07:32:57Z",
+    "title": "Achizitionarea complexului de joacă",
+    "buyer": "PRIMARIA LEOVA",
+    "cpv": "37530000-2",
+    "estimated_amount": 40833.33,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
