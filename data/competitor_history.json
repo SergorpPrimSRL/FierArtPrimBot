@@ -6867,6 +6867,83 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1764054991564",
+    "date": "2025-11-25T07:16:31Z",
+    "title": "foișoare",
+    "buyer": "PRIMARIA FLORESTI",
+    "cpv": "",
+    "estimated_amount": 135791.67,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1763409186091",
+    "date": "2025-11-25T08:33:57Z",
+    "title": "Echipamente pentru terenul de joacă",
+    "buyer": "PRIMARIA SATULUI NEMTENI",
+    "cpv": "37535200-9",
+    "estimated_amount": 207642.0,
+    "bidders": [
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 200000.0
+      },
+      {
+        "name": "In Dra -MAG",
+        "id": "MD-IDNO-1020600030723",
+        "amount": 205000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 200000.0,
+        "status": "pending"
+      },
+      {
+        "name": "In Dra -MAG",
+        "id": "MD-IDNO-1020600030723",
+        "amount": 205000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1763387486334",
+    "date": "2025-11-25T14:02:25Z",
+    "title": "Mobilier urban",
+    "buyer": "Primaria s. Elizaveta",
+    "cpv": "34900000-6",
+    "estimated_amount": 297483.34,
+    "bidders": [
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 238333.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 238333.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1764081811440",
+    "date": "2025-11-25T14:43:31Z",
+    "title": "Foișoare 2x3",
+    "buyer": "PRIMARIA FLORESTI",
+    "cpv": "",
+    "estimated_amount": 135791.67,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1767275011052",
     "date": "2026-01-01T13:47:04Z",
     "title": "Procurarea leaganelor pentru teren de joaca.",
