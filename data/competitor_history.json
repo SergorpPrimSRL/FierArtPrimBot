@@ -441,6 +441,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1705948897163",
+    "date": "2024-01-24T07:18:01Z",
+    "title": "Foisor de teren",
+    "buyer": "I.I. GIMNAZIUL ROGHI",
+    "cpv": "42900000-5",
+    "estimated_amount": 25000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SC ASLOGISTIC SRL",
+        "id": "MD-IDNO-1005600057439",
+        "amount": 25000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
