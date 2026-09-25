@@ -227,6 +227,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1704894183142",
+    "date": "2024-01-10T13:47:00Z",
+    "title": "Servicii de amenajare a 2 seturi de parcări a căte 6 biciclete",
+    "buyer": "DIRECTIA GENERALA MOBILITATE URBANA",
+    "cpv": "45233293-9",
+    "estimated_amount": 79333.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SIGMA VENMER SRL",
+        "id": "MD-IDNO-1007600018551",
+        "amount": 79333.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
