@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1789547989637",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea lor pe teritoriul municipiului Bălți din str.Tiraspol, nr.7, str.Independenței, nr.94 și bd. Larisa, nr.7 ",
+    "authority": " Primăria mun. Bălți",
+    "amount": 1004126.73,
+    "currency": "MDL",
+    "deadline": "2026-10-02T07:00:00Z",
+    "deadline_text": "02.10.2026 10:00",
+    "status": "tendering",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "complexe de joacă"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789547989637",
+    "source_date": "2026-09-25T09:00:00Z",
+    "saved_at": "2026-09-25T09:05:10.668948+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1790247791967",
     "title": "Scenă pentru activități culturale și de agrement în comuna Bîrlădeni",
     "authority": "Primaria comunei Birladeni",
@@ -54,24 +72,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1790073132490",
     "source_date": "2026-09-23T13:20:00Z",
     "saved_at": "2026-09-23T13:25:58.716448+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789547989637",
-    "title": "Complexe de joacă, inclusiv instalarea și amenajarea lor pe teritoriul municipiului Bălți din str.Tiraspol, nr.7, str.Independenței, nr.94 și bd. Larisa, nr.7 ",
-    "authority": " Primăria mun. Bălți",
-    "amount": 1004126.73,
-    "currency": "MDL",
-    "deadline": "2026-10-02T07:00:00Z",
-    "deadline_text": "02.10.2026 10:00",
-    "status": "clarification",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "complexe de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789547989637",
-    "source_date": "2026-09-22T08:24:19Z",
-    "saved_at": "2026-09-22T08:25:48.288197+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1789026204026",
