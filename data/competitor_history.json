@@ -261,6 +261,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1705070827121",
+    "date": "2024-01-12T14:50:32Z",
+    "title": "Lucrări de construcția unui mini teren sportiv în Grădinița Fluturaș din s.Miclești,r.Criuleni",
+    "buyer": "PRIMARIA COMUNEI MICLESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 231781.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Kedacons",
+        "id": "MD-IDNO-1018600005878",
+        "amount": 231781.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
