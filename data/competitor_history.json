@@ -22039,16 +22039,6 @@
     "awards": []
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1789661043947",
-    "date": "2026-09-21T10:08:17Z",
-    "title": "Teren de joacă copii s.Ciobanovca",
-    "buyer": "Primaria Ciobanovca",
-    "cpv": "37400000-2",
-    "estimated_amount": 40000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1787923241747",
     "date": "2026-09-21T13:49:31Z",
     "title": "Lucrari de instalare a echipamentelor de joaca si mobilier urban str. Lomonosov 49",
@@ -22409,5 +22399,61 @@
     "estimated_amount": 1004126.73,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789661043947",
+    "date": "2026-09-25T10:38:17Z",
+    "title": "Teren de joacă copii s.Ciobanovca",
+    "buyer": "Primaria Ciobanovca",
+    "cpv": "37400000-2",
+    "estimated_amount": 40000.0,
+    "bidders": [
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 39950.0
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 39000.0
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 33291.67
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 39000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 33291.67,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 39000.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 39000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 39950.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
