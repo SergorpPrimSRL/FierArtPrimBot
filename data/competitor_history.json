@@ -244,6 +244,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1705066705802",
+    "date": "2024-01-12T13:42:37Z",
+    "title": "Teren de joaca ",
+    "buyer": "PRIMARIA COMUNEI SELISTE",
+    "cpv": "37535000-7",
+    "estimated_amount": 41625.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "NOVA PARK COMPANY S.R.L",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 41625.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
