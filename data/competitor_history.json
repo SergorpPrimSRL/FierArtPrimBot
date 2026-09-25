@@ -424,6 +424,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1705387068875",
+    "date": "2024-01-16T06:43:25Z",
+    "title": "Servicii de supraveghere tehnică la obiectul Construcția unuimini teren sportiv în Grădinița Fluturaș din s.Miclești,r.C",
+    "buyer": "PRIMARIA COMUNEI MICLESTI",
+    "cpv": "50800000-3",
+    "estimated_amount": 3059.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "ÎCC Runicon SA",
+        "id": "MD-IDNO-1003609005967",
+        "amount": 3059.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
