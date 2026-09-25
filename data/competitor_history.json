@@ -475,6 +475,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1706172589728",
+    "date": "2024-01-25T11:46:39Z",
+    "title": "Amenajarea cu echipamente de joaca pentru copii și echipamente fitness în aer liber a parcului din comuna Chetrosu ",
+    "buyer": "PRIMARIA CHETROSU",
+    "cpv": "37500000-3",
+    "estimated_amount": 473100.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.C Mobilier Novator S.R.L",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 473100.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1706194825853",
+    "date": "2024-01-25T15:08:36Z",
+    "title": "Complex de joaca, topogan",
+    "buyer": "PRIMARIA SATULUI HAGIMUS",
+    "cpv": "37500000-3",
+    "estimated_amount": 100000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SiTERRA SRL",
+        "id": "MD-IDNO-1020600021992",
+        "amount": 100000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
