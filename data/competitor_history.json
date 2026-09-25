@@ -193,6 +193,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1704802788865",
+    "date": "2024-01-09T12:23:41Z",
+    "title": "procurarea  altor  mijloace  fixe",
+    "buyer": "PRIMARIA SATULUI PIRITA",
+    "cpv": "37535210-2",
+    "estimated_amount": 30700.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "POWER TEAM SRL",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 30700.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
