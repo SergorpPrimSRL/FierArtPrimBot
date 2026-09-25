@@ -210,6 +210,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1704879959234",
+    "date": "2024-01-10T10:35:09Z",
+    "title": "Diverse accesorii",
+    "buyer": "I.M.S.P. CLINICA UNIVERSITARA DE ASISTENTA MEDICALA PRIMARA ",
+    "cpv": "39200000-4",
+    "estimated_amount": 5866.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Global Store SRL",
+        "id": "MD-IDNO-1017600027095",
+        "amount": 5866.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
