@@ -278,6 +278,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1705309131940",
+    "date": "2024-01-15T09:02:37Z",
+    "title": "Achizitionarea mobilier urban",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "39224340-3",
+    "estimated_amount": 5820.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "RADIAL PLUS S.R.L.",
+        "id": "MD-IDNO-1003600050300",
+        "amount": 5820.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
