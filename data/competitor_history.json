@@ -1,5 +1,147 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1703761792973",
+    "date": "2024-01-03T09:38:45Z",
+    "title": "Procurarea cărților pentru bibliotecă",
+    "buyer": "I.P.LICEUL TEORETIC MIHAI EMINESCU DIN OR.CIMISLIA",
+    "cpv": "22113000-5",
+    "estimated_amount": 9959.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL „MEDIA GRUP LITERA”",
+        "id": "MD-IDNO-1003600090957",
+        "amount": 9959.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1701441806350",
+    "date": "2024-01-03T13:19:44Z",
+    "title": "Achiziționarea Dispozitivelor medicale conform necesităților IMSP beneficiare  (listă suplimentară nr. 36)",
+    "buyer": "CENTRUL PENTRU ACHIZITII PUBLICE CENTRALIZATE IN SANATATE",
+    "cpv": "33100000-1",
+    "estimated_amount": 691333.32,
+    "bidders": [
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 11600.0
+      },
+      {
+        "name": "ICS Diamedix Impex",
+        "id": "MD-IDNO-1012600019967",
+        "amount": 136500.0
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 265955.0
+      },
+      {
+        "name": "Neotec",
+        "id": "MD-IDNO-1002600048135",
+        "amount": 105000.0
+      },
+      {
+        "name": "AELO GRUP",
+        "id": "MD-IDNO-1011600009752",
+        "amount": 22500.0
+      },
+      {
+        "name": "SRL Biosistem mld",
+        "id": "MD-IDNO-1010600028048",
+        "amount": 104417.78
+      },
+      {
+        "name": "Metancor Com S.R.L.",
+        "id": "MD-IDNO-1005600033565",
+        "amount": 45150.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "AELO GRUP",
+        "id": "MD-IDNO-1011600009752",
+        "amount": 22500.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL Biosistem mld",
+        "id": "MD-IDNO-1010600028048",
+        "amount": 104417.78,
+        "status": "pending"
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 172050.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 265955.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 19076.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 7085.0,
+        "status": "pending"
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 11600.0,
+        "status": "pending"
+      },
+      {
+        "name": "GBG-MLD SRL",
+        "id": "MD-IDNO-1003600117582",
+        "amount": 93300.0,
+        "status": "pending"
+      },
+      {
+        "name": "Neotec",
+        "id": "MD-IDNO-1002600048135",
+        "amount": 105000.0,
+        "status": "pending"
+      },
+      {
+        "name": "AELO GRUP",
+        "id": "MD-IDNO-1011600009752",
+        "amount": 25000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Metancor Com S.R.L.",
+        "id": "MD-IDNO-1005600033565",
+        "amount": 45150.0,
+        "status": "pending"
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 73815.0,
+        "status": "pending"
+      },
+      {
+        "name": "ICS Diamedix Impex",
+        "id": "MD-IDNO-1012600019967",
+        "amount": 136500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
