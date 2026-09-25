@@ -22129,8 +22129,18 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1790248112675",
+    "date": "2026-09-24T11:08:32Z",
+    "title": "procurarea uneltelor și sculelor",
+    "buyer": "PRIMARIA SATULUI CIUCUR-MINGIR",
+    "cpv": "",
+    "estimated_amount": 85200.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1788532682997",
-    "date": "2026-09-24T07:07:11Z",
+    "date": "2026-09-25T06:49:36Z",
     "title": "Lucrări de reparatie a unui foișor dublu pe teritoriul IET „Delia”, mun. Ungheni",
     "buyer": "Primăria mun. Ungheni",
     "cpv": "45200000-9",
@@ -22172,15 +22182,5 @@
         "status": "pending"
       }
     ]
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1790248112675",
-    "date": "2026-09-24T11:08:32Z",
-    "title": "procurarea uneltelor și sculelor",
-    "buyer": "PRIMARIA SATULUI CIUCUR-MINGIR",
-    "cpv": "",
-    "estimated_amount": 85200.0,
-    "bidders": [],
-    "awards": []
   }
 ]
