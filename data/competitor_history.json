@@ -312,6 +312,118 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1705324223910",
+    "date": "2024-01-15T13:22:23Z",
+    "title": "Jucarii si jocuri educative",
+    "buyer": "PRIMARIA COMUNEI PELINIA",
+    "cpv": "37524100-8",
+    "estimated_amount": 48924.97,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Sitera Company",
+        "id": "MD-IDNO-1020600021992",
+        "amount": 48924.97,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1705325149378",
+    "date": "2024-01-15T13:33:44Z",
+    "title": "Echipament pentru terenul de joaca",
+    "buyer": "PRIMARIA COMUNEI PELINIA",
+    "cpv": "37535200-9",
+    "estimated_amount": 297999.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Altaprim SRL",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 297999.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1705328081208",
+    "date": "2024-01-15T14:18:12Z",
+    "title": "Echipament pentru terenul de joacă pentru IET nr. 116 și IET nr. 164, instituții din subordinea DETS sectorului Buiucani",
+    "buyer": "DIRECTIA EDUCATIE, TINERET SI SPORT SECTORUL BUIUCANI",
+    "cpv": "18400000-3",
+    "estimated_amount": 149916.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Altaprim",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 149916.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1705329924313",
+    "date": "2024-01-15T14:49:47Z",
+    "title": "complex de joaca Castel",
+    "buyer": "PRIMARIA COMUNEI CHETRIS",
+    "cpv": "37535200-9",
+    "estimated_amount": 41666.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "TRIO CONSTRUCT S.R.L.",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 41666.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1705330344054",
+    "date": "2024-01-15T14:57:08Z",
+    "title": "complex de joaca Maxi",
+    "buyer": "PRIMARIA COMUNEI CHETRIS",
+    "cpv": "37535200-9",
+    "estimated_amount": 41083.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "PLAYGROUND STORE S.R.L.",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 41083.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1705332582035",
+    "date": "2024-01-15T15:29:41Z",
+    "title": "leagan dublu din metal",
+    "buyer": "PRIMARIA COMUNEI CHETRIS",
+    "cpv": "",
+    "estimated_amount": 6666.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1705332718330",
+    "date": "2024-01-15T15:40:08Z",
+    "title": "leagan dublu din metal",
+    "buyer": "PRIMARIA COMUNEI CHETRIS",
+    "cpv": "37535210-2",
+    "estimated_amount": 6666.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "PLAYGROUND STORE S.R.L.",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 6666.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
