@@ -159,6 +159,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1704718241779",
+    "date": "2024-01-08T12:54:34Z",
+    "title": "Reparatia toboganului",
+    "buyer": "Primaria comunei Hrusova",
+    "cpv": "50800000-3",
+    "estimated_amount": 7250.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 7250.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1704789949151",
+    "date": "2024-01-09T08:50:25Z",
+    "title": "Achizitionarea complexului de joaca",
+    "buyer": "PRIMARIA CIOBALACCIA",
+    "cpv": "37535200-9",
+    "estimated_amount": 110500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 110500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
