@@ -295,6 +295,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1705322813431",
+    "date": "2024-01-15T12:54:44Z",
+    "title": "Echipament pentru terenul de joaca",
+    "buyer": "PRIMARIA COMUNEI PELINIA",
+    "cpv": "37535200-9",
+    "estimated_amount": 168214.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Altaprim SRL",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 168214.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
