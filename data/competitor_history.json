@@ -458,6 +458,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1706107894217",
+    "date": "2024-01-24T14:56:41Z",
+    "title": "Materiale",
+    "buyer": "PRIMARIA BRAVICEA",
+    "cpv": "37535200-9",
+    "estimated_amount": 50500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL  EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 50500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
