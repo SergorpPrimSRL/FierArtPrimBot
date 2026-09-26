@@ -706,6 +706,57 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1708508267380",
+    "date": "2024-02-21T09:46:55Z",
+    "title": "Procurarea complexelor de joaca",
+    "buyer": "PRIMARIA RADENI",
+    "cpv": "37500000-3",
+    "estimated_amount": 233333.34,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.C. „A.S. VEST GRUP” SRL",
+        "id": "MD-IDNO-1005600047634",
+        "amount": 233333.34,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1708519984628",
+    "date": "2024-02-21T13:02:20Z",
+    "title": "Procurarea altor materiale",
+    "buyer": "PRIMARIA LEOVA",
+    "cpv": "19400000-0",
+    "estimated_amount": 2083.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SA Micul Prinț",
+        "id": "MD-IDNO-1003605011560",
+        "amount": 2083.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1708520398315",
+    "date": "2024-02-21T13:07:02Z",
+    "title": "Приобретение игрового оборудования для детских площадок",
+    "buyer": "PRIMARIA ORASULUI TVARDITA",
+    "cpv": "37535200-9",
+    "estimated_amount": 64127.5,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Smaic&Co",
+        "id": "MD-IDNO-1019600011937",
+        "amount": 64127.5,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
