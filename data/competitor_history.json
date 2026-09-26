@@ -594,6 +594,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1707897768618",
+    "date": "2024-02-14T08:15:32Z",
+    "title": "Alte mijloace fixe",
+    "buyer": "DIRECTIA GENERALA INVATAMINT CAHUL",
+    "cpv": "37524700-4",
+    "estimated_amount": 129166.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Altaprim SRL",
+        "id": "MD-IDNO-1007600029685/0403408",
+        "amount": 129166.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1707902901593",
+    "date": "2024-02-14T09:32:35Z",
+    "title": "Echipament sportiv pentru teren de joacă",
+    "buyer": "PRIMARIA ORASULUI RISCANI",
+    "cpv": "37535200-9",
+    "estimated_amount": 32373.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL ”Copfer”",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 32373.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
