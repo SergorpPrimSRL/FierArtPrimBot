@@ -509,6 +509,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1706690124151",
+    "date": "2024-01-31T08:37:45Z",
+    "title": "Echipament sportiv pentru teren de fitness",
+    "buyer": "PRIMARIA ORASULUI RISCANI",
+    "cpv": "37535200-9",
+    "estimated_amount": 87079.17,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "POWER TEAM S.R.L.",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 87079.17,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
