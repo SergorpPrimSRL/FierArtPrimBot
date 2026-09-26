@@ -1183,6 +1183,68 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1711370911353",
+    "date": "2024-03-25T12:52:32Z",
+    "title": "Procurarea și instalarea elementelor pentru teren de joaca în s. Budești",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "37535200-9",
+    "estimated_amount": 54050.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "In Dra Mag SRL",
+        "id": "MD-IDNO-1020600030723",
+        "amount": 54050.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1709561001556",
+    "date": "2024-03-26T07:18:57Z",
+    "title": "Servicii de reparație a locurilor de joacă ",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "50800000-3",
+    "estimated_amount": 4000000.0,
+    "bidders": [
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 3248416.67
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 3320025.0
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 2916750.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 2916750.0,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 3248416.67,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 3320025.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
