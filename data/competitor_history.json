@@ -560,6 +560,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1707223605947",
+    "date": "2024-02-06T12:54:52Z",
+    "title": "Achiziţionarea mobilierului urban (bănci stradale)",
+    "buyer": "PRIMARIA FLORESTI",
+    "cpv": "34928400-2",
+    "estimated_amount": 49999.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 49999.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
