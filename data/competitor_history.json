@@ -1015,6 +1015,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1711009415054",
+    "date": "2024-03-21T08:31:05Z",
+    "title": "Statie auto de asteptare",
+    "buyer": "Primaria comunei Hrusova",
+    "cpv": "44200000-2",
+    "estimated_amount": 42208.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 42208.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
