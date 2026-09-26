@@ -897,6 +897,62 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1707748097409",
+    "date": "2024-03-11T07:55:28Z",
+    "title": "Amenajarea unui scuar public cu terenuri de joaca pentru copii pe imobilul/terenul cu nr. cadastral 3153214.554, situat in municipiul Chisinau, comuna Stauceni, str. Miorita, 90",
+    "buyer": "Primaria comunei Stauceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 1209931.0,
+    "bidders": [
+      {
+        "name": "LIVART PRIM SRL",
+        "id": "MD-IDNO-1012600038364",
+        "amount": 936016.33
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 1091928.26
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 960784.88
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 1180459.99
+      }
+    ],
+    "awards": [
+      {
+        "name": "LIVART PRIM SRL",
+        "id": "MD-IDNO-1012600038364",
+        "amount": 936016.33,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 960784.88,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 1091928.26,
+        "status": "pending"
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 1180459.99,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
