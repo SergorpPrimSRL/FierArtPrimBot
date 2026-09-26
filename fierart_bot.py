@@ -330,9 +330,16 @@ def load_keywords():
 def main():
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     chat_id = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+    chat_ids_raw = os.environ.get("TELEGRAM_CHAT_IDS", "").strip()
 
-    if not token or not chat_id:
-        raise RuntimeError("Lipsesc TELEGRAM_BOT_TOKEN sau TELEGRAM_CHAT_ID.")
+    chat_ids = [
+        x.strip()
+        for x in chat_ids_raw.split(",")
+        if x.strip()
+]
+
+    if not token or not chat_ids:
+        raise RuntimeError("Lipsesc TELEGRAM_BOT_TOKEN sau TELEGRAM_CHAT_IDS.")
 
     keywords = load_keywords()
     state = load_state()
@@ -468,7 +475,8 @@ def main():
             )
 
             try:
-                send_telegram(token, chat_id, msg)
+                for target_chat_id in chat_ids:
+                    send_telegram(token, target_chat_id, msg)
                 sent += 1
                 log(f"TRIMIS {score}/100 | {title[:80]}")
             except Exception as e:
