@@ -577,6 +577,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1707722703453",
+    "date": "2024-02-12T07:43:54Z",
+    "title": "Alte mijloace fixe",
+    "buyer": "DIRECTIA GENERALA INVATAMINT CAHUL",
+    "cpv": "42924720-2",
+    "estimated_amount": 15100.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Alte mijloace fixe",
+        "id": "MD-IDNO-10216009001886/0612343",
+        "amount": 15100.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
