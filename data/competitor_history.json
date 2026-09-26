@@ -645,6 +645,33 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1708084490951",
+    "date": "2024-02-16T11:59:16Z",
+    "title": "Complex de joacă",
+    "buyer": "PRIMARIA SATULUI BALCEANA",
+    "cpv": "37535240-1",
+    "estimated_amount": 40000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SC ASLOGISTIC SRL",
+        "id": "MD-IDNO-1005600057439",
+        "amount": 40000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1708331627941",
+    "date": "2024-02-19T08:33:47Z",
+    "title": "Amenajarea unui  teren de joaca pentru copii în parcul A.Mateevici-Studenților",
+    "buyer": "Primaria comunei Stauceni",
+    "cpv": "",
+    "estimated_amount": 413760.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
