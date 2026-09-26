@@ -628,6 +628,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1707919840830",
+    "date": "2024-02-14T14:16:46Z",
+    "title": "поставка игрового оборудования",
+    "buyer": "PRIMARIA S.ETULIA",
+    "cpv": "37524900-6",
+    "estimated_amount": 71394.4,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Pover time SRL",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 71394.4,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
