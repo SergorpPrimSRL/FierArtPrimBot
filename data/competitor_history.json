@@ -1032,6 +1032,157 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1711097685071",
+    "date": "2024-03-22T09:06:35Z",
+    "title": "procurarea altor mijloace fixe",
+    "buyer": "PRIMARIA COMUNEI CUCONESTII NOI",
+    "cpv": "37535200-9",
+    "estimated_amount": 2333.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Usor si Simplu SRL",
+        "id": "MD-IDNO-1003600165136",
+        "amount": 2333.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1711117390704",
+    "date": "2024-03-22T14:32:55Z",
+    "title": "lucrări de construcții speciale",
+    "buyer": "PRIMARIA SATULUI ALEXEEVCA",
+    "cpv": "45214100-1",
+    "estimated_amount": 5000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Danilov Anatolii",
+        "id": "MD-IDNO-0981702145087",
+        "amount": 5000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1711119304763",
+    "date": "2024-03-22T15:09:36Z",
+    "title": "Complex de joaca cu livrare si instalare",
+    "buyer": "Primaria orasului Briceni",
+    "cpv": "92300000-4",
+    "estimated_amount": 149986.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Fitness Activ S.R.L",
+        "id": "MD-IDNO-1008600062366",
+        "amount": 149986.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1709574025052",
+    "date": "2024-03-22T16:42:05Z",
+    "title": "Lucrări de construcție a 30 de platforme pentru colectarea deșeurilor menajere",
+    "buyer": "primăria s. ȘESTACI",
+    "cpv": "45200000-9",
+    "estimated_amount": 322400.0,
+    "bidders": [
+      {
+        "name": "ACIVALEX MED SRL",
+        "id": "MD-IDNO-1023600015864",
+        "amount": 291905.7
+      },
+      {
+        "name": "JOFAM-ELITE SRL",
+        "id": "MD-IDNO-1022600038723",
+        "amount": 249971.7
+      },
+      {
+        "name": "F-Dacia-Seniseutchi",
+        "id": "MD-IDNO-1005606005591",
+        "amount": 306832.68
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 321355.8
+      },
+      {
+        "name": "\"Valerie-Manufacturing\"",
+        "id": "MD-IDNO-1015606001527",
+        "amount": 8542.57
+      },
+      {
+        "name": "SRL ''ALEXIONPROGRUP''",
+        "id": "MD-IDNO-1011605000743",
+        "amount": 246552.9
+      },
+      {
+        "name": "Vikmar Invest",
+        "id": "MD-IDNO-1014600026123",
+        "amount": 321539.7
+      },
+      {
+        "name": "SRL Becad",
+        "id": "MD-IDNO-1003606000994",
+        "amount": 242491.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "\"Valerie-Manufacturing\"",
+        "id": "MD-IDNO-1015606001527",
+        "amount": 8542.57,
+        "status": "pending"
+      },
+      {
+        "name": "ACIVALEX MED SRL",
+        "id": "MD-IDNO-1023600015864",
+        "amount": 230567.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL Becad",
+        "id": "MD-IDNO-1003606000994",
+        "amount": 230568.0,
+        "status": "pending"
+      },
+      {
+        "name": "JOFAM-ELITE SRL",
+        "id": "MD-IDNO-1022600038723",
+        "amount": 231999.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL ''ALEXIONPROGRUP''",
+        "id": "MD-IDNO-1011605000743",
+        "amount": 246552.9,
+        "status": "pending"
+      },
+      {
+        "name": "F-Dacia-Seniseutchi",
+        "id": "MD-IDNO-1005606005591",
+        "amount": 306832.68,
+        "status": "pending"
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 321355.8,
+        "status": "pending"
+      },
+      {
+        "name": "Vikmar Invest",
+        "id": "MD-IDNO-1014600026123",
+        "amount": 321539.7,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
