@@ -874,6 +874,29 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1708332075555",
+    "date": "2024-03-04T15:16:48Z",
+    "title": "Amenajarea unui  teren de joaca pentru copii în parcul A.Mateevici-Studenților",
+    "buyer": "Primaria comunei Stauceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 413760.0,
+    "bidders": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 399320.61
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 399320.61,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
