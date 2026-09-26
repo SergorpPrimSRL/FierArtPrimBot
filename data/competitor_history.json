@@ -953,6 +953,68 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1706731361995",
+    "date": "2024-03-15T07:15:16Z",
+    "title": "servicii de supraveghere tehnică la 1. „Reconstrucția/amenajarea curților la blocurile locative din str. Independenței nr. 73, 75, or. Sîngerei; 2. Reconstrucția căii pietonale, stațiilor de așteptare pe segmentul străzilor A. Plămădeală-N. Testemițanu din or. Sîngerei; 3. Amenajarea spațiului de odihnă pentru copii, teren sportiv str. Alexandru Plămădeală or. Sîngerei; 4. Amenajarea spațiului de odihnă pentru copii, cale pietonală pe str. Vlad Ioviță, or. Sîngerei; 5. Amenajare scuar, skate-park, parcare auto (str. M. Frunze-str-la A. Pușkin), Drum din beton asfaltic (str. M. Frunze-Taras Șevcenko) din or. Sîngerei” în cadrul proiectului „Sîngerei orașul Incluziunii Teritoriale-etapa II”",
+    "buyer": "Agenția de Dezvoltare Regională Nord",
+    "cpv": "71521000-6",
+    "estimated_amount": 161796.0,
+    "bidders": [
+      {
+        "name": "SRL ALMAPE",
+        "id": "MD-IDNO-1017607004703",
+        "amount": 111639.24
+      },
+      {
+        "name": "Înreprinderea Municipală Direcția de Construcții Capitale Comanditar Unic mun. Bălți",
+        "id": "MD-IDNO-1002602005237",
+        "amount": 150470.0
+      },
+      {
+        "name": "SC Helicecom-Nord",
+        "id": "MD-IDNO-1005602001115",
+        "amount": 79280.04
+      }
+    ],
+    "awards": [
+      {
+        "name": "SC Helicecom-Nord",
+        "id": "MD-IDNO-1005602001115",
+        "amount": 79280.04,
+        "status": "pending"
+      },
+      {
+        "name": "SRL ALMAPE",
+        "id": "MD-IDNO-1017607004703",
+        "amount": 111639.24,
+        "status": "pending"
+      },
+      {
+        "name": "Înreprinderea Municipală Direcția de Construcții Capitale Comanditar Unic mun. Bălți",
+        "id": "MD-IDNO-1002602005237",
+        "amount": 150470.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1710488010250",
+    "date": "2024-03-15T07:41:21Z",
+    "title": " lucrările de reparație capitală a foișoarelor la grădinițele  s.Rădeni și Drăgușeni",
+    "buyer": "PRIMARIA RADENI",
+    "cpv": "45400000-1",
+    "estimated_amount": 349902.09,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Faniconst",
+        "id": "MD-IDNO-1011600000782",
+        "amount": 349902.09,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
