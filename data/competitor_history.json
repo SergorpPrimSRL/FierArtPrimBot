@@ -1262,6 +1262,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1711953938911",
+    "date": "2024-04-01T06:50:10Z",
+    "title": "Echipament pentru teren de joaca",
+    "buyer": "PRIMARIA SATULUI SLOBOZIA-DUSCA",
+    "cpv": "37500000-3",
+    "estimated_amount": 66325.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 66325.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
