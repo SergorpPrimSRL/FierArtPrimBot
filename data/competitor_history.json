@@ -857,6 +857,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1709282466233",
+    "date": "2024-03-01T08:43:14Z",
+    "title": "Complex de leagăne duble din \"Parcul Orhei, din mun. Orhei, sectorul Nordic, str. V. Lupu nr.160\"",
+    "buyer": "PRIMARIA MUNICIPIULUI ORHEI",
+    "cpv": "43300000-6",
+    "estimated_amount": 62916.66,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "\"\"\"Exigent-Construcții\"\" SRL\"",
+        "id": "MD-IDNO-1006600020179",
+        "amount": 62916.66,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
