@@ -757,6 +757,106 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1702572029873",
+    "date": "2024-02-24T09:22:41Z",
+    "title": "1. „Reconstrucția/amenajarea curților la blocurile locative din str. Independenței nr. 73, 75, or. Sîngerei;  2. Reconstrucția căii pietonale, stațiilor de așteptare pe segmentul străzilor A. Plămădeală-N. Testemițanu din or. Sîngerei; 3. Amenajarea spațiului de odihnă pentru copii, teren sportiv str. Alexandru Plămădeală or. Sîngerei; 4. Amenajarea spațiului de odihnă pentru copii, cale pietonală pe str. Vlad Ioviță, or. Sîngerei;  5. Amenajare scuar, skate-park, parcare auto (str. M. Frunze-str-la A. Pușkin), Drum din beton asfaltic (str. M. Frunze-Taras Șevcenko) din or. Sîngerei” în cadrul proiectului „Sîngerei orașul Incluziunii Teritoriale-etapa II”",
+    "buyer": "Agenția de Dezvoltare Regională Nord",
+    "cpv": "45200000-9",
+    "estimated_amount": 16179600.0,
+    "bidders": [
+      {
+        "name": "FPC ''VALIS'' SRL",
+        "id": "MD-IDNO-1002602003439",
+        "amount": 15477469.15
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 15844525.13
+      },
+      {
+        "name": "\"VLADMIH COMPANY \"",
+        "id": "MD-IDNO-1014602000950",
+        "amount": 13752721.18
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 16114455.32
+      },
+      {
+        "name": "SA Drumuri Bălți",
+        "id": "MD-IDNO-1003602008028",
+        "amount": 14449737.12
+      },
+      {
+        "name": "Aedificator",
+        "id": "MD-IDNO-1011609003775",
+        "amount": 16007467.64
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 14364819.97
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 14830805.83
+      }
+    ],
+    "awards": [
+      {
+        "name": "\"VLADMIH COMPANY \"",
+        "id": "MD-IDNO-1014602000950",
+        "amount": 13752721.18,
+        "status": "pending"
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 14364819.97,
+        "status": "pending"
+      },
+      {
+        "name": "SA Drumuri Bălți",
+        "id": "MD-IDNO-1003602008028",
+        "amount": 14449737.12,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 14830805.83,
+        "status": "pending"
+      },
+      {
+        "name": "FPC ''VALIS'' SRL",
+        "id": "MD-IDNO-1002602003439",
+        "amount": 15477469.15,
+        "status": "pending"
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 15844525.13,
+        "status": "pending"
+      },
+      {
+        "name": "Aedificator",
+        "id": "MD-IDNO-1011609003775",
+        "amount": 16007467.64,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 16114455.32,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
