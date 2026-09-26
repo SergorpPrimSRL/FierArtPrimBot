@@ -526,6 +526,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1706708809166",
+    "date": "2024-01-31T13:50:21Z",
+    "title": "Materiale de constructie (gard metalic) la Primaria Mateuti",
+    "buyer": "PRIMARIA SATULUI MATEUTI",
+    "cpv": "44100000-1",
+    "estimated_amount": 81667.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Metal Gon-Grup",
+        "id": "MD-IDNO-1020606003686",
+        "amount": 81667.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1706738601290",
+    "date": "2024-01-31T22:05:47Z",
+    "title": "Servicii chirie gard metalic",
+    "buyer": "PRIMARIA COM.BUBUIECI",
+    "cpv": "34928200-0",
+    "estimated_amount": 2550.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "MUZECO  ART  SRL",
+        "id": "MD-IDNO-102300024488",
+        "amount": 2550.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
