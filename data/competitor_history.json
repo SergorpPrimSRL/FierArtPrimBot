@@ -672,6 +672,40 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1708422063800",
+    "date": "2024-02-20T09:51:21Z",
+    "title": "Mobilier urban",
+    "buyer": "Primăria or. Cricova",
+    "cpv": "34900000-6",
+    "estimated_amount": 95075.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Pro Tron Media SRL",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 95075.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1708422893586",
+    "date": "2024-02-20T10:03:11Z",
+    "title": "Mobilier urban",
+    "buyer": "Primăria or. Cricova",
+    "cpv": "34900000-6",
+    "estimated_amount": 78525.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Uzina Mecanică ARTMET SA",
+        "id": "MD-IDNO-1002600037193",
+        "amount": 78525.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
