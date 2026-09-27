@@ -1795,6 +1795,67 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1713206881555",
+    "date": "2024-04-15T18:50:34Z",
+    "title": "Servicii inspectare și verificare a lucrărilor (responsabil tehnic) la obiectul: Amenajarea unui scuar public cu terenuri de joaca pentru copii pe imobilul/terenul cu nr. cadastral 3153214.554, situat in municipiul Chisinau, comuna Stauceni, str. Miorita,",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "71315400-3",
+    "estimated_amount": 9360.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "”Colos-Consulting” S.R.L",
+        "id": "MD-IDNO-1010600002756",
+        "amount": 9360.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1713207190403",
+    "date": "2024-04-15T18:55:48Z",
+    "title": "Controlul de autor a proiectului pentru: Amenajarea unui scuar public cu terenuri de joaca pentru copii pe imobilul/terenul cu nr. cadastral 3153214.554, situat in municipiul Chisinau, comuna Stauceni, str. Miorita, 90",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "71248000-8",
+    "estimated_amount": 3690.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "”Cadroproiect-GIS” SRL.",
+        "id": "MD-IDNO-1011600033421",
+        "amount": 3690.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1713212251612",
+    "date": "2024-04-15T20:22:52Z",
+    "title": "servicii neatribuite altor aliniate",
+    "buyer": "PRIMARIA COMUNEI BRANISTE",
+    "cpv": "37535240-1",
+    "estimated_amount": 1666.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "VTV Proiect Construct",
+        "id": "MD-IDNO-1022600027275",
+        "amount": 1666.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1713218279158",
+    "date": "2024-04-15T21:57:58Z",
+    "title": "Echipament teren de joacă",
+    "buyer": "PRIMARIA SATULUI SIRETI",
+    "cpv": "",
+    "estimated_amount": 22916.66,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
