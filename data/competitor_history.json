@@ -2218,6 +2218,154 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1712580234500",
+    "date": "2024-04-19T14:32:18Z",
+    "title": "Echipamente pentru metode moleculare utilizate în activitatea Laboratorului Național de Referință",
+    "buyer": "IMSP Institutul de Ftiziopneumologie \"Chiril Draganiuc\"",
+    "cpv": "33600000-6",
+    "estimated_amount": 331539.45,
+    "bidders": [
+      {
+        "name": "SC\"Imunotehnomed\"SRL",
+        "id": "MD-IDNO-1002600012565",
+        "amount": 22433.38
+      },
+      {
+        "name": "Profilabdiagnostic SRL",
+        "id": "MD-IDNO-1009600045502",
+        "amount": 117000.0
+      },
+      {
+        "name": "ImpulsProGroup",
+        "id": "MD-IDNO-1007600001757",
+        "amount": 16349.0
+      },
+      {
+        "name": "Bio Analitica",
+        "id": "MD-IDNO-1015600017171",
+        "amount": 98400.0
+      },
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 8250.0
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 15500.0
+      },
+      {
+        "name": "X-Lab Solutions",
+        "id": "MD-IDNO-1014600019950",
+        "amount": 62001.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "LifeMed Group SRL",
+        "id": "MD-IDNO-1016600014720",
+        "amount": 8250.0,
+        "status": "pending"
+      },
+      {
+        "name": "ImpulsProGroup",
+        "id": "MD-IDNO-1007600001757",
+        "amount": 25668.0,
+        "status": "pending"
+      },
+      {
+        "name": "Profilabdiagnostic SRL",
+        "id": "MD-IDNO-1009600045502",
+        "amount": 42000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 55497.0,
+        "status": "pending"
+      },
+      {
+        "name": "X-Lab Solutions",
+        "id": "MD-IDNO-1014600019950",
+        "amount": 62001.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC\"Imunotehnomed\"SRL",
+        "id": "MD-IDNO-1002600012565",
+        "amount": 92980.44,
+        "status": "pending"
+      },
+      {
+        "name": "Profilabdiagnostic SRL",
+        "id": "MD-IDNO-1009600045502",
+        "amount": 47000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Triumf-Motiv SRL",
+        "id": "MD-IDNO-1012600021180",
+        "amount": 15500.0,
+        "status": "pending"
+      },
+      {
+        "name": "ImpulsProGroup",
+        "id": "MD-IDNO-1007600001757",
+        "amount": 16349.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC\"Imunotehnomed\"SRL",
+        "id": "MD-IDNO-1002600012565",
+        "amount": 22433.38,
+        "status": "pending"
+      },
+      {
+        "name": "Bio Analitica",
+        "id": "MD-IDNO-1015600017171",
+        "amount": 22980.0,
+        "status": "pending"
+      },
+      {
+        "name": "Bio Analitica",
+        "id": "MD-IDNO-1015600017171",
+        "amount": 95990.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC\"Imunotehnomed\"SRL",
+        "id": "MD-IDNO-1002600012565",
+        "amount": 96000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Profilabdiagnostic SRL",
+        "id": "MD-IDNO-1009600045502",
+        "amount": 117000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1713721743339",
+    "date": "2024-04-21T17:53:50Z",
+    "title": "Echipament pentru  teren de joacă",
+    "buyer": "PRIMARIA SATULUI SIRETI",
+    "cpv": "37500000-3",
+    "estimated_amount": 25462.96,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 25462.96,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
