@@ -2184,6 +2184,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1713382160678",
+    "date": "2024-04-17T19:33:08Z",
+    "title": "Urne de gunoi stradale și containere din plasă de metal colectare PET-uri",
+    "buyer": "PRIMARIA ZAGARANCEA",
+    "cpv": "34928400-2",
+    "estimated_amount": 131250.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL „Transnova!",
+        "id": "MD-IDNO-1010600032450",
+        "amount": 131250.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
