@@ -1761,6 +1761,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1713122253953",
+    "date": "2024-04-14T19:21:56Z",
+    "title": "elaborare deviz gradinita amenajarea teren de joaca",
+    "buyer": "PRIMARIA COMUNEI SCHINENI",
+    "cpv": "71200000-0",
+    "estimated_amount": 3000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "II Naclitchii Dmitrii",
+        "id": "MD-IDNO-1024607001986",
+        "amount": 3000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
