@@ -1649,6 +1649,51 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1711353801816",
+    "date": "2024-04-11T11:36:20Z",
+    "title": "procurarea si instalarea echipamentului de joacă  pe terenurile  dew joacă a IET 193 Vatra",
+    "buyer": "PRIMARIA OR.VATRA,MUN.CHISINAU",
+    "cpv": "37535200-9",
+    "estimated_amount": 256835.0,
+    "bidders": [
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 225645.0
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 227950.0
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 248600.83
+      }
+    ],
+    "awards": [
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 225645.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 227950.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 248600.83,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
