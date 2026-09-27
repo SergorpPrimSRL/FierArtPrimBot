@@ -2366,6 +2366,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1713783689858",
+    "date": "2024-04-22T11:04:03Z",
+    "title": "Balansoar",
+    "buyer": "TABARA DE ODIHNA VIISOARA-ANENII NOI DIN S. CIOB",
+    "cpv": "37535250-4",
+    "estimated_amount": 9666.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "TEHNO MS S.R.L",
+        "id": "MD-IDNO-1013600017029",
+        "amount": 9666.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1713785906329",
+    "date": "2024-04-22T11:43:20Z",
+    "title": "Servicii supraveghere tehnica Teren de joaca pu copii in Lapusna",
+    "buyer": "PRIMARIA COMUNEI LAPUSNA",
+    "cpv": "45200000-9",
+    "estimated_amount": 2992.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Constructsim SRL",
+        "id": "MD-IDNO-1014605002139",
+        "amount": 2992.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
