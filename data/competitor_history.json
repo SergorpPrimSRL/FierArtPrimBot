@@ -1306,6 +1306,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1712058132001",
+    "date": "2024-04-03T13:26:49Z",
+    "title": "Procurarea si instalarea Foisorului din lemn 6200mm*4200mm* 3200mm acoperit cu sindrila dituminoasa",
+    "buyer": "Primaria Hirjauca",
+    "cpv": "45200000-9",
+    "estimated_amount": 95833.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 95833.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
