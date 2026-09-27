@@ -2400,6 +2400,205 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1712662580710",
+    "date": "2024-04-23T06:11:57Z",
+    "title": "Valorificarea luncii rîului Cogîlnic din mun. Hîncești, cu ecluderea riscului de inundații a gospodăriilor casnice prin amenajarea zonei de agrement pentru copii și tineret",
+    "buyer": "Agenția de Dezvoltare Regională Centru",
+    "cpv": "45100000-8",
+    "estimated_amount": 23825808.33,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1709587517648",
+    "date": "2024-04-23T08:30:15Z",
+    "title": "„Rețele de canalizare sectorului de Est or. Edineț în perimetrul str. M. Eminescu, str. șos. Bucovinei, str. Al. Hîjdeu – (1 sector) în cadrul proiectului Construcția stației de tratare a apei și extinderea sistemului de canalizare în orașele Edineț și Cupcini”",
+    "buyer": "Agenția de Dezvoltare Regională Nord",
+    "cpv": "45232400-6",
+    "estimated_amount": 6242486.69,
+    "bidders": [
+      {
+        "name": "ATAR INTER",
+        "id": "MD-IDNO-1015600010057",
+        "amount": 5604488.56
+      },
+      {
+        "name": "SC ”Montex-Gaz” SRL",
+        "id": "MD-IDNO-1004600020810",
+        "amount": 5275000.0
+      },
+      {
+        "name": "FCI \"Capital\" SRL",
+        "id": "MD-IDNO-1003605002810",
+        "amount": 5284736.76
+      },
+      {
+        "name": "\"Prosperus-Cons\" SRL",
+        "id": "MD-IDNO-1011600042056",
+        "amount": 4882555.97
+      },
+      {
+        "name": "SRL Fedion Com",
+        "id": "MD-IDNO-1004607000666",
+        "amount": 5223673.36
+      },
+      {
+        "name": "Uralis",
+        "id": "MD-IDNO-1012600018926",
+        "amount": 5746895.97
+      },
+      {
+        "name": "Drostal",
+        "id": "MD-IDNO-1009607000546",
+        "amount": 5560712.13
+      },
+      {
+        "name": "Orizont",
+        "id": "MD-IDNO-1003600059222",
+        "amount": 5693900.19
+      },
+      {
+        "name": "Izodromgaz",
+        "id": "MD-IDNO-1003600020891",
+        "amount": 4774775.0
+      },
+      {
+        "name": "Valdcongrup SRL",
+        "id": "MD-IDNO-1009600000374",
+        "amount": 5481729.68
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 4889754.44
+      },
+      {
+        "name": "FPC ''VALIS'' SRL",
+        "id": "MD-IDNO-1002602003439",
+        "amount": 4948289.44
+      }
+    ],
+    "awards": [
+      {
+        "name": "Izodromgaz",
+        "id": "MD-IDNO-1003600020891",
+        "amount": 4774775.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"Prosperus-Cons\" SRL",
+        "id": "MD-IDNO-1011600042056",
+        "amount": 4882555.97,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 4889754.44,
+        "status": "pending"
+      },
+      {
+        "name": "FPC ''VALIS'' SRL",
+        "id": "MD-IDNO-1002602003439",
+        "amount": 4948289.44,
+        "status": "pending"
+      },
+      {
+        "name": "SRL Fedion Com",
+        "id": "MD-IDNO-1004607000666",
+        "amount": 5223673.36,
+        "status": "pending"
+      },
+      {
+        "name": "SC ”Montex-Gaz” SRL",
+        "id": "MD-IDNO-1004600020810",
+        "amount": 5275000.0,
+        "status": "pending"
+      },
+      {
+        "name": "FCI \"Capital\" SRL",
+        "id": "MD-IDNO-1003605002810",
+        "amount": 5284736.76,
+        "status": "pending"
+      },
+      {
+        "name": "Valdcongrup SRL",
+        "id": "MD-IDNO-1009600000374",
+        "amount": 5481729.68,
+        "status": "pending"
+      },
+      {
+        "name": "Drostal",
+        "id": "MD-IDNO-1009607000546",
+        "amount": 5560712.13,
+        "status": "pending"
+      },
+      {
+        "name": "ATAR INTER",
+        "id": "MD-IDNO-1015600010057",
+        "amount": 5604488.56,
+        "status": "pending"
+      },
+      {
+        "name": "Orizont",
+        "id": "MD-IDNO-1003600059222",
+        "amount": 5693900.19,
+        "status": "pending"
+      },
+      {
+        "name": "Uralis",
+        "id": "MD-IDNO-1012600018926",
+        "amount": 5746895.97,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1712140756460",
+    "date": "2024-04-23T08:50:28Z",
+    "title": "Complex de joacă, inclusiv instalarea și amenajarea  în Parcul Valea Morilor",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 2170000.0,
+    "bidders": [
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 1988060.46
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 1800790.02
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 1886317.08
+      }
+    ],
+    "awards": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 1800790.02,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 1886317.08,
+        "status": "pending"
+      },
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 1988060.46,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
