@@ -1615,6 +1615,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1712746575393",
+    "date": "2024-04-10T11:00:58Z",
+    "title": "Procurarea carusel cu 4 locuri",
+    "buyer": "PRIMARIA SATULUI HILIUTI",
+    "cpv": "39300000-5",
+    "estimated_amount": 10666.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "NOVA PARK",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 10666.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
