@@ -1778,6 +1778,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1713163960149",
+    "date": "2024-04-15T06:56:31Z",
+    "title": "Servicii de reparații a foișorului al I.P.Gimnaziul Semeni",
+    "buyer": "I.P.GIMNAZIUL SEMENI DIN S.SEMENI,R-NUL UNGHENI",
+    "cpv": "45212290-5",
+    "estimated_amount": 16125.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Ursachi Nicolae",
+        "id": "MD-IDNO-0991905362200",
+        "amount": 16125.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
