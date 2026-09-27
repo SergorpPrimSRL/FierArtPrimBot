@@ -2693,6 +2693,33 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1715606190329",
+    "date": "2024-05-13T13:19:47Z",
+    "title": "COMPLEX DE JOACA EKO -02,BALANSOAR OET-01,BALANSOAR CU ARC MOTO OEZ-06",
+    "buyer": "PRIMARIA ORASULUI CAUSENI",
+    "cpv": "39300000-5",
+    "estimated_amount": 148283.34,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "BADAR-M S.R.L.",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 148283.34,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1715670343371",
+    "date": "2024-05-14T07:05:43Z",
+    "title": "Terenuri de joacă, mașini și utilaje",
+    "buyer": "PRIMARIA ORASULUI TELENESTI",
+    "cpv": "",
+    "estimated_amount": 142080.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
