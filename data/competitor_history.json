@@ -2599,6 +2599,90 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1713895532566",
+    "date": "2024-04-23T18:08:04Z",
+    "title": "Motocoase profesionale",
+    "buyer": "PRIMARIA ZAGARANCEA",
+    "cpv": "34928400-2",
+    "estimated_amount": 28000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Teriac",
+        "id": "MD-IDNO-1003609001785",
+        "amount": 28000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1712672298853",
+    "date": "2024-04-24T13:17:46Z",
+    "title": "Complex de joacă cu turnuri, tobogane (jocuri de echilibristică, orientare, dezvoltarea motricității)",
+    "buyer": "Centru de Recuperarea pentru Copii Ceadir-Lunga",
+    "cpv": "44200000-2",
+    "estimated_amount": 185000.0,
+    "bidders": [
+      {
+        "name": "Lux Arbo",
+        "id": "MD-IDNO-1017611004470",
+        "amount": 129500.0
+      },
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 162800.0
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 140000.0
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 170650.0
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 150000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Lux Arbo",
+        "id": "MD-IDNO-1017611004470",
+        "amount": 113000.0,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 114000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 119003.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 140000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 170650.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
