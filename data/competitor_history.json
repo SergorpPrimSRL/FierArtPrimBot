@@ -1856,6 +1856,334 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1707245987462",
+    "date": "2024-04-17T07:28:20Z",
+    "title": "Lucrări de pavare",
+    "buyer": "Primăria Cimișlia",
+    "cpv": "45400000-1",
+    "estimated_amount": 2552700.49,
+    "bidders": [
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 721172.15
+      },
+      {
+        "name": "SpeedQual Com",
+        "id": "MD-IDNO-1017605005164",
+        "amount": 706158.59
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 620931.83
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 381518.15
+      },
+      {
+        "name": "Vipart Plus",
+        "id": "MD-IDNO-1005600016494",
+        "amount": 721681.22
+      },
+      {
+        "name": "Euro Light",
+        "id": "MD-IDNO-1016600031961",
+        "amount": 415515.95
+      },
+      {
+        "name": "DSI Construct Grup SRL",
+        "id": "MD-IDNO-1014600043629",
+        "amount": 436759.9
+      },
+      {
+        "name": "Armat Profil SRL",
+        "id": "MD-IDNO-1012600013286",
+        "amount": 800110.21
+      },
+      {
+        "name": "SRL,,Kedacons”",
+        "id": "MD-IDNO-1018600005878",
+        "amount": 302971.57
+      },
+      {
+        "name": "\"ANCAROS CONSTRUCT\"",
+        "id": "MD-IDNO-1020600041743",
+        "amount": 883402.22
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 863547.14
+      },
+      {
+        "name": "Vicoliv Grup SRL",
+        "id": "MD-IDNO-1014600018975",
+        "amount": 497065.71
+      },
+      {
+        "name": "LIVART PRIM SRL",
+        "id": "MD-IDNO-1012600038364",
+        "amount": 724249.27
+      },
+      {
+        "name": "„AGACHI-COM”",
+        "id": "MD-IDNO-1020608002546",
+        "amount": 371190.74
+      }
+    ],
+    "awards": [
+      {
+        "name": "Armat Profil SRL",
+        "id": "MD-IDNO-1012600013286",
+        "amount": 451397.0,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 475152.14,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,,Kedacons”",
+        "id": "MD-IDNO-1018600005878",
+        "amount": 475155.1,
+        "status": "pending"
+      },
+      {
+        "name": "„AGACHI-COM”",
+        "id": "MD-IDNO-1020608002546",
+        "amount": 492831.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 542800.0,
+        "status": "pending"
+      },
+      {
+        "name": "SpeedQual Com",
+        "id": "MD-IDNO-1017605005164",
+        "amount": 542820.58,
+        "status": "pending"
+      },
+      {
+        "name": "LIVART PRIM SRL",
+        "id": "MD-IDNO-1012600038364",
+        "amount": 607584.12,
+        "status": "pending"
+      },
+      {
+        "name": "Euro Light",
+        "id": "MD-IDNO-1016600031961",
+        "amount": 613277.89,
+        "status": "pending"
+      },
+      {
+        "name": "Vicoliv Grup SRL",
+        "id": "MD-IDNO-1014600018975",
+        "amount": 617083.45,
+        "status": "pending"
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 620931.83,
+        "status": "pending"
+      },
+      {
+        "name": "DSI Construct Grup SRL",
+        "id": "MD-IDNO-1014600043629",
+        "amount": 645202.73,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 681286.52,
+        "status": "pending"
+      },
+      {
+        "name": "\"ANCAROS CONSTRUCT\"",
+        "id": "MD-IDNO-1020600041743",
+        "amount": 681818.03,
+        "status": "pending"
+      },
+      {
+        "name": "Vipart Plus",
+        "id": "MD-IDNO-1005600016494",
+        "amount": 721681.22,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,,Kedacons”",
+        "id": "MD-IDNO-1018600005878",
+        "amount": 285200.0,
+        "status": "pending"
+      },
+      {
+        "name": "Armat Profil SRL",
+        "id": "MD-IDNO-1012600013286",
+        "amount": 285416.0,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 302971.0,
+        "status": "pending"
+      },
+      {
+        "name": "SpeedQual Com",
+        "id": "MD-IDNO-1017605005164",
+        "amount": 310560.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 323950.0,
+        "status": "pending"
+      },
+      {
+        "name": "„AGACHI-COM”",
+        "id": "MD-IDNO-1020608002546",
+        "amount": 323990.0,
+        "status": "pending"
+      },
+      {
+        "name": "Euro Light",
+        "id": "MD-IDNO-1016600031961",
+        "amount": 368000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 371000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 380000.0,
+        "status": "pending"
+      },
+      {
+        "name": "LIVART PRIM SRL",
+        "id": "MD-IDNO-1012600038364",
+        "amount": 420500.67,
+        "status": "pending"
+      },
+      {
+        "name": "DSI Construct Grup SRL",
+        "id": "MD-IDNO-1014600043629",
+        "amount": 436759.9,
+        "status": "pending"
+      },
+      {
+        "name": "Vicoliv Grup SRL",
+        "id": "MD-IDNO-1014600018975",
+        "amount": 438977.05,
+        "status": "pending"
+      },
+      {
+        "name": "\"ANCAROS CONSTRUCT\"",
+        "id": "MD-IDNO-1020600041743",
+        "amount": 463073.72,
+        "status": "pending"
+      },
+      {
+        "name": "Vipart Plus",
+        "id": "MD-IDNO-1005600016494",
+        "amount": 474824.08,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,,Kedacons”",
+        "id": "MD-IDNO-1018600005878",
+        "amount": 581000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Armat Profil SRL",
+        "id": "MD-IDNO-1012600013286",
+        "amount": 581106.0,
+        "status": "pending"
+      },
+      {
+        "name": "LIVART PRIM SRL",
+        "id": "MD-IDNO-1012600038364",
+        "amount": 630000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SpeedQual Com",
+        "id": "MD-IDNO-1017605005164",
+        "amount": 650564.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 674693.0,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 682918.8,
+        "status": "pending"
+      },
+      {
+        "name": "Euro Light",
+        "id": "MD-IDNO-1016600031961",
+        "amount": 794148.05,
+        "status": "pending"
+      },
+      {
+        "name": "Vicoliv Grup SRL",
+        "id": "MD-IDNO-1014600018975",
+        "amount": 802377.74,
+        "status": "pending"
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 812901.98,
+        "status": "pending"
+      },
+      {
+        "name": "DSI Construct Grup SRL",
+        "id": "MD-IDNO-1014600043629",
+        "amount": 838779.1,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 863547.14,
+        "status": "pending"
+      },
+      {
+        "name": "\"ANCAROS CONSTRUCT\"",
+        "id": "MD-IDNO-1020600041743",
+        "amount": 883402.22,
+        "status": "pending"
+      },
+      {
+        "name": "Vipart Plus",
+        "id": "MD-IDNO-1005600016494",
+        "amount": 928590.57,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
