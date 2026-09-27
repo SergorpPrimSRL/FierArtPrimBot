@@ -2201,6 +2201,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1713433954418",
+    "date": "2024-04-18T09:56:29Z",
+    "title": "servicii de proiectare",
+    "buyer": "PRIMARIA COMUNEI GALASENI",
+    "cpv": "79930000-2",
+    "estimated_amount": 61180.8,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Ultra-Proiect SRL",
+        "id": "MD-IDNO-1022600027116",
+        "amount": 61180.8,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
