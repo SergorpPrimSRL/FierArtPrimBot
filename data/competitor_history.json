@@ -1323,6 +1323,227 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1712132528185",
+    "date": "2024-04-04T10:54:54Z",
+    "title": "Amenajarea parcului de odihna din s.Bacseni r-nul Nisporeni",
+    "buyer": "BOLDURESTI PC",
+    "cpv": "03400000-4",
+    "estimated_amount": 206042.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1702660420803",
+    "date": "2024-04-04T13:25:42Z",
+    "title": "„Reabilitarea infrastructurii de agrement și zonei verzi (Construcția canalului de evacuare a apei pluviale și a unui teren sportiv), or. Dondușeni, Republica Moldova” în cadrul proiectului „Reabilitarea infrastructurii de agrement și zonei verzi de pe str. Pușkin, or. Dondușeni”",
+    "buyer": "Agenția de Dezvoltare Regională Nord",
+    "cpv": "45200000-9",
+    "estimated_amount": 8463275.85,
+    "bidders": [
+      {
+        "name": "NORDGLAVSTROI",
+        "id": "MD-IDNO-1016604000394",
+        "amount": 7202008.76
+      },
+      {
+        "name": "\"VLADMIH COMPANY \"",
+        "id": "MD-IDNO-1014602000950",
+        "amount": 7172590.97
+      },
+      {
+        "name": "MEGA NORD CONSTRUCT",
+        "id": "MD-IDNO-1011604002876",
+        "amount": 8401858.45
+      },
+      {
+        "name": "SERALCON",
+        "id": "MD-IDNO-1011600002144",
+        "amount": 5996319.89
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 7420771.08
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 7682936.67
+      },
+      {
+        "name": "SCARTEH SRL",
+        "id": "MD-IDNO-1013600018440",
+        "amount": 7740494.0
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 8443724.74
+      },
+      {
+        "name": "SA Drumuri Bălți",
+        "id": "MD-IDNO-1003602008028",
+        "amount": 8970597.02
+      },
+      {
+        "name": "FCI \"Capital\" SRL",
+        "id": "MD-IDNO-1003605002810",
+        "amount": 7838830.93
+      },
+      {
+        "name": "Aflux-Prim",
+        "id": "MD-IDNO-1008602001596",
+        "amount": 6987182.71
+      },
+      {
+        "name": "Drostal",
+        "id": "MD-IDNO-1009607000546",
+        "amount": 8390689.71
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 8458310.65
+      },
+      {
+        "name": "\"Devastcom\" S.R.L.",
+        "id": "MD-IDNO-1006600051009",
+        "amount": 7739495.09
+      }
+    ],
+    "awards": [
+      {
+        "name": "SERALCON",
+        "id": "MD-IDNO-1011600002144",
+        "amount": 5996319.89,
+        "status": "pending"
+      },
+      {
+        "name": "Aflux-Prim",
+        "id": "MD-IDNO-1008602001596",
+        "amount": 6987182.71,
+        "status": "pending"
+      },
+      {
+        "name": "\"VLADMIH COMPANY \"",
+        "id": "MD-IDNO-1014602000950",
+        "amount": 7172590.97,
+        "status": "pending"
+      },
+      {
+        "name": "NORDGLAVSTROI",
+        "id": "MD-IDNO-1016604000394",
+        "amount": 7202008.76,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 7420771.08,
+        "status": "pending"
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 7682936.67,
+        "status": "pending"
+      },
+      {
+        "name": "\"Devastcom\" S.R.L.",
+        "id": "MD-IDNO-1006600051009",
+        "amount": 7739495.09,
+        "status": "pending"
+      },
+      {
+        "name": "SCARTEH SRL",
+        "id": "MD-IDNO-1013600018440",
+        "amount": 7740494.0,
+        "status": "pending"
+      },
+      {
+        "name": "FCI \"Capital\" SRL",
+        "id": "MD-IDNO-1003605002810",
+        "amount": 7838830.93,
+        "status": "pending"
+      },
+      {
+        "name": "Drostal",
+        "id": "MD-IDNO-1009607000546",
+        "amount": 8390689.71,
+        "status": "pending"
+      },
+      {
+        "name": "MEGA NORD CONSTRUCT",
+        "id": "MD-IDNO-1011604002876",
+        "amount": 8401858.45,
+        "status": "pending"
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 8443724.74,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 8458310.65,
+        "status": "pending"
+      },
+      {
+        "name": "SA Drumuri Bălți",
+        "id": "MD-IDNO-1003602008028",
+        "amount": 8970597.02,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1708112910803",
+    "date": "2024-04-04T13:29:12Z",
+    "title": "Servicii de supraveghere tehnică la „Reabilitarea infrastructurii de agrement și zonei verzi (Construcția canalului de evacuare a apei pluviale și a unui teren sportiv), or. Dondușeni, Republica Moldova” în cadrul proiectului „Reabilitarea infrastructurii de agrement și zonei verzi de pe str. Pușkin, or. Dondușeni”",
+    "buyer": "Agenția de Dezvoltare Regională Nord",
+    "cpv": "71521000-6",
+    "estimated_amount": 84632.75,
+    "bidders": [
+      {
+        "name": "SRL BUNES VL",
+        "id": "MD-IDNO-1007604002866",
+        "amount": 67706.2
+      },
+      {
+        "name": "ALDICONS",
+        "id": "MD-IDNO-1003607005893",
+        "amount": 42316.37
+      },
+      {
+        "name": "Politub",
+        "id": "MD-IDNO-1003600107282",
+        "amount": 42316.37
+      }
+    ],
+    "awards": [
+      {
+        "name": "Politub",
+        "id": "MD-IDNO-1003600107282",
+        "amount": 42316.37,
+        "status": "pending"
+      },
+      {
+        "name": "ALDICONS",
+        "id": "MD-IDNO-1003607005893",
+        "amount": 42316.37,
+        "status": "pending"
+      },
+      {
+        "name": "SRL BUNES VL",
+        "id": "MD-IDNO-1007604002866",
+        "amount": 67706.2,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
