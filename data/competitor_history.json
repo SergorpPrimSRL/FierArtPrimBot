@@ -1279,6 +1279,33 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1712047533892",
+    "date": "2024-04-02T08:56:57Z",
+    "title": "Leagăne pentru terenuri de joacă (Leagăn Trio, inclusiv servicii de montare)",
+    "buyer": "PRIMARIA ORASULUI CAINARI",
+    "cpv": "37500000-3",
+    "estimated_amount": 79320.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL ProTronMedia",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 79320.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1712050056488",
+    "date": "2024-04-02T09:27:36Z",
+    "title": "Procurarea si instalarea Foisorului din lemn 6200mm*4200mm* 3200mm acoperit cu sindrila dituminoasa",
+    "buyer": "Primaria Hirjauca",
+    "cpv": "",
+    "estimated_amount": 95833.33,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
