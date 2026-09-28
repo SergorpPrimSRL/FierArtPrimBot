@@ -3309,6 +3309,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1718343306539",
+    "date": "2024-06-14T05:43:06Z",
+    "title": "Mobilier urban",
+    "buyer": "Primăria or. Cricova",
+    "cpv": "34900000-6",
+    "estimated_amount": 68500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Uzina Mecanică ARTMET SA",
+        "id": "MD-IDNO-1002600037193",
+        "amount": 68500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
