@@ -3063,6 +3063,74 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1717560406664",
+    "date": "2024-06-05T04:08:25Z",
+    "title": "Servicii închiriere tobogane gonflabile ",
+    "buyer": "PRIMARIA COMUNEI FALESTII NOI",
+    "cpv": "92330000-3",
+    "estimated_amount": 15760.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "MC STIL IMPORT S.R.L",
+        "id": "MD-IDNO-1012600021489",
+        "amount": 15760.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1710448615337",
+    "date": "2024-06-05T13:12:07Z",
+    "title": "Amenajarea izvorului cu amplasarea unui foișor deschis din lemn, situat în raionul Cimișlia, satul Bogdanovca Nouă, or. Cimișlia",
+    "buyer": "Primăria Cimișlia",
+    "cpv": "45200000-9",
+    "estimated_amount": 269294.26,
+    "bidders": [
+      {
+        "name": "Lux Arbo",
+        "id": "MD-IDNO-1017611004470",
+        "amount": 220834.51
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 268904.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Lux Arbo",
+        "id": "MD-IDNO-1017611004470",
+        "amount": 220834.51,
+        "status": "pending"
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 268904.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1717659831077",
+    "date": "2024-06-06T07:58:42Z",
+    "title": "Suvenire pentru sarbatoare Hederlez-2024",
+    "buyer": "DIRECTIA GENERALA DE CULTURA A UTA GAGAUZIA",
+    "cpv": "37810000-9",
+    "estimated_amount": 26887.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Capacli Piotr",
+        "id": "MD-IDNO-2002019063641",
+        "amount": 26887.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
