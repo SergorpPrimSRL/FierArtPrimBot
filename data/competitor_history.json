@@ -3411,6 +3411,139 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1716445236650",
+    "date": "2024-06-17T10:53:04Z",
+    "title": "Lucrări de amenajare parcare cu pavaj  la bloc administrativ din str.Doina,mun.Chișinău",
+    "buyer": "Combinatul Servicii Funerare",
+    "cpv": "45400000-1",
+    "estimated_amount": 1392397.91,
+    "bidders": [
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 1017179.69
+      },
+      {
+        "name": "Enelconstruct",
+        "id": "MD-IDNO-1010600008183",
+        "amount": 1190490.47
+      },
+      {
+        "name": "SRL EUSEVAS CONS",
+        "id": "MD-IDNO-1006600015070",
+        "amount": 1120275.0
+      },
+      {
+        "name": "Provladina Construct",
+        "id": "MD-IDNO-1013600019838",
+        "amount": 959820.28
+      },
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 1066690.16
+      },
+      {
+        "name": "Vicoliv Grup SRL",
+        "id": "MD-IDNO-1014600018975",
+        "amount": 1014980.35
+      },
+      {
+        "name": "Profact Construct",
+        "id": "MD-IDNO-1010600024992",
+        "amount": 1075785.06
+      },
+      {
+        "name": "Trans Invest Group",
+        "id": "MD-IDNO-1017600052299",
+        "amount": 999008.92
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 818333.05
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 975168.92
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 1078610.05
+      }
+    ],
+    "awards": [
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 818333.05,
+        "status": "pending"
+      },
+      {
+        "name": "Provladina Construct",
+        "id": "MD-IDNO-1013600019838",
+        "amount": 959820.28,
+        "status": "pending"
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 975168.92,
+        "status": "pending"
+      },
+      {
+        "name": "Trans Invest Group",
+        "id": "MD-IDNO-1017600052299",
+        "amount": 999008.92,
+        "status": "pending"
+      },
+      {
+        "name": "Vicoliv Grup SRL",
+        "id": "MD-IDNO-1014600018975",
+        "amount": 1014980.35,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 1017179.69,
+        "status": "pending"
+      },
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 1066690.16,
+        "status": "pending"
+      },
+      {
+        "name": "Profact Construct",
+        "id": "MD-IDNO-1010600024992",
+        "amount": 1075785.06,
+        "status": "pending"
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 1078610.05,
+        "status": "pending"
+      },
+      {
+        "name": "SRL EUSEVAS CONS",
+        "id": "MD-IDNO-1006600015070",
+        "amount": 1120275.0,
+        "status": "pending"
+      },
+      {
+        "name": "Enelconstruct",
+        "id": "MD-IDNO-1010600008183",
+        "amount": 1190490.47,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
