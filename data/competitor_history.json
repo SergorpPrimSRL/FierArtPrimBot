@@ -3595,6 +3595,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1718791333375",
+    "date": "2024-06-19T10:06:38Z",
+    "title": "Verificare deviz 77/24 pentru lucrari de amenajare scuar ",
+    "buyer": "PRETURA SECTORULUI CENTRU",
+    "cpv": "45200000-9",
+    "estimated_amount": 2700.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "II MINASCURTA CONSTANTIN",
+        "id": "MD-IDNO-1009600026035",
+        "amount": 2700.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
