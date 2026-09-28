@@ -3991,6 +3991,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1720683972470",
+    "date": "2024-07-11T07:49:17Z",
+    "title": "servicii chirie gard metalic ",
+    "buyer": "PRIMARIA ORASULUI CALARASI",
+    "cpv": "45520000-8",
+    "estimated_amount": 3000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Muzeco Art SRL",
+        "id": "MD-IDNO-1023600024488",
+        "amount": 3000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
