@@ -2831,6 +2831,73 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1712912975891",
+    "date": "2024-05-24T13:48:35Z",
+    "title": "Achiziționarea lucrărilor la obiectivul ” Amenajarea scuarului IP LT Gheorghe Asachi din mun.Chișinău, str.București, 64”",
+    "buyer": "Pretura sectorului Centru",
+    "cpv": "45200000-9",
+    "estimated_amount": 2586341.67,
+    "bidders": [
+      {
+        "name": "\"ANCAROS CONSTRUCT\"",
+        "id": "MD-IDNO-1020600041743",
+        "amount": 2716101.11
+      },
+      {
+        "name": "SRL \"Danstar Evolution\"",
+        "id": "MD-IDNO-1018600006831",
+        "amount": 2020841.65
+      },
+      {
+        "name": "Masbalt SRL",
+        "id": "MD-IDNO-1006600032923",
+        "amount": 2357318.65
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 1839595.93
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 2258387.65
+      }
+    ],
+    "awards": [
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 1839595.93,
+        "status": "pending"
+      },
+      {
+        "name": "SRL \"Danstar Evolution\"",
+        "id": "MD-IDNO-1018600006831",
+        "amount": 2020841.65,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 2258387.65,
+        "status": "pending"
+      },
+      {
+        "name": "Masbalt SRL",
+        "id": "MD-IDNO-1006600032923",
+        "amount": 2357318.65,
+        "status": "pending"
+      },
+      {
+        "name": "\"ANCAROS CONSTRUCT\"",
+        "id": "MD-IDNO-1020600041743",
+        "amount": 2716101.11,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
