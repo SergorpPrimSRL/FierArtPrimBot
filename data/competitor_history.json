@@ -3862,6 +3862,91 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1717680139967",
+    "date": "2024-07-04T07:28:58Z",
+    "title": "Mobilier urban, inclusiv instalarea în curțile de bloc",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "34900000-6",
+    "estimated_amount": 4900000.0,
+    "bidders": [
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 1618000.0
+      },
+      {
+        "name": "Fabianca",
+        "id": "MD-IDNO-1004600001446",
+        "amount": 2219500.0
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 2026150.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 1618000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 2026150.0,
+        "status": "pending"
+      },
+      {
+        "name": "Fabianca",
+        "id": "MD-IDNO-1004600001446",
+        "amount": 2219500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Fabianca",
+        "id": "MD-IDNO-1004600001446",
+        "amount": 2104000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1714143763772",
+    "date": "2024-07-04T10:20:47Z",
+    "title": "Foi de odihna ( Servicii de alimentare si cazare a copiilor in taberele de odihna ) pentru sezonul estival 2024",
+    "buyer": "Direcția Educație a Consiliului Raional Criuleni",
+    "cpv": "55200000-2",
+    "estimated_amount": 2086800.0,
+    "bidders": [
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 1499850.0
+      },
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 2085720.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 1499850.0,
+        "status": "pending"
+      },
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 2085720.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
