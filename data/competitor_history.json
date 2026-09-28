@@ -3646,6 +3646,46 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1718623776651",
+    "date": "2024-06-24T10:34:18Z",
+    "title": "Pavarea și amenajarea scuarului aferent I.M.S.P. Centrul de sănătate Leova ",
+    "buyer": "PRIMARIA LEOVA",
+    "cpv": "45112700-2",
+    "estimated_amount": 199700.0,
+    "bidders": [
+      {
+        "name": "UVN Demir Tas SRL",
+        "id": "MD-IDNO-1024611002524",
+        "amount": 155555.26
+      }
+    ],
+    "awards": [
+      {
+        "name": "UVN Demir Tas SRL",
+        "id": "MD-IDNO-1024611002524",
+        "amount": 155555.26,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1719228566712",
+    "date": "2024-06-24T11:34:49Z",
+    "title": "Studiu geologic preliminar pentru proiectarea, construcția și amenajarea Parcului Zoobotanic din municipiul Orhei în apropierea străzii Călușarilor (conform Planului Urbanistic General unitatea teritorială de referință UTR 21, VP 21- subzona spații verzi,",
+    "buyer": "PRIMARIA MUNICIPIULUI ORHEI",
+    "cpv": "71300000-1",
+    "estimated_amount": 59734.1,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "„Solitech Service” SRL",
+        "id": "MD-IDNO-1017600050837",
+        "amount": 59734.1,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
