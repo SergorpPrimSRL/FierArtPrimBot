@@ -3023,6 +3023,46 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1713354406206",
+    "date": "2024-05-30T12:32:40Z",
+    "title": "Reconstrucția a două foișoare la Gradinița nr.2, str. Precup com. Trușeni",
+    "buyer": "Primăria Trușeni",
+    "cpv": "45200000-9",
+    "estimated_amount": 531380.0,
+    "bidders": [
+      {
+        "name": "Quantis Eco",
+        "id": "MD-IDNO-1021600022826",
+        "amount": 426952.47
+      }
+    ],
+    "awards": [
+      {
+        "name": "Quantis Eco",
+        "id": "MD-IDNO-1021600022826",
+        "amount": 426952.47,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1717139934734",
+    "date": "2024-05-31T07:24:18Z",
+    "title": "Servicii deamenajare a teritoriului cu echipament de joaca",
+    "buyer": "PRETURA SECTORULUI CENTRU",
+    "cpv": "45100000-8",
+    "estimated_amount": 149541.66,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "ALTAPRIM SRL",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 149541.66,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
