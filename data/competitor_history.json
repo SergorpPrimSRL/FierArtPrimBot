@@ -3131,6 +3131,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1717676685141",
+    "date": "2024-06-06T12:35:56Z",
+    "title": "Закупка, доставка и установка элементов для детских игровых площадок",
+    "buyer": "PRIMARIA MUNICIPIULUI CEADIR-LUNGA",
+    "cpv": "37400000-2",
+    "estimated_amount": 149902.5,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "\"POWER TEAM\" S.R.L.",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 149902.5,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
