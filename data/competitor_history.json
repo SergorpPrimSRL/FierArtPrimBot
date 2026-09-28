@@ -3612,6 +3612,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1718875394410",
+    "date": "2024-06-20T09:26:01Z",
+    "title": "Echipament pentru terenuri de joacă la sat. Balanul Nou or. Rîșcani",
+    "buyer": "PRIMARIA ORASULUI RISCANI",
+    "cpv": "37530000-2",
+    "estimated_amount": 56666.66,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL ”Segorp-Prim”",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 56666.66,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1718885289695",
+    "date": "2024-06-20T12:12:55Z",
+    "title": "Echipament pentru teren de joaca",
+    "buyer": "PRIMARIA PITUSCA",
+    "cpv": "37500000-3",
+    "estimated_amount": 194566.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Power Team SRL",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 194566.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
