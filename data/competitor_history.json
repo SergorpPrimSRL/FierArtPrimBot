@@ -3326,6 +3326,91 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1714738645634",
+    "date": "2024-06-14T08:08:18Z",
+    "title": "Procurarea foilor (biletelor) de odihnă de vară pentru elevi (copii), sezonul estival 2024",
+    "buyer": "DIRECȚIA ÎNVĂȚĂMÂNT HÂNCEȘTI",
+    "cpv": "55200000-2",
+    "estimated_amount": 1530000.0,
+    "bidders": [
+      {
+        "name": "AO CONCEB",
+        "id": "MD-IDNO-31910819",
+        "amount": 484500.0
+      },
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 1029879.0
+      },
+      {
+        "name": "Primaria Bobeica",
+        "id": "MD-IDNO-1007601005796",
+        "amount": 900000.0
+      },
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 423300.0
+      },
+      {
+        "name": "Casa de odihna Camping Vadul lui Voda SRL",
+        "id": "MD-IDNO-1003600133438",
+        "amount": 1029000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 747000.0,
+        "status": "pending"
+      },
+      {
+        "name": "AO CONCEB",
+        "id": "MD-IDNO-31910819",
+        "amount": 855000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Primaria Bobeica",
+        "id": "MD-IDNO-1007601005796",
+        "amount": 900000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Casa de odihna Camping Vadul lui Voda SRL",
+        "id": "MD-IDNO-1003600133438",
+        "amount": 1029000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 1029879.0,
+        "status": "pending"
+      },
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 423300.0,
+        "status": "pending"
+      },
+      {
+        "name": "AO CONCEB",
+        "id": "MD-IDNO-31910819",
+        "amount": 484500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 498410.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
