@@ -2730,6 +2730,107 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1715672743303",
+    "date": "2024-05-23T08:44:25Z",
+    "title": "Mobilier urban smart, inclusiv instalarea pe Aleea Mircea cel Bătrân",
+    "buyer": "IMSLCiocana",
+    "cpv": "34900000-6",
+    "estimated_amount": 349500.0,
+    "bidders": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 346000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 346000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1711629866404",
+    "date": "2024-05-24T05:27:47Z",
+    "title": "Crearea spațiului verde în comuna Pănășești -crearea și amenajarea parcului din s.Pănășești",
+    "buyer": "Primaria Panasesti",
+    "cpv": "45200000-9",
+    "estimated_amount": 5896566.67,
+    "bidders": [
+      {
+        "name": "\"Prosperus-Cons\" SRL",
+        "id": "MD-IDNO-1011600042056",
+        "amount": 5597800.43
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 4469356.49
+      },
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 4970224.05
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 5349936.33
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 4374692.57
+      },
+      {
+        "name": "Profact Construct",
+        "id": "MD-IDNO-1010600024992",
+        "amount": 4238849.49
+      }
+    ],
+    "awards": [
+      {
+        "name": "Profact Construct",
+        "id": "MD-IDNO-1010600024992",
+        "amount": 4238849.49,
+        "status": "pending"
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 4374692.57,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 4469356.49,
+        "status": "pending"
+      },
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 4970224.05,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 5349936.33,
+        "status": "pending"
+      },
+      {
+        "name": "\"Prosperus-Cons\" SRL",
+        "id": "MD-IDNO-1011600042056",
+        "amount": 5597800.43,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
