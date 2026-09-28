@@ -3686,6 +3686,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1717327264509",
+    "date": "2024-06-29T18:50:13Z",
+    "title": "Lucrări de amenajare a 5 terenuri de joacă din or. Florești",
+    "buyer": "Primaria or. Floresti",
+    "cpv": "45200000-9",
+    "estimated_amount": 626252.69,
+    "bidders": [
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 582438.33
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 612500.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 582438.33,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 612500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
