@@ -3947,6 +3947,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1720450121724",
+    "date": "2024-07-08T14:52:22Z",
+    "title": "Echipament de joaca pentru copii",
+    "buyer": "PRIMARIA COMUNEI ZABRICENI",
+    "cpv": "30100000-0",
+    "estimated_amount": 7834.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SOCIETATEA CU RASPUNDERE LIMITATA PROMEGEM-ELECTRO",
+        "id": "MD-IDNO-1024604007998",
+        "amount": 7834.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
