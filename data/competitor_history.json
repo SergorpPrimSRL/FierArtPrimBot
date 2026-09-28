@@ -3964,6 +3964,33 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1720592989647",
+    "date": "2024-07-10T06:29:49Z",
+    "title": "lucrari de constructii afoisoarelor",
+    "buyer": "PRIMARIA SATULUI JEVRENI",
+    "cpv": "",
+    "estimated_amount": 32368.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1720593892646",
+    "date": "2024-07-10T06:53:45Z",
+    "title": "Lucrari de constructii a foisoarelor",
+    "buyer": "PRIMARIA SATULUI JEVRENI",
+    "cpv": "45200000-9",
+    "estimated_amount": 32368.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L.,,Betonel construct Prim,,",
+        "id": "MD-IDNO-1020600000476",
+        "amount": 32368.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
