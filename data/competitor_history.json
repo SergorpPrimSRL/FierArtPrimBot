@@ -3148,6 +3148,123 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1717767383675",
+    "date": "2024-06-07T13:39:20Z",
+    "title": "Procurarea instalatiei sportive pe teren de joaca",
+    "buyer": "PRIMARIA ZGURITA",
+    "cpv": "37450000-7",
+    "estimated_amount": 33333.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Regina Lemn Plast",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 33333.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1715848731809",
+    "date": "2024-06-10T06:10:02Z",
+    "title": "Reconstrucția bd. M. Eminescu, parcului orășenesc de odihnă și distracții. Teren de minifotbal pe teritoriul stadionului, or. Criuleni",
+    "buyer": "Agenția de Dezvoltare Regională Centru",
+    "cpv": "45200000-9",
+    "estimated_amount": 19038083.33,
+    "bidders": [
+      {
+        "name": "Aflux-Prim",
+        "id": "MD-IDNO-1008602001596",
+        "amount": 18911943.91
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 13799580.23
+      },
+      {
+        "name": "MEGA NORD CONSTRUCT",
+        "id": "MD-IDNO-1011604002876",
+        "amount": 17546743.51
+      },
+      {
+        "name": "ATAR INTER",
+        "id": "MD-IDNO-1015600010057",
+        "amount": 14008780.09
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 14510195.41
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 16339792.7
+      },
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 14055417.16
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 14589516.59
+      }
+    ],
+    "awards": [
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 13799580.23,
+        "status": "pending"
+      },
+      {
+        "name": "ATAR INTER",
+        "id": "MD-IDNO-1015600010057",
+        "amount": 14008780.09,
+        "status": "pending"
+      },
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 14055417.16,
+        "status": "pending"
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 14510195.41,
+        "status": "pending"
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 14589516.59,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 16339792.7,
+        "status": "pending"
+      },
+      {
+        "name": "MEGA NORD CONSTRUCT",
+        "id": "MD-IDNO-1011604002876",
+        "amount": 17546743.51,
+        "status": "pending"
+      },
+      {
+        "name": "Aflux-Prim",
+        "id": "MD-IDNO-1008602001596",
+        "amount": 18911943.91,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
