@@ -3544,6 +3544,57 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1718711389244",
+    "date": "2024-06-18T11:59:36Z",
+    "title": "Servicii distracție copii",
+    "buyer": "OCNITA OR.PRIMARIA",
+    "cpv": "92330000-3",
+    "estimated_amount": 22750.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL COCOGRUP",
+        "id": "MD-IDNO-1009609002773",
+        "amount": 22750.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1718712299043",
+    "date": "2024-06-18T12:12:41Z",
+    "title": "CONSTRUCȚII FOIȘOARELOR",
+    "buyer": "OCNITA OR.PRIMARIA",
+    "cpv": "44210000-5",
+    "estimated_amount": 100000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "FIRMA MINI-MAX SRL",
+        "id": "MD-IDNO-1003604012445",
+        "amount": 100000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1718717334173",
+    "date": "2024-06-18T13:36:50Z",
+    "title": "CONSTRUCȚIA TRATUARELOR ȘI APLATFORMEI PENTRU FOIȘOARE  LA GR. LĂSTĂRAȘ",
+    "buyer": "OCNITA OR.PRIMARIA",
+    "cpv": "45230000-8",
+    "estimated_amount": 81839.47,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL ALEXSTROI",
+        "id": "MD-IDNO-1019604000801",
+        "amount": 81839.47,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
