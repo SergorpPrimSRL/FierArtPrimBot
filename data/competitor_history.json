@@ -2898,6 +2898,114 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1715167990048",
+    "date": "2024-05-28T07:23:05Z",
+    "title": "Achizitionarea, livrarea si instalarea echipamentelor de joaca si sport in aer liber",
+    "buyer": "ANENII NOI PRIMARIA",
+    "cpv": "37535200-9",
+    "estimated_amount": 219160.0,
+    "bidders": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 104800.0
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 91375.0
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 58730.83
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 92625.0
+      },
+      {
+        "name": "\"BADAR - M\"",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 86600.0
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 92530.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "\"BADAR - M\"",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 80800.0,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 80900.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 82500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 82600.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 104800.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 113766.67,
+        "status": "pending"
+      },
+      {
+        "name": "\"BADAR - M\"",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 55000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 58730.83,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 66500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 68666.67,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 84000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
