@@ -3720,6 +3720,80 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1719899953313",
+    "date": "2024-07-02T06:03:37Z",
+    "title": "Tobogan",
+    "buyer": "PRIMARIA TIPALA",
+    "cpv": "37500000-3",
+    "estimated_amount": 20815.84,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "EXIMPROD-TRADE S.R.L.",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 20815.84,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1719904439701",
+    "date": "2024-07-02T07:32:12Z",
+    "title": "Mobilier urban (Scaune)",
+    "buyer": "Primaria Floreni",
+    "cpv": "39100000-3",
+    "estimated_amount": 50000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Terracod Prim",
+        "id": "MD-IDNO-1019600005668",
+        "amount": 50000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1718693774391",
+    "date": "2024-07-02T08:18:32Z",
+    "title": "Amenajarea unui teren de joaca si sport in s. Malaiestii Noi, com. Balabanesti",
+    "buyer": "Primaria comunei Balabanesti",
+    "cpv": "37400000-2",
+    "estimated_amount": 500000.0,
+    "bidders": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 488833.34
+      }
+    ],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 488833.34,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1719910708140",
+    "date": "2024-07-02T09:04:29Z",
+    "title": "teren de joacă pentru IET 79, IET 17",
+    "buyer": "DIRECTIA EDUCATIE, TINERET SI SPORT SECTORUL BOTANICA",
+    "cpv": "37500000-3",
+    "estimated_amount": 150000.03,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "45",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 150000.03,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
