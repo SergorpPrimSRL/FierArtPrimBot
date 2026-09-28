@@ -1,5 +1,24 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1789736394782",
+    "title": "Construcția scenei acoperite pentru spectacole în aer liber în Parcul Central  din or. Nisporeni ",
+    "authority": "PRIMARIA ORASULUI NISPORENI",
+    "amount": 3592220.0,
+    "currency": "MDL",
+    "deadline": "2026-10-09T10:00:00Z",
+    "deadline_text": "09.10.2026 13:00",
+    "status": "tendering",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "scenei",
+      "construcția scenei"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789736394782",
+    "source_date": "2026-09-28T14:00:00Z",
+    "saved_at": "2026-09-28T14:11:35.887989+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1790236795436",
     "title": "Scenă pentru activități culturale și de agrement în comuna Bîrlădeni",
     "authority": "Primaria comunei Birladeni",
@@ -182,25 +201,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789368831343",
     "source_date": "2026-09-18T13:27:09Z",
     "saved_at": "2026-09-18T13:36:25.496073+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789736394782",
-    "title": "Construcția scenei acoperite pentru spectacole în aer liber în Parcul Central  din or. Nisporeni ",
-    "authority": "PRIMARIA ORASULUI NISPORENI",
-    "amount": 3592220.0,
-    "currency": "MDL",
-    "deadline": "2026-10-09T10:00:00Z",
-    "deadline_text": "09.10.2026 13:00",
-    "status": "empty",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "scenei",
-      "construcția scenei"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789736394782",
-    "source_date": "2026-09-18T13:05:43Z",
-    "saved_at": "2026-09-18T13:23:11.607526+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1788963701884",
