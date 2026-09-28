@@ -3275,6 +3275,40 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1718193549599",
+    "date": "2024-06-12T12:02:41Z",
+    "title": "servicii supraveghere tehnică lucrari de reconstructie a foisoarelor IET nr.2",
+    "buyer": "PRIMARIA COMUNEI TRUSENI",
+    "cpv": "71300000-1",
+    "estimated_amount": 5635.77,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Iarmenco Andrian",
+        "id": "MD-IDNO-2003048059656",
+        "amount": 5635.77,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1718195424081",
+    "date": "2024-06-12T12:34:02Z",
+    "title": "servicii supraveghere autor lucrari ”Reconstrucția a două foisoare la Grădinița nr.2”",
+    "buyer": "PRIMARIA COMUNEI TRUSENI",
+    "cpv": "71300000-1",
+    "estimated_amount": 7251.6,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Procada Prim",
+        "id": "MD-IDNO-1003600026158",
+        "amount": 7251.6,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
