@@ -3006,6 +3006,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1716900605041",
+    "date": "2024-05-28T13:08:51Z",
+    "title": "leagan",
+    "buyer": "PRIMARIA SATULUI POHORNICENI",
+    "cpv": "37500000-3",
+    "estimated_amount": 1150.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "ALTAPRIM SRL",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 1150.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
