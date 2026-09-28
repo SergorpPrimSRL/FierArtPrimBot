@@ -3794,6 +3794,74 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1719921263011",
+    "date": "2024-07-02T12:02:33Z",
+    "title": "Echipament pentru instalarea/completarea unor terenuri de joacă pe teritoriul or.Codru, mun. Chișinău (inclusiv livrarea și instalarea)",
+    "buyer": "Primăria or.Codru",
+    "cpv": "37535200-9",
+    "estimated_amount": 212500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Playground store",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 212500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1719992419319",
+    "date": "2024-07-03T08:09:34Z",
+    "title": "CONSTRUCTIE",
+    "buyer": "LICEUL TEORETIC MIHAI STRATULAT, DIN S. BOSCANA,",
+    "cpv": "50700000-2",
+    "estimated_amount": 94593.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "II GAIDAU GHEORGHI",
+        "id": "MD-IDNO-1024600004520",
+        "amount": 94593.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1719230570706",
+    "date": "2024-07-03T08:33:21Z",
+    "title": "Pavarea și amenajarea scuarului aferent I.M.S.P. Centrul de sănătate Leova.Repetat",
+    "buyer": "PRIMARIA LEOVA",
+    "cpv": "45112700-2",
+    "estimated_amount": 199700.0,
+    "bidders": [
+      {
+        "name": "UVN Demir Tas SRL",
+        "id": "MD-IDNO-1024611002524",
+        "amount": 186666.31
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 198922.5
+      }
+    ],
+    "awards": [
+      {
+        "name": "UVN Demir Tas SRL",
+        "id": "MD-IDNO-1024611002524",
+        "amount": 186666.31,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 198922.5,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
