@@ -4059,6 +4059,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1720803017930",
+    "date": "2024-07-12T16:57:04Z",
+    "title": "Dale din cauciuc",
+    "buyer": "PENITENCIARUL NR.6 - SOROCA",
+    "cpv": "44420000-0",
+    "estimated_amount": 16000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL „Ecoelastic Lux”",
+        "id": "MD-IDNO-1017600042232",
+        "amount": 16000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1720949089436",
+    "date": "2024-07-14T09:31:08Z",
+    "title": "Achiziționarea mobilierului necesar pentru Tabăra Cireșarii ",
+    "buyer": "D E T S S.CENTRU",
+    "cpv": "39100000-3",
+    "estimated_amount": 122916.65,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Zariostil SRL",
+        "id": "MD-IDNO-1020600041916",
+        "amount": 122916.65,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
