@@ -4347,6 +4347,50 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1722232153996",
+    "date": "2024-07-29T05:55:01Z",
+    "title": "Amenajare teren de joacă",
+    "buyer": "IMSP Spitalul Raional Cantemir",
+    "cpv": "37500000-3",
+    "estimated_amount": 85166.66,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 85166.66,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1722236797693",
+    "date": "2024-07-29T07:06:37Z",
+    "title": "Element p/u garduri (teren sportiv)",
+    "buyer": "I.P. U.S.M.F. NICOLAE TESTEMITANU DIN RM",
+    "cpv": "",
+    "estimated_amount": 9858.33,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1722238787969",
+    "date": "2024-07-29T08:04:34Z",
+    "title": "Element p/u garduri (teren sportiv)",
+    "buyer": "I.P. U.S.M.F. NICOLAE TESTEMITANU DIN RM",
+    "cpv": "34920000-2",
+    "estimated_amount": 9858.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Rultehcom SRL",
+        "id": "MD-IDNO-1004600024106",
+        "amount": 9858.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
