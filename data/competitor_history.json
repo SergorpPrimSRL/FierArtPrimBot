@@ -27213,5 +27213,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1790683460300",
+    "date": "2026-09-29T12:08:16Z",
+    "title": "Procurarea leagăn dublu",
+    "buyer": "PRIMARIA ORASULUI REZINA",
+    "cpv": "77310000-6",
+    "estimated_amount": 97150.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. PRO TRON MEDIA",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 97150.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
