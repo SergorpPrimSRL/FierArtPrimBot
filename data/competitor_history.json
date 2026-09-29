@@ -4996,6 +4996,125 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1723626009752",
+    "date": "2024-08-14T09:04:35Z",
+    "title": "Procurarea  constructii metalica",
+    "buyer": "PRIMARIA COMUNEI STEP-SOCI",
+    "cpv": "37500000-3",
+    "estimated_amount": 47885.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL ROYAL PRIMCONSTRUCT",
+        "id": "MD-IDNO-102160004008",
+        "amount": 47885.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1722247728289",
+    "date": "2024-08-14T12:12:40Z",
+    "title": "Lucrari de amenajare teren sportiv la gaгdinita nr.167  Str. Ipate Soroceanu, 42 ",
+    "buyer": "D E T S S.CENTRU",
+    "cpv": "45200000-9",
+    "estimated_amount": 247500.0,
+    "bidders": [
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 213610.33
+      },
+      {
+        "name": "Camonir",
+        "id": "MD-IDNO-1004600018804",
+        "amount": 187346.68
+      }
+    ],
+    "awards": [
+      {
+        "name": "Camonir",
+        "id": "MD-IDNO-1004600018804",
+        "amount": 187346.68,
+        "status": "pending"
+      },
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 213610.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1721659447367",
+    "date": "2024-08-15T08:45:32Z",
+    "title": "Complex de joacă și fitness, inclusiv instalarea și amenajarea  în Parcul Pădure Râșcani",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 1050000.0,
+    "bidders": [
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 220100.0
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 178451.61
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 494319.6
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 221085.43
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 494319.6,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 607828.86,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 652053.33,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 178451.61,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 220100.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 221085.43,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
