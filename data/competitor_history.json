@@ -4514,6 +4514,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1722410589107",
+    "date": "2024-07-31T07:26:46Z",
+    "title": "Scrânciob din metal cu 3 leagăne pentru copii",
+    "buyer": "PRIMARIA MUNICIPIULUI SOROCA",
+    "cpv": "44400000-4",
+    "estimated_amount": 25000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "MUNTEANU CEREN S.R.L.",
+        "id": "MD-IDNO-1023600019758",
+        "amount": 25000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
