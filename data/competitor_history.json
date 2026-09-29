@@ -4110,6 +4110,62 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1714726651753",
+    "date": "2024-07-15T10:58:30Z",
+    "title": "Complex de joacă, inclusiv instalarea și amenajarea  în Parcul La Izvor",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 1075000.0,
+    "bidders": [
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 887156.55
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 827333.33
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 746919.72
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 892902.18
+      }
+    ],
+    "awards": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 746919.72,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 827333.33,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 887156.55,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 892902.18,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
