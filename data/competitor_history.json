@@ -5192,6 +5192,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1724327230717",
+    "date": "2024-08-22T12:19:19Z",
+    "title": "Echipament pentru teren de joaca",
+    "buyer": "PRIMARIA S.ETULIA",
+    "cpv": "37500000-3",
+    "estimated_amount": 91496.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Santer Grup SRL",
+        "id": "MD-IDNO-1003600051776",
+        "amount": 91496.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
