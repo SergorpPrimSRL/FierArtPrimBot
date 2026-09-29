@@ -5270,6 +5270,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1726559020180",
+    "date": "2024-09-17T07:46:37Z",
+    "title": "Mobilier Urban - Coșuri pentru colectarea sticlelor din plastic",
+    "buyer": "PRIMARIA ORASULUI STEFAN VODA",
+    "cpv": "39150000-8",
+    "estimated_amount": 14750.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. SERGORP-PRIM",
+        "id": "MD-IDNO-\t1018608001681",
+        "amount": 14750.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
