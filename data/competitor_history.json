@@ -5115,6 +5115,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1723712359656",
+    "date": "2024-08-15T09:03:42Z",
+    "title": "Servicii de proiectare",
+    "buyer": "PRIMARIA ORASULUI FALESTI",
+    "cpv": "71240000-2",
+    "estimated_amount": 62650.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Cadproiect-Gis",
+        "id": "MD-IDNO-101160003342",
+        "amount": 62650.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
