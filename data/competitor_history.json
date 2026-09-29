@@ -5304,6 +5304,33 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1726042020082",
+    "date": "2024-09-19T07:00:01Z",
+    "title": "Elaborarea documentației tehnice pentru proiectul “Amenajarea scuarului, or. Cimișlia”",
+    "buyer": "Primăria Cimișlia",
+    "cpv": "71200000-0",
+    "estimated_amount": 166666.66,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1726734584817",
+    "date": "2024-09-19T08:34:34Z",
+    "title": "servicii de divertisment pentru Hramul or. Vatra",
+    "buyer": "PRIMARIA OR.VATRA,MUN.CHISINAU",
+    "cpv": "92300000-4",
+    "estimated_amount": 42000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL”Amelia Kids”",
+        "id": "MD-IDNO-1018600018021",
+        "amount": 42000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
