@@ -5236,6 +5236,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1725433173538",
+    "date": "2024-09-04T07:03:44Z",
+    "title": "Servicii de proiectare",
+    "buyer": "PRIMARIA LEOVA",
+    "cpv": "71320000-7",
+    "estimated_amount": 165830.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Gazmolproiect SRL",
+        "id": "MD-IDNO-1014600016524",
+        "amount": 165830.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
