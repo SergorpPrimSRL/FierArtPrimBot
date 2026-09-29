@@ -26832,86 +26832,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1784100926109",
-    "date": "2026-09-21T19:13:02Z",
-    "title": "Lucrări de reparație capitală a grupei de creșă și a foișorului aferent în cadrul proiectului «Primii pași spre viitor – extinderea serviciilor de creșă în satul Hîrbovăț, raionul Anenii Noi",
-    "buyer": "Primaria Hirbovat",
-    "cpv": "45400000-1",
-    "estimated_amount": 1047653.09,
-    "bidders": [
-      {
-        "name": "TERMPROVIT",
-        "id": "MD-IDNO-1005608001520",
-        "amount": 754806.09
-      },
-      {
-        "name": "VIKMAR INVEST SRL",
-        "id": "MD-IDNO-1014600026123",
-        "amount": 827038.0
-      },
-      {
-        "name": "CP INVEST CONSTRUCT S.R.L.",
-        "id": "MD-IDNO-1023600046679",
-        "amount": 692440.71
-      },
-      {
-        "name": "Reniur cons",
-        "id": "MD-IDNO-1008600012730",
-        "amount": 171356.86
-      }
-    ],
-    "awards": [
-      {
-        "name": "TERMPROVIT",
-        "id": "MD-IDNO-1005608001520",
-        "amount": 159646.88,
-        "status": "pending"
-      },
-      {
-        "name": "Reniur cons",
-        "id": "MD-IDNO-1008600012730",
-        "amount": 171356.86,
-        "status": "pending"
-      },
-      {
-        "name": "CP INVEST CONSTRUCT S.R.L.",
-        "id": "MD-IDNO-1023600046679",
-        "amount": 173566.21,
-        "status": "pending"
-      },
-      {
-        "name": "VIKMAR INVEST SRL",
-        "id": "MD-IDNO-1014600026123",
-        "amount": 176561.74,
-        "status": "pending"
-      },
-      {
-        "name": "CP INVEST CONSTRUCT S.R.L.",
-        "id": "MD-IDNO-1023600046679",
-        "amount": 692440.71,
-        "status": "pending"
-      },
-      {
-        "name": "Reniur cons",
-        "id": "MD-IDNO-1008600012730",
-        "amount": 713789.77,
-        "status": "pending"
-      },
-      {
-        "name": "TERMPROVIT",
-        "id": "MD-IDNO-1005608001520",
-        "amount": 754806.09,
-        "status": "pending"
-      },
-      {
-        "name": "VIKMAR INVEST SRL",
-        "id": "MD-IDNO-1014600026123",
-        "amount": 827038.0,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1788263030607",
     "date": "2026-09-22T06:47:04Z",
     "title": "echipament pentru terenuri de joaca",
@@ -27272,6 +27192,86 @@
         "name": "S.R.L. PRO TRON MEDIA",
         "id": "MD-IDNO-1011600007699",
         "amount": 97150.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1784100926109",
+    "date": "2026-09-29T12:45:56Z",
+    "title": "Lucrări de reparație capitală a grupei de creșă și a foișorului aferent în cadrul proiectului «Primii pași spre viitor – extinderea serviciilor de creșă în satul Hîrbovăț, raionul Anenii Noi",
+    "buyer": "Primaria Hirbovat",
+    "cpv": "45400000-1",
+    "estimated_amount": 1047653.09,
+    "bidders": [
+      {
+        "name": "TERMPROVIT",
+        "id": "MD-IDNO-1005608001520",
+        "amount": 754806.09
+      },
+      {
+        "name": "VIKMAR INVEST SRL",
+        "id": "MD-IDNO-1014600026123",
+        "amount": 827038.0
+      },
+      {
+        "name": "CP INVEST CONSTRUCT S.R.L.",
+        "id": "MD-IDNO-1023600046679",
+        "amount": 692440.71
+      },
+      {
+        "name": "Reniur cons",
+        "id": "MD-IDNO-1008600012730",
+        "amount": 171356.86
+      }
+    ],
+    "awards": [
+      {
+        "name": "TERMPROVIT",
+        "id": "MD-IDNO-1005608001520",
+        "amount": 159646.88,
+        "status": "pending"
+      },
+      {
+        "name": "Reniur cons",
+        "id": "MD-IDNO-1008600012730",
+        "amount": 171356.86,
+        "status": "pending"
+      },
+      {
+        "name": "CP INVEST CONSTRUCT S.R.L.",
+        "id": "MD-IDNO-1023600046679",
+        "amount": 173566.21,
+        "status": "pending"
+      },
+      {
+        "name": "VIKMAR INVEST SRL",
+        "id": "MD-IDNO-1014600026123",
+        "amount": 176561.74,
+        "status": "pending"
+      },
+      {
+        "name": "CP INVEST CONSTRUCT S.R.L.",
+        "id": "MD-IDNO-1023600046679",
+        "amount": 692440.71,
+        "status": "pending"
+      },
+      {
+        "name": "Reniur cons",
+        "id": "MD-IDNO-1008600012730",
+        "amount": 713789.77,
+        "status": "pending"
+      },
+      {
+        "name": "TERMPROVIT",
+        "id": "MD-IDNO-1005608001520",
+        "amount": 754806.09,
+        "status": "pending"
+      },
+      {
+        "name": "VIKMAR INVEST SRL",
+        "id": "MD-IDNO-1014600026123",
+        "amount": 827038.0,
         "status": "pending"
       }
     ]
