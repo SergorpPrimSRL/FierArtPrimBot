@@ -4196,6 +4196,29 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1712162267943",
+    "date": "2024-07-16T13:10:50Z",
+    "title": "servicii de supraveghere tehnică la 1. „Reconstrucția/amenajarea curților la blocurile locative din str. Independenței nr. 73, 75, or. Sîngerei; 2. Reconstrucția căii pietonale, stațiilor de așteptare pe segmentul străzilor A. Plămădeală-N. Testemițanu din or. Sîngerei; 3. Amenajarea spațiului de odihnă pentru copii, teren sportiv str. Alexandru Plămădeală or. Sîngerei; 4. Amenajarea spațiului de odihnă pentru copii, cale pietonală pe str. Vlad Ioviță, or. Sîngerei; 5. Amenajare scuar, skate-park, parcare auto (str. M. Frunze-str-la A. Pușkin), Drum din beton asfaltic (str. M. Frunze-Taras Șevcenko) din or. Sîngerei” în cadrul proiectului „Sîngerei orașul Incluziunii Teritoriale-etapa II”",
+    "buyer": "Agenția de Dezvoltare Regională Nord",
+    "cpv": "71521000-6",
+    "estimated_amount": 137527.21,
+    "bidders": [
+      {
+        "name": "SRL ALMAPE",
+        "id": "MD-IDNO-1017607004703",
+        "amount": 111639.24
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL ALMAPE",
+        "id": "MD-IDNO-1017607004703",
+        "amount": 111639.24,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
