@@ -4391,6 +4391,129 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1721154433870",
+    "date": "2024-07-30T08:37:28Z",
+    "title": "Procurarea și instalarea echipamentului de sport și de joacă",
+    "buyer": "Primăria Cimișlia",
+    "cpv": "37535200-9",
+    "estimated_amount": 409545.82,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 40416.67
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 42916.66,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 40416.67,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 189666.67,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 42083.33,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 47500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1719687493507",
+    "date": "2024-07-30T12:10:26Z",
+    "title": "Lucrări de amenajare a 5 terenuri de joacă din or. Florești",
+    "buyer": "Primaria or. Floresti",
+    "cpv": "45200000-9",
+    "estimated_amount": 626252.69,
+    "bidders": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 611660.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 611660.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1722340591878",
+    "date": "2024-07-30T12:10:58Z",
+    "title": "Lucrări de elaborare a documentației de proiect și deviz pentru: Amenajarea parcului public pe terenul cu nr. cad.312922",
+    "buyer": "PRIMARIA SATULUI MAGDACESTI",
+    "cpv": "71300000-1",
+    "estimated_amount": 299000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "„TENDEX CONSULTING” S.R.L.,",
+        "id": "MD-IDNO- 1019600027996",
+        "amount": 18000.0,
+        "status": "pending"
+      },
+      {
+        "name": "„TENDEX CONSULTING” S.R.L.,",
+        "id": "MD-IDNO-1019600027996",
+        "amount": 14000.0,
+        "status": "pending"
+      },
+      {
+        "name": "„TENDEX CONSULTING” S.R.L.,",
+        "id": "MD-IDNO-1019600027996",
+        "amount": 135000.0,
+        "status": "pending"
+      },
+      {
+        "name": "„TENDEX CONSULTING” S.R.L.,",
+        "id": "MD-IDNO-1019600027996",
+        "amount": 75000.0,
+        "status": "pending"
+      },
+      {
+        "name": "„TENDEX CONSULTING” S.R.L.,",
+        "id": "MD-IDNO-1019600027996",
+        "amount": 25000.0,
+        "status": "pending"
+      },
+      {
+        "name": "„TENDEX CONSULTING” S.R.L.,",
+        "id": "MD-IDNO-1019600027996",
+        "amount": 28000.0,
+        "status": "pending"
+      },
+      {
+        "name": "„TENDEX CONSULTING” S.R.L.,",
+        "id": "MD-IDNO-1019600027996",
+        "amount": 4000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
