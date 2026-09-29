@@ -4093,6 +4093,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1721033296534",
+    "date": "2024-07-15T08:57:39Z",
+    "title": "Lucrări de amenajare a unui teren de joacă pentru copii în or. Sîngerei",
+    "buyer": "PRIMARIA SINGEREI",
+    "cpv": "45200000-9",
+    "estimated_amount": 60248.76,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL ,,LUDVIOCONS-PRIM”",
+        "id": "MD-IDNO-1013602004504",
+        "amount": 60248.76,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
