@@ -4862,6 +4862,95 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1713257208567",
+    "date": "2024-08-09T05:47:00Z",
+    "title": "Zona pietonală cu piste pentru bicecliști între străzile M. Viteazul, I. Gararin, Basarabia și drum de conexiune pentru transport auto între străzile I. Gagarin și Basarabia, or. Ialoveni",
+    "buyer": "Agenția de Dezvoltare Regională Centru",
+    "cpv": "45100000-8",
+    "estimated_amount": 16177416.66,
+    "bidders": [
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 13208100.65
+      },
+      {
+        "name": "Sigma VenMer",
+        "id": "MD-IDNO-1007600018551",
+        "amount": 14877590.35
+      },
+      {
+        "name": "MARNICMIH",
+        "id": "MD-IDNO-1003600021577",
+        "amount": 12842635.76
+      },
+      {
+        "name": "Emcom E&E",
+        "id": "MD-IDNO-1011600027451",
+        "amount": 11680216.42
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 12652408.23
+      },
+      {
+        "name": "ATAR INTER",
+        "id": "MD-IDNO-1015600010057",
+        "amount": 12909824.82
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 12618739.33
+      }
+    ],
+    "awards": [
+      {
+        "name": "Emcom E&E",
+        "id": "MD-IDNO-1011600027451",
+        "amount": 11680216.42,
+        "status": "pending"
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 12618739.33,
+        "status": "pending"
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 12652408.23,
+        "status": "pending"
+      },
+      {
+        "name": "MARNICMIH",
+        "id": "MD-IDNO-1003600021577",
+        "amount": 12842635.76,
+        "status": "pending"
+      },
+      {
+        "name": "ATAR INTER",
+        "id": "MD-IDNO-1015600010057",
+        "amount": 12909824.82,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 13208100.65,
+        "status": "pending"
+      },
+      {
+        "name": "Sigma VenMer",
+        "id": "MD-IDNO-1007600018551",
+        "amount": 14877590.35,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
