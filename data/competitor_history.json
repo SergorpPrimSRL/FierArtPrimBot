@@ -4565,6 +4565,245 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1716446667551",
+    "date": "2024-08-05T10:51:21Z",
+    "title": "Reabilitarea și reamenajarea scuarului parcului central din str. Ștefan cel Mare și Sfânt din or. Fălești",
+    "buyer": "Primăria oraşului Făleşti",
+    "cpv": "45236290-9",
+    "estimated_amount": 2995110.0,
+    "bidders": [
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 2049846.82
+      },
+      {
+        "name": "Nostalitserv-Prim SRL",
+        "id": "MD-IDNO-1004602009066",
+        "amount": 2488102.2
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 2842462.78
+      },
+      {
+        "name": "Capmanlux",
+        "id": "MD-IDNO-1006600058857",
+        "amount": 2153728.0
+      },
+      {
+        "name": "SRL DANIGASING",
+        "id": "MD-IDNO-1018602000187",
+        "amount": 2327576.21
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 2831897.74
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 2303476.73
+      }
+    ],
+    "awards": [
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 2049846.82,
+        "status": "pending"
+      },
+      {
+        "name": "Capmanlux",
+        "id": "MD-IDNO-1006600058857",
+        "amount": 2153728.0,
+        "status": "pending"
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 2303476.73,
+        "status": "pending"
+      },
+      {
+        "name": "SRL DANIGASING",
+        "id": "MD-IDNO-1018602000187",
+        "amount": 2327576.21,
+        "status": "pending"
+      },
+      {
+        "name": "Nostalitserv-Prim SRL",
+        "id": "MD-IDNO-1004602009066",
+        "amount": 2488102.2,
+        "status": "pending"
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 2831897.74,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 2842462.78,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1713529763725",
+    "date": "2024-08-05T11:17:05Z",
+    "title": "Lucrări de reparația foișorului de tip dublu și de tip ordinar la gradinite din mun. Cahul",
+    "buyer": "Primăria municipiului Cahul",
+    "cpv": "45200000-9",
+    "estimated_amount": 3962243.0,
+    "bidders": [
+      {
+        "name": "VIZOL-STUDIO",
+        "id": "MD-IDNO-1005611000031",
+        "amount": 2816894.71
+      },
+      {
+        "name": "Geanavar",
+        "id": "MD-IDNO-1019605001001",
+        "amount": 3250000.0
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 2596570.83
+      },
+      {
+        "name": "Gebhardt-Construct",
+        "id": "MD-IDNO-1003600058904",
+        "amount": 3000759.47
+      },
+      {
+        "name": "Lux Arbo",
+        "id": "MD-IDNO-1017611004470",
+        "amount": 2138599.95
+      },
+      {
+        "name": "\"APS Service Grup\"",
+        "id": "MD-IDNO-1016611000800",
+        "amount": 3623759.73
+      },
+      {
+        "name": "''Eurogrupstim'' SRL",
+        "id": "MD-IDNO-1014600036168",
+        "amount": 2783490.95
+      },
+      {
+        "name": "SRL EUSEVAS CONS",
+        "id": "MD-IDNO-1006600015070",
+        "amount": 3214725.0
+      },
+      {
+        "name": "Lifestar - Com",
+        "id": "MD-IDNO-1003603008450",
+        "amount": 3888573.9
+      },
+      {
+        "name": "Trend-Construct",
+        "id": "MD-IDNO-1014603002065",
+        "amount": 2990084.84
+      },
+      {
+        "name": "SRL «Granit-Grand Lux»",
+        "id": "MD-IDNO-1004611000470",
+        "amount": 2371638.8
+      }
+    ],
+    "awards": [
+      {
+        "name": "Lux Arbo",
+        "id": "MD-IDNO-1017611004470",
+        "amount": 2138599.95,
+        "status": "pending"
+      },
+      {
+        "name": "SRL «Granit-Grand Lux»",
+        "id": "MD-IDNO-1004611000470",
+        "amount": 2371638.8,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 2596570.83,
+        "status": "pending"
+      },
+      {
+        "name": "''Eurogrupstim'' SRL",
+        "id": "MD-IDNO-1014600036168",
+        "amount": 2783490.95,
+        "status": "pending"
+      },
+      {
+        "name": "VIZOL-STUDIO",
+        "id": "MD-IDNO-1005611000031",
+        "amount": 2816894.71,
+        "status": "pending"
+      },
+      {
+        "name": "Trend-Construct",
+        "id": "MD-IDNO-1014603002065",
+        "amount": 2990084.84,
+        "status": "pending"
+      },
+      {
+        "name": "Gebhardt-Construct",
+        "id": "MD-IDNO-1003600058904",
+        "amount": 3000759.47,
+        "status": "pending"
+      },
+      {
+        "name": "SRL EUSEVAS CONS",
+        "id": "MD-IDNO-1006600015070",
+        "amount": 3214725.0,
+        "status": "pending"
+      },
+      {
+        "name": "Geanavar",
+        "id": "MD-IDNO-1019605001001",
+        "amount": 3250000.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"APS Service Grup\"",
+        "id": "MD-IDNO-1016611000800",
+        "amount": 3623759.73,
+        "status": "pending"
+      },
+      {
+        "name": "Lifestar - Com",
+        "id": "MD-IDNO-1003603008450",
+        "amount": 3888573.9,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1722925600662",
+    "date": "2024-08-06T06:36:53Z",
+    "title": "Foisor din lemn cu masa si scaune incorporate",
+    "buyer": "PRIMARIA SATULUI HAGIMUS",
+    "cpv": "45210000-2",
+    "estimated_amount": 13333.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "II Chirita Ruslan",
+        "id": "MD-IDNO-1014606001841",
+        "amount": 13333.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
