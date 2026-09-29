@@ -4804,6 +4804,64 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1723116067132",
+    "date": "2024-08-08T11:26:25Z",
+    "title": "Disc diamant si piese de schimb pentru masina de taiat asfalt/beton",
+    "buyer": "AEROPORTUL INTERNATIONAL CHISINAU I.S.",
+    "cpv": "42670000-3",
+    "estimated_amount": 723333.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "M & M Comert SRL SC",
+        "id": "MD-IDNO-1007600004002",
+        "amount": 723333.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1721896711756",
+    "date": "2024-08-08T11:31:51Z",
+    "title": "Mobilier urban (mese, scaune, nisipieră și suport p/u biciclete) pentru instituţiile subordonate DETS sectorul Ciocana ",
+    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
+    "cpv": "39100000-3",
+    "estimated_amount": 70833.0,
+    "bidders": [
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 18333.33
+      }
+    ],
+    "awards": [
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 48000.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 43750.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 52500.0,
+        "status": "pending"
+      },
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 18333.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
