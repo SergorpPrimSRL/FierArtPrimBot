@@ -5209,6 +5209,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1725025883043",
+    "date": "2024-08-30T13:59:45Z",
+    "title": "SERVICII DE DIVERTISMENT",
+    "buyer": "Primăria or.Vadul lui Vodă",
+    "cpv": "92300000-4",
+    "estimated_amount": 30000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Granf Aventura",
+        "id": "MD-IDNO-1018611001395",
+        "amount": 30000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
