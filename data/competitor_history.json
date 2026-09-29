@@ -4219,6 +4219,134 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1718112476922",
+    "date": "2024-07-26T06:29:17Z",
+    "title": "Lucrări de construcție și montare a 7 foișoare în curtea creșă-grădiniță nr.2 din comuna Bubuieci",
+    "buyer": "Primaria com. Bubuieci",
+    "cpv": "45200000-9",
+    "estimated_amount": 676370.19,
+    "bidders": [
+      {
+        "name": "SRL,,CONSTRONG,,",
+        "id": "MD-IDNO-1009600028040",
+        "amount": 624514.86
+      },
+      {
+        "name": "Fart-Home-Project",
+        "id": "MD-IDNO-1020600024465",
+        "amount": 592690.95
+      },
+      {
+        "name": "Lux Arbo",
+        "id": "MD-IDNO-1017611004470",
+        "amount": 503425.67
+      },
+      {
+        "name": "SV Regal Construct",
+        "id": "MD-IDNO-1009600000754",
+        "amount": 613842.08
+      },
+      {
+        "name": "SC,,Elinatcons”SRL",
+        "id": "MD-IDNO-1005600012588",
+        "amount": 422163.59
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 466667.0
+      },
+      {
+        "name": "MEGA NORD CONSTRUCT",
+        "id": "MD-IDNO-1011604002876",
+        "amount": 565561.13
+      },
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 573218.68
+      },
+      {
+        "name": "VISOM - CONS",
+        "id": "MD-IDNO-1020600017616",
+        "amount": 565298.33
+      }
+    ],
+    "awards": [
+      {
+        "name": "Lux Arbo",
+        "id": "MD-IDNO-1017611004470",
+        "amount": 422000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC,,Elinatcons”SRL",
+        "id": "MD-IDNO-1005600012588",
+        "amount": 422163.59,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 455000.0,
+        "status": "pending"
+      },
+      {
+        "name": "VISOM - CONS",
+        "id": "MD-IDNO-1020600017616",
+        "amount": 542236.3,
+        "status": "pending"
+      },
+      {
+        "name": "MEGA NORD CONSTRUCT",
+        "id": "MD-IDNO-1011604002876",
+        "amount": 554000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 573218.68,
+        "status": "pending"
+      },
+      {
+        "name": "SV Regal Construct",
+        "id": "MD-IDNO-1009600000754",
+        "amount": 590000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Fart-Home-Project",
+        "id": "MD-IDNO-1020600024465",
+        "amount": 592690.95,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,,CONSTRONG,,",
+        "id": "MD-IDNO-1009600028040",
+        "amount": 624514.86,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1721988652647",
+    "date": "2024-07-26T10:13:02Z",
+    "title": "Lucrari de constructie a gardului pentru teren sportiv",
+    "buyer": "I.P.LICEUL TEORETIC ALEXANDRU IOAN CUZA DIN M.CH",
+    "cpv": "45400000-1",
+    "estimated_amount": 166270.21,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SERVICONS PLUS S.R.L.",
+        "id": "MD-IDNO-1020600000719 ",
+        "amount": 166270.21,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
