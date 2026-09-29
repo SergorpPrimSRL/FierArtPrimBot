@@ -4008,6 +4008,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1720764925852",
+    "date": "2024-07-12T06:20:39Z",
+    "title": "Servicii supraveghere de autor la amenajare scuar, skate-park, parcare auto, drum din beton asfaltic",
+    "buyer": "PRIMARIA SINGEREI",
+    "cpv": "71200000-0",
+    "estimated_amount": 18860.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL ,,MASSIVE PROJECT”",
+        "id": "MD-IDNO-1023600005070",
+        "amount": 18860.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
