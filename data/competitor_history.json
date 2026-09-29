@@ -26636,5 +26636,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1790670931579",
+    "date": "2026-09-29T08:37:44Z",
+    "title": "Construcție specială – Foișor ”Răsărit”",
+    "buyer": "PRIMARIA MUNICIPIULUI BALTI",
+    "cpv": "34920000-2",
+    "estimated_amount": 127182.5,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. PRO TRON MEDIA",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 127182.5,
+        "status": "pending"
+      }
+    ]
   }
 ]
