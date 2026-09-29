@@ -1,5 +1,43 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1790670931579",
+    "title": "Construcție specială – Foișor ”Răsărit”",
+    "authority": "PRIMARIA MUNICIPIULUI BALTI",
+    "amount": 127182.5,
+    "currency": "MDL",
+    "deadline": "",
+    "deadline_text": "nespecificat",
+    "status": "awarding",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "foișor"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1790670931579",
+    "source_date": "2026-09-29T08:37:44Z",
+    "saved_at": "2026-09-29T08:44:12.773737+00:00"
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1790670501444",
+    "title": "Echipamente audio",
+    "authority": "IP Compania \"Teleradio-Moldova\"",
+    "amount": 965908.36,
+    "currency": "MDL",
+    "deadline": "2026-10-19T07:00:00Z",
+    "deadline_text": "19.10.2026 10:00",
+    "status": "empty",
+    "score": 67,
+    "label": "POSIBIL RELEVANTĂ",
+    "matches": [
+      "construcție metalică",
+      "scenă",
+      "scena"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1790670501444",
+    "source_date": "2026-09-29T08:33:03Z",
+    "saved_at": "2026-09-29T08:43:59.283771+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1789736394782",
     "title": "Construcția scenei acoperite pentru spectacole în aer liber în Parcul Central  din or. Nisporeni ",
     "authority": "PRIMARIA ORASULUI NISPORENI",
