@@ -6075,6 +6075,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1728463943132",
+    "date": "2024-10-09T08:54:28Z",
+    "title": "Construcția a două foișoare la Grădinița din s. Făgureni, mun. Strășeni",
+    "buyer": "PRIMARIA MUNICIPIULUI STRASENI",
+    "cpv": "45100000-8",
+    "estimated_amount": 152594.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SC ”Termodal Grup” SRL",
+        "id": "MD-IDNO-1012600028765",
+        "amount": 152594.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
