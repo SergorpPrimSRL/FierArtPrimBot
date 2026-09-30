@@ -5798,6 +5798,105 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1725972277597",
+    "date": "2024-10-07T07:05:00Z",
+    "title": "Lucrări de amenajare parcare cu pavaj  la bloc administrativ din str.Doina,mun.Chișinău",
+    "buyer": "Combinatul Servicii Funerare",
+    "cpv": "45400000-1",
+    "estimated_amount": 1454135.0,
+    "bidders": [
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 1319999.55
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 1232104.17
+      },
+      {
+        "name": "Vicoliv Grup SRL",
+        "id": "MD-IDNO-1014600018975",
+        "amount": 1062477.3
+      },
+      {
+        "name": "Adrika",
+        "id": "MD-IDNO-1014600026086",
+        "amount": 1196853.0
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 1328308.74
+      },
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 1249147.27
+      },
+      {
+        "name": "RataConstruct",
+        "id": "MD-IDNO-1013609001513",
+        "amount": 1208145.89
+      }
+    ],
+    "awards": [
+      {
+        "name": "Vicoliv Grup SRL",
+        "id": "MD-IDNO-1014600018975",
+        "amount": 1062477.3,
+        "status": "pending"
+      },
+      {
+        "name": "Adrika",
+        "id": "MD-IDNO-1014600026086",
+        "amount": 1196853.0,
+        "status": "pending"
+      },
+      {
+        "name": "RataConstruct",
+        "id": "MD-IDNO-1013609001513",
+        "amount": 1208145.89,
+        "status": "pending"
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 1232104.17,
+        "status": "pending"
+      },
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 1249147.27,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 1319999.55,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 1328308.74,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1728285912940",
+    "date": "2024-10-07T09:00:32Z",
+    "title": "Teren de joacă și sport pentru viitor frumos și sănătos",
+    "buyer": "PRIMARIA VARZARESTII NOI",
+    "cpv": "45200000-9",
+    "estimated_amount": 516950.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
