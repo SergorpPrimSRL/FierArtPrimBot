@@ -6208,6 +6208,40 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1728809644929",
+    "date": "2024-10-13T08:56:33Z",
+    "title": "CONFECTIONAREA MESEI,BANCII,PERGOLEI",
+    "buyer": "ANENII NOI PRIMARIA",
+    "cpv": "39100000-3",
+    "estimated_amount": 30029.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "IM ANTERMO",
+        "id": "MD-IDNO-10036000092663",
+        "amount": 30029.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1728811542089",
+    "date": "2024-10-13T09:29:13Z",
+    "title": "  Lucrări de construcție a unui foișor (Belvedere) amplasat pe dealul din s. Cîșlița Prut,",
+    "buyer": "PRIMARIA S.CISLITA-PRUT",
+    "cpv": "45400000-1",
+    "estimated_amount": 198777.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Trend-Construct S.R.L",
+        "id": "MD-IDNO-1014603002065",
+        "amount": 198777.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
