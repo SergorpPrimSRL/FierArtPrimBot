@@ -7369,6 +7369,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1729757360203",
+    "date": "2024-10-24T08:13:47Z",
+    "title": "Procurarea utilajului sportiv pentru terenul de joacă la liceul teoretic C.Spătaru",
+    "buyer": "PRIMARIA LEOVA",
+    "cpv": "37410000-5",
+    "estimated_amount": 34189.17,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L.”Power Team”",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 34189.17,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
