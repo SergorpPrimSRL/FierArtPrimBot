@@ -6259,6 +6259,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1728995886556",
+    "date": "2024-10-15T12:50:56Z",
+    "title": "Procurarea altor marfuri",
+    "buyer": "PRIMARIA ORASULUI LIPCANI",
+    "cpv": "45200000-9",
+    "estimated_amount": 101620.83,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Grav-Metit",
+        "id": "MD-IDNO-1021604001168",
+        "amount": 101620.83,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
