@@ -6119,6 +6119,29 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1724420072183",
+    "date": "2024-10-10T11:30:53Z",
+    "title": "Amenajarea zonei de agrement (parc si loc de joacă pentru copii) din preajma  Casei de Cultură sat. Ratuș, Etapa II ",
+    "buyer": "Primaria Drasliceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 660800.0,
+    "bidders": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 648957.98
+      }
+    ],
+    "awards": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 648957.98,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
