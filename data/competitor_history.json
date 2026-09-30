@@ -5522,6 +5522,282 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1713169352273",
+    "date": "2024-10-04T11:12:03Z",
+    "title": "Consolidarea revitalizării urbane prin dezvoltarea infrastructurii spațiilor publice în sectorul Căușenii Vechi orașul Căușeni („Reparația acoperișului și termoizolarea fațadelor clădirii Grădiniței pentru Copii nr.6 „Lia Ciocârlia” din or. Căușeni.”, „Reconstrucția acoperișului clădirii Gimnaziului „Dimitrie Cantemir” din or. Căușeni, sec. Căușenii Vechi, str. Ștefan cel Mare, nr.114.”, „Amenajarea complexului sportiv multifuncțional str. Ștefan cel Mare și Sfînt, or. Căușenii Vechi”.",
+    "buyer": "Agenția de Dezvoltare Regională Sud",
+    "cpv": "45261000-4",
+    "estimated_amount": 17772963.32,
+    "bidders": [
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 3939457.65
+      },
+      {
+        "name": "Proiect Gabion",
+        "id": "MD-IDNO-1010600016641",
+        "amount": 4169164.93
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 1465000.0
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 3467656.44
+      },
+      {
+        "name": "SpeedQual Com",
+        "id": "MD-IDNO-1017605005164",
+        "amount": 4032436.11
+      },
+      {
+        "name": "ALARCON GROUP",
+        "id": "MD-IDNO-1017605003285",
+        "amount": 4247389.19
+      },
+      {
+        "name": "SRL OLBI COM",
+        "id": "MD-IDNO-1016600011659",
+        "amount": 4941406.05
+      },
+      {
+        "name": "Atractiv Invest",
+        "id": "MD-IDNO-1014600000370",
+        "amount": 4939744.48
+      },
+      {
+        "name": "Cons Art Engineering",
+        "id": "MD-IDNO-1014600032805",
+        "amount": 4552804.9
+      },
+      {
+        "name": "ATAR INTER",
+        "id": "MD-IDNO-1015600010057",
+        "amount": 4516660.92
+      },
+      {
+        "name": "MEGA NORD CONSTRUCT",
+        "id": "MD-IDNO-1011604002876",
+        "amount": 3901159.95
+      },
+      {
+        "name": "Paduret Alexandru",
+        "id": "MD-IDNO-1005608001232",
+        "amount": 4476688.0
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 4618201.19
+      },
+      {
+        "name": "SC MIHCONS PLUS",
+        "id": "MD-IDNO-1005600035248",
+        "amount": 3779070.21
+      },
+      {
+        "name": "SERALCON",
+        "id": "MD-IDNO-1011600002144",
+        "amount": 4330534.44
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 4057835.5
+      }
+    ],
+    "awards": [
+      {
+        "name": "MEGA NORD CONSTRUCT",
+        "id": "MD-IDNO-1011604002876",
+        "amount": 3659957.4,
+        "status": "pending"
+      },
+      {
+        "name": "ALARCON GROUP",
+        "id": "MD-IDNO-1017605003285",
+        "amount": 3953871.86,
+        "status": "pending"
+      },
+      {
+        "name": "Paduret Alexandru",
+        "id": "MD-IDNO-1005608001232",
+        "amount": 4000509.0,
+        "status": "pending"
+      },
+      {
+        "name": "Proiect Gabion",
+        "id": "MD-IDNO-1010600016641",
+        "amount": 4169164.93,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 4361921.1,
+        "status": "pending"
+      },
+      {
+        "name": "SERALCON",
+        "id": "MD-IDNO-1011600002144",
+        "amount": 4444556.33,
+        "status": "pending"
+      },
+      {
+        "name": "ATAR INTER",
+        "id": "MD-IDNO-1015600010057",
+        "amount": 4516660.92,
+        "status": "pending"
+      },
+      {
+        "name": "Cons Art Engineering",
+        "id": "MD-IDNO-1014600032805",
+        "amount": 4552804.9,
+        "status": "pending"
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 4618201.19,
+        "status": "pending"
+      },
+      {
+        "name": "Atractiv Invest",
+        "id": "MD-IDNO-1014600000370",
+        "amount": 4939744.48,
+        "status": "pending"
+      },
+      {
+        "name": "SRL OLBI COM",
+        "id": "MD-IDNO-1016600011659",
+        "amount": 4941406.05,
+        "status": "pending"
+      },
+      {
+        "name": "SC MIHCONS PLUS",
+        "id": "MD-IDNO-1005600035248",
+        "amount": 3779070.21,
+        "status": "pending"
+      },
+      {
+        "name": "MEGA NORD CONSTRUCT",
+        "id": "MD-IDNO-1011604002876",
+        "amount": 3901159.95,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 3939457.65,
+        "status": "pending"
+      },
+      {
+        "name": "SRL OLBI COM",
+        "id": "MD-IDNO-1016600011659",
+        "amount": 4159095.55,
+        "status": "pending"
+      },
+      {
+        "name": "ALARCON GROUP",
+        "id": "MD-IDNO-1017605003285",
+        "amount": 4247389.19,
+        "status": "pending"
+      },
+      {
+        "name": "SERALCON",
+        "id": "MD-IDNO-1011600002144",
+        "amount": 4330534.44,
+        "status": "pending"
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 4382069.47,
+        "status": "pending"
+      },
+      {
+        "name": "Paduret Alexandru",
+        "id": "MD-IDNO-1005608001232",
+        "amount": 4476688.0,
+        "status": "pending"
+      },
+      {
+        "name": "Cons Art Engineering",
+        "id": "MD-IDNO-1014600032805",
+        "amount": 4757996.73,
+        "status": "pending"
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 4861747.27,
+        "status": "pending"
+      },
+      {
+        "name": "Atractiv Invest",
+        "id": "MD-IDNO-1014600000370",
+        "amount": 5206469.13,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 3458108.12,
+        "status": "pending"
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 3467656.44,
+        "status": "pending"
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 3486908.69,
+        "status": "pending"
+      },
+      {
+        "name": "SpeedQual Com",
+        "id": "MD-IDNO-1017605005164",
+        "amount": 4032436.11,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 4057835.5,
+        "status": "pending"
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 1390350.0,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 1465000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1728047596491",
+    "date": "2024-10-04T13:13:16Z",
+    "title": "Elaborarea documentației tehnice pentru proiectul “Amenajarea scuarului, or. Cimișlia”",
+    "buyer": "Primăria Cimișlia",
+    "cpv": "",
+    "estimated_amount": 211500.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
