@@ -6242,6 +6242,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1728911930857",
+    "date": "2024-10-14T13:21:14Z",
+    "title": "Supraveghere de autor la obiectu Statie auto",
+    "buyer": "PRIMARIA ORASULUI DROCHIA",
+    "cpv": "98300000-6",
+    "estimated_amount": 1000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Biroul de producere si proiectare ale arhitectului sef",
+        "id": "MD-IDNO-1004607002028",
+        "amount": 1000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
