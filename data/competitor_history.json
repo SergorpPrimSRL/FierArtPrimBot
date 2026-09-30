@@ -5505,6 +5505,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1728038482289",
+    "date": "2024-10-04T10:43:39Z",
+    "title": "procurare scaune-mobilier urban",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "34900000-6",
+    "estimated_amount": 11666.66,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Fabricons Service SRL",
+        "id": "MD-IDNO-1021600010393",
+        "amount": 11666.66,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
