@@ -5331,6 +5331,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1727254067819",
+    "date": "2024-09-25T08:53:57Z",
+    "title": "Articole și echipamente de sport",
+    "buyer": "PRIMARIA ORASULUI STEFAN VODA",
+    "cpv": "37410000-5",
+    "estimated_amount": 83000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. DASTIM ART",
+        "id": "MD-IDNO-\t1021600020039",
+        "amount": 83000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
