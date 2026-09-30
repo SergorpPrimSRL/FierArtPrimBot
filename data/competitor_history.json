@@ -5348,6 +5348,33 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1727266370226",
+    "date": "2024-09-25T12:19:13Z",
+    "title": "Servicii medico sanitare",
+    "buyer": "PRIMARIA SATULUI ALEXEEVCA",
+    "cpv": "85100000-0",
+    "estimated_amount": 1984.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "AGENTIA NATIONALA PENTRU SANATATE PUBLICA",
+        "id": "MD-IDNO-1018601000021",
+        "amount": 1984.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1727263897606",
+    "date": "2024-09-26T05:37:35Z",
+    "title": "Costrucția și renovarea \"Teren de joacă pentru viitor frumos  și săatos\"",
+    "buyer": "PRIMARIA VARZARESTII NOI",
+    "cpv": "45200000-9",
+    "estimated_amount": 646188.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
