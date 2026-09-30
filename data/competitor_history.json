@@ -6276,6 +6276,84 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1728999058441",
+    "date": "2024-10-15T13:37:15Z",
+    "title": "servicii elaborare deviz foisor gradinita",
+    "buyer": "PRIMARIA COMUNEI SCHINENI",
+    "cpv": "71200000-0",
+    "estimated_amount": 1590.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Iazinschi Valeriu II",
+        "id": "MD-IDNO-1014607001011",
+        "amount": 1590.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1728999744335",
+    "date": "2024-10-15T13:46:39Z",
+    "title": "elaborare deviz amenajarea teren de joaca",
+    "buyer": "PRIMARIA COMUNEI SCHINENI",
+    "cpv": "71200000-0",
+    "estimated_amount": 2100.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "II Naglitchii Dmitrii",
+        "id": "MD-IDNO-1024607001986",
+        "amount": 2100.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1729003549063",
+    "date": "2024-10-15T14:52:06Z",
+    "title": "verificare deviz foisor",
+    "buyer": "PRIMARIA COMUNEI SCHINENI",
+    "cpv": "71320000-7",
+    "estimated_amount": 480.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "II Minascurta Constantin",
+        "id": "MD-IDNO-1009600026035",
+        "amount": 480.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1729025926142",
+    "date": "2024-10-15T21:01:59Z",
+    "title": "Lucrări de „Amenajarea terenului pentru amplasarea leagănilor din str. Ștefan cel Mare (Casa de bilete avio) și str. Decebal (BAM), consolidarea terenului aferent Casei de Cultură Centru din str. Sadoveanu, mun. Bălți”",
+    "buyer": "PRIMARIA MUNICIPIULUI BALTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 180005.5,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. „Vladmih Company”",
+        "id": "MD-IDNO-1014602000950",
+        "amount": 180005.5,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1728915816025",
+    "date": "2024-10-16T06:14:27Z",
+    "title": "Echipament pentru bucătărie, elemente de joacă pentru copii, tomberoane de plastic și coșuri de gunoi pentru amenajarea teritoriului și dotarea cu echipamente a Grădiniței de copii din satul Cuhureștii de Sus, raionul Florești in cadrul proiectului, cod FR 21 317 SE-2 ",
+    "buyer": "Primaria Cuhurestii de Sus",
+    "cpv": "39700000-9",
+    "estimated_amount": 457294.17,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
