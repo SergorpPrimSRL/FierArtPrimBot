@@ -7403,6 +7403,50 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1728568014080",
+    "date": "2024-10-30T08:05:57Z",
+    "title": "Complex de joacă, inclusiv instalarea și amenajarea în or. Cricova",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 334000.0,
+    "bidders": [
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 319166.67
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 304000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 304000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 319166.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1730299180828",
+    "date": "2024-10-30T14:44:31Z",
+    "title": "Echipment pentru terenul de joacă",
+    "buyer": "PRIMARIA CANTEMIR",
+    "cpv": "37500000-3",
+    "estimated_amount": 56170.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
