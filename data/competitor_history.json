@@ -28034,16 +28034,6 @@
     "awards": []
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1789026204026",
-    "date": "2026-09-21T10:00:00Z",
-    "title": "„ Echipamente și mobilier pentru terenul de joaca, inclusiv asamblarea, montarea, fixarea și punerea în funcțiune  în orașul Telenești și satul Băneștii Noi pentru implementarea inițiativelor civice selectate prin intermediul Laboratorului de Inovație Civică, ediția 2026”",
-    "buyer": "Primaria Telenesti",
-    "cpv": "37400000-2",
-    "estimated_amount": 225350.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1787923241747",
     "date": "2026-09-21T13:49:31Z",
     "title": "Lucrari de instalare a echipamentelor de joaca si mobilier urban str. Lomonosov 49",
@@ -28518,6 +28508,35 @@
         "name": "VIKMAR INVEST SRL",
         "id": "MD-IDNO-1014600026123",
         "amount": 827038.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789026204026",
+    "date": "2026-09-30T10:30:00Z",
+    "title": "„ Echipamente și mobilier pentru terenul de joaca, inclusiv asamblarea, montarea, fixarea și punerea în funcțiune  în orașul Telenești și satul Băneștii Noi pentru implementarea inițiativelor civice selectate prin intermediul Laboratorului de Inovație Civică, ediția 2026”",
+    "buyer": "Primaria Telenesti",
+    "cpv": "37400000-2",
+    "estimated_amount": 225350.0,
+    "bidders": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 87908.33
+      }
+    ],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 87908.33,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 65066.66,
         "status": "pending"
       }
     ]
