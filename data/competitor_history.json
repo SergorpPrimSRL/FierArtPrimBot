@@ -5385,6 +5385,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1727445098033",
+    "date": "2024-09-27T13:57:43Z",
+    "title": "teren de joacă pentru IET 9",
+    "buyer": "DIRECTIA EDUCATIE, TINERET SI SPORT SECTORUL BOTANICA",
+    "cpv": "37500000-3",
+    "estimated_amount": 67000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL „ROMELEN FACTORY”",
+        "id": "MD-IDNO-1024600062142",
+        "amount": 67000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
