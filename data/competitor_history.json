@@ -6142,6 +6142,72 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1725432483868",
+    "date": "2024-10-11T11:26:23Z",
+    "title": "Lucrări de reparația foișorului de tip dublu și de tip ordinar la gradinite din mun. Cahul ( Grădinița de copii nr. 2)",
+    "buyer": "Primăria municipiului Cahul",
+    "cpv": "45200000-9",
+    "estimated_amount": 1343187.88,
+    "bidders": [
+      {
+        "name": "San Construct Grup",
+        "id": "MD-IDNO-1011600024117",
+        "amount": 979191.67
+      },
+      {
+        "name": "VIZOL-STUDIO",
+        "id": "MD-IDNO-1005611000031",
+        "amount": 864038.54
+      },
+      {
+        "name": "Trend-Construct",
+        "id": "MD-IDNO-1014603002065",
+        "amount": 1013359.52
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 905245.27
+      }
+    ],
+    "awards": [
+      {
+        "name": "VIZOL-STUDIO",
+        "id": "MD-IDNO-1005611000031",
+        "amount": 864038.54,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 905245.27,
+        "status": "pending"
+      },
+      {
+        "name": "San Construct Grup",
+        "id": "MD-IDNO-1011600024117",
+        "amount": 979191.67,
+        "status": "pending"
+      },
+      {
+        "name": "Trend-Construct",
+        "id": "MD-IDNO-1014603002065",
+        "amount": 1013359.52,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1728047706028",
+    "date": "2024-10-11T21:00:00Z",
+    "title": "Elaborarea documentației tehnice pentru proiectul “Amenajarea scuarului, or. Cimișlia”",
+    "buyer": "Primăria Cimișlia",
+    "cpv": "71200000-0",
+    "estimated_amount": 166666.66,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
