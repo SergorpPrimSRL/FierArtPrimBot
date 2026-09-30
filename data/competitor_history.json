@@ -5897,6 +5897,184 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1726841860796",
+    "date": "2024-10-08T12:45:00Z",
+    "title": "Amenajarea unui teren de mini-fotbal, a unui loc de joacă și agrement pentru copii și tineret în satul Grigorești",
+    "buyer": "Primaria Alexandreni",
+    "cpv": "45200000-9",
+    "estimated_amount": 1631986.53,
+    "bidders": [
+      {
+        "name": "Danlevita",
+        "id": "MD-IDNO-1003602004927",
+        "amount": 1316524.08
+      },
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 1224582.53
+      },
+      {
+        "name": "ENERGIA SRL",
+        "id": "MD-IDNO-1003602021250",
+        "amount": 1337434.98
+      },
+      {
+        "name": "SC AMFITECONS",
+        "id": "MD-IDNO-1004600051083",
+        "amount": 1379406.53
+      }
+    ],
+    "awards": [
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 1109999.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC AMFITECONS",
+        "id": "MD-IDNO-1004600051083",
+        "amount": 1110000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Danlevita",
+        "id": "MD-IDNO-1003602004927",
+        "amount": 1290000.0,
+        "status": "pending"
+      },
+      {
+        "name": "ENERGIA SRL",
+        "id": "MD-IDNO-1003602021250",
+        "amount": 1337434.98,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1726746950882",
+    "date": "2024-10-09T07:03:29Z",
+    "title": "Complexe de joacă și fitness, inclusiv instalarea și amenajarea  în suburbiile mun. Chișinău",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 1418000.0,
+    "bidders": [
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 121770.1
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 150810.76
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 211940.44
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 155916.67
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 151758.45,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 155916.67,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 190403.22,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 193996.19,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 220695.73,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 211278.24,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 245857.4,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 247112.68,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 150810.76,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 188049.2,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 211940.44,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 121770.1,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 131872.07,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 159302.26,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 307500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
