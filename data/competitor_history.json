@@ -7467,6 +7467,73 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1728560733987",
+    "date": "2024-11-06T09:54:14Z",
+    "title": "amenajarea terenului de joaca pentru copii",
+    "buyer": "PRIMARIA SATULUI DANCU",
+    "cpv": "45211000-9",
+    "estimated_amount": 740970.0,
+    "bidders": [
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 666391.65
+      },
+      {
+        "name": "Power Construction SRL",
+        "id": "MD-IDNO-1024600048957",
+        "amount": 799450.0
+      },
+      {
+        "name": "Aflux-Prim",
+        "id": "MD-IDNO-1008602001596",
+        "amount": 913428.2
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 960000.0
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 724303.33
+      }
+    ],
+    "awards": [
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 666391.65,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 724303.33,
+        "status": "pending"
+      },
+      {
+        "name": "Power Construction SRL",
+        "id": "MD-IDNO-1024600048957",
+        "amount": 799450.0,
+        "status": "pending"
+      },
+      {
+        "name": "Aflux-Prim",
+        "id": "MD-IDNO-1008602001596",
+        "amount": 913428.2,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 960000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
