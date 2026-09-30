@@ -6092,6 +6092,33 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1728547147245",
+    "date": "2024-10-10T07:59:07Z",
+    "title": "Leagăne pentru copii, pentru IET nr. 62,116,119,145,157,166, instituții din subordinea DETS sect. Buiucani",
+    "buyer": "DIRECTIA EDUCATIE, TINERET SI SPORT SECTORUL BUIUCANI",
+    "cpv": "",
+    "estimated_amount": 149750.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1728547320935",
+    "date": "2024-10-10T08:06:37Z",
+    "title": "Leagăne pentru copii, pentru IET nr. 62,116,119,145,157,166, instituții din subordinea DETS sect. Buiucani",
+    "buyer": "DIRECTIA EDUCATIE, TINERET SI SPORT SECTORUL BUIUCANI",
+    "cpv": "37530000-2",
+    "estimated_amount": 149750.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Sergorp-Prim",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 149750.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
