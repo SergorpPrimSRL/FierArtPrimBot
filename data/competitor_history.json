@@ -5402,6 +5402,79 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1726846651128",
+    "date": "2024-09-30T12:03:00Z",
+    "title": "Amenajarea și dotarea terenului de joacă la Grădinița Foișor ",
+    "buyer": "Primăria Cimișlia",
+    "cpv": "37500000-3",
+    "estimated_amount": 118416.67,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 122166.67
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 122166.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1727704672723",
+    "date": "2024-09-30T13:57:52Z",
+    "title": "Construcția și renovarea \" Teren de joacă pentru viitor frumos și sănătos\"",
+    "buyer": "PRIMARIA VARZARESTII NOI",
+    "cpv": "",
+    "estimated_amount": 646188.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1727706381908",
+    "date": "2024-09-30T14:29:28Z",
+    "title": "servicii de supraveghere a lucrărilor de reparatie a foisoarelor de tip dublu si de tip ordinar la gradinitele de copii din mun. Cahul",
+    "buyer": "PRIMARIA MUNICIPIULUI CAHUL",
+    "cpv": "71520000-9",
+    "estimated_amount": 21276.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "PF Bitirescu Vasile",
+        "id": "MD-IDNO-0962410153685",
+        "amount": 21276.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1726483995905",
+    "date": "2024-10-01T06:46:40Z",
+    "title": "Amenajarea unui teren de joacă pentru copiii din IET Schineni, raionul Soroca",
+    "buyer": "PRIMARIA COMUNEI SCHINENI",
+    "cpv": "37500000-3",
+    "estimated_amount": 419253.08,
+    "bidders": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 378541.66
+      }
+    ],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 378541.66,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
