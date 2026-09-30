@@ -7386,6 +7386,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1730098428111",
+    "date": "2024-10-28T07:22:02Z",
+    "title": "procurarea materialelor didactice",
+    "buyer": "PRIMARIA SATULUI TIRNOVA",
+    "cpv": "30190000-7",
+    "estimated_amount": 14283.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SC AV Diverta SRL",
+        "id": "MD-IDNO-1003600066428",
+        "amount": 14283.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
