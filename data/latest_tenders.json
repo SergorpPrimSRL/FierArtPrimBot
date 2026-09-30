@@ -1,5 +1,24 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1790769376362",
+    "title": "Lucrări de reparații curente a platformei la scena de vară din parcul „M. Eminescu” din mun. Soroca",
+    "authority": "PRIMARIA MUNICIPIULUI SOROCA",
+    "amount": 198656.07,
+    "currency": "MDL",
+    "deadline": "",
+    "deadline_text": "nespecificat",
+    "status": "awarding",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "scenă",
+      "scena"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1790769376362",
+    "source_date": "2026-09-30T11:58:54Z",
+    "saved_at": "2026-09-30T12:07:33.462265+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1790670931579",
     "title": "Construcție specială – Foișor ”Răsărit”",
     "authority": "PRIMARIA MUNICIPIULUI BALTI",
