@@ -30382,5 +30382,22 @@
     "estimated_amount": 79039.94,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1790857714589",
+    "date": "2026-10-01T12:42:56Z",
+    "title": "Renovarea stadionului cu nr cadastral 6423206.001 din satul Ciocilteni (procurarea inventarului sportiv)",
+    "buyer": "PRIMARIA COMUNEI CIOCILTENI",
+    "cpv": "37400000-2",
+    "estimated_amount": 152579.17,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. CIVO TRADE MARKET",
+        "id": "MD-IDNO-1021600054166",
+        "amount": 152579.17,
+        "status": "pending"
+      }
+    ]
   }
 ]
