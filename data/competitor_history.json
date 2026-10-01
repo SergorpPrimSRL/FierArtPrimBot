@@ -7731,6 +7731,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1731509194655",
+    "date": "2024-11-13T14:51:39Z",
+    "title": "Amenajarea parcului ,,Poienita Vesela,, cu teren de joaca pentru copii, zone de odihna si agrement si spatii verzi ",
+    "buyer": "PRIMARIA SATULUI MATEUTI",
+    "cpv": "98300000-6",
+    "estimated_amount": 33180.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Certicus SRL",
+        "id": "MD-IDNO-1011606003121",
+        "amount": 33180.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
