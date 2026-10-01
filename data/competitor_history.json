@@ -8105,6 +8105,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1733918413603",
+    "date": "2024-12-11T12:02:42Z",
+    "title": "Mobilier Urban - Coșuri pentru colectarea sticlelor din plastic",
+    "buyer": "PRIMARIA ORASULUI STEFAN VODA",
+    "cpv": "39100000-3",
+    "estimated_amount": 20000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. SERGORP-PRIM",
+        "id": "AE-ACCI-\t1018608001681",
+        "amount": 20000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1733918449634",
+    "date": "2024-12-11T12:05:14Z",
+    "title": "Servicii de: elaborare a planului de organizare șantier și raportului unic de verificare a proiectului: ”Amenajarea Parcului din s. Elizaveta, mun. Bălți la compartimentul apa-canalizare a viceului”",
+    "buyer": "PRIMARIA S.ELIZAVETA",
+    "cpv": "71200000-0",
+    "estimated_amount": 14000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "ÎI „A.F.Cecan”",
+        "id": "MD-IDNO-1003602018889",
+        "amount": 14000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
