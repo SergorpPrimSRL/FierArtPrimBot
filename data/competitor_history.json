@@ -8043,6 +8043,68 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1727353084224",
+    "date": "2024-12-11T05:41:39Z",
+    "title": "Materiale de construcții și articole conexe",
+    "buyer": "I.Î. Centrul de Excelență în Securitatea Frontierei",
+    "cpv": "44100000-1",
+    "estimated_amount": 610510.0,
+    "bidders": [
+      {
+        "name": "VERMILION SRL",
+        "id": "MD-IDNO-1003608004343",
+        "amount": 578520.0
+      },
+      {
+        "name": "Euro Light",
+        "id": "MD-IDNO-1016600031961",
+        "amount": 550500.0
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 569881.52
+      }
+    ],
+    "awards": [
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 538278.9,
+        "status": "pending"
+      },
+      {
+        "name": "VERMILION SRL",
+        "id": "MD-IDNO-1003608004343",
+        "amount": 541894.0,
+        "status": "pending"
+      },
+      {
+        "name": "Euro Light",
+        "id": "MD-IDNO-1016600031961",
+        "amount": 550500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1733902079222",
+    "date": "2024-12-11T07:30:38Z",
+    "title": "Mobilier urban (suport p/u biciclete)",
+    "buyer": "PRIMARIA ORASULUI STEFAN VODA",
+    "cpv": "39110000-6",
+    "estimated_amount": 5500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. TRANS NOVA",
+        "id": "AE-ACCI-\t1010600032450",
+        "amount": 5500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
