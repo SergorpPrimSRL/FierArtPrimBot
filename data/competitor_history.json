@@ -7677,6 +7677,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1727855508142",
+    "date": "2024-11-08T11:30:43Z",
+    "title": "Amenajarea parcului cu zone de agreement din s. Ochiul Ros; r-nul Anenii Noi",
+    "buyer": "OCHIUL ROS PRIMARIA",
+    "cpv": "45200000-9",
+    "estimated_amount": 823959.19,
+    "bidders": [
+      {
+        "name": "CREDO INDUSTRY",
+        "id": "MD-IDNO-1003600100216",
+        "amount": 796364.87
+      },
+      {
+        "name": "SRL,,Kedacons”",
+        "id": "MD-IDNO-1018600005878",
+        "amount": 823954.8
+      }
+    ],
+    "awards": [
+      {
+        "name": "CREDO INDUSTRY",
+        "id": "MD-IDNO-1003600100216",
+        "amount": 796364.87,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,,Kedacons”",
+        "id": "MD-IDNO-1018600005878",
+        "amount": 823954.8,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
