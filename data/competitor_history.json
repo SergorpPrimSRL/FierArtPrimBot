@@ -8139,6 +8139,33 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1734010800948",
+    "date": "2024-12-12T13:42:09Z",
+    "title": "PROCURARE MIJLOC FIX",
+    "buyer": "PRIMARIA SATULUI VASIENI",
+    "cpv": "37450000-7",
+    "estimated_amount": 24250.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "BADAR-M SRL",
+        "id": "AE-ACCI-1014600041625",
+        "amount": 24250.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1734014294729",
+    "date": "2024-12-12T14:41:54Z",
+    "title": "Serviciilor de supraveghere tehnică la Lucrări de reparații a trotuarului str. Miron Costin 15,17,19,21, Lucrări de reparații str. Ion Neculce, Lucrări de reparație a monumentului frățesc al soldaților căzuți pentru eliberarea or. Florești și Lucrări de a",
+    "buyer": "PRIMARIA FLORESTI",
+    "cpv": "71520000-9",
+    "estimated_amount": 29275.2,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
