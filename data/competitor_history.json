@@ -8176,6 +8176,74 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1734379690365",
+    "date": "2024-12-16T20:14:52Z",
+    "title": "materiale de constructii",
+    "buyer": "PRIMARIA MINDIC",
+    "cpv": "45300000-0",
+    "estimated_amount": 669.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Bomi Servis SRL",
+        "id": "MD-IDNO-1003607015849",
+        "amount": 669.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1734380456866",
+    "date": "2024-12-16T20:34:08Z",
+    "title": "materiale de constructie",
+    "buyer": "PRIMARIA MINDIC",
+    "cpv": "45300000-0",
+    "estimated_amount": 5958.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Bomi Servis SRL",
+        "id": "MD-IDNO-1003607015849",
+        "amount": 5958.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1734436808142",
+    "date": "2024-12-17T12:09:58Z",
+    "title": "Foișoare din lemn pentru 12+1 persoane",
+    "buyer": "PRIMARIA COMUNEI PELINEI",
+    "cpv": "03410000-7",
+    "estimated_amount": 91666.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.C Azurcom SRL",
+        "id": "AE-ACCI-1007603004221",
+        "amount": 91666.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1734437744411",
+    "date": "2024-12-17T12:29:04Z",
+    "title": "Foișor din lemn pentru 25 pers",
+    "buyer": "PRIMARIA COMUNEI PELINEI",
+    "cpv": "03410000-7",
+    "estimated_amount": 95833.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SC Azurcom SRL",
+        "id": "AE-ACCI-1007603004221",
+        "amount": 95833.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
