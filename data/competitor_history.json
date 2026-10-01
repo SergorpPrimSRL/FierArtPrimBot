@@ -7970,6 +7970,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1733302274072",
+    "date": "2024-12-04T08:57:56Z",
+    "title": "Servicii de supraveghere de autor la proiectul ”Amenajarea unui teren de mini-fotbal și amenajarea unui loc de joacă și agrement pentru copii s.Grigorești, rl Sîngerei",
+    "buyer": "Primaria Alexandreni",
+    "cpv": "71700000-5",
+    "estimated_amount": 4980.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Consil Prim",
+        "id": "MD-IDNO-1020600027732",
+        "amount": 4980.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
