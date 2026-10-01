@@ -7953,6 +7953,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1733228987042",
+    "date": "2024-12-03T12:37:46Z",
+    "title": "Amenajarea scuarului adiacent sediului Primăriei comunei Alexăndreni, rl Sîngerei",
+    "buyer": "Primaria Alexandreni",
+    "cpv": "44100000-1",
+    "estimated_amount": 234237.59,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Danlevita",
+        "id": "MD-IDNO-1003602024250",
+        "amount": 234237.59,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
