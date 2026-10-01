@@ -30292,5 +30292,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1790853253138",
+    "date": "2026-10-01T11:15:54Z",
+    "title": "Lucrari de betonare a zonelor pentru leagane si banci de odihna din s. Budesti",
+    "buyer": "PRIMARIA COMUNEI BUDESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 79039.94,
+    "bidders": [],
+    "awards": []
   }
 ]
