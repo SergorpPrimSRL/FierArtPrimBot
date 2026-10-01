@@ -8301,6 +8301,33 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1735192772485",
+    "date": "2024-12-26T06:07:55Z",
+    "title": "Gard metalic",
+    "buyer": "MINISTERUL AFACERILOR INTERNE",
+    "cpv": "34920000-2",
+    "estimated_amount": 48824.1,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1735200391796",
+    "date": "2024-12-26T08:11:47Z",
+    "title": "Teren de joaca",
+    "buyer": "Primaria satului Slobozia",
+    "cpv": "37400000-2",
+    "estimated_amount": 25916.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 25916.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
