@@ -7920,6 +7920,39 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1733146113467",
+    "date": "2024-12-02T13:28:33Z",
+    "title": " Amenajarea terenului sportiv și teren de joacă pentru copii situat în satul  Sărata Răzeși , r-nul Leova ",
+    "buyer": "PRIMARIA S. SARATA-RAZESI",
+    "cpv": "",
+    "estimated_amount": 558870.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1730465136318",
+    "date": "2024-12-02T13:48:56Z",
+    "title": "Amenajarea parcului, constructia scenei de vara si a imprejmuirii, amplasat in r-nul.Telenesti, s.Hiriseni,",
+    "buyer": "Primaria Hiriseni",
+    "cpv": "45200000-9",
+    "estimated_amount": 818943.68,
+    "bidders": [
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 759563.27
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 759563.27,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
