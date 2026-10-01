@@ -29635,16 +29635,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1789023327516",
-    "date": "2026-09-21T09:00:00Z",
-    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "45200000-9",
-    "estimated_amount": 1000000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1787923241747",
     "date": "2026-09-21T13:49:31Z",
     "title": "Lucrari de instalare a echipamentelor de joaca si mobilier urban str. Lomonosov 49",
@@ -30161,5 +30151,46 @@
     "estimated_amount": 11333.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789023327516",
+    "date": "2026-10-01T09:00:00Z",
+    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 1000000.0,
+    "bidders": [
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 333028.99
+      }
+    ],
+    "awards": [
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 320980.76,
+        "status": "pending"
+      },
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 333028.99,
+        "status": "pending"
+      },
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 318546.4,
+        "status": "pending"
+      },
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 328256.62,
+        "status": "pending"
+      }
+    ]
   }
 ]
