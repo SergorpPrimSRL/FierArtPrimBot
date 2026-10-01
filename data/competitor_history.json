@@ -8328,6 +8328,29 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1731704158844",
+    "date": "2024-12-26T20:32:18Z",
+    "title": "Echipamente terenuri de joacă copii",
+    "buyer": "Primaria or. Floresti",
+    "cpv": "37535200-9",
+    "estimated_amount": 187575.0,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 173916.67
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 173916.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
