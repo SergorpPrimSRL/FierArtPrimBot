@@ -7987,6 +7987,52 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1728479274276",
+    "date": "2024-12-05T14:22:28Z",
+    "title": "Echipamentului pentru instalarea/completarea unor terenuri de joacă și amenajarea teritoriului acestora pe teritoriul or.Codru, mun.Chișinău (10 terenuri de joacă)",
+    "buyer": "Primăria or.Codru",
+    "cpv": "37500000-3",
+    "estimated_amount": 757500.0,
+    "bidders": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 859900.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 859900.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1731676784139",
+    "date": "2024-12-06T12:58:52Z",
+    "title": "\"Teren de joacă și sport pentru un viitor frumos și sănătos\"",
+    "buyer": "PRIMARIA VARZARESTII NOI",
+    "cpv": "45200000-9",
+    "estimated_amount": 538490.0,
+    "bidders": [
+      {
+        "name": "IMO POST",
+        "id": "MD-IDNO-1008611002564",
+        "amount": 507634.09
+      }
+    ],
+    "awards": [
+      {
+        "name": "IMO POST",
+        "id": "MD-IDNO-1008611002564",
+        "amount": 507634.09,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
