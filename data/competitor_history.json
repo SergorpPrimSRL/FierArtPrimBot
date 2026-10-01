@@ -7534,6 +7534,149 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1729085740381",
+    "date": "2024-11-07T09:43:12Z",
+    "title": "Echipament pentru bucătărie, elemente de joacă pentru copii, tomberoane de plastic și coșuri de gunoi pentru amenajarea teritoriului și dotarea cu echipamente a Grădiniței de copii din satul Cuhureștii de Sus, raionul Florești in cadrul proiectului, cod FR 21 317 SE-2 ",
+    "buyer": "Primaria Cuhurestii de Sus",
+    "cpv": "39700000-9",
+    "estimated_amount": 457294.17,
+    "bidders": [
+      {
+        "name": "Altchim-Pro SRL",
+        "id": "MD-IDNO-1013600038176",
+        "amount": 2416.66
+      },
+      {
+        "name": "Interclimat Lux",
+        "id": "MD-IDNO-1023600017709",
+        "amount": 14818.48
+      },
+      {
+        "name": "TEHNO FOOD",
+        "id": "MD-IDNO-1017600003659",
+        "amount": 15000.0
+      },
+      {
+        "name": "Metancor Com S.R.L.",
+        "id": "MD-IDNO-1005600033565",
+        "amount": 21382.5
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 241225.0
+      },
+      {
+        "name": "COMPANIA SUCCESULUI",
+        "id": "MD-IDNO-10226000048584",
+        "amount": 135765.28
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 212125.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Altchim-Pro SRL",
+        "id": "MD-IDNO-1013600038176",
+        "amount": 2416.66,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 4666.66,
+        "status": "pending"
+      },
+      {
+        "name": "COMPANIA SUCCESULUI",
+        "id": "MD-IDNO-10226000048584",
+        "amount": 116990.0,
+        "status": "pending"
+      },
+      {
+        "name": "Interclimat Lux",
+        "id": "MD-IDNO-1023600017709",
+        "amount": 117000.6,
+        "status": "pending"
+      },
+      {
+        "name": "Altchim-Pro SRL",
+        "id": "MD-IDNO-1013600038176",
+        "amount": 139600.0,
+        "status": "pending"
+      },
+      {
+        "name": "TEHNO FOOD",
+        "id": "MD-IDNO-1017600003659",
+        "amount": 150833.33,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 152475.0,
+        "status": "pending"
+      },
+      {
+        "name": "Interclimat Lux",
+        "id": "MD-IDNO-1023600017709",
+        "amount": 13335.35,
+        "status": "pending"
+      },
+      {
+        "name": "TEHNO FOOD",
+        "id": "MD-IDNO-1017600003659",
+        "amount": 13600.0,
+        "status": "pending"
+      },
+      {
+        "name": "Altchim-Pro SRL",
+        "id": "MD-IDNO-1013600038176",
+        "amount": 14800.0,
+        "status": "pending"
+      },
+      {
+        "name": "Metancor Com S.R.L.",
+        "id": "MD-IDNO-1005600033565",
+        "amount": 21382.5,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 24050.0,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 212125.0,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 241225.0,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 16955.83,
+        "status": "pending"
+      },
+      {
+        "name": "Altchim-Pro SRL",
+        "id": "MD-IDNO-1013600038176",
+        "amount": 19916.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
