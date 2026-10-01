@@ -8274,6 +8274,33 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1734964344066",
+    "date": "2024-12-23T14:35:04Z",
+    "title": "Procurare decorațiuni de iarnă",
+    "buyer": "PRIMARIA LEOVA",
+    "cpv": "39290000-1",
+    "estimated_amount": 50666.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Sergorp",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 50666.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1735033890174",
+    "date": "2024-12-24T10:00:21Z",
+    "title": "materiale de construcții (pt. gard metalic Euro-Gard)",
+    "buyer": "INSPECTORATUL GENERAL DE CARABINIERI",
+    "cpv": "44110000-4",
+    "estimated_amount": 10156.67,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
