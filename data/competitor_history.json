@@ -8361,6 +8361,33 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1735396147784",
+    "date": "2024-12-28T14:37:30Z",
+    "title": "aparate de uz casnic",
+    "buyer": "PRIMARIA MILESTII MICI",
+    "cpv": "39700000-9",
+    "estimated_amount": 3787.87,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. EXIMPROD-TRADE",
+        "id": "AE-ACCI-1021609001886",
+        "amount": 3787.87,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1735542787008",
+    "date": "2024-12-30T07:17:03Z",
+    "title": "foisoar",
+    "buyer": "PRIMARIA COMUNEI PELINIA",
+    "cpv": "45210000-2",
+    "estimated_amount": 34000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
