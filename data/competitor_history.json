@@ -7808,6 +7808,51 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1729666403642",
+    "date": "2024-11-21T15:49:15Z",
+    "title": "Amenajarea unui Teren sportiv (mini fotbal + volei) și a Spațiilor verzi, mobilierului urban pe terenul din Str. Serghei Lazo",
+    "buyer": "PRIMARIA COMUNEI CIORESCU",
+    "cpv": "45200000-9",
+    "estimated_amount": 1500000.0,
+    "bidders": [
+      {
+        "name": "SCARTEH SRL",
+        "id": "MD-IDNO-1013600018440",
+        "amount": 950000.0
+      },
+      {
+        "name": "Eurogalex Prim",
+        "id": "MD-IDNO-1008600035294",
+        "amount": 992159.86
+      },
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 929152.91
+      }
+    ],
+    "awards": [
+      {
+        "name": "VICADI PROIECT",
+        "id": "MD-IDNO-1019600011797",
+        "amount": 929152.91,
+        "status": "pending"
+      },
+      {
+        "name": "SCARTEH SRL",
+        "id": "MD-IDNO-1013600018440",
+        "amount": 950000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Eurogalex Prim",
+        "id": "MD-IDNO-1008600035294",
+        "amount": 992159.86,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1729673882298",
     "date": "2025-01-02T12:37:54Z",
     "title": "Amenajarea parcului pentru sport și agrement, situat în satul Tomaiul Nou, raionul Leova.",
