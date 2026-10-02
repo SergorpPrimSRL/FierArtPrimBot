@@ -1081,6 +1081,198 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1686142771942",
+    "date": "2023-07-14T09:03:00Z",
+    "title": "Construcția unui scuar public cu teren de joacă pentu copii din str. Unirii 20 com. Stăuceni, mun. Chișinău",
+    "buyer": "Primaria comunei Stauceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 2227060.0,
+    "bidders": [
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 1975249.23
+      },
+      {
+        "name": "MAGDA SRL",
+        "id": "MD-IDNO-1002600011546",
+        "amount": 2732801.58
+      },
+      {
+        "name": "IDEAL CRISLUCI",
+        "id": "MD-IDNO-1020608000025",
+        "amount": 1968198.14
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 2308843.24
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 2148395.77
+      }
+    ],
+    "awards": [
+      {
+        "name": "IDEAL CRISLUCI",
+        "id": "MD-IDNO-1020608000025",
+        "amount": 1968198.14,
+        "status": "pending"
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 1975249.23,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 2148395.77,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 2308843.24,
+        "status": "pending"
+      },
+      {
+        "name": "MAGDA SRL",
+        "id": "MD-IDNO-1002600011546",
+        "amount": 2732801.58,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1686722432365",
+    "date": "2023-07-14T12:50:28Z",
+    "title": "Amenajarea a 3  platforme  pentru colectarea deseurilor menajere în orașul Călărași in cadrul proiectului  „Urban Imaginaries”",
+    "buyer": "Primaria  orașului Călărași",
+    "cpv": "45300000-0",
+    "estimated_amount": 1305673.63,
+    "bidders": [
+      {
+        "name": "MARNICMIH",
+        "id": "MD-IDNO-1003600021577",
+        "amount": 1296034.38
+      }
+    ],
+    "awards": [
+      {
+        "name": "MARNICMIH",
+        "id": "MD-IDNO-1003600021577",
+        "amount": 1296034.38,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1687782773708",
+    "date": "2023-07-21T05:37:29Z",
+    "title": "Achiziționarea de bunuri pentru amenajarea unui teren de joacă pentru copii în Parcul băștinașilor din s. Ciuciulea, raionul Glodeni",
+    "buyer": "Primaria Ciuciulea",
+    "cpv": "37500000-3",
+    "estimated_amount": 250000.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 247616.67
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 238400.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 238400.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 247616.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1689071883392",
+    "date": "2023-07-24T08:47:19Z",
+    "title": "Teren de joacă pentru copii cu dezabilități la Grădinița nr.167",
+    "buyer": "D E T S S.CENTRU",
+    "cpv": "37535200-9",
+    "estimated_amount": 247500.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 240762.5
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 207750.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 207750.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 240762.5,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1682429617927",
+    "date": "2023-07-25T11:26:48Z",
+    "title": "Mobilier urban, inclusiv instalarea în parcul La Izvor",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "34900000-6",
+    "estimated_amount": 840000.0,
+    "bidders": [
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 777777.2
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 747600.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 747600.0,
+        "status": "pending"
+      },
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 777777.2,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
