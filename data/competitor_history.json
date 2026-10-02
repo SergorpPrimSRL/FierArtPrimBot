@@ -790,6 +790,163 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1677783698965",
+    "date": "2023-05-19T07:14:56Z",
+    "title": "Lucrări de Reabilitare și amenajare a Scuarului din str. 31 august 1989 adiacentul AMT Centru (Reabilitarea și amenajarea unei porțiuni din terenurile cu nr.cad. 0100205.187 și 0100205.551, mun.Chișinău, sectorul Centru, str.31 August 1989, 63)",
+    "buyer": "Pretura sectorului Centru",
+    "cpv": "45200000-9",
+    "estimated_amount": 1405366.66,
+    "bidders": [
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 1555760.15
+      },
+      {
+        "name": "MAGDA SRL",
+        "id": "MD-IDNO-1002600011546",
+        "amount": 1609275.68
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 1491791.18
+      },
+      {
+        "name": "Plan-Toby",
+        "id": "MD-IDNO-1011600028920",
+        "amount": 1444804.45
+      },
+      {
+        "name": "Provladina Construct",
+        "id": "MD-IDNO-1013600019838",
+        "amount": 1295575.24
+      },
+      {
+        "name": "Adrika",
+        "id": "MD-IDNO-1014600026086",
+        "amount": 1333835.0
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 1366618.8
+      }
+    ],
+    "awards": [
+      {
+        "name": "Provladina Construct",
+        "id": "MD-IDNO-1013600019838",
+        "amount": 1295575.24,
+        "status": "pending"
+      },
+      {
+        "name": "Adrika",
+        "id": "MD-IDNO-1014600026086",
+        "amount": 1333835.0,
+        "status": "pending"
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 1366618.8,
+        "status": "pending"
+      },
+      {
+        "name": "Plan-Toby",
+        "id": "MD-IDNO-1011600028920",
+        "amount": 1444804.45,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 1491791.18,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 1555760.15,
+        "status": "pending"
+      },
+      {
+        "name": "MAGDA SRL",
+        "id": "MD-IDNO-1002600011546",
+        "amount": 1609275.68,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1683207528190",
+    "date": "2023-05-23T11:27:45Z",
+    "title": "Lucrări de reparație,pavare(amenajare) și construcție(foișoare) la grădinițele de copii ,, Andrieș,, și ,,Guguță,, din or. Telenești conform caietulu de sarcini. ",
+    "buyer": "Primaria Telenesti",
+    "cpv": "45200000-9",
+    "estimated_amount": 1249526.0,
+    "bidders": [
+      {
+        "name": "\"Alexidar Grup\"",
+        "id": "MD-IDNO-1012600031745",
+        "amount": 286009.16
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 328328.0
+      },
+      {
+        "name": "FLERIXON",
+        "id": "MD-IDNO-1003607002803",
+        "amount": 316323.73
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 294819.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "\"Alexidar Grup\"",
+        "id": "MD-IDNO-1012600031745",
+        "amount": 291544.65,
+        "status": "pending"
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 294819.0,
+        "status": "pending"
+      },
+      {
+        "name": "FLERIXON",
+        "id": "MD-IDNO-1003607002803",
+        "amount": 316323.73,
+        "status": "pending"
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 328328.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"Alexidar Grup\"",
+        "id": "MD-IDNO-1012600031745",
+        "amount": 286009.16,
+        "status": "pending"
+      },
+      {
+        "name": "\"Alexidar Grup\"",
+        "id": "MD-IDNO-1012600031745",
+        "amount": 319822.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
