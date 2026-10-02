@@ -981,6 +981,106 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1683031519302",
+    "date": "2023-06-29T10:23:31Z",
+    "title": "Foi de odihna ( Servicii de alimentare si cazare a copiilor in taberele de odihna ) pentru sezonul estival 2023",
+    "buyer": "Direcția Educație a Consiliului Raional Criuleni",
+    "cpv": "55200000-2",
+    "estimated_amount": 2086800.0,
+    "bidders": [
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 1560300.0
+      },
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 1678600.0
+      },
+      {
+        "name": "SRL \"Agro-Tiras",
+        "id": "MD-IDNO-1002601001715",
+        "amount": 765000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL \"Agro-Tiras",
+        "id": "MD-IDNO-1002601001715",
+        "amount": 765000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 1560300.0,
+        "status": "pending"
+      },
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 1678600.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1686819311368",
+    "date": "2023-07-04T13:07:49Z",
+    "title": "Amenajarea cu echipamente de joaca pentru copii și echipamente fitness în aer liber a parcului din comuna Chetrosu rl.Anenii Noi",
+    "buyer": "Primaria Chetrosu",
+    "cpv": "37500000-3",
+    "estimated_amount": 522920.0,
+    "bidders": [
+      {
+        "name": "Caraev-Lux",
+        "id": "MD-IDNO-1013611000463",
+        "amount": 458500.0
+      },
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 473100.0
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 502000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 10.0,
+        "status": "pending"
+      },
+      {
+        "name": "Caraev-Lux",
+        "id": "MD-IDNO-1013611000463",
+        "amount": 453270.8,
+        "status": "pending"
+      },
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 473100.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1689064742547",
+    "date": "2023-07-11T08:39:02Z",
+    "title": "Teren de joacă pentru copii cu dezabilități la Grădinița nr.167",
+    "buyer": "D E T S S.CENTRU",
+    "cpv": "",
+    "estimated_amount": 247500.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
