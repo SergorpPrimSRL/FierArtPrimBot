@@ -1980,6 +1980,136 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1692719573265",
+    "date": "2023-08-22T15:56:25Z",
+    "title": "Lucrari de construcție a unui teren de joacă pentru copii din comuna Codreanca, rl. Strășeni",
+    "buyer": "Primaria comunei Codreanca",
+    "cpv": "",
+    "estimated_amount": 375000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692363962947",
+    "date": "2023-08-23T06:30:13Z",
+    "title": "Elemente pentru amenajarea terenului de joacă",
+    "buyer": "Primăria municipiului Cahul",
+    "cpv": "37500000-3",
+    "estimated_amount": 166500.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1690869244087",
+    "date": "2023-08-23T07:51:13Z",
+    "title": "Lucrări de reparații capitale: Amenajarea parcului central de odihnă din s.Hîjdieni, rl Glodeni",
+    "buyer": "Primaria Hijdieni",
+    "cpv": "45233222-1",
+    "estimated_amount": 428820.0,
+    "bidders": [
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 467145.2
+      },
+      {
+        "name": "Nostalitserv-Prim SRL",
+        "id": "MD-IDNO-1004602009066",
+        "amount": 415199.28
+      },
+      {
+        "name": "II Gamureac Alexandru",
+        "id": "MD-IDNO-1015602003394",
+        "amount": 419943.08
+      },
+      {
+        "name": "Drostal",
+        "id": "MD-IDNO-1009607000546",
+        "amount": 410431.42
+      }
+    ],
+    "awards": [
+      {
+        "name": "Drostal",
+        "id": "MD-IDNO-1009607000546",
+        "amount": 410431.42,
+        "status": "pending"
+      },
+      {
+        "name": "Nostalitserv-Prim SRL",
+        "id": "MD-IDNO-1004602009066",
+        "amount": 415199.28,
+        "status": "pending"
+      },
+      {
+        "name": "II Gamureac Alexandru",
+        "id": "MD-IDNO-1015602003394",
+        "amount": 419943.08,
+        "status": "pending"
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 467145.2,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692086118880",
+    "date": "2023-08-24T09:45:36Z",
+    "title": "Construcția unui teren de joacă pentru copii în s. Zgardegti, r-l Telenesti",
+    "buyer": "Primaria comunei Zgardesti",
+    "cpv": "45200000-9",
+    "estimated_amount": 374036.67,
+    "bidders": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 360991.48
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 373382.77
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 360991.48,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 373382.77,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692868522719",
+    "date": "2023-08-24T09:59:59Z",
+    "title": "Amenajarea parcului Primăria Hagimus",
+    "buyer": "PRIMARIA SATULUI HAGIMUS",
+    "cpv": "",
+    "estimated_amount": 249986.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692875092544",
+    "date": "2023-08-24T12:10:53Z",
+    "title": "Lucrari de amenajare a parcului din s.Ustia,r-l Dubasari",
+    "buyer": "Primaria Ustia",
+    "cpv": "45200000-9",
+    "estimated_amount": 450000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
