@@ -279,6 +279,267 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1677480302066",
+    "date": "2023-03-22T11:27:24Z",
+    "title": "Lucrări de confecționare a leagănelor, inclusiv instalarea și amenajarea în Parcul Dendrariu",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "45200000-9",
+    "estimated_amount": 1052000.0,
+    "bidders": [
+      {
+        "name": "Fabianca",
+        "id": "MD-IDNO-1004600001446",
+        "amount": 898089.32
+      },
+      {
+        "name": "Ginacom SRL",
+        "id": "MD-IDNO-1008600035593",
+        "amount": 938069.92
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 841399.0
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 1199966.49
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 832415.83
+      }
+    ],
+    "awards": [
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 832415.83,
+        "status": "pending"
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 841399.0,
+        "status": "pending"
+      },
+      {
+        "name": "Fabianca",
+        "id": "MD-IDNO-1004600001446",
+        "amount": 898089.32,
+        "status": "pending"
+      },
+      {
+        "name": "Ginacom SRL",
+        "id": "MD-IDNO-1008600035593",
+        "amount": 938069.92,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 1199966.49,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1675235472637",
+    "date": "2023-03-23T11:57:03Z",
+    "title": "Dotarea cu echipamnet și utilaj a Gimnaziului-Grădiniță ”Igor Crețu” din comuna Găvănoasa, raionul Cahul",
+    "buyer": "Primaria comunei Găvănoasa",
+    "cpv": "39100000-3",
+    "estimated_amount": 3811452.0,
+    "bidders": [
+      {
+        "name": "AXA-SUD",
+        "id": "MD-IDNO-1013603002471",
+        "amount": 92869.78
+      },
+      {
+        "name": "Goliat-Vita SRL",
+        "id": "MD-IDNO-1002611000904",
+        "amount": 94166.66
+      },
+      {
+        "name": "SRL Exterior",
+        "id": "MD-IDNO-1003600003797",
+        "amount": 97546.67
+      },
+      {
+        "name": "BTS PRO",
+        "id": "MD-IDNO-1008600061565",
+        "amount": 1954293.0
+      },
+      {
+        "name": "Anstelux SRL",
+        "id": "MD-IDNO-1004600022962",
+        "amount": 830958.33
+      },
+      {
+        "name": "Rapid Link SRL",
+        "id": "MD-IDNO-1007600035161",
+        "amount": 94877.85
+      },
+      {
+        "name": "Caraev-Lux",
+        "id": "MD-IDNO-1013611000463",
+        "amount": 230725.0
+      },
+      {
+        "name": "Cartdidact",
+        "id": "MD-IDNO-1003600026653",
+        "amount": 98800.0
+      },
+      {
+        "name": "S.C. Androni-Lex",
+        "id": "MD-IDNO-1007600043973",
+        "amount": 1096736.67
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 239832.5
+      },
+      {
+        "name": "Mofice",
+        "id": "MD-IDNO-1017611003945",
+        "amount": 90920.0
+      },
+      {
+        "name": "DALU MOL S.R.L.",
+        "id": "MD-IDNO-1013600007534",
+        "amount": 1685300.0
+      },
+      {
+        "name": "Muzic Prod",
+        "id": "MD-IDNO-1004600060401",
+        "amount": 204481.67
+      },
+      {
+        "name": "Taticol SRL",
+        "id": "MD-IDNO-1015600032374",
+        "amount": 728310.0
+      },
+      {
+        "name": "Audio-Line SRL",
+        "id": "MD-IDNO-1003600064103",
+        "amount": 166167.5
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 819260.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Goliat-Vita SRL",
+        "id": "MD-IDNO-1002611000904",
+        "amount": 94166.66,
+        "status": "pending"
+      },
+      {
+        "name": "Mofice",
+        "id": "MD-IDNO-1017611003945",
+        "amount": 90920.0,
+        "status": "pending"
+      },
+      {
+        "name": "AXA-SUD",
+        "id": "MD-IDNO-1013603002471",
+        "amount": 92869.78,
+        "status": "pending"
+      },
+      {
+        "name": "Rapid Link SRL",
+        "id": "MD-IDNO-1007600035161",
+        "amount": 94877.85,
+        "status": "pending"
+      },
+      {
+        "name": "SRL Exterior",
+        "id": "MD-IDNO-1003600003797",
+        "amount": 97546.67,
+        "status": "pending"
+      },
+      {
+        "name": "Goliat-Vita SRL",
+        "id": "MD-IDNO-1002611000904",
+        "amount": 110800.0,
+        "status": "pending"
+      },
+      {
+        "name": "DALU MOL S.R.L.",
+        "id": "MD-IDNO-1013600007534",
+        "amount": 1685300.0,
+        "status": "pending"
+      },
+      {
+        "name": "BTS PRO",
+        "id": "MD-IDNO-1008600061565",
+        "amount": 1954293.0,
+        "status": "pending"
+      },
+      {
+        "name": "Taticol SRL",
+        "id": "MD-IDNO-1015600032374",
+        "amount": 728310.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 819260.0,
+        "status": "pending"
+      },
+      {
+        "name": "Anstelux SRL",
+        "id": "MD-IDNO-1004600022962",
+        "amount": 830958.33,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. Androni-Lex",
+        "id": "MD-IDNO-1007600043973",
+        "amount": 1096736.67,
+        "status": "pending"
+      },
+      {
+        "name": "Audio-Line SRL",
+        "id": "MD-IDNO-1003600064103",
+        "amount": 166167.5,
+        "status": "pending"
+      },
+      {
+        "name": "Muzic Prod",
+        "id": "MD-IDNO-1004600060401",
+        "amount": 204481.67,
+        "status": "pending"
+      },
+      {
+        "name": "Caraev-Lux",
+        "id": "MD-IDNO-1013611000463",
+        "amount": 230725.0,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 239832.5,
+        "status": "pending"
+      },
+      {
+        "name": "Cartdidact",
+        "id": "MD-IDNO-1003600026653",
+        "amount": 98800.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
