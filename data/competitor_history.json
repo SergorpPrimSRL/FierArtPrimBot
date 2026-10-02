@@ -2843,6 +2843,249 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1692982570849",
+    "date": "2023-09-15T05:50:53Z",
+    "title": "Lucrări de reparație a drumurilor și curților blocurilor în cadrul programului Bugetul Inițiativelor Civice 2023 partea III din or. Cimișlia",
+    "buyer": "Primăria Cimișlia",
+    "cpv": "45200000-9",
+    "estimated_amount": 1060649.72,
+    "bidders": [
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 276000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 210000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 39000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 165500.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 276000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692940538919",
+    "date": "2023-09-15T06:07:11Z",
+    "title": "Achizitia de valoare mica",
+    "buyer": "Primaria Marcauti",
+    "cpv": "37400000-2",
+    "estimated_amount": 373700.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 343991.67
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 343991.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1690374678684",
+    "date": "2023-09-15T11:21:58Z",
+    "title": "Complex de joacăîn parcul Grigore Vieru, mun. Soroca.",
+    "buyer": "Primaria municipiului Soroca",
+    "cpv": "37400000-2",
+    "estimated_amount": 299000.0,
+    "bidders": [
+      {
+        "name": "Munteanu Ceren",
+        "id": "MD-IDNO-1023600019758",
+        "amount": 298700.0
+      },
+      {
+        "name": "AZURAMOB SRL",
+        "id": "MD-IDNO-1013600040012",
+        "amount": 297900.0
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 240000.0
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 255000.0
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 294850.0
+      },
+      {
+        "name": "CARPROTECT",
+        "id": "MD-IDNO-1022600024942",
+        "amount": 298800.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 240000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 255000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 294850.0,
+        "status": "pending"
+      },
+      {
+        "name": "AZURAMOB SRL",
+        "id": "MD-IDNO-1013600040012",
+        "amount": 297900.0,
+        "status": "pending"
+      },
+      {
+        "name": "Munteanu Ceren",
+        "id": "MD-IDNO-1023600019758",
+        "amount": 298700.0,
+        "status": "pending"
+      },
+      {
+        "name": "CARPROTECT",
+        "id": "MD-IDNO-1022600024942",
+        "amount": 298800.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1695017966346",
+    "date": "2023-09-18T06:19:26Z",
+    "title": "Amenajarea parcului/scuarului din satul Vozneseni, r-nul Leova",
+    "buyer": "Primaria Vozneseni",
+    "cpv": "",
+    "estimated_amount": 374999.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692603875109",
+    "date": "2023-09-18T07:36:56Z",
+    "title": "Echipament, pentru 2 terenuri de joacă (parcul și grădinița)  din satul Izvoare, raionul Fălești  (inclusiv livrarea și intalarea)",
+    "buyer": "PRIMARIA SATULUI IZVOARE",
+    "cpv": "39100000-3",
+    "estimated_amount": 375000.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 369881.67
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 369881.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1693379985383",
+    "date": "2023-09-19T06:28:24Z",
+    "title": "Amenajarea parcului din c.Hrusova rl Criuleni cu echipament pentru Fitness exterior",
+    "buyer": "Primaria comunei Hrusova",
+    "cpv": "37400000-2",
+    "estimated_amount": 375000.0,
+    "bidders": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 341024.84
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 372293.36
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 249097.11
+      }
+    ],
+    "awards": [
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 247262.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 247262.33,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 324000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1694626228730",
+    "date": "2023-09-19T13:28:45Z",
+    "title": "Amenajarea parcului, stadion minifotbal si zona de joaca  pentru copii din str. Iu. Gagarin, com. Cania, r-nul Cantemir",
+    "buyer": "Primaria c. Cania, Cantemir",
+    "cpv": "45200000-9",
+    "estimated_amount": 349000.0,
+    "bidders": [
+      {
+        "name": "SA ”Făuraș”",
+        "id": "MD-IDNO-1003603007431",
+        "amount": 334740.48
+      }
+    ],
+    "awards": [
+      {
+        "name": "SA ”Făuraș”",
+        "id": "MD-IDNO-1003603007431",
+        "amount": 334740.48,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
