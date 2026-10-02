@@ -1,5 +1,284 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1676531497783",
+    "date": "2023-03-03T11:58:00Z",
+    "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
+    "buyer": "Primăria Vorniceni",
+    "cpv": "37500000-3",
+    "estimated_amount": 204333.0,
+    "bidders": [
+      {
+        "name": "\"BADAR - M\"",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 203486.0
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 189970.0
+      },
+      {
+        "name": "Art Cast Group",
+        "id": "MD-IDNO-1020600040621",
+        "amount": 199000.0
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 198666.67
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 195500.0
+      },
+      {
+        "name": "Ginacom SRL",
+        "id": "MD-IDNO-1008600035593",
+        "amount": 204000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 153200.0,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 153666.0,
+        "status": "pending"
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 156000.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"BADAR - M\"",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 175000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Art Cast Group",
+        "id": "MD-IDNO-1020600040621",
+        "amount": 199000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ginacom SRL",
+        "id": "MD-IDNO-1008600035593",
+        "amount": 204000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1677775699410",
+    "date": "2023-03-09T09:09:03Z",
+    "title": "Complex de joacă",
+    "buyer": "A.O.”CNFACEM”",
+    "cpv": "37500000-3",
+    "estimated_amount": 180000.0,
+    "bidders": [
+      {
+        "name": "MAXCOSM PRIM",
+        "id": "MD-IDNO-1009600028556",
+        "amount": 132000.0
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 169000.0
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 168045.0
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 173997.0
+      },
+      {
+        "name": "SRL TWOPLAST",
+        "id": "MD-IDNO-1019611004669",
+        "amount": 178000.0
+      },
+      {
+        "name": "\"BADAR - M\"",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 164600.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "MAXCOSM PRIM",
+        "id": "MD-IDNO-1009600028556",
+        "amount": 132000.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"BADAR - M\"",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 164600.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 168045.0,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 169000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 173997.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL TWOPLAST",
+        "id": "MD-IDNO-1019611004669",
+        "amount": 178000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1674029187859",
+    "date": "2023-03-10T18:54:30Z",
+    "title": "Lucrări de reparațlie la Grădinița „Foișor” or. Cimișlia",
+    "buyer": "Primăria Cimișlia",
+    "cpv": "45200000-9",
+    "estimated_amount": 166667.0,
+    "bidders": [
+      {
+        "name": "SpeedQual Com",
+        "id": "MD-IDNO-1017605005164",
+        "amount": 120355.67
+      },
+      {
+        "name": "Arta Zidarului",
+        "id": "MD-IDNO-1008605005403",
+        "amount": 156292.0
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 163063.33
+      },
+      {
+        "name": "FIRMA ”PRIMA-FICHIR” SRL",
+        "id": "MD-IDNO-1003611002134",
+        "amount": 151247.0
+      },
+      {
+        "name": "Profmontajcons SRL",
+        "id": "MD-IDNO-1019600032176",
+        "amount": 179808.38
+      },
+      {
+        "name": "Soltan Construct",
+        "id": "MD-IDNO-1021600037763",
+        "amount": 187270.82
+      }
+    ],
+    "awards": [
+      {
+        "name": "SpeedQual Com",
+        "id": "MD-IDNO-1017605005164",
+        "amount": 120355.67,
+        "status": "pending"
+      },
+      {
+        "name": "Arta Zidarului",
+        "id": "MD-IDNO-1008605005403",
+        "amount": 146000.0,
+        "status": "pending"
+      },
+      {
+        "name": "FIRMA ”PRIMA-FICHIR” SRL",
+        "id": "MD-IDNO-1003611002134",
+        "amount": 147913.66,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 163063.33,
+        "status": "pending"
+      },
+      {
+        "name": "Profmontajcons SRL",
+        "id": "MD-IDNO-1019600032176",
+        "amount": 179808.38,
+        "status": "pending"
+      },
+      {
+        "name": "Soltan Construct",
+        "id": "MD-IDNO-1021600037763",
+        "amount": 187270.82,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1675862038392",
+    "date": "2023-03-13T06:25:58Z",
+    "title": "Procurarea si instalarea echipamentului de sport și de joacă pe teren multifuncțional s.Hîrbovățul Nou",
+    "buyer": "Primaria Anenii Noi",
+    "cpv": "37500000-3",
+    "estimated_amount": 230000.0,
+    "bidders": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 212900.0
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 228431.67
+      },
+      {
+        "name": "\"BADAR - M\"",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 227100.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 212900.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"BADAR - M\"",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 224800.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 228431.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
