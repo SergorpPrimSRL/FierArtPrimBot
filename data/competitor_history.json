@@ -947,6 +947,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1684928272676",
+    "date": "2023-06-05T13:30:39Z",
+    "title": "Teren sportiv in incinta Liceului Teoretic \"Vadul lui Voda\"",
+    "buyer": "Primăria or.Vadul lui Vodă",
+    "cpv": "45212221-1",
+    "estimated_amount": 1691200.06,
+    "bidders": [
+      {
+        "name": "Geotermal-Av",
+        "id": "MD-IDNO-1006600000959",
+        "amount": 1626568.7
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 1867640.41
+      }
+    ],
+    "awards": [
+      {
+        "name": "Geotermal-Av",
+        "id": "MD-IDNO-1006600000959",
+        "amount": 1626568.7,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 1867640.41,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
