@@ -1273,6 +1273,84 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1690890571743",
+    "date": "2023-08-01T11:49:30Z",
+    "title": "Echipament pentru amenajarea scuarului cu teren de joaca",
+    "buyer": "Primaria comunei Gradiste",
+    "cpv": "",
+    "estimated_amount": 246600.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1689596639620",
+    "date": "2023-08-02T07:34:22Z",
+    "title": "Amenajarea parcului si a terenului de joaca pe teritoriul aferent casei de cultura si al primariei  s,.Sagaidac,r-l Cimislia",
+    "buyer": "Primaria Sagaidac",
+    "cpv": "45200000-9",
+    "estimated_amount": 500937.66,
+    "bidders": [
+      {
+        "name": "Softconstruct",
+        "id": "MD-IDNO-1014600001023",
+        "amount": 479630.38
+      },
+      {
+        "name": "SRL SUD-TERRA",
+        "id": "MD-IDNO-1014611001799",
+        "amount": 482244.29
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 544509.5
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL SUD-TERRA",
+        "id": "MD-IDNO-1014611001799",
+        "amount": 447244.29,
+        "status": "pending"
+      },
+      {
+        "name": "Softconstruct",
+        "id": "MD-IDNO-1014600001023",
+        "amount": 479630.38,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 544509.5,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1690293929606",
+    "date": "2023-08-03T11:57:58Z",
+    "title": "Lucrări de  amenajare a unui teren de joacă și fitness pentru copii în s. Cîșlița-Prut",
+    "buyer": "Primăria Cîșlița - Prut",
+    "cpv": "45100000-8",
+    "estimated_amount": 374965.63,
+    "bidders": [
+      {
+        "name": "Trend-Construct",
+        "id": "MD-IDNO-1014603002065",
+        "amount": 373250.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trend-Construct",
+        "id": "MD-IDNO-1014603002065",
+        "amount": 373250.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
