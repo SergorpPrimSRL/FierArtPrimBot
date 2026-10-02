@@ -22,6 +22,12 @@ PAGES_PER_RUN = 6
 START_OFFSET = "2023-01-01T00:00:00Z"
 END_OFFSET = "2024-01-01T00:00:00Z"
 
+def log(msg):
+    print(
+        f"{datetime.now().strftime('%H:%M:%S')} {msg}",
+        flush=True
+    )
+
 KEYWORDS = [
     "loc de joacă",
     "locuri de joacă",
