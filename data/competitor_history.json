@@ -30407,16 +30407,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1789547989637",
-    "date": "2026-09-25T09:00:00Z",
-    "title": "Complexe de joacă, inclusiv instalarea și amenajarea lor pe teritoriul municipiului Bălți din str.Tiraspol, nr.7, str.Independenței, nr.94 și bd. Larisa, nr.7 ",
-    "buyer": " Primăria mun. Bălți",
-    "cpv": "37500000-3",
-    "estimated_amount": 1004126.73,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1789536301233",
     "date": "2026-09-28T09:00:00Z",
     "title": "Mobilier  pentru instituțiile din subordinea DETS sect. Buiucani ",
@@ -30761,6 +30751,33 @@
         "name": "S.R.L. CIVO TRADE MARKET",
         "id": "MD-IDNO-1021600054166",
         "amount": 152579.17,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789547989637",
+    "date": "2026-10-02T07:00:00Z",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea lor pe teritoriul municipiului Bălți din str.Tiraspol, nr.7, str.Independenței, nr.94 și bd. Larisa, nr.7 ",
+    "buyer": " Primăria mun. Bălți",
+    "cpv": "37500000-3",
+    "estimated_amount": 1004126.73,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1790924803825",
+    "date": "2026-10-02T07:18:34Z",
+    "title": "Bunuri pentru dotarea grupelor de creșă ale Grădiniție nr. 2 din m. Strășeni. ( mobilier; echipamente; jucării; materiale educaționale ). Lucrări de construcție: Teren de sport din str. Veronica Micle, mun. Strășeni, pe terenul public cu nr. cad. 8001113391.",
+    "buyer": "Primaria mun.Straseni",
+    "cpv": "39100000-3",
+    "estimated_amount": 149781.42,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL ”Homy Decor”",
+        "id": "MD-IDNO-1014600019606",
+        "amount": 149781.42,
         "status": "pending"
       }
     ]
