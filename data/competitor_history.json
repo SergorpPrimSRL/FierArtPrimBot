@@ -1558,6 +1558,428 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1692012918523",
+    "date": "2023-08-14T11:35:18Z",
+    "title": "PROCURAREA,TRANSPORTAREA SI INSTALAREA ",
+    "buyer": "Primaria Marcauti",
+    "cpv": "",
+    "estimated_amount": 373700.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1691994736141",
+    "date": "2023-08-15T07:46:53Z",
+    "title": "Construcția unui teren de joacă pentru copii  s. Zgardegti, r-l Telenesti",
+    "buyer": "Primaria comunei Zgardesti",
+    "cpv": "45200000-9",
+    "estimated_amount": 448844.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1690966619185",
+    "date": "2023-08-15T11:59:05Z",
+    "title": "Amenajarea parcului si a terenului de joaca pe teritoeiul aferent casei de cultura si al primariei sat. Sagaidac,raionul Cimislia",
+    "buyer": "Primaria Sagaidac",
+    "cpv": "45200000-9",
+    "estimated_amount": 484239.67,
+    "bidders": [
+      {
+        "name": "Paduret Alexandru",
+        "id": "MD-IDNO-1005608001232",
+        "amount": 463930.0
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 523200.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Paduret Alexandru",
+        "id": "MD-IDNO-1005608001232",
+        "amount": 430000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 523200.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692102968351",
+    "date": "2023-08-15T12:36:08Z",
+    "title": "’’Amenajarea parcului/scuarului care face acces către casa de cultură și primăria comunei Antonești,r-nul Cantemir’’.",
+    "buyer": "Primaria Antonesti",
+    "cpv": "",
+    "estimated_amount": 450000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692101871170",
+    "date": "2023-08-15T12:49:46Z",
+    "title": "’’Amenajarea parcului/scuarului care face acces către casa de cultură și primăria comunei Antonești,r-nul Cantemir’’.",
+    "buyer": "Primaria Antonesti",
+    "cpv": "",
+    "estimated_amount": 450000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692104017900",
+    "date": "2023-08-15T12:53:37Z",
+    "title": "’’Amenajarea parcului/scuarului care face acces către casa de cultură și primăria comunei Antonești,r-nul Cantemir’’.",
+    "buyer": "Primaria Antonesti",
+    "cpv": "",
+    "estimated_amount": 450000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692104366363",
+    "date": "2023-08-15T12:59:26Z",
+    "title": "’’Amenajarea parcului/scuarului care face acces către casa de cultură și primăria comunei Antonești,r-nul Cantemir’’.",
+    "buyer": "Primaria Antonesti",
+    "cpv": "",
+    "estimated_amount": 450000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1688139879445",
+    "date": "2023-08-15T14:50:56Z",
+    "title": "  Construcția a două foișoare în municipiul Soroca",
+    "buyer": "I.P Centrul de Dezvoltare Locala si Regionala din municipil Soroca",
+    "cpv": "45200000-9",
+    "estimated_amount": 249039.17,
+    "bidders": [
+      {
+        "name": "SRL NavaConex",
+        "id": "MD-IDNO-1021607001527",
+        "amount": 248467.76
+      },
+      {
+        "name": "SRL Polimer",
+        "id": "MD-IDNO-1004607002235",
+        "amount": 206654.94
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL Polimer",
+        "id": "MD-IDNO-1004607002235",
+        "amount": 206654.94,
+        "status": "pending"
+      },
+      {
+        "name": "SRL NavaConex",
+        "id": "MD-IDNO-1021607001527",
+        "amount": 248467.76,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1691570046616",
+    "date": "2023-08-16T13:27:26Z",
+    "title": "Amenajarea parcului public de odihna si agrement \" Parcul Unirii Suruceni \"prin procedura de achiziție  valoare mică",
+    "buyer": "Primaria Suruceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 374524.69,
+    "bidders": [
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 365001.32
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 355802.78
+      }
+    ],
+    "awards": [
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 355802.78,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 365001.32,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692102433813",
+    "date": "2023-08-17T06:14:19Z",
+    "title": "’’Amenajarea parcului/scuarului care face acces către casa de cultură și primăria comunei Antonești,r-nul Cantemir’’.",
+    "buyer": "Primaria Antonesti",
+    "cpv": "45200000-9",
+    "estimated_amount": 450000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1691052349074",
+    "date": "2023-08-17T10:09:03Z",
+    "title": "Elemente pentru terenuri de joacă",
+    "buyer": "Primăria mun. Ungheni",
+    "cpv": "37500000-3",
+    "estimated_amount": 297000.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 283002.5
+      },
+      {
+        "name": "Caraev-Lux",
+        "id": "MD-IDNO-1013611000463",
+        "amount": 280000.0
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 333800.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Caraev-Lux",
+        "id": "MD-IDNO-1013611000463",
+        "amount": 280000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 283002.5,
+        "status": "pending"
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 333800.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692273627002",
+    "date": "2023-08-17T12:00:26Z",
+    "title": "Teren de joaca pentru copii si fitness in aer liber",
+    "buyer": "PRIMARIA COMUNEI CAZANESTI",
+    "cpv": "",
+    "estimated_amount": 374812.5,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692273829032",
+    "date": "2023-08-17T13:10:26Z",
+    "title": "Teren de joaca pentru copii si fitness in aer liber",
+    "buyer": "PRIMARIA COMUNEI CAZANESTI",
+    "cpv": "92300000-4",
+    "estimated_amount": 374812.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Primaria comunei Cazanesti",
+        "id": "MD-IDNO-1007601002038",
+        "amount": 374812.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1691160032667",
+    "date": "2023-08-17T13:20:55Z",
+    "title": "Amenajarea unui teren de joaca pentru copiii s. Ghiduleni, rnul Rezina",
+    "buyer": "PRIMARIA COMUNEI GHIDULENI",
+    "cpv": "37535200-9",
+    "estimated_amount": 299976.48,
+    "bidders": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 247785.94
+      },
+      {
+        "name": "Siterra Company SRL",
+        "id": "MD-IDNO-1020600021992",
+        "amount": 281280.83
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 249980.39
+      },
+      {
+        "name": "SRL Cadom Gaz",
+        "id": "MD-IDNO-1003606005612",
+        "amount": 234509.76
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL Cadom Gaz",
+        "id": "MD-IDNO-1003606005612",
+        "amount": 234509.76,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 247785.94,
+        "status": "pending"
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 249980.39,
+        "status": "pending"
+      },
+      {
+        "name": "Siterra Company SRL",
+        "id": "MD-IDNO-1020600021992",
+        "amount": 281280.83,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692280523151",
+    "date": "2023-08-17T13:55:22Z",
+    "title": "Teren de joaca pentru copii si fitness in aer liber",
+    "buyer": "PRIMARIA COMUNEI CAZANESTI",
+    "cpv": "",
+    "estimated_amount": 3748125.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1690895534657",
+    "date": "2023-08-18T06:38:37Z",
+    "title": "Echipament pentru amenajarea scuarului cu tere de joaca",
+    "buyer": "Primaria comunei Gradiste",
+    "cpv": "37500000-3",
+    "estimated_amount": 246600.0,
+    "bidders": [
+      {
+        "name": "Caraev-Lux",
+        "id": "MD-IDNO-1013611000463",
+        "amount": 229166.67
+      }
+    ],
+    "awards": [
+      {
+        "name": "Caraev-Lux",
+        "id": "MD-IDNO-1013611000463",
+        "amount": 229166.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1690453949629",
+    "date": "2023-08-18T14:00:51Z",
+    "title": "Inventar-echipament pentru terenurile de joacă la Instituția Publică de Educație Timpurie nr. 2 “Albinuța” mun. Orhei                       ",
+    "buyer": "Primăria mun. Orhei",
+    "cpv": "37500000-3",
+    "estimated_amount": 657783.29,
+    "bidders": [
+      {
+        "name": "Fabro-Fier",
+        "id": "MD-IDNO-1008608002779",
+        "amount": 32000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Fabro-Fier",
+        "id": "MD-IDNO-1008608002779",
+        "amount": 32000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692280945102",
+    "date": "2023-08-21T06:00:01Z",
+    "title": "Teren de joaca pentru copii si fitness in aer liber",
+    "buyer": "PRIMARIA COMUNEI CAZANESTI",
+    "cpv": "45200000-9",
+    "estimated_amount": 374812.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1691502164632",
+    "date": "2023-08-21T06:57:09Z",
+    "title": "„Complex de joacă pentru copii”",
+    "buyer": "PRIMARIA COLICAUTI",
+    "cpv": "37535200-9",
+    "estimated_amount": 216666.67,
+    "bidders": [
+      {
+        "name": "Caraev-Lux",
+        "id": "MD-IDNO-1013611000463",
+        "amount": 215000.0
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 213500.0
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 211000.0
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 211088.33
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 211000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 211088.33,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 213500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Caraev-Lux",
+        "id": "MD-IDNO-1013611000463",
+        "amount": 215000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
