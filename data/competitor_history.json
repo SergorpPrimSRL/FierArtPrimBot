@@ -591,6 +591,205 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1679042200584",
+    "date": "2023-04-25T06:42:57Z",
+    "title": "Jocuri şi jucării",
+    "buyer": "Primaria Orasului Criuleni",
+    "cpv": "37500000-3",
+    "estimated_amount": 525000.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 516359.17
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 516359.17,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1680854391718",
+    "date": "2023-04-26T06:53:25Z",
+    "title": "Lucrari de construcții ,,Teren   sportiv  la  IET,,Ghiocel”  din  s.Șuri, r–ul  Drochia.",
+    "buyer": "Primaria comunei Suri",
+    "cpv": "45200000-9",
+    "estimated_amount": 210733.57,
+    "bidders": [
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 233622.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 233622.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1679397188023",
+    "date": "2023-04-26T13:24:28Z",
+    "title": "Construcția pavilioanelor și amenajarea teritoriului la gradinița de copii din or. Sîngera mun. Chișinău",
+    "buyer": "Primaria or.Singera",
+    "cpv": "45200000-9",
+    "estimated_amount": 4379081.51,
+    "bidders": [
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 4283940.21
+      },
+      {
+        "name": "MAGDA SRL",
+        "id": "MD-IDNO-1002600011546",
+        "amount": 4574800.7
+      },
+      {
+        "name": "Paduret Alexandru",
+        "id": "MD-IDNO-1005608001232",
+        "amount": 3657284.5
+      }
+    ],
+    "awards": [
+      {
+        "name": "Paduret Alexandru",
+        "id": "MD-IDNO-1005608001232",
+        "amount": 3657284.5,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 4283940.21,
+        "status": "pending"
+      },
+      {
+        "name": "MAGDA SRL",
+        "id": "MD-IDNO-1002600011546",
+        "amount": 4574800.7,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1681820639461",
+    "date": "2023-04-28T08:00:00Z",
+    "title": "Achiziționarea și instalarea mobilierului urban și a echipamentului sportiv în cadrul proiectului de execuție Estrada de vară și amenajarea teritoriului adiacent, situat în raionul Călărași, satul Nișcani (obiect nr. 3588)",
+    "buyer": "Primaria Niscani",
+    "cpv": "37400000-2",
+    "estimated_amount": 233510.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1680769541016",
+    "date": "2023-05-03T06:20:51Z",
+    "title": "Lucrări de reamenajare a parcului  existent din s. Dobrogea, or. Sîngera, municipiul Chișinău",
+    "buyer": "Primaria or.Singera",
+    "cpv": "45200000-9",
+    "estimated_amount": 909773.37,
+    "bidders": [
+      {
+        "name": "Adrika",
+        "id": "MD-IDNO-1014600026086",
+        "amount": 839543.33
+      },
+      {
+        "name": "Vig House",
+        "id": "MD-IDNO-1018600024334",
+        "amount": 933626.99
+      },
+      {
+        "name": "LIVART PRIM SRL",
+        "id": "MD-IDNO-1012600038364",
+        "amount": 779348.12
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 928018.65
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 844724.17
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 977625.19
+      }
+    ],
+    "awards": [
+      {
+        "name": "LIVART PRIM SRL",
+        "id": "MD-IDNO-1012600038364",
+        "amount": 779348.12,
+        "status": "pending"
+      },
+      {
+        "name": "Adrika",
+        "id": "MD-IDNO-1014600026086",
+        "amount": 839543.33,
+        "status": "pending"
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 844724.17,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 928018.65,
+        "status": "pending"
+      },
+      {
+        "name": "Vig House",
+        "id": "MD-IDNO-1018600024334",
+        "amount": 933626.99,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 977625.19,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1683204927566",
+    "date": "2023-05-04T12:55:27Z",
+    "title": "Lucrări de reparație,pavare(amenajare) și construcție(foișoare) la grădinițele de copii ,, Andrieș,, și ,,Guguță,, din or. Telenești conform caietulu de sarcini.",
+    "buyer": "Primaria Telenesti",
+    "cpv": "",
+    "estimated_amount": 1249126.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1683810424056",
+    "date": "2023-05-11T14:01:17Z",
+    "title": "Amenajarea Parcului ”Poienița Veselă” cu teren de joacă pentru copii, zone de odihnă și agrement și spații verzi în satul Mateuți",
+    "buyer": "Primaria Mateuti",
+    "cpv": "",
+    "estimated_amount": 635346.01,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
