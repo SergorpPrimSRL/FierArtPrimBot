@@ -1351,6 +1351,213 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1691158255035",
+    "date": "2023-08-04T14:10:54Z",
+    "title": "Amenajarea unui teren de joaca pentru copiii din s. Ghiduleni, rnul Rezina",
+    "buyer": "PRIMARIA COMUNEI GHIDULENI",
+    "cpv": "",
+    "estimated_amount": 299976.48,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1690796972720",
+    "date": "2023-08-05T13:30:00Z",
+    "title": "Amenajare unui  teren  de joaca  pentru  copii, suplimentat  cu  unele  accesorii de fitness  pentru  adulti  in s. Cruglic, r. Criuleni",
+    "buyer": "Primaria satului Cruglic",
+    "cpv": "37400000-2",
+    "estimated_amount": 373888.0,
+    "bidders": [
+      {
+        "name": "INTELLIGENCE PRO-CONSTRUCT",
+        "id": "MD-IDNO-1020600001912",
+        "amount": 362670.83
+      }
+    ],
+    "awards": [
+      {
+        "name": "INTELLIGENCE PRO-CONSTRUCT",
+        "id": "MD-IDNO-1020600001912",
+        "amount": 362670.83,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1691482879070",
+    "date": "2023-08-08T08:21:18Z",
+    "title": "Lucrari de amenajarea parcului in satul Corjeuti, r-ul Briceni",
+    "buyer": "PRIMARIA CORJEUTI",
+    "cpv": "",
+    "estimated_amount": 374566.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1691483136884",
+    "date": "2023-08-08T11:30:03Z",
+    "title": "Lucrari de amenajarea parcului in satul Corjeuti, r-ul Briceni",
+    "buyer": "PRIMARIA CORJEUTI",
+    "cpv": "",
+    "estimated_amount": 374566.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1691501635933",
+    "date": "2023-08-08T13:33:55Z",
+    "title": "„Complex de joacă pentru copii”",
+    "buyer": "PRIMARIA COLICAUTI",
+    "cpv": "",
+    "estimated_amount": 216666.67,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1690799070621",
+    "date": "2023-08-09T05:33:35Z",
+    "title": "Teren de joaca pentru copii sat. Valea Perjei r-l Cimislia",
+    "buyer": "Primaria sat. Valea Perjei",
+    "cpv": "45100000-8",
+    "estimated_amount": 375000.0,
+    "bidders": [
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 421200.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.C.Cimtermic",
+        "id": "MD-IDNO-1007605004579",
+        "amount": 421200.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1691565260676",
+    "date": "2023-08-09T08:02:49Z",
+    "title": "Amenajarea parcului public de odihna si agrement \" Parcul Unirii Suruceni \"",
+    "buyer": "Primaria Suruceni",
+    "cpv": "",
+    "estimated_amount": 374524.69,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1691569856291",
+    "date": "2023-08-09T08:32:39Z",
+    "title": "Amenajarea parcului public de odihna si agrement \" Parcul Unirii Suruceni \"prin procedura de achiziție  valoare mică",
+    "buyer": "Primaria Suruceni",
+    "cpv": "",
+    "estimated_amount": 374524.69,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1691576027950",
+    "date": "2023-08-09T10:13:47Z",
+    "title": "amenajarea terenului de sport si terenului de joaca pentru copii in s.Drepcauti, raionul Briceni",
+    "buyer": "PRIMARIA DREPCAUTI",
+    "cpv": "",
+    "estimated_amount": 374993.33,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1690808998100",
+    "date": "2023-08-11T05:12:31Z",
+    "title": "Renovarea și amenajarea scuarului Casei de Cultură comuna Grinăuți raionul Rișcani",
+    "buyer": "Primaria Grinăuți",
+    "cpv": "45200000-9",
+    "estimated_amount": 374582.65,
+    "bidders": [
+      {
+        "name": "I.I. VARZARI TATIANA",
+        "id": "MD-IDNO-1010602005005",
+        "amount": 355961.05
+      },
+      {
+        "name": "S.R.L. AGRUSUCON PLUS",
+        "id": "MD-IDNO-1013602004674",
+        "amount": 231091.84
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L. AGRUSUCON PLUS",
+        "id": "MD-IDNO-1013602004674",
+        "amount": 231091.84,
+        "status": "pending"
+      },
+      {
+        "name": "I.I. VARZARI TATIANA",
+        "id": "MD-IDNO-1010602005005",
+        "amount": 355961.05,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1690364743143",
+    "date": "2023-08-11T07:49:10Z",
+    "title": "Procurarea și instalarea inventarului pentru terenurile de joacă din orașul Rezina ",
+    "buyer": "Primaria or. Rezina",
+    "cpv": "37500000-3",
+    "estimated_amount": 380000.0,
+    "bidders": [
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 350000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 350000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1690892655128",
+    "date": "2023-08-11T08:24:03Z",
+    "title": "Procurarea si montarea echipamente de joaca si sport in aer liber",
+    "buyer": "Primaria Telita",
+    "cpv": "37400000-2",
+    "estimated_amount": 374916.0,
+    "bidders": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 374000.0
+      },
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 374860.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 360000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 360612.52,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
