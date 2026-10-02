@@ -2450,6 +2450,319 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1690972763063",
+    "date": "2023-09-04T06:27:40Z",
+    "title": "Dotarea Grădinițelor din comuna Camenca, raionul Glodeni cu mobilier și inventar de joacă” localizat în s. Camenca, s. Brînzeni și s. Buteşti, com. Camenca, r-nul Glodeni ",
+    "buyer": "Primaria comunei Camenca",
+    "cpv": "37500000-3",
+    "estimated_amount": 374937.6,
+    "bidders": [
+      {
+        "name": "Danco Capital",
+        "id": "MD-IDNO-1021600054166",
+        "amount": 328250.0
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 373800.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Danco Capital",
+        "id": "MD-IDNO-1021600054166",
+        "amount": 324500.62,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 373800.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1693820514265",
+    "date": "2023-09-04T09:41:53Z",
+    "title": "Lucrări de amenajare cu teren de joaca si reparatie a scarilor  a  Parcului din   s. Stolniceni,raionul Hincesti ",
+    "buyer": "Primaria Stolniceni",
+    "cpv": "",
+    "estimated_amount": 344562.37,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692082629322",
+    "date": "2023-09-04T11:29:27Z",
+    "title": "Teren de joaca pentru copii în com.Lăpușna, Hîncești.",
+    "buyer": "Primaria Lapusna",
+    "cpv": "37500000-3",
+    "estimated_amount": 365827.0,
+    "bidders": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 344955.8
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 363539.94
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 344955.8,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 363539.94,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1693830613539",
+    "date": "2023-09-04T12:43:31Z",
+    "title": "Amenajarea unui teren de joacă, satul Bocani, rnul Fălești",
+    "buyer": "PRIMARIA SATULUI BOCANI",
+    "cpv": "",
+    "estimated_amount": 380000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1693831759121",
+    "date": "2023-09-04T12:58:19Z",
+    "title": "amenajarea unui teren de joacă",
+    "buyer": "PRIMARIA SATULUI BOCANI",
+    "cpv": "",
+    "estimated_amount": 380000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1693897562765",
+    "date": "2023-09-05T11:43:40Z",
+    "title": "Procurarea jucariilor pentru Institutiile de Educatie Timpurie",
+    "buyer": "PRIMARIA COMUNEI COSNITA",
+    "cpv": "37520000-9",
+    "estimated_amount": 37027.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Mediamagnat Grup SRL",
+        "id": "MD-IDNO-1006600032462",
+        "amount": 6923.0,
+        "status": "pending"
+      },
+      {
+        "name": "Mediamagnat Grup SRL",
+        "id": "MD-IDNO-1006600032462",
+        "amount": 14285.0,
+        "status": "pending"
+      },
+      {
+        "name": "Mediamagnat Grup SRL",
+        "id": "MD-IDNO-1006600032462",
+        "amount": 15819.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1691563545654",
+    "date": "2023-09-06T12:31:20Z",
+    "title": "Teren de joacă pentru copiii din com. Bursuceni,r-ul Sângerei",
+    "buyer": "Primăria Bursuceni",
+    "cpv": "37400000-2",
+    "estimated_amount": 373591.0,
+    "bidders": [
+      {
+        "name": "Caraev-Lux",
+        "id": "MD-IDNO-1013611000463",
+        "amount": 355233.33
+      },
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 272566.66
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 321231.66
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 339000.38
+      }
+    ],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 271500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 272000.0,
+        "status": "pending"
+      },
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 272566.66,
+        "status": "pending"
+      },
+      {
+        "name": "Caraev-Lux",
+        "id": "MD-IDNO-1013611000463",
+        "amount": 320000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1694006466894",
+    "date": "2023-09-06T13:32:07Z",
+    "title": "Echipament pentru terenuri de joacă",
+    "buyer": "PRIMARIA FLORESTI",
+    "cpv": "37535200-9",
+    "estimated_amount": 73200.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "\"FRUNZĂ ALEXANDRU\" I.I",
+        "id": "MD-IDNO-1007600017428",
+        "amount": 73200.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692871176659",
+    "date": "2023-09-07T08:02:02Z",
+    "title": "Amenajarea parcului Primăria Hagimus, r-nul Căușeni",
+    "buyer": "PRIMARIA SATULUI HAGIMUS",
+    "cpv": "39113600-3",
+    "estimated_amount": 249986.0,
+    "bidders": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 194200.0
+      },
+      {
+        "name": "VEKKRO-STIL",
+        "id": "MD-IDNO-1013608000977",
+        "amount": 208323.34
+      },
+      {
+        "name": "San Construct Grup",
+        "id": "MD-IDNO-1011600024117",
+        "amount": 206839.17
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 214480.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 191700.14,
+        "status": "pending"
+      },
+      {
+        "name": "San Construct Grup",
+        "id": "MD-IDNO-1011600024117",
+        "amount": 194000.0,
+        "status": "pending"
+      },
+      {
+        "name": "VEKKRO-STIL",
+        "id": "MD-IDNO-1013608000977",
+        "amount": 208323.34,
+        "status": "pending"
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 214480.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1693395671830",
+    "date": "2023-09-08T05:45:43Z",
+    "title": "Echipamet pentru amenajarea scuarului cu teren de joaca",
+    "buyer": "Primaria comunei Gradiste",
+    "cpv": "37500000-3",
+    "estimated_amount": 246600.0,
+    "bidders": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 246200.0
+      },
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 231424.16
+      }
+    ],
+    "awards": [
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 230424.16,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 235200.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1693494017696",
+    "date": "2023-09-08T09:58:58Z",
+    "title": "Amenajarea a unui teren de mini-fotbal și a zonei de agrement ce include terenul de joacă pentru copii din s. Colicăuți",
+    "buyer": "PRIMARIA COLICAUTI",
+    "cpv": "37500000-3",
+    "estimated_amount": 197517.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 196974.99
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 196974.99,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
