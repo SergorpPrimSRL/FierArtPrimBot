@@ -3438,6 +3438,46 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1695198659127",
+    "date": "2023-10-03T07:56:39Z",
+    "title": "Lucrări de amenajare a 10 terenuri de joacă în mun. Ungheni",
+    "buyer": "Primăria mun. Ungheni",
+    "cpv": "45200000-9",
+    "estimated_amount": 320000.0,
+    "bidders": [
+      {
+        "name": "S C TEHELECTRO SRL",
+        "id": "MD-IDNO-1008609003256",
+        "amount": 278743.32
+      }
+    ],
+    "awards": [
+      {
+        "name": "S C TEHELECTRO SRL",
+        "id": "MD-IDNO-1008609003256",
+        "amount": 278743.32,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1696404489542",
+    "date": "2023-10-04T07:44:09Z",
+    "title": "Servicii de montare a pavajului",
+    "buyer": "PRIMARIA COMUNEI PELINEI",
+    "cpv": "45233222-1",
+    "estimated_amount": 19463.06,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Smart Pelinei",
+        "id": "MD-IDNO-1023603000504",
+        "amount": 19463.06,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
