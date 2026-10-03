@@ -3757,6 +3757,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1697282104508",
+    "date": "2023-10-14T12:17:49Z",
+    "title": "Procurarea altor mijloace fixe, cărți",
+    "buyer": "I.P.LICEUL TEORETIC MIHAI EMINESCU,OR.ANENII NOI",
+    "cpv": "22100000-1",
+    "estimated_amount": 10000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "CARTEA S.A.",
+        "id": "MD-IDNO-1003600000763",
+        "amount": 10000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
