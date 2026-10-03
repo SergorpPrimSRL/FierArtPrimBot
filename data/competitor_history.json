@@ -3703,6 +3703,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1697015315249",
+    "date": "2023-10-11T09:17:27Z",
+    "title": "Construcția unei stații auto pentru drumul de acces spre s.Tarasova L207",
+    "buyer": "CONSILIUL RAIONAL REZINA",
+    "cpv": "45200000-9",
+    "estimated_amount": 124279.29,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. ,,Șahrevar”",
+        "id": "MD-IDNO-1003606002840",
+        "amount": 124279.29,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
