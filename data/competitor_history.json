@@ -3270,6 +3270,78 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1692719911180",
+    "date": "2023-09-27T12:14:27Z",
+    "title": "Lucrari de construcție a unui teren de joacă pentru copii dincomuna Codreanca, rl. Strășeni",
+    "buyer": "Primaria comunei Codreanca",
+    "cpv": "45200000-9",
+    "estimated_amount": 375000.0,
+    "bidders": [
+      {
+        "name": "SRL ,,Gabrina-Prim''",
+        "id": "MD-IDNO-1009600006066",
+        "amount": 374618.0
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 337478.73
+      },
+      {
+        "name": "Întreprinderea Mixtă ”ANCARO-S.V.” SRL",
+        "id": "MD-IDNO-1007600022332",
+        "amount": 412011.08
+      }
+    ],
+    "awards": [
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 337478.73,
+        "status": "pending"
+      },
+      {
+        "name": "SRL ,,Gabrina-Prim''",
+        "id": "MD-IDNO-1009600006066",
+        "amount": 374618.0,
+        "status": "pending"
+      },
+      {
+        "name": "Întreprinderea Mixtă ”ANCARO-S.V.” SRL",
+        "id": "MD-IDNO-1007600022332",
+        "amount": 412011.08,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1695897603508",
+    "date": "2023-09-28T10:54:28Z",
+    "title": "Echipament pentru terenuri de joaca",
+    "buyer": "PRIMARIA SATULUI SUSLENI",
+    "cpv": "37500000-3",
+    "estimated_amount": 83333.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL EXIMPROD TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 83333.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1695898668821",
+    "date": "2023-09-28T10:57:48Z",
+    "title": "Procurarea constructiilor speciale ( instalarea si amenajarea foisorului)",
+    "buyer": "PRIMARIA COMUNEI CALUGAR",
+    "cpv": "",
+    "estimated_amount": 69166.67,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
