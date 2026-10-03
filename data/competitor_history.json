@@ -3686,6 +3686,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1696876960996",
+    "date": "2023-10-09T18:49:05Z",
+    "title": "Приобртение детских комплексов",
+    "buyer": "PRIMARIA SATULUI NOVOSIOLOVCA",
+    "cpv": "37535200-9",
+    "estimated_amount": 49916.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Smadic Co",
+        "id": "MD-IDNO-1019600011937",
+        "amount": 49916.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
