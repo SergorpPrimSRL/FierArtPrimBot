@@ -3893,6 +3893,78 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1692788914229",
+    "date": "2023-10-17T10:34:12Z",
+    "title": "Amenajarea   unuui  teren  de  joacă    pentru  copii  în  or. Sîngerei, regiunea  Calea  Rădoaiei",
+    "buyer": "Primaria Singerei",
+    "cpv": "45200000-9",
+    "estimated_amount": 206285.24,
+    "bidders": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 201685.17
+      },
+      {
+        "name": "SC Helicecom-Nord",
+        "id": "MD-IDNO-1005602001115",
+        "amount": 204084.36
+      },
+      {
+        "name": "Ludviocons-Prim",
+        "id": "MD-IDNO-1013602004504",
+        "amount": 195167.6
+      }
+    ],
+    "awards": [
+      {
+        "name": "Ludviocons-Prim",
+        "id": "MD-IDNO-1013602004504",
+        "amount": 195167.6,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 201685.17,
+        "status": "pending"
+      },
+      {
+        "name": "SC Helicecom-Nord",
+        "id": "MD-IDNO-1005602001115",
+        "amount": 204084.36,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1697635099501",
+    "date": "2023-10-18T13:26:51Z",
+    "title": "Lucrări de construcție a foisorului și căilor de acces la Grădinița Petreștiu",
+    "buyer": "PRIMARIA PETRESTI",
+    "cpv": "",
+    "estimated_amount": 120042.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1697636145470",
+    "date": "2023-10-18T14:06:07Z",
+    "title": "Lucrări de construcție a unui foisor la Grădinița Petresti",
+    "buyer": "PRIMARIA PETRESTI",
+    "cpv": "45453000-7",
+    "estimated_amount": 35.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Danco Capital",
+        "id": "MD-IDNO-1021600054166",
+        "amount": 35.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
