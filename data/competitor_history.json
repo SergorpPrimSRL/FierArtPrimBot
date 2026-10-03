@@ -3859,6 +3859,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1697451701237",
+    "date": "2023-10-16T10:24:35Z",
+    "title": "Servicii chirie gard metalic",
+    "buyer": "PRIMARIA COM.BUBUIECI",
+    "cpv": "34900000-6",
+    "estimated_amount": 2375.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Dublu Sens",
+        "id": "MD-IDNO-1005600009081",
+        "amount": 2375.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1697531068429",
+    "date": "2023-10-17T08:29:04Z",
+    "title": "Servicii de montare și conectare Lightbox-urilor în pasajul subteran din str. Ciuflea - bd. Ștefan cel Mare",
+    "buyer": "PRETURA SECTORULUI CENTRU",
+    "cpv": "45233293-9",
+    "estimated_amount": 112750.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Terrasistem SRL",
+        "id": "MD-IDNO-1011600006315",
+        "amount": 112750.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
