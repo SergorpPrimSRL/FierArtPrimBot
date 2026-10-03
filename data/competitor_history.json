@@ -3342,6 +3342,102 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1695127302729",
+    "date": "2023-09-29T11:03:22Z",
+    "title": "Amenajarea parcului/scuarului din satul Vozneseni, r-nul Leova",
+    "buyer": "Primaria Vozneseni",
+    "cpv": "45200000-9",
+    "estimated_amount": 374829.82,
+    "bidders": [
+      {
+        "name": "\"APS Service Grup\"",
+        "id": "MD-IDNO-1016611000800",
+        "amount": 355761.22
+      },
+      {
+        "name": "BUILDTRADE",
+        "id": "MD-IDNO-1021608000815",
+        "amount": 374552.21
+      }
+    ],
+    "awards": [
+      {
+        "name": "\"APS Service Grup\"",
+        "id": "MD-IDNO-1016611000800",
+        "amount": 355761.22,
+        "status": "pending"
+      },
+      {
+        "name": "BUILDTRADE",
+        "id": "MD-IDNO-1021608000815",
+        "amount": 374552.21,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1694157461286",
+    "date": "2023-09-29T12:28:46Z",
+    "title": "Teren de joaca pentru copii în com.Lapusna, Hincesti.",
+    "buyer": "Primaria Lapusna",
+    "cpv": "37400000-2",
+    "estimated_amount": 365827.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 299183.33
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 298002.82
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 338820.2
+      }
+    ],
+    "awards": [
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 298002.82,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 299183.33,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 338820.2,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1696245327334",
+    "date": "2023-10-02T11:21:11Z",
+    "title": "Lucrari de amenajarea parcului din s.Susleni amplasat pe str.Alexandru cel Bun",
+    "buyer": "PRIMARIA SATULUI SUSLENI",
+    "cpv": "45100000-8",
+    "estimated_amount": 199927.21,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL ROYAL PRIMCONSTRUCT",
+        "id": "MD-IDNO-1021600040008",
+        "amount": 199927.21,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
