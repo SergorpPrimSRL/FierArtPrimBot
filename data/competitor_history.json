@@ -3495,6 +3495,197 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1696580108320",
+    "date": "2023-10-06T08:15:07Z",
+    "title": "Servicii inspectare și verificare a lucrărilor (responsabil tehnic) la obiectul: Construcția unui scuar public cu teren de joacă pentu copii din str. Unirii 20 com. Stăuceni, mun. Chișinău",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "",
+    "estimated_amount": 25780.75,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1694789124093",
+    "date": "2023-10-06T08:23:29Z",
+    "title": "Achiziționarea Dispozitivelor medicale  conform necesităților IMSP Institutul de Cardiologie pentru anul 2023 (listă suplimentară 31)",
+    "buyer": "CENTRUL PENTRU ACHIZITII PUBLICE CENTRALIZATE IN SANATATE",
+    "cpv": "33100000-1",
+    "estimated_amount": 2019266.58,
+    "bidders": [
+      {
+        "name": "IM Vivamed International SRL",
+        "id": "MD-IDNO-1007600028965",
+        "amount": 257076.0
+      },
+      {
+        "name": "AELO GRUP",
+        "id": "MD-IDNO-1011600009752",
+        "amount": 375600.0
+      },
+      {
+        "name": "DataControl SRL",
+        "id": "MD-IDNO-1003600007935",
+        "amount": 79600.0
+      },
+      {
+        "name": "Neotec",
+        "id": "MD-IDNO-1002600048135",
+        "amount": 318000.0
+      },
+      {
+        "name": "SRL Biosistem mld",
+        "id": "MD-IDNO-1010600028048",
+        "amount": 208835.55
+      },
+      {
+        "name": "INTERMED",
+        "id": "MD-IDNO-1002600034804",
+        "amount": 463920.0
+      },
+      {
+        "name": "ÎM „Dutchmed-M” SRL",
+        "id": "MD-IDNO-1009600033367",
+        "amount": 486000.0
+      },
+      {
+        "name": "SA Tehoptimed",
+        "id": "MD-IDNO-1003600087162",
+        "amount": 345750.0
+      },
+      {
+        "name": "Tetis International Co. SRL",
+        "id": "MD-IDNO-1003600043595",
+        "amount": 351360.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "IM Vivamed International SRL",
+        "id": "MD-IDNO-1007600028965",
+        "amount": 53872.0,
+        "status": "pending"
+      },
+      {
+        "name": "AELO GRUP",
+        "id": "MD-IDNO-1011600009752",
+        "amount": 65999.0,
+        "status": "pending"
+      },
+      {
+        "name": "SA Tehoptimed",
+        "id": "MD-IDNO-1003600087162",
+        "amount": 66000.0,
+        "status": "pending"
+      },
+      {
+        "name": "DataControl SRL",
+        "id": "MD-IDNO-1003600007935",
+        "amount": 79600.0,
+        "status": "pending"
+      },
+      {
+        "name": "ÎM „Dutchmed-M” SRL",
+        "id": "MD-IDNO-1009600033367",
+        "amount": 486000.0,
+        "status": "pending"
+      },
+      {
+        "name": "IM Vivamed International SRL",
+        "id": "MD-IDNO-1007600028965",
+        "amount": 257076.0,
+        "status": "pending"
+      },
+      {
+        "name": "Neotec",
+        "id": "MD-IDNO-1002600048135",
+        "amount": 318000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SA Tehoptimed",
+        "id": "MD-IDNO-1003600087162",
+        "amount": 333599.0,
+        "status": "pending"
+      },
+      {
+        "name": "DataControl SRL",
+        "id": "MD-IDNO-1003600007935",
+        "amount": 333600.0,
+        "status": "pending"
+      },
+      {
+        "name": "Tetis International Co. SRL",
+        "id": "MD-IDNO-1003600043595",
+        "amount": 351360.0,
+        "status": "pending"
+      },
+      {
+        "name": "AELO GRUP",
+        "id": "MD-IDNO-1011600009752",
+        "amount": 375600.0,
+        "status": "pending"
+      },
+      {
+        "name": "INTERMED",
+        "id": "MD-IDNO-1002600034804",
+        "amount": 463920.0,
+        "status": "pending"
+      },
+      {
+        "name": "INTERMED",
+        "id": "MD-IDNO-1002600034804",
+        "amount": 1336020.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL Biosistem mld",
+        "id": "MD-IDNO-1010600028048",
+        "amount": 208835.55,
+        "status": "pending"
+      },
+      {
+        "name": "INTERMED",
+        "id": "MD-IDNO-1002600034804",
+        "amount": 238750.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1696580412181",
+    "date": "2023-10-06T08:31:27Z",
+    "title": "Servicii inspectare și verificare a lucrărilor (responsabil tehnic) la obiectul: Construcția unui scuar public cu teren de joacă pentu copii din str. Unirii 20 com. Stăuceni, mun. Chișinău",
+    "buyer": "PRIMARIA COMUNEI STAUCENI",
+    "cpv": "71315400-3",
+    "estimated_amount": 21484.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "”Colos-Consulting” S.R.L.",
+        "id": "MD-IDNO-1010600002756",
+        "amount": 21484.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1696581964390",
+    "date": "2023-10-06T09:09:24Z",
+    "title": "elemente pentru amenajarea terenului de joacă",
+    "buyer": "PRIMARIA MUNICIPIULUI CAHUL",
+    "cpv": "37500000-3",
+    "estimated_amount": 166500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Power Team",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 166500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
