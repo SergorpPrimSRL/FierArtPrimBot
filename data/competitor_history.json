@@ -3237,6 +3237,39 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1695626284343",
+    "date": "2023-09-25T07:18:04Z",
+    "title": "Amenajarea zonei de agrement (parc și loc de joacă pentru copii) din preajma Casei de Cultură sat. Ratuș ETAPA II",
+    "buyer": "PRIMARIA COMUNEI DRASLICENI",
+    "cpv": "",
+    "estimated_amount": 498000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1692972591627",
+    "date": "2023-09-25T16:19:36Z",
+    "title": "Echipament pentru \"Amenajarea unui teren de joacă modern și funcțional, dotat cu echipamente de joacă adecvate pentru fiecare grupă de vîrstă\"",
+    "buyer": "PRIMARIA COMUNEI LIPOVENI",
+    "cpv": "45211000-9",
+    "estimated_amount": 411951.67,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 333558.33
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 333558.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
