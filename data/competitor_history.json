@@ -3965,6 +3965,50 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1698041120842",
+    "date": "2023-10-23T06:18:36Z",
+    "title": "lucrări de construcție a foișorului și căilor de acces la Grădinița Petrești",
+    "buyer": "PRIMARIA PETRESTI",
+    "cpv": "45453000-7",
+    "estimated_amount": 100035.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Danco Capital",
+        "id": "MD-IDNO-1021600054166",
+        "amount": 100035.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1698049764183",
+    "date": "2023-10-23T10:22:19Z",
+    "title": "Echipament pentru instalarea unui teren de joacă str. Costiujeni, 8/2 or.Codru",
+    "buyer": "Primăria or.Codru",
+    "cpv": "43300000-6",
+    "estimated_amount": 250000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1698062091642",
+    "date": "2023-10-23T11:58:02Z",
+    "title": "Procurarea mobilier urban cu instalarea pentru terenurile de joacă din orașul Rezina.",
+    "buyer": "PRIMARIA ORASULUI REZINA",
+    "cpv": "34928400-2",
+    "estimated_amount": 30000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Power Green  S.R.L.",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 30000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
