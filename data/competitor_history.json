@@ -3740,6 +3740,23 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1697202109740",
+    "date": "2023-10-13T13:04:14Z",
+    "title": "Lucrări de construcție de Lemn Teren de joacă (Căsuțe de lemn)",
+    "buyer": "PRIMARIA SATULUI MAGDACESTI",
+    "cpv": "39100000-3",
+    "estimated_amount": 165136.08,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Borș Trofim",
+        "id": "MD-IDNO-2008038005897",
+        "amount": 165136.08,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
