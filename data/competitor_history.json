@@ -3774,6 +3774,91 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1697373594930",
+    "date": "2023-10-15T13:08:12Z",
+    "title": "literatura artistica",
+    "buyer": "I.P.GIMNAZIUL COBUSCA VECHE,S.COBUSCA VECHE,R.ANEN",
+    "cpv": "22110000-4",
+    "estimated_amount": 1998.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "CARTEA S.A.",
+        "id": "MD-IDNO-100360000763",
+        "amount": 1998.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1697381845643",
+    "date": "2023-10-15T15:00:04Z",
+    "title": "Lucrări de amenajarea parcului",
+    "buyer": "PRIMARIA COMUNEI CODRENI",
+    "cpv": "45200000-9",
+    "estimated_amount": 344443.25,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Seralcon SRL",
+        "id": "MD-IDNO-101160002144",
+        "amount": 344443.25,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1697383975609",
+    "date": "2023-10-15T15:35:01Z",
+    "title": "Lucrări de amenajarea parcului",
+    "buyer": "PRIMARIA COMUNEI CODRENI",
+    "cpv": "45200000-9",
+    "estimated_amount": 464428.74,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Seralcon SRL",
+        "id": "MD-IDNO-1011600002144",
+        "amount": 464428.74,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1697436143143",
+    "date": "2023-10-16T06:05:41Z",
+    "title": "Lucrări de confecționare și montare a unui foișor și unui leagăn din lemn în sat. Măgdăcești r-ul Criuleni",
+    "buyer": "PRIMARIA SATULUI MAGDACESTI",
+    "cpv": "39100000-3",
+    "estimated_amount": 117461.36,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Asen Progres Grup SRL",
+        "id": "MD-IDNO-1021600018975",
+        "amount": 117461.36,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1697437653859",
+    "date": "2023-10-16T06:29:52Z",
+    "title": "Lucrări de construcție și montare a două foișoare și reconstrucția unui foișor din lemn din sat. Măgdăcești r-ul Criuleni",
+    "buyer": "PRIMARIA SATULUI MAGDACESTI",
+    "cpv": "50800000-3",
+    "estimated_amount": 44583.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Borș Trofim",
+        "id": "MD-IDNO-2008038005897",
+        "amount": 44583.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
