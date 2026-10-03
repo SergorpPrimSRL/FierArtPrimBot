@@ -3478,6 +3478,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1696421472715",
+    "date": "2023-10-04T12:14:45Z",
+    "title": "Urne stradale",
+    "buyer": "SERVICIUL VAMAL AL REPUBLICII MOLDOVA",
+    "cpv": "34928400-2",
+    "estimated_amount": 5000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "TEHNOLOGIA S.R.L.",
+        "id": "MD-IDNO-1003600099983",
+        "amount": 5000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
