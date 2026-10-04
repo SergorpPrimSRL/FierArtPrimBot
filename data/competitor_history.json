@@ -4009,6 +4009,29 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1695733001347",
+    "date": "2023-10-24T11:12:38Z",
+    "title": "Amenajarea zonei de agrement (parc și loc de joacă pentru copii) din preajma Casei de Cultură sat. Ratuș ETAPA II",
+    "buyer": "Primaria Drasliceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 498000.0,
+    "bidders": [
+      {
+        "name": "RataConstruct",
+        "id": "MD-IDNO-1013609001513",
+        "amount": 618392.06
+      }
+    ],
+    "awards": [
+      {
+        "name": "RataConstruct",
+        "id": "MD-IDNO-1013609001513",
+        "amount": 618392.06,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
