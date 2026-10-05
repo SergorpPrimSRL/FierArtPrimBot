@@ -4106,6 +4106,57 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1699017595218",
+    "date": "2023-11-03T13:32:57Z",
+    "title": "Procurarea utilajului sportiv și a terenului de joacă",
+    "buyer": "PRIMARIA LEOVA",
+    "cpv": "37410000-5",
+    "estimated_amount": 149500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Danstroi",
+        "id": "MD-IDNO-1019611001587",
+        "amount": 149500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1699026557787",
+    "date": "2023-11-03T15:54:26Z",
+    "title": "SERVICII DE INCHIRIERE TOPOGANE, GONFLABILE, CARUSEL, TRAMBULINA.",
+    "buyer": "PRIMARIA COMUNEI LAPUSNA",
+    "cpv": "79900000-3",
+    "estimated_amount": 12000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "CAZAC ION II",
+        "id": "MD-IDNO-1013600021578",
+        "amount": 12000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1699033487494",
+    "date": "2023-11-03T17:46:26Z",
+    "title": "ELABORAREA DOCUMENTATIEI DE DEVIZ \"AMENAJAREA SCUARULUI IN LAPUSNA\"",
+    "buyer": "PRIMARIA COMUNEI LAPUSNA",
+    "cpv": "79900000-3",
+    "estimated_amount": 500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "KALINOVSCHI OXANA",
+        "id": "MD-IDNO-2003012025269",
+        "amount": 500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
