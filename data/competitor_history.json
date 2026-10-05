@@ -4379,6 +4379,51 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1698056804118",
+    "date": "2023-11-08T13:11:29Z",
+    "title": "Echipament pentru instalarea unui teren de joacă str. Costiujeni, 8/3 or.Codru",
+    "buyer": "Primăria or.Codru",
+    "cpv": "43300000-6",
+    "estimated_amount": 250000.0,
+    "bidders": [
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 233900.0
+      },
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 207500.0
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 216650.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 207500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 216650.0,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 233900.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
