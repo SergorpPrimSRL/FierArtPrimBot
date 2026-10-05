@@ -4066,6 +4066,29 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1697530809616",
+    "date": "2023-10-31T13:41:15Z",
+    "title": "Modernizarea terenului de joacăexistent și amenajarea unui teren de joacă nou  în s. Mîndîc, r.Drochia ",
+    "buyer": "Primaria Mindic",
+    "cpv": "37500000-3",
+    "estimated_amount": 402745.83,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 394505.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 394505.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
