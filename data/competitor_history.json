@@ -4089,6 +4089,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1697808821031",
+    "date": "2023-11-02T10:08:16Z",
+    "title": "Servicii de verificare deviz",
+    "buyer": "PRIMARIA UNGHENI",
+    "cpv": "71328000-3",
+    "estimated_amount": 1500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "ÎI Mînăscurtă Constantin",
+        "id": "MD-IDNO-1009600026035",
+        "amount": 1500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
