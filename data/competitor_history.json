@@ -4441,6 +4441,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1696508344423",
+    "date": "2023-11-10T07:48:43Z",
+    "title": "Amenajarea si dotare unui scuar in s. Hirova, r. Calarasi",
+    "buyer": "PRIMARIA HIROVA",
+    "cpv": "37400000-2",
+    "estimated_amount": 374507.0,
+    "bidders": [
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 314999.36
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 297300.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 297300.0,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 314999.36,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
