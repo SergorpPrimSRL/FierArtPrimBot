@@ -4032,6 +4032,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1697202601268",
+    "date": "2023-10-30T13:34:13Z",
+    "title": "complex utilaje de joacă și fitnes cu montarea",
+    "buyer": "Primaria Orasului Criuleni",
+    "cpv": "45200000-9",
+    "estimated_amount": 800000.0,
+    "bidders": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 746500.0
+      },
+      {
+        "name": "INTELLIGENCE PRO-CONSTRUCT",
+        "id": "MD-IDNO-1020600001912",
+        "amount": 799083.33
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 746500.0,
+        "status": "pending"
+      },
+      {
+        "name": "INTELLIGENCE PRO-CONSTRUCT",
+        "id": "MD-IDNO-1020600001912",
+        "amount": 799083.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
