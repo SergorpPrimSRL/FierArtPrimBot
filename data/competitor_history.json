@@ -4424,6 +4424,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1699533154305",
+    "date": "2023-11-09T12:39:27Z",
+    "title": "COS P/U TRANSPORTAREA DESEURILOR 240L",
+    "buyer": "COBUSCA VECHE PRIMARIA",
+    "cpv": "34928400-2",
+    "estimated_amount": 1063.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "MAVION CONSGROUP S.R.L",
+        "id": "MD-IDNO-1019600018305",
+        "amount": 1063.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
