@@ -4546,6 +4546,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1700050205768",
+    "date": "2023-11-15T13:00:26Z",
+    "title": "Procurarea pieselor de schimb la complex de joaca",
+    "buyer": "PRIMARIA COMUNEI COSNITA",
+    "cpv": "34913000-0",
+    "estimated_amount": 2950.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "POWER TEAM SRL",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 2950.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
