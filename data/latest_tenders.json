@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1791187752307",
+    "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
+    "authority": "PRIMARIA COVURLUI",
+    "amount": 447641.0,
+    "currency": "MDL",
+    "deadline": "2026-10-16T07:00:00Z",
+    "deadline_text": "16.10.2026 10:00",
+    "status": "empty",
+    "score": 62,
+    "label": "POSIBIL RELEVANTĂ",
+    "matches": [
+      "leagăn"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791187752307",
+    "source_date": "2026-10-05T08:26:15Z",
+    "saved_at": "2026-10-05T08:31:37.270163+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1790769376362",
     "title": "Lucrări de reparații curente a platformei la scena de vară din parcul „M. Eminescu” din mun. Soroca",
     "authority": "PRIMARIA MUNICIPIULUI SOROCA",
