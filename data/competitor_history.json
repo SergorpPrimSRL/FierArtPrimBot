@@ -4563,6 +4563,57 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1700205566413",
+    "date": "2023-11-17T07:37:39Z",
+    "title": "Cărți de bibliotecă",
+    "buyer": "PRIMARIA COMUNEI IVANCEA",
+    "cpv": "22113000-5",
+    "estimated_amount": 6000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "I.I. DUCA VLADIMIR",
+        "id": "MD-IDNO-1020606003619",
+        "amount": 6000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1698318147851",
+    "date": "2023-11-17T14:18:55Z",
+    "title": "Amenajarea zonei de agrement (parc si loc de joacă pentru copii) din preajma   Casei de Cultură sat. Ratuș, Etapa II ",
+    "buyer": "Primaria Drasliceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 498000.0,
+    "bidders": [
+      {
+        "name": "Carmen Construct Grup",
+        "id": "MD-IDNO-1021600045265",
+        "amount": 452608.44
+      },
+      {
+        "name": "RataConstruct",
+        "id": "MD-IDNO-1013609001513",
+        "amount": 521858.5
+      }
+    ],
+    "awards": [
+      {
+        "name": "Carmen Construct Grup",
+        "id": "MD-IDNO-1021600045265",
+        "amount": 452608.44,
+        "status": "pending"
+      },
+      {
+        "name": "RataConstruct",
+        "id": "MD-IDNO-1013609001513",
+        "amount": 521858.5,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
