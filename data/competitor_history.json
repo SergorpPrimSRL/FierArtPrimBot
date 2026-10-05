@@ -4495,6 +4495,57 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1694441815352",
+    "date": "2023-11-13T15:44:14Z",
+    "title": "Lucrări de amenajare cu teren de joaca si reparatie a scarilor  a  Parcului din   s. Stolniceni,raionul Hincesti",
+    "buyer": "Primaria Stolniceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 344562.37,
+    "bidders": [
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 390134.17
+      },
+      {
+        "name": "Paduret Alexandru",
+        "id": "MD-IDNO-1005608001232",
+        "amount": 342757.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Paduret Alexandru",
+        "id": "MD-IDNO-1005608001232",
+        "amount": 342757.0,
+        "status": "pending"
+      },
+      {
+        "name": "NISPROFCON",
+        "id": "MD-IDNO-1003609010608",
+        "amount": 390134.17,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1699949327782",
+    "date": "2023-11-14T08:12:45Z",
+    "title": "Set de șah mare pentru joc în aer liber",
+    "buyer": "PRIMARIA MUNICIPIULUI ORHEI",
+    "cpv": "43325000-7",
+    "estimated_amount": 31583.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "\"START-E4\" SRL",
+        "id": "MD-IDNO-1015600038561",
+        "amount": 31583.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
