@@ -4682,6 +4682,95 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1701356842759",
+    "date": "2023-12-08T07:25:02Z",
+    "title": "Construcția unui mini teren sportiv în grădinița Fluturaș din s.Miclești,r.Criuleni",
+    "buyer": "Primaria comunei Miclesti",
+    "cpv": "45200000-9",
+    "estimated_amount": 277239.0,
+    "bidders": [
+      {
+        "name": "VISOM - CONS",
+        "id": "MD-IDNO-1020600017616",
+        "amount": 276816.67
+      },
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 249785.06
+      },
+      {
+        "name": "SRL,,Kedacons”",
+        "id": "MD-IDNO-1018600005878",
+        "amount": 231781.17
+      },
+      {
+        "name": "SC S&T Prodpan",
+        "id": "MD-IDNO-1004606004151",
+        "amount": 254587.99
+      },
+      {
+        "name": "Vega Total",
+        "id": "MD-IDNO-1018600014632",
+        "amount": 192382.82
+      },
+      {
+        "name": "Lorascom",
+        "id": "MD-IDNO-1003600159867",
+        "amount": 222530.83
+      },
+      {
+        "name": "SRL MARISTECONS",
+        "id": "MD-IDNO-1012606002464",
+        "amount": 244322.52
+      }
+    ],
+    "awards": [
+      {
+        "name": "Vega Total",
+        "id": "MD-IDNO-1018600014632",
+        "amount": 192382.82,
+        "status": "pending"
+      },
+      {
+        "name": "Lorascom",
+        "id": "MD-IDNO-1003600159867",
+        "amount": 222530.83,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,,Kedacons”",
+        "id": "MD-IDNO-1018600005878",
+        "amount": 231781.17,
+        "status": "pending"
+      },
+      {
+        "name": "SRL MARISTECONS",
+        "id": "MD-IDNO-1012606002464",
+        "amount": 244322.52,
+        "status": "pending"
+      },
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 249785.06,
+        "status": "pending"
+      },
+      {
+        "name": "SC S&T Prodpan",
+        "id": "MD-IDNO-1004606004151",
+        "amount": 254587.99,
+        "status": "pending"
+      },
+      {
+        "name": "VISOM - CONS",
+        "id": "MD-IDNO-1020600017616",
+        "amount": 276816.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
