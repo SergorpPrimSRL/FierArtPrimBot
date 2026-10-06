@@ -4631,6 +4631,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1699625217229",
+    "date": "2023-11-24T13:37:52Z",
+    "title": "Decoratiuni festive cu ghirlande LED",
+    "buyer": "IP Universitatea de Stat de Medicină și Farmacie ”Nicolae Testemițanu”",
+    "cpv": "31500000-1",
+    "estimated_amount": 425000.0,
+    "bidders": [
+      {
+        "name": "BM PUBLIC SRL",
+        "id": "MD-IDNO-1011600015537",
+        "amount": 368363.33
+      },
+      {
+        "name": "Eco casa",
+        "id": "MD-IDNO-1012600005418",
+        "amount": 309600.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Eco casa",
+        "id": "MD-IDNO-1012600005418",
+        "amount": 305250.0,
+        "status": "pending"
+      },
+      {
+        "name": "BM PUBLIC SRL",
+        "id": "MD-IDNO-1011600015537",
+        "amount": 368363.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
