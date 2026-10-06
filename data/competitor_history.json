@@ -4771,6 +4771,57 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1701154808251",
+    "date": "2023-12-08T12:44:49Z",
+    "title": "Achiziționarea mobilierului : mese de ședințe, mese pentru foișor.",
+    "buyer": "Pensiunea din Holercani",
+    "cpv": "39100000-3",
+    "estimated_amount": 179200.0,
+    "bidders": [
+      {
+        "name": "GAMEON TRADE SRL",
+        "id": "MD-IDNO-1022600001846",
+        "amount": 95000.0
+      },
+      {
+        "name": "Mega Limited",
+        "id": "MD-IDNO-1019600007916",
+        "amount": 79900.0
+      },
+      {
+        "name": "“ELMMA PLUS COMPANY” SRL",
+        "id": "MD-IDNO-1019600040829",
+        "amount": 76900.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "“ELMMA PLUS COMPANY” SRL",
+        "id": "MD-IDNO-1019600040829",
+        "amount": 76900.0,
+        "status": "pending"
+      },
+      {
+        "name": "Mega Limited",
+        "id": "MD-IDNO-1019600007916",
+        "amount": 79900.0,
+        "status": "pending"
+      },
+      {
+        "name": "GAMEON TRADE SRL",
+        "id": "MD-IDNO-1022600001846",
+        "amount": 82200.0,
+        "status": "pending"
+      },
+      {
+        "name": "GAMEON TRADE SRL",
+        "id": "MD-IDNO-1022600001846",
+        "amount": 95000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
