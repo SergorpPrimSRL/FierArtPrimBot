@@ -35473,5 +35473,22 @@
     "estimated_amount": 447641.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791277339458",
+    "date": "2026-10-06T09:11:24Z",
+    "title": "Scrînciob din lemn",
+    "buyer": "BANCA NATIONALA A MOLDOVEI",
+    "cpv": "37530000-2",
+    "estimated_amount": 32500.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. LEMN EXPERT SERVICE",
+        "id": "MD-IDNO-1022600045217",
+        "amount": 32500.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
