@@ -35490,5 +35490,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791286585884",
+    "date": "2026-10-06T11:39:04Z",
+    "title": "Servicii de amenajare parcul Voluntarilor",
+    "buyer": "GURA BICULUI PRIMARIA",
+    "cpv": "90910000-9",
+    "estimated_amount": 2800.37,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "INTREPRINDEREA MUNICIPALA SERVICIUL PUBLIC DE GOSPODARIE COMUNALA GURA BICULUI",
+        "id": "MD-IDNO-1009600008967",
+        "amount": 2800.37,
+        "status": "pending"
+      }
+    ]
   }
 ]
