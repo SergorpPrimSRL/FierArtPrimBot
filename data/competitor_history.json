@@ -4614,6 +4614,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1700742872588",
+    "date": "2023-11-23T12:52:54Z",
+    "title": "teren de joaca copii",
+    "buyer": "PRIMARIA SATULUI MOARA DE PIATRA",
+    "cpv": "37410000-5",
+    "estimated_amount": 44260.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL NORD GARANT",
+        "id": "MD-IDNO-1010607003442",
+        "amount": 44260.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
