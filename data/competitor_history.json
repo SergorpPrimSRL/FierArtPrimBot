@@ -4822,6 +4822,74 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1702302389157",
+    "date": "2023-12-11T13:52:49Z",
+    "title": "LUCRĂRI DE CONSTRUCȚIE",
+    "buyer": "PRIMARIA COMUNEI PLESENI",
+    "cpv": "45212221-1",
+    "estimated_amount": 62750.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Î.I.Cabac Andrei",
+        "id": "MD-IDNO-1020603001773",
+        "amount": 62750.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1702371908211",
+    "date": "2023-12-12T09:09:32Z",
+    "title": "Servicii de supraveghere tehnică",
+    "buyer": "PRIMARIA COMUNEI IVANCEA",
+    "cpv": "71520000-9",
+    "estimated_amount": 13008.9,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "DESIGN SI INGINERIE S.R.L.",
+        "id": "MD-IDNO-1019606000012",
+        "amount": 13008.9,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1701952070330",
+    "date": "2023-12-12T13:25:58Z",
+    "title": "Elemente pentru complex de joacă cu turnuri, tobogane ",
+    "buyer": "Centru de Recuperarea pentru Copii Ceadir-Lunga",
+    "cpv": "44200000-2",
+    "estimated_amount": 118000.0,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 102500.0
+      },
+      {
+        "name": "ALTAPRIM",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 116500.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 102500.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALTAPRIM",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 116500.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
