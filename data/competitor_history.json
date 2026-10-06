@@ -4665,6 +4665,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1701264444757",
+    "date": "2023-11-29T13:50:31Z",
+    "title": "Achiziţionarea echipament pentru teren de joaca,",
+    "buyer": "PRIMARIA SATULUI POPEASCA",
+    "cpv": "37500000-3",
+    "estimated_amount": 166978.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "„Power Team” SRL,",
+        "id": "MD-IDNO- 1002600025121",
+        "amount": 166978.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
