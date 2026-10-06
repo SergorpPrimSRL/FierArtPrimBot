@@ -4907,6 +4907,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1702470667178",
+    "date": "2023-12-13T12:36:02Z",
+    "title": "Mobilier urban",
+    "buyer": "PRIMARIA FLORESTI",
+    "cpv": "34900000-6",
+    "estimated_amount": 49999.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 49999.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
