@@ -4890,6 +4890,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1702451820190",
+    "date": "2023-12-13T07:30:22Z",
+    "title": "Procurarea materialelor didactice",
+    "buyer": "PRIMARIA SATULUI SLOBOZIA-DUSCA",
+    "cpv": "22100000-1",
+    "estimated_amount": 6177.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.C.AV-DIVERTA S.R.L",
+        "id": "MD-IDNO-1003600066428",
+        "amount": 6177.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
