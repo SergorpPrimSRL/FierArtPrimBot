@@ -31118,51 +31118,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1787230629739",
-    "date": "2026-08-25T08:11:57Z",
-    "title": "Reparație curentă cu amenajarea terenului de joacă a scuarului fostei grădinițe din satul Zaim",
-    "buyer": "PRIMARIA COMUNEI ZAIM",
-    "cpv": "37535000-7",
-    "estimated_amount": 217537.0,
-    "bidders": [
-      {
-        "name": "SRL POWER TEAM",
-        "id": "MD-IDNO-1002600025121",
-        "amount": 217490.87
-      },
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 199058.33
-      },
-      {
-        "name": "Trio Construct SRL",
-        "id": "MD-IDNO-1016600013974",
-        "amount": 176324.19
-      }
-    ],
-    "awards": [
-      {
-        "name": "Trio Construct SRL",
-        "id": "MD-IDNO-1016600013974",
-        "amount": 176324.19,
-        "status": "pending"
-      },
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 199058.33,
-        "status": "pending"
-      },
-      {
-        "name": "SRL POWER TEAM",
-        "id": "MD-IDNO-1002600025121",
-        "amount": 217490.87,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1784288015356",
     "date": "2026-08-25T13:08:42Z",
     "title": "Material didactic conform necesităților IET subordonate DETS Botanica anul 2026",
@@ -35952,6 +35907,51 @@
         "name": "INTREPRINDEREA MUNICIPALA ANTERMO",
         "id": "MD-IDNO-1003600092663",
         "amount": 44256.14,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1787230629739",
+    "date": "2026-10-07T19:53:05Z",
+    "title": "Reparație curentă cu amenajarea terenului de joacă a scuarului fostei grădinițe din satul Zaim",
+    "buyer": "PRIMARIA COMUNEI ZAIM",
+    "cpv": "37535000-7",
+    "estimated_amount": 217537.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 217490.87
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 199058.33
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 176324.19
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 176324.19,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 199058.33,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 217490.87,
         "status": "pending"
       }
     ]
