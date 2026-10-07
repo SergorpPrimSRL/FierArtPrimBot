@@ -35938,5 +35938,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791395987546",
+    "date": "2026-10-07T18:10:14Z",
+    "title": "servicii de reparatia curenta la terenuri de joaca de pe str.Suvorov, Miciurin, Luceafarul, Jucovschi, satul Albinita si achizitionarea urnelor la teren de fotbal s.Ruseni ",
+    "buyer": "ANENII NOI PRIMARIA",
+    "cpv": "45200000-9",
+    "estimated_amount": 44256.14,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "INTREPRINDEREA MUNICIPALA ANTERMO",
+        "id": "MD-IDNO-1003600092663",
+        "amount": 44256.14,
+        "status": "pending"
+      }
+    ]
   }
 ]
