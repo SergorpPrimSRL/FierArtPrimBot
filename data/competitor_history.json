@@ -4924,6 +4924,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1702566002654",
+    "date": "2023-12-14T15:35:40Z",
+    "title": "Procurarea constructilor speciale ",
+    "buyer": "PRIMARIA SADACLIA",
+    "cpv": "37535240-1",
+    "estimated_amount": 107833.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 107833.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
