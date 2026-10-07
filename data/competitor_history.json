@@ -4941,6 +4941,61 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1702628108501",
+    "date": "2023-12-18T13:40:59Z",
+    "title": "Constructiilor speciale pn Gradinita nr 1 din s. Sadaclia",
+    "buyer": "PRIMARIA SADACLIA",
+    "cpv": "37500000-3",
+    "estimated_amount": 107834.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1683879783569",
+    "date": "2023-12-18T19:37:44Z",
+    "title": "”Amenajarea Parcului ”Poienița Veselă” cu teren de joacă pentru copii, zone de odihnă și agrement și spații verzi din satul Mateuți, raionul Rezina” ",
+    "buyer": "Primaria Mateuti",
+    "cpv": "45200000-9",
+    "estimated_amount": 635346.01,
+    "bidders": [
+      {
+        "name": "SRL Becad",
+        "id": "MD-IDNO-1003606000994",
+        "amount": 556795.76
+      },
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 533648.51
+      },
+      {
+        "name": "SRL,,Certicus\"",
+        "id": "MD-IDNO-1011606003121",
+        "amount": 497975.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL,,Certicus\"",
+        "id": "MD-IDNO-1011606003121",
+        "amount": 497975.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 533648.51,
+        "status": "pending"
+      },
+      {
+        "name": "SRL Becad",
+        "id": "MD-IDNO-1003606000994",
+        "amount": 556795.76,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
