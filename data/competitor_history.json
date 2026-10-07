@@ -35634,47 +35634,6 @@
     "awards": []
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1789023327516",
-    "date": "2026-10-01T10:10:19Z",
-    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "45200000-9",
-    "estimated_amount": 1000000.0,
-    "bidders": [
-      {
-        "name": "DIOLSOF CONS",
-        "id": "MD-IDNO-1024600078215",
-        "amount": 333028.99
-      }
-    ],
-    "awards": [
-      {
-        "name": "DIOLSOF CONS",
-        "id": "MD-IDNO-1024600078215",
-        "amount": 320980.76,
-        "status": "pending"
-      },
-      {
-        "name": "DIOLSOF CONS",
-        "id": "MD-IDNO-1024600078215",
-        "amount": 333028.99,
-        "status": "pending"
-      },
-      {
-        "name": "DIOLSOF CONS",
-        "id": "MD-IDNO-1024600078215",
-        "amount": 318546.4,
-        "status": "pending"
-      },
-      {
-        "name": "DIOLSOF CONS",
-        "id": "MD-IDNO-1024600078215",
-        "amount": 328256.62,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1790853253138",
     "date": "2026-10-01T11:15:54Z",
     "title": "Lucrari de betonare a zonelor pentru leagane si banci de odihna din s. Budesti",
@@ -35935,6 +35894,47 @@
         "name": "Taticol SRL",
         "id": "MD-IDNO-1015600032374",
         "amount": 320660.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1789023327516",
+    "date": "2026-10-07T10:50:02Z",
+    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 1000000.0,
+    "bidders": [
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 333028.99
+      }
+    ],
+    "awards": [
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 320980.76,
+        "status": "pending"
+      },
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 333028.99,
+        "status": "pending"
+      },
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 318546.4,
+        "status": "pending"
+      },
+      {
+        "name": "DIOLSOF CONS",
+        "id": "MD-IDNO-1024600078215",
+        "amount": 328256.62,
         "status": "pending"
       }
     ]
