@@ -5013,6 +5013,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1703762897462",
+    "date": "2023-12-28T11:31:49Z",
+    "title": "1. Verificarea modificărilor de excludere – includere a devizelor la obiectivul: „Amenajarea Izvorul La Tamara, Parcul Valea Morilor” 2. Verificarea modificărilor de excludere – includere a devizelor la obiectivul: „Amenajarea Scuarului din str. 31 August",
+    "buyer": "PRETURA SECTORULUI CENTRU",
+    "cpv": "71240000-2",
+    "estimated_amount": 32250.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Todorova Nadejda",
+        "id": "MD-IDNO-2005001048800",
+        "amount": 32250.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
