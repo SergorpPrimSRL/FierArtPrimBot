@@ -4996,6 +4996,23 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1703684979319",
+    "date": "2023-12-27T14:05:40Z",
+    "title": "Foișoare din construcție metalică pentru TO Alunelul ",
+    "buyer": "DIRECTIA EDUCATIE, TINERET SI SPORT SECTORUL BOTANICA",
+    "cpv": "44100000-1",
+    "estimated_amount": 148958.3,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "srl AGROLUXTUR",
+        "id": "MD-IDNO-1015605000453",
+        "amount": 148958.3,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1703761792973",
     "date": "2024-01-03T09:38:45Z",
     "title": "Procurarea cărților pentru bibliotecă",
