@@ -1,5 +1,24 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1791470388491",
+    "title": "„Lucrări de reabilitare la Estrada de vară din  or. Călărași ”",
+    "authority": "Primaria  orașului Călărași",
+    "amount": 611552.83,
+    "currency": "MDL",
+    "deadline": "2026-10-21T06:00:00Z",
+    "deadline_text": "21.10.2026 09:00",
+    "status": "empty",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "estradă",
+      "estrada"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791470388491",
+    "source_date": "2026-10-08T14:43:12Z",
+    "saved_at": "2026-10-08T14:56:53.791339+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1791458236250",
     "title": "Servicii de organizare a Festivalului de creație incluzivă ,,Moldova Mea – Leagăn de flori”  ",
     "authority": "DIRECTIA GENERALA PENTRU PROTECTIA DREPTURILOR COPILULUI",
