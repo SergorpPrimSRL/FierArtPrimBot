@@ -35958,12 +35958,19 @@
   },
   {
     "ocid": "ocds-b3wdp1-MD-1791458236250",
-    "date": "2026-10-08T11:17:16Z",
+    "date": "2026-10-08T11:23:20Z",
     "title": "Servicii de organizare a Festivalului de creație incluzivă ,,Moldova Mea – Leagăn de flori”  ",
     "buyer": "DIRECTIA GENERALA PENTRU PROTECTIA DREPTURILOR COPILULUI",
-    "cpv": "",
+    "cpv": "79950000-8",
     "estimated_amount": 148730.0,
     "bidders": [],
-    "awards": []
+    "awards": [
+      {
+        "name": "S.R.L. \"ALEX BOOM\"",
+        "id": "MD-IDNO-1021600014025",
+        "amount": 148730.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
