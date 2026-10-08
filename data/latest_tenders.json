@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1791458236250",
+    "title": "Servicii de organizare a Festivalului de creație incluzivă ,,Moldova Mea – Leagăn de flori”  ",
+    "authority": "DIRECTIA GENERALA PENTRU PROTECTIA DREPTURILOR COPILULUI",
+    "amount": 148730.0,
+    "currency": "MDL",
+    "deadline": "",
+    "deadline_text": "nespecificat",
+    "status": "awarding",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "leagăn"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791458236250",
+    "source_date": "2026-10-08T11:23:20Z",
+    "saved_at": "2026-10-08T11:28:55.090634+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1791457298184",
     "title": "LUCRARI DE AMENAJARE DIN FATA SCENEI PAVAJ",
     "authority": "PRIMARIA SATULUI BADICUL MOLDOVENESC",
@@ -7,15 +25,15 @@
     "currency": "MDL",
     "deadline": "",
     "deadline_text": "nespecificat",
-    "status": "planning",
+    "status": "awarding",
     "score": 95,
     "label": "FOARTE INTERESANTĂ",
     "matches": [
       "scenei"
     ],
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791457298184",
-    "source_date": "2026-10-08T11:01:38Z",
-    "saved_at": "2026-10-08T11:07:23.962939+00:00"
+    "source_date": "2026-10-08T11:09:08Z",
+    "saved_at": "2026-10-08T11:28:13.051199+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1791269198249",
