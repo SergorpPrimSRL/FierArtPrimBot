@@ -35717,16 +35717,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1791187752307",
-    "date": "2026-10-05T08:26:15Z",
-    "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
-    "buyer": "PRIMARIA COVURLUI",
-    "cpv": "45200000-9",
-    "estimated_amount": 447641.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1791277339458",
     "date": "2026-10-06T09:11:24Z",
     "title": "Scrînciob din lemn",
@@ -35989,5 +35979,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791187752307",
+    "date": "2026-10-09T08:06:55Z",
+    "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
+    "buyer": "PRIMARIA COVURLUI",
+    "cpv": "45200000-9",
+    "estimated_amount": 447641.0,
+    "bidders": [],
+    "awards": []
   }
 ]
