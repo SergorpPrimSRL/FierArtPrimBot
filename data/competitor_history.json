@@ -36016,5 +36016,22 @@
     "estimated_amount": 631860.64,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791551450139",
+    "date": "2026-10-09T13:13:34Z",
+    "title": "Lucrări de reparație curentă a trei terenuri de joacă din mun. Soroca",
+    "buyer": "PRIMARIA MUNICIPIULUI SOROCA",
+    "cpv": "45200000-9",
+    "estimated_amount": 199460.27,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"P.B.D. INVEST\"",
+        "id": "MD-IDNO-1019607000721",
+        "amount": 199460.27,
+        "status": "pending"
+      }
+    ]
   }
 ]
