@@ -35989,5 +35989,32 @@
     "estimated_amount": 447641.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791536352209",
+    "date": "2026-10-09T09:02:50Z",
+    "title": "Echipament pentru terenul de joacă pentru IET nr. 145",
+    "buyer": "DIRECTIA EDUCATIE, TINERET SI SPORT SECTORUL BUIUCANI",
+    "cpv": "37450000-7",
+    "estimated_amount": 148000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"GREENBUILD\"",
+        "id": "MD-IDNO-1020600027765",
+        "amount": 148000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791536187320",
+    "date": "2026-10-09T09:21:08Z",
+    "title": "Achiziționarea, livrarea și instalarea echipamentelor pentru modernizarea și dotarea spațiilor de joacă ale Instituțiilor de Educație Timpurie nr.12 și nr.13 din mun.Bălți ",
+    "buyer": " Primăria mun. Bălți",
+    "cpv": "37500000-3",
+    "estimated_amount": 631860.64,
+    "bidders": [],
+    "awards": []
   }
 ]
