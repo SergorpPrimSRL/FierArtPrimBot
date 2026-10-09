@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1791187752307",
+    "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
+    "authority": "PRIMARIA COVURLUI",
+    "amount": 447641.0,
+    "currency": "MDL",
+    "deadline": "2026-10-16T07:00:00Z",
+    "deadline_text": "16.10.2026 10:00",
+    "status": "clarification",
+    "score": 62,
+    "label": "POSIBIL RELEVANTĂ",
+    "matches": [
+      "leagăn"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791187752307",
+    "source_date": "2026-10-09T08:06:55Z",
+    "saved_at": "2026-10-09T08:08:27.659603+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1791531581447",
     "title": "Lucrări de reparație curentă la construcția metalică a scenei de vară din Parcul „M. Eminescu” din mun. Soroca",
     "authority": "PRIMARIA MUNICIPIULUI SOROCA",
@@ -7,15 +25,35 @@
     "currency": "MDL",
     "deadline": "",
     "deadline_text": "nespecificat",
-    "status": "planning",
+    "status": "awarding",
     "score": 95,
     "label": "FOARTE INTERESANTĂ",
     "matches": [
       "scenei"
     ],
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791531581447",
-    "source_date": "2026-10-09T07:39:41Z",
-    "saved_at": "2026-10-09T07:47:44.172107+00:00"
+    "source_date": "2026-10-09T08:00:29Z",
+    "saved_at": "2026-10-09T08:08:04.342540+00:00"
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1790670501444",
+    "title": "Echipamente audio",
+    "authority": "IP Compania \"Teleradio-Moldova\"",
+    "amount": 965908.36,
+    "currency": "MDL",
+    "deadline": "2026-10-19T07:00:00Z",
+    "deadline_text": "19.10.2026 10:00",
+    "status": "tendering",
+    "score": 67,
+    "label": "POSIBIL RELEVANTĂ",
+    "matches": [
+      "construcție metalică",
+      "scenă",
+      "scena"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1790670501444",
+    "source_date": "2026-10-09T08:00:00Z",
+    "saved_at": "2026-10-09T08:08:00.435352+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1791524450788",
@@ -109,24 +147,6 @@
     "saved_at": "2026-10-07T08:07:59.763251+00:00"
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1791187752307",
-    "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
-    "authority": "PRIMARIA COVURLUI",
-    "amount": 447641.0,
-    "currency": "MDL",
-    "deadline": "2026-10-16T07:00:00Z",
-    "deadline_text": "16.10.2026 10:00",
-    "status": "empty",
-    "score": 62,
-    "label": "POSIBIL RELEVANTĂ",
-    "matches": [
-      "leagăn"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791187752307",
-    "source_date": "2026-10-05T08:26:15Z",
-    "saved_at": "2026-10-05T08:31:37.270163+00:00"
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1790769376362",
     "title": "Lucrări de reparații curente a platformei la scena de vară din parcul „M. Eminescu” din mun. Soroca",
     "authority": "PRIMARIA MUNICIPIULUI SOROCA",
@@ -162,26 +182,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1790670931579",
     "source_date": "2026-09-29T08:37:44Z",
     "saved_at": "2026-09-29T08:44:12.773737+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1790670501444",
-    "title": "Echipamente audio",
-    "authority": "IP Compania \"Teleradio-Moldova\"",
-    "amount": 965908.36,
-    "currency": "MDL",
-    "deadline": "2026-10-19T07:00:00Z",
-    "deadline_text": "19.10.2026 10:00",
-    "status": "empty",
-    "score": 67,
-    "label": "POSIBIL RELEVANTĂ",
-    "matches": [
-      "construcție metalică",
-      "scenă",
-      "scena"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1790670501444",
-    "source_date": "2026-09-29T08:33:03Z",
-    "saved_at": "2026-09-29T08:43:59.283771+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1789736394782",
