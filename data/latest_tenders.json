@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1791531581447",
+    "title": "Lucrări de reparație curentă la construcția metalică a scenei de vară din Parcul „M. Eminescu” din mun. Soroca",
+    "authority": "PRIMARIA MUNICIPIULUI SOROCA",
+    "amount": 199230.56,
+    "currency": "MDL",
+    "deadline": "",
+    "deadline_text": "nespecificat",
+    "status": "planning",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "scenei"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791531581447",
+    "source_date": "2026-10-09T07:39:41Z",
+    "saved_at": "2026-10-09T07:47:44.172107+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1791524450788",
     "title": "Mobilier urban",
     "authority": "Primăria or. Cricova",
