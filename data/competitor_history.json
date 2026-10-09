@@ -35972,5 +35972,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791524450788",
+    "date": "2026-10-09T05:44:44Z",
+    "title": "Mobilier urban",
+    "buyer": "Primăria or. Cricova",
+    "cpv": "34900000-6",
+    "estimated_amount": 148750.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Woodartcons",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 148750.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
