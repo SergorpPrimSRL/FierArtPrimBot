@@ -36008,16 +36008,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1791536187320",
-    "date": "2026-10-09T09:21:08Z",
-    "title": "Achiziționarea, livrarea și instalarea echipamentelor pentru modernizarea și dotarea spațiilor de joacă ale Instituțiilor de Educație Timpurie nr.12 și nr.13 din mun.Bălți ",
-    "buyer": " Primăria mun. Bălți",
-    "cpv": "37500000-3",
-    "estimated_amount": 631860.64,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1791551450139",
     "date": "2026-10-09T13:13:34Z",
     "title": "Lucrări de reparație curentă a trei terenuri de joacă din mun. Soroca",
@@ -36033,5 +36023,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791536187320",
+    "date": "2026-10-09T18:52:58Z",
+    "title": "Achiziționarea, livrarea și instalarea echipamentelor pentru modernizarea și dotarea spațiilor de joacă ale Instituțiilor de Educație Timpurie nr.12 și nr.13 din mun.Bălți ",
+    "buyer": " Primăria mun. Bălți",
+    "cpv": "37500000-3",
+    "estimated_amount": 631860.64,
+    "bidders": [],
+    "awards": []
   }
 ]
