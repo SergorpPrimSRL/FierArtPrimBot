@@ -36033,5 +36033,22 @@
     "estimated_amount": 631860.64,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791627564300",
+    "date": "2026-10-10T10:22:11Z",
+    "title": "ANEXA DE LEAGAN LA TEREN DE JOACA",
+    "buyer": "PRIMARIA COMUNEI COTIUJENII MARI",
+    "cpv": "37500000-3",
+    "estimated_amount": 10416.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PLAYGROUND STORE\"",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 10416.67,
+        "status": "pending"
+      }
+    ]
   }
 ]
