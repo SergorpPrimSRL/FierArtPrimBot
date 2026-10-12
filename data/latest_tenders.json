@@ -1,5 +1,26 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1791536187320",
+    "title": "Achiziționarea, livrarea și instalarea echipamentelor pentru modernizarea și dotarea spațiilor de joacă ale Instituțiilor de Educație Timpurie nr.12 și nr.13 din mun.Bălți ",
+    "authority": " Primăria mun. Bălți",
+    "amount": 631860.64,
+    "currency": "MDL",
+    "deadline": "2026-10-17T07:00:00Z",
+    "deadline_text": "17.10.2026 10:00",
+    "status": "clarification",
+    "score": 90,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "spații de joacă",
+      "complex de joacă",
+      "tobogan",
+      "carusel"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791536187320",
+    "source_date": "2026-10-12T05:52:08Z",
+    "saved_at": "2026-10-12T06:31:45.198712+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1791551450139",
     "title": "Lucrări de reparație curentă a trei terenuri de joacă din mun. Soroca",
     "authority": "PRIMARIA MUNICIPIULUI SOROCA",
@@ -16,27 +37,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791551450139",
     "source_date": "2026-10-09T13:13:34Z",
     "saved_at": "2026-10-09T13:19:44.115201+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1791536187320",
-    "title": "Achiziționarea, livrarea și instalarea echipamentelor pentru modernizarea și dotarea spațiilor de joacă ale Instituțiilor de Educație Timpurie nr.12 și nr.13 din mun.Bălți ",
-    "authority": " Primăria mun. Bălți",
-    "amount": 631860.64,
-    "currency": "MDL",
-    "deadline": "2026-10-17T07:00:00Z",
-    "deadline_text": "17.10.2026 10:00",
-    "status": "empty",
-    "score": 90,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "spații de joacă",
-      "complex de joacă",
-      "tobogan",
-      "carusel"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791536187320",
-    "source_date": "2026-10-09T09:21:08Z",
-    "saved_at": "2026-10-09T09:29:39.579313+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1791187752307",
