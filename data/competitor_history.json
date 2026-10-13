@@ -36145,5 +36145,22 @@
     "estimated_amount": 33333.33,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791896724445",
+    "date": "2026-10-13T13:09:05Z",
+    "title": "Achiziționarea construcțiilor speciale",
+    "buyer": "PRIMARIA COMUNEI GHETLOVA",
+    "cpv": "37530000-2",
+    "estimated_amount": 100000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PLAYGROUND STORE\"",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 100000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
