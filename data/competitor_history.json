@@ -36100,16 +36100,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1791536187320",
-    "date": "2026-10-12T18:51:42Z",
-    "title": "Achiziționarea, livrarea și instalarea echipamentelor pentru modernizarea și dotarea spațiilor de joacă ale Instituțiilor de Educație Timpurie nr.12 și nr.13 din mun.Bălți ",
-    "buyer": " Primăria mun. Bălți",
-    "cpv": "37500000-3",
-    "estimated_amount": 631860.64,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1791875246438",
     "date": "2026-10-13T07:10:36Z",
     "title": "achizitionarea leaganului Semicerc",
@@ -36162,5 +36152,49 @@
     "estimated_amount": 447641.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791978390859",
+    "date": "2026-10-14T12:00:57Z",
+    "title": "Servicii de tobogan gonflabil în cadrul evenimentului dedicat Zilei  Copiilor 1 Iunie 2026 ",
+    "buyer": "PRIMARIA ORASULUI TELENESTI",
+    "cpv": "92300000-4",
+    "estimated_amount": 10000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"NOVAGENIUS\"",
+        "id": "MD-IDNO-1016606004167",
+        "amount": 10000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791536187320",
+    "date": "2026-10-14T13:13:06Z",
+    "title": "Achiziționarea, livrarea și instalarea echipamentelor pentru modernizarea și dotarea spațiilor de joacă ale Instituțiilor de Educație Timpurie nr.12 și nr.13 din mun.Bălți ",
+    "buyer": " Primăria mun. Bălți",
+    "cpv": "37500000-3",
+    "estimated_amount": 631860.64,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791985223520",
+    "date": "2026-10-14T13:45:06Z",
+    "title": "servicii de reparatia curenta a literelor la inscriptia luminoasa Anenii Noi, demontarea havuzului luminos din or.Anenii Noi, procurarea bancilor,urnelor, balansoar la terenul de joaca str.Chisinaului , sticlei  p/u statia de asteptare str.Suvorov ",
+    "buyer": "ANENII NOI PRIMARIA",
+    "cpv": "50800000-3",
+    "estimated_amount": 94310.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"FIER-ART-PRIM\"",
+        "id": "MD-IDNO-1019608000647",
+        "amount": 94310.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
