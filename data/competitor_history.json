@@ -36196,5 +36196,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792009698814",
+    "date": "2026-10-14T20:35:38Z",
+    "title": "Echipament pentru terenuri de joacă (inclusiv livrare și instalare), CPV: 37535200-9 (REPETAT)",
+    "buyer": "Primaria Puhaceni",
+    "cpv": "37500000-3",
+    "estimated_amount": 333000.0,
+    "bidders": [],
+    "awards": []
   }
 ]
