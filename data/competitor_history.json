@@ -36083,16 +36083,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1791187752307",
-    "date": "2026-10-12T07:13:25Z",
-    "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
-    "buyer": "PRIMARIA COVURLUI",
-    "cpv": "45200000-9",
-    "estimated_amount": 447641.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1791791307691",
     "date": "2026-10-12T07:51:24Z",
     "title": "Servicii de verificare a documentației de proiect și deviz pentru următorul obiect:  „Amenajarea scuarului din preajma str. Ștefan cel Mare, 16-18, pe imobil/teren cu nr. cad. 7801112, situat în mun. Soroca, str. Ștefan cel Mare 16-18”.",
@@ -36162,5 +36152,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791187752307",
+    "date": "2026-10-14T05:16:42Z",
+    "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
+    "buyer": "PRIMARIA COVURLUI",
+    "cpv": "45200000-9",
+    "estimated_amount": 447641.0,
+    "bidders": [],
+    "awards": []
   }
 ]
