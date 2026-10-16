@@ -36216,5 +36216,22 @@
     "estimated_amount": 78333.34,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792139022047",
+    "date": "2026-10-16T08:27:52Z",
+    "title": "Anexa de leagăn la terenul de joacă pentru IET nr. 17",
+    "buyer": "PRIMARIA MUNICIPIULUI SOROCA",
+    "cpv": "37530000-2",
+    "estimated_amount": 14750.01,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"PLAYGROUND STORE\"",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 14750.01,
+        "status": "pending"
+      }
+    ]
   }
 ]
