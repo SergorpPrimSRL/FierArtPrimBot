@@ -1,5 +1,25 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1792143076752",
+    "title": "Echipament pentru teren de joaca",
+    "authority": "Primaria comunei Pereni",
+    "amount": 104166.67,
+    "currency": "MDL",
+    "deadline": "",
+    "deadline_text": "nespecificat",
+    "status": "awarding",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "teren de joacă",
+      "complex de joacă",
+      "carusel"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792143076752",
+    "source_date": "2026-10-16T09:42:50Z",
+    "saved_at": "2026-10-16T09:50:23.851237+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1792009698814",
     "title": "Echipament pentru terenuri de joacă (inclusiv livrare și instalare), CPV: 37535200-9 (REPETAT)",
     "authority": "Primaria Puhaceni",
