@@ -36233,5 +36233,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792143076752",
+    "date": "2026-10-16T09:42:50Z",
+    "title": "Echipament pentru teren de joaca",
+    "buyer": "Primaria comunei Pereni",
+    "cpv": "37500000-3",
+    "estimated_amount": 104166.67,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 104166.67,
+        "status": "pending"
+      }
+    ]
   }
 ]
