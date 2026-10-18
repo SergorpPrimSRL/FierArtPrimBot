@@ -36213,16 +36213,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1791187752307",
-    "date": "2026-10-14T07:13:25Z",
-    "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
-    "buyer": "PRIMARIA COVURLUI",
-    "cpv": "45200000-9",
-    "estimated_amount": 447641.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1791978390859",
     "date": "2026-10-14T12:00:57Z",
     "title": "Servicii de tobogan gonflabil în cadrul evenimentului dedicat Zilei  Copiilor 1 Iunie 2026 ",
@@ -36238,16 +36228,6 @@
         "status": "pending"
       }
     ]
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1791536187320",
-    "date": "2026-10-14T13:13:06Z",
-    "title": "Achiziționarea, livrarea și instalarea echipamentelor pentru modernizarea și dotarea spațiilor de joacă ale Instituțiilor de Educație Timpurie nr.12 și nr.13 din mun.Bălți ",
-    "buyer": " Primăria mun. Bălți",
-    "cpv": "37500000-3",
-    "estimated_amount": 631860.64,
-    "bidders": [],
-    "awards": []
   },
   {
     "ocid": "ocds-b3wdp1-MD-1791985223520",
@@ -36361,6 +36341,43 @@
         "name": "Dastimart",
         "id": "MD-IDNO-1021600020039",
         "amount": 104166.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791187752307",
+    "date": "2026-10-18T07:13:25Z",
+    "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
+    "buyer": "PRIMARIA COVURLUI",
+    "cpv": "45200000-9",
+    "estimated_amount": 447641.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791536187320",
+    "date": "2026-10-18T08:13:06Z",
+    "title": "Achiziționarea, livrarea și instalarea echipamentelor pentru modernizarea și dotarea spațiilor de joacă ale Instituțiilor de Educație Timpurie nr.12 și nr.13 din mun.Bălți ",
+    "buyer": " Primăria mun. Bălți",
+    "cpv": "37500000-3",
+    "estimated_amount": 631860.64,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792316745204",
+    "date": "2026-10-18T09:49:29Z",
+    "title": "Complex de joaca",
+    "buyer": "PRIMARIA MILESTII MICI",
+    "cpv": "42900000-5",
+    "estimated_amount": 27180.83,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SERGORP-PRIM\"",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 27180.83,
         "status": "pending"
       }
     ]
