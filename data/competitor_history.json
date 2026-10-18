@@ -124,6 +124,51 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1641460392893",
+    "date": "2022-02-08T14:13:41Z",
+    "title": "Evaluation",
+    "buyer": "Pretura sectorului Ciocana",
+    "cpv": "45200000-9",
+    "estimated_amount": 1605890.0,
+    "bidders": [
+      {
+        "name": "ATAR INTER",
+        "id": "MD-IDNO-1015600010057",
+        "amount": 1604454.12
+      },
+      {
+        "name": "Avi-Bors",
+        "id": "MD-IDNO-1003600124504",
+        "amount": 1207500.31
+      },
+      {
+        "name": "Camonir",
+        "id": "MD-IDNO-1004600018804",
+        "amount": 1489293.51
+      }
+    ],
+    "awards": [
+      {
+        "name": "Avi-Bors",
+        "id": "MD-IDNO-1003600124504",
+        "amount": 1207500.31,
+        "status": "pending"
+      },
+      {
+        "name": "Camonir",
+        "id": "MD-IDNO-1004600018804",
+        "amount": 1489293.51,
+        "status": "pending"
+      },
+      {
+        "name": "ATAR INTER",
+        "id": "MD-IDNO-1015600010057",
+        "amount": 1604454.12,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
