@@ -29407,51 +29407,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1779793694763",
-    "date": "2026-06-17T13:09:21Z",
-    "title": "Set de jucării pentru copiii din învățământul preșcolar",
-    "buyer": "Ministerul Educației și Cercetării",
-    "cpv": "37520000-9",
-    "estimated_amount": 1651167.0,
-    "bidders": [
-      {
-        "name": "Didact Vega",
-        "id": "MD-IDNO-1011600040409",
-        "amount": 1556755.0
-      },
-      {
-        "name": "Cartdidact",
-        "id": "MD-IDNO-1003600026653",
-        "amount": 2108800.0
-      },
-      {
-        "name": "INTERBRANDS PROD",
-        "id": "MD-IDNO-1021600033341",
-        "amount": 1599890.0
-      }
-    ],
-    "awards": [
-      {
-        "name": "Didact Vega",
-        "id": "MD-IDNO-1011600040409",
-        "amount": 1554900.0,
-        "status": "pending"
-      },
-      {
-        "name": "INTERBRANDS PROD",
-        "id": "MD-IDNO-1021600033341",
-        "amount": 1555000.0,
-        "status": "pending"
-      },
-      {
-        "name": "Cartdidact",
-        "id": "MD-IDNO-1003600026653",
-        "amount": 2108800.0,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1781849422945",
     "date": "2026-06-19T06:42:31Z",
     "title": "Servicii de verificare a devizului de cheltuieli la reparația curentă cu amenjarea a unui teren de joacă",
@@ -31818,16 +31773,6 @@
     "buyer": "PRIMARIA COMUNEI CRUZESTI",
     "cpv": "37420000-8",
     "estimated_amount": 20833.33,
-    "bidders": [],
-    "awards": []
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1788963701884",
-    "date": "2026-09-14T19:58:06Z",
-    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
-    "buyer": "Grădina Zoologică",
-    "cpv": "37500000-3",
-    "estimated_amount": 466460.0,
     "bidders": [],
     "awards": []
   },
@@ -35323,80 +35268,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1788263030607",
-    "date": "2026-09-22T06:47:04Z",
-    "title": "echipament pentru terenuri de joaca",
-    "buyer": "Primăria municipiului Cahul",
-    "cpv": "37500000-3",
-    "estimated_amount": 488000.0,
-    "bidders": [
-      {
-        "name": "Trio Construct SRL",
-        "id": "MD-IDNO-1016600013974",
-        "amount": 232375.0
-      },
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 254341.66
-      },
-      {
-        "name": "PLAYPARK",
-        "id": "MD-IDNO-1023600065456",
-        "amount": 245500.0
-      },
-      {
-        "name": "Dastimart",
-        "id": "MD-IDNO-1021600020039",
-        "amount": 233075.0
-      }
-    ],
-    "awards": [
-      {
-        "name": "Trio Construct SRL",
-        "id": "MD-IDNO-1016600013974",
-        "amount": 199950.0,
-        "status": "pending"
-      },
-      {
-        "name": "Dastimart",
-        "id": "MD-IDNO-1021600020039",
-        "amount": 200000.0,
-        "status": "pending"
-      },
-      {
-        "name": "PLAYPARK",
-        "id": "MD-IDNO-1023600065456",
-        "amount": 245500.0,
-        "status": "pending"
-      },
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 254341.66,
-        "status": "pending"
-      },
-      {
-        "name": "Trio Construct SRL",
-        "id": "MD-IDNO-1016600013974",
-        "amount": 229000.0,
-        "status": "pending"
-      },
-      {
-        "name": "Dastimart",
-        "id": "MD-IDNO-1021600020039",
-        "amount": 230000.2,
-        "status": "pending"
-      },
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 258858.33,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1790066499744",
     "date": "2026-09-22T09:00:02Z",
     "title": "procurarea echipamentului pu teren de joaca",
@@ -36436,5 +36307,144 @@
     "estimated_amount": 333000.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1788963701884",
+    "date": "2026-10-19T06:26:46Z",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
+    "buyer": "Grădina Zoologică",
+    "cpv": "37500000-3",
+    "estimated_amount": 466460.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1788263030607",
+    "date": "2026-10-19T09:14:53Z",
+    "title": "echipament pentru terenuri de joaca",
+    "buyer": "Primăria municipiului Cahul",
+    "cpv": "37500000-3",
+    "estimated_amount": 488000.0,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 232375.0
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 254341.66
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 245500.0
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 233075.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 199950.0,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 200000.0,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 245500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 254341.66,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 229000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 230000.2,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 258858.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792392007299",
+    "date": "2026-10-19T10:24:34Z",
+    "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
+    "buyer": "Grădina Zoologică",
+    "cpv": "45300000-0",
+    "estimated_amount": 521235.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1779793694763",
+    "date": "2026-10-19T11:06:58Z",
+    "title": "Set de jucării pentru copiii din învățământul preșcolar",
+    "buyer": "Ministerul Educației și Cercetării",
+    "cpv": "37520000-9",
+    "estimated_amount": 1651167.0,
+    "bidders": [
+      {
+        "name": "Didact Vega",
+        "id": "MD-IDNO-1011600040409",
+        "amount": 1556755.0
+      },
+      {
+        "name": "Cartdidact",
+        "id": "MD-IDNO-1003600026653",
+        "amount": 2108800.0
+      },
+      {
+        "name": "INTERBRANDS PROD",
+        "id": "MD-IDNO-1021600033341",
+        "amount": 1599890.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Didact Vega",
+        "id": "MD-IDNO-1011600040409",
+        "amount": 1554900.0,
+        "status": "pending"
+      },
+      {
+        "name": "INTERBRANDS PROD",
+        "id": "MD-IDNO-1021600033341",
+        "amount": 1555000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Cartdidact",
+        "id": "MD-IDNO-1003600026653",
+        "amount": 2108800.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
