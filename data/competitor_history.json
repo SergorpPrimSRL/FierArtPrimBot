@@ -36262,16 +36262,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1791187752307",
-    "date": "2026-10-18T07:13:25Z",
-    "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
-    "buyer": "PRIMARIA COVURLUI",
-    "cpv": "45200000-9",
-    "estimated_amount": 447641.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1791536187320",
     "date": "2026-10-18T08:13:06Z",
     "title": "Achiziționarea, livrarea și instalarea echipamentelor pentru modernizarea și dotarea spațiilor de joacă ale Instituțiilor de Educație Timpurie nr.12 și nr.13 din mun.Bălți ",
@@ -36393,16 +36383,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1792392007299",
-    "date": "2026-10-19T10:24:34Z",
-    "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
-    "buyer": "Grădina Zoologică",
-    "cpv": "45300000-0",
-    "estimated_amount": 521235.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1779793694763",
     "date": "2026-10-19T11:06:58Z",
     "title": "Set de jucării pentru copiii din învățământul preșcolar",
@@ -36446,5 +36426,66 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791187752307",
+    "date": "2026-10-19T12:45:30Z",
+    "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
+    "buyer": "PRIMARIA COVURLUI",
+    "cpv": "45200000-9",
+    "estimated_amount": 447641.0,
+    "bidders": [
+      {
+        "name": "UDS-CONSTRUCT",
+        "id": "MD-IDNO-1023611001966",
+        "amount": 324814.8
+      },
+      {
+        "name": "SRL SUD-TERRA",
+        "id": "MD-IDNO-1014611001799",
+        "amount": 350006.27
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 58900.4
+      }
+    ],
+    "awards": [
+      {
+        "name": "UDS-CONSTRUCT",
+        "id": "MD-IDNO-1023611001966",
+        "amount": 324814.8,
+        "status": "pending"
+      },
+      {
+        "name": "SRL SUD-TERRA",
+        "id": "MD-IDNO-1014611001799",
+        "amount": 350006.27,
+        "status": "pending"
+      },
+      {
+        "name": "UDS-CONSTRUCT",
+        "id": "MD-IDNO-1023611001966",
+        "amount": 50444.77,
+        "status": "pending"
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 58900.4,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792392007299",
+    "date": "2026-10-19T17:23:48Z",
+    "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
+    "buyer": "Grădina Zoologică",
+    "cpv": "45300000-0",
+    "estimated_amount": 521235.0,
+    "bidders": [],
+    "awards": []
   }
 ]
