@@ -1,5 +1,42 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1792392007299",
+    "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
+    "authority": "Grădina Zoologică",
+    "amount": 521235.0,
+    "currency": "MDL",
+    "deadline": "2026-10-30T06:00:00Z",
+    "deadline_text": "30.10.2026 09:00",
+    "status": "empty",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "complex de joacă",
+      "amenajarea zonei de agrement"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792392007299",
+    "source_date": "2026-10-19T06:47:15Z",
+    "saved_at": "2026-10-19T06:49:47.536589+00:00"
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792009698814",
+    "title": "Echipament pentru terenuri de joacă (inclusiv livrare și instalare), CPV: 37535200-9 (REPETAT)",
+    "authority": "Primaria Puhaceni",
+    "amount": 333000.0,
+    "currency": "MDL",
+    "deadline": "2026-10-22T07:00:00Z",
+    "deadline_text": "22.10.2026 10:00",
+    "status": "tendering",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "terenuri de joacă"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792009698814",
+    "source_date": "2026-10-19T05:00:00Z",
+    "saved_at": "2026-10-19T06:48:40.857633+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1792143076752",
     "title": "Echipament pentru teren de joaca",
     "authority": "Primaria comunei Pereni",
@@ -18,24 +55,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792143076752",
     "source_date": "2026-10-16T09:42:50Z",
     "saved_at": "2026-10-16T09:50:23.851237+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1792009698814",
-    "title": "Echipament pentru terenuri de joacă (inclusiv livrare și instalare), CPV: 37535200-9 (REPETAT)",
-    "authority": "Primaria Puhaceni",
-    "amount": 333000.0,
-    "currency": "MDL",
-    "deadline": "2026-10-22T07:00:00Z",
-    "deadline_text": "22.10.2026 10:00",
-    "status": "empty",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "terenuri de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792009698814",
-    "source_date": "2026-10-14T20:35:38Z",
-    "saved_at": "2026-10-14T23:12:49.460204+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1791536187320",
