@@ -35667,51 +35667,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1787750095499",
-    "date": "2026-10-02T12:40:43Z",
-    "title": "Platforme pentru colectarea deșeurilor menajere, inclusiv instalarea și amenajarea",
-    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
-    "cpv": "34900000-6",
-    "estimated_amount": 4900000.0,
-    "bidders": [
-      {
-        "name": "Pro Tron Media",
-        "id": "MD-IDNO-1011600007699",
-        "amount": 3488831.32
-      },
-      {
-        "name": "SERGORP-PRIM",
-        "id": "MD-IDNO-1018608001681",
-        "amount": 3702595.0
-      },
-      {
-        "name": "S.R.L Urban Nova Grup",
-        "id": "MD-IDNO-1008600038815",
-        "amount": 3886005.65
-      }
-    ],
-    "awards": [
-      {
-        "name": "Pro Tron Media",
-        "id": "MD-IDNO-1011600007699",
-        "amount": 3488831.32,
-        "status": "pending"
-      },
-      {
-        "name": "SERGORP-PRIM",
-        "id": "MD-IDNO-1018608001681",
-        "amount": 3702595.0,
-        "status": "pending"
-      },
-      {
-        "name": "S.R.L Urban Nova Grup",
-        "id": "MD-IDNO-1008600038815",
-        "amount": 3886005.65,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1791277339458",
     "date": "2026-10-06T09:11:24Z",
     "title": "Scrînciob din lemn",
@@ -36487,5 +36442,77 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792479423989",
+    "date": "2026-10-20T07:02:02Z",
+    "title": "Articole și echipament pentru terenele de sport",
+    "buyer": "PRIMARIA CARACUSENII VECHI",
+    "cpv": "37400000-2",
+    "estimated_amount": 91666.66,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"SERGORP-PRIM\"",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 91666.66,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1787750095499",
+    "date": "2026-10-20T07:44:27Z",
+    "title": "Platforme pentru colectarea deșeurilor menajere, inclusiv instalarea și amenajarea",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "34900000-6",
+    "estimated_amount": 4900000.0,
+    "bidders": [
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 3488831.32
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 3702595.0
+      },
+      {
+        "name": "S.R.L Urban Nova Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 3886005.65
+      }
+    ],
+    "awards": [
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 3488831.32,
+        "status": "pending"
+      },
+      {
+        "name": "SERGORP-PRIM",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 3702595.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Urban Nova Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 3886005.65,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792485914579",
+    "date": "2026-10-20T08:53:25Z",
+    "title": "Achiziționarea echipamentelor de joacă pentru terenul de joacă din satul Pașcani, raionul Criuleni",
+    "buyer": "Primaria com Pascani",
+    "cpv": "37535200-9",
+    "estimated_amount": 166666.67,
+    "bidders": [],
+    "awards": []
   }
 ]
