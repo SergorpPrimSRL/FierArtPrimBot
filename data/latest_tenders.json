@@ -1,5 +1,26 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1792497171196",
+    "title": "echipament pentru teren de joacă",
+    "authority": "PRIMARIA SATULUI ANTONESTI",
+    "amount": 148699.99,
+    "currency": "MDL",
+    "deadline": "",
+    "deadline_text": "nespecificat",
+    "status": "awarding",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "teren de joacă",
+      "complex de joacă",
+      "carusel",
+      "balansoar"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792497171196",
+    "source_date": "2026-10-20T12:30:37Z",
+    "saved_at": "2026-10-20T12:33:23.425378+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1792392007299",
     "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
     "authority": "Grădina Zoologică",
@@ -536,24 +557,5 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789128600159",
     "source_date": "2026-09-11T12:13:28Z",
     "saved_at": "2026-09-11T12:30:11.739858+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789119623542",
-    "title": "Tobogan copii",
-    "authority": "PRIMARIA SATULUI VISCAUTI",
-    "amount": 6111.67,
-    "currency": "MDL",
-    "deadline": "",
-    "deadline_text": "nespecificat",
-    "status": "awarding",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "tobogan",
-      "balansoare"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789119623542",
-    "source_date": "2026-09-11T09:46:07Z",
-    "saved_at": "2026-09-11T09:51:49.939398+00:00"
   }
 ]
