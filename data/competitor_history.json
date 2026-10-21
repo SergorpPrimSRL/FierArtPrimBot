@@ -36451,8 +36451,52 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1792068727748",
+    "date": "2026-10-20T12:00:00Z",
+    "title": "Mobilier urban",
+    "buyer": "Primaria s. Elizaveta",
+    "cpv": "34900000-6",
+    "estimated_amount": 78333.34,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792497171196",
+    "date": "2026-10-20T12:30:37Z",
+    "title": "echipament pentru teren de joacă",
+    "buyer": "PRIMARIA SATULUI ANTONESTI",
+    "cpv": "37500000-3",
+    "estimated_amount": 148699.99,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"HOMY DECOR\"",
+        "id": "MD-IDNO-1014600019606",
+        "amount": 148699.99,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792568615381",
+    "date": "2026-10-21T07:51:09Z",
+    "title": "Reparații capitale ale construcțiilor special platforme pentru foișori la gradinița creșa nr.1”Antoșca”.",
+    "buyer": "PRIMARIA ORASULUI BASARABEASCA",
+    "cpv": "45200000-9",
+    "estimated_amount": 41116.2,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "I.I. \"MESTER GHIMISLI\"",
+        "id": "MD-IDNO-1002605001458",
+        "amount": 41116.2,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1787750095499",
-    "date": "2026-10-20T07:44:27Z",
+    "date": "2026-10-21T14:28:24Z",
     "title": "Platforme pentru colectarea deșeurilor menajere, inclusiv instalarea și amenajarea",
     "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
     "cpv": "34900000-6",
@@ -36497,56 +36541,12 @@
   },
   {
     "ocid": "ocds-b3wdp1-MD-1792485914579",
-    "date": "2026-10-20T08:53:25Z",
+    "date": "2026-10-21T16:07:22Z",
     "title": "Achiziționarea echipamentelor de joacă pentru terenul de joacă din satul Pașcani, raionul Criuleni",
     "buyer": "Primaria com Pascani",
     "cpv": "37535200-9",
     "estimated_amount": 166666.67,
     "bidders": [],
     "awards": []
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1792068727748",
-    "date": "2026-10-20T12:00:00Z",
-    "title": "Mobilier urban",
-    "buyer": "Primaria s. Elizaveta",
-    "cpv": "34900000-6",
-    "estimated_amount": 78333.34,
-    "bidders": [],
-    "awards": []
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1792497171196",
-    "date": "2026-10-20T12:30:37Z",
-    "title": "echipament pentru teren de joacă",
-    "buyer": "PRIMARIA SATULUI ANTONESTI",
-    "cpv": "37500000-3",
-    "estimated_amount": 148699.99,
-    "bidders": [],
-    "awards": [
-      {
-        "name": "S.R.L. \"HOMY DECOR\"",
-        "id": "MD-IDNO-1014600019606",
-        "amount": 148699.99,
-        "status": "pending"
-      }
-    ]
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1792568615381",
-    "date": "2026-10-21T07:51:09Z",
-    "title": "Reparații capitale ale construcțiilor special platforme pentru foișori la gradinița creșa nr.1”Antoșca”.",
-    "buyer": "PRIMARIA ORASULUI BASARABEASCA",
-    "cpv": "45200000-9",
-    "estimated_amount": 41116.2,
-    "bidders": [],
-    "awards": [
-      {
-        "name": "I.I. \"MESTER GHIMISLI\"",
-        "id": "MD-IDNO-1002605001458",
-        "amount": 41116.2,
-        "status": "pending"
-      }
-    ]
   }
 ]
