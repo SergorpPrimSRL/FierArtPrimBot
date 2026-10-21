@@ -5,17 +5,17 @@
     "authority": "Moldelectrica",
     "amount": 1800000.0,
     "currency": "MDL",
-    "deadline": "",
-    "deadline_text": "nespecificat",
-    "status": "planning",
+    "deadline": "2026-11-10T15:00:00Z",
+    "deadline_text": "10.11.2026 18:00",
+    "status": "empty",
     "score": 72,
     "label": "INTERESANTĂ",
     "matches": [
       "construcții metalice"
     ],
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792564641117",
-    "source_date": "2026-10-21T06:37:20Z",
-    "saved_at": "2026-10-21T07:21:14.270353+00:00"
+    "source_date": "2026-10-21T08:01:23Z",
+    "saved_at": "2026-10-21T13:03:26.215695+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1792497171196",
