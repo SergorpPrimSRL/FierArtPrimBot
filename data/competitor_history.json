@@ -36234,16 +36234,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1792009698814",
-    "date": "2026-10-19T05:00:00Z",
-    "title": "Echipament pentru terenuri de joacă (inclusiv livrare și instalare), CPV: 37535200-9 (REPETAT)",
-    "buyer": "Primaria Puhaceni",
-    "cpv": "37500000-3",
-    "estimated_amount": 333000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1788963701884",
     "date": "2026-10-19T06:26:46Z",
     "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
@@ -36540,12 +36530,32 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1792009698814",
+    "date": "2026-10-22T07:00:00Z",
+    "title": "Echipament pentru terenuri de joacă (inclusiv livrare și instalare), CPV: 37535200-9 (REPETAT)",
+    "buyer": "Primaria Puhaceni",
+    "cpv": "37500000-3",
+    "estimated_amount": 333000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1792485914579",
-    "date": "2026-10-22T05:00:00Z",
+    "date": "2026-10-22T08:17:37Z",
     "title": "Achiziționarea echipamentelor de joacă pentru terenul de joacă din satul Pașcani, raionul Criuleni",
     "buyer": "Primaria com Pascani",
     "cpv": "37535200-9",
     "estimated_amount": 166666.67,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792662509470",
+    "date": "2026-10-22T09:50:44Z",
+    "title": "Complex de joaca pentru copii inclusiv livrarea si instalare",
+    "buyer": "PRIMARIA COMUNEI PRUTENI",
+    "cpv": "39100000-3",
+    "estimated_amount": 167945.0,
     "bidders": [],
     "awards": []
   }
