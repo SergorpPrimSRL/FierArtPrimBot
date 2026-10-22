@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1792662509470",
+    "title": "Complex de joaca pentru copii inclusiv livrarea si instalare",
+    "authority": "PRIMARIA COMUNEI PRUTENI",
+    "amount": 167945.0,
+    "currency": "MDL",
+    "deadline": "2026-10-29T09:00:00Z",
+    "deadline_text": "29.10.2026 12:00",
+    "status": "empty",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "complex de joacă"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792662509470",
+    "source_date": "2026-10-22T09:50:44Z",
+    "saved_at": "2026-10-22T09:52:54.306608+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1792564641117",
     "title": "Construcții metalice pentru LEA 110-400 kV  ",
     "authority": "Moldelectrica",
@@ -58,24 +76,6 @@
     "saved_at": "2026-10-19T19:55:34.989287+00:00"
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1792009698814",
-    "title": "Echipament pentru terenuri de joacă (inclusiv livrare și instalare), CPV: 37535200-9 (REPETAT)",
-    "authority": "Primaria Puhaceni",
-    "amount": 333000.0,
-    "currency": "MDL",
-    "deadline": "2026-10-22T07:00:00Z",
-    "deadline_text": "22.10.2026 10:00",
-    "status": "tendering",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "terenuri de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792009698814",
-    "source_date": "2026-10-19T05:00:00Z",
-    "saved_at": "2026-10-19T06:48:40.857633+00:00"
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1792143076752",
     "title": "Echipament pentru teren de joaca",
     "authority": "Primaria comunei Pereni",
@@ -94,64 +94,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792143076752",
     "source_date": "2026-10-16T09:42:50Z",
     "saved_at": "2026-10-16T09:50:23.851237+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1791536187320",
-    "title": "Achiziționarea, livrarea și instalarea echipamentelor pentru modernizarea și dotarea spațiilor de joacă ale Instituțiilor de Educație Timpurie nr.12 și nr.13 din mun.Bălți ",
-    "authority": " Primăria mun. Bălți",
-    "amount": 631860.64,
-    "currency": "MDL",
-    "deadline": "2026-10-18T08:13:06Z",
-    "deadline_text": "18.10.2026 11:13",
-    "status": "tendering",
-    "score": 90,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "spații de joacă",
-      "complex de joacă",
-      "tobogan",
-      "carusel"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791536187320",
-    "source_date": "2026-10-14T13:13:06Z",
-    "saved_at": "2026-10-14T16:16:29.394886+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1791187752307",
-    "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
-    "authority": "PRIMARIA COVURLUI",
-    "amount": 447641.0,
-    "currency": "MDL",
-    "deadline": "2026-10-18T07:13:25Z",
-    "deadline_text": "18.10.2026 10:13",
-    "status": "tendering",
-    "score": 62,
-    "label": "POSIBIL RELEVANTĂ",
-    "matches": [
-      "leagăn"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791187752307",
-    "source_date": "2026-10-14T07:13:25Z",
-    "saved_at": "2026-10-14T11:47:50.159267+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1791470388491",
-    "title": "„Lucrări de reabilitare la Estrada de vară din  or. Călărași ”",
-    "authority": "Primaria  orașului Călărași",
-    "amount": 611552.83,
-    "currency": "MDL",
-    "deadline": "2026-10-21T06:00:00Z",
-    "deadline_text": "21.10.2026 09:00",
-    "status": "tendering",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "estradă",
-      "estrada"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791470388491",
-    "source_date": "2026-10-14T06:00:00Z",
-    "saved_at": "2026-10-14T06:08:04.021197+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1791898773470",
@@ -208,26 +150,6 @@
     "saved_at": "2026-10-09T08:08:04.342540+00:00"
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1790670501444",
-    "title": "Echipamente audio",
-    "authority": "IP Compania \"Teleradio-Moldova\"",
-    "amount": 965908.36,
-    "currency": "MDL",
-    "deadline": "2026-10-19T07:00:00Z",
-    "deadline_text": "19.10.2026 10:00",
-    "status": "tendering",
-    "score": 67,
-    "label": "POSIBIL RELEVANTĂ",
-    "matches": [
-      "construcție metalică",
-      "scenă",
-      "scena"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1790670501444",
-    "source_date": "2026-10-09T08:00:00Z",
-    "saved_at": "2026-10-09T08:08:00.435352+00:00"
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1791524450788",
     "title": "Mobilier urban",
     "authority": "Primăria or. Cricova",
@@ -282,24 +204,6 @@
     "saved_at": "2026-10-08T11:28:13.051199+00:00"
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1791269198249",
-    "title": "Amenajarea  zonei  de  agrement  din  com.  Berlinti, s.  Caracusenii  Noi,  raionul  Briceni.(repetat)",
-    "authority": "PRIMARIA COMUNEI BERLINTI",
-    "amount": 374998.0,
-    "currency": "MDL",
-    "deadline": "2026-10-12T08:00:00Z",
-    "deadline_text": "12.10.2026 11:00",
-    "status": "tendering",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "amenajarea zonei de agrement"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1791269198249",
-    "source_date": "2026-10-07T08:00:00Z",
-    "saved_at": "2026-10-07T08:07:59.763251+00:00"
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1790769376362",
     "title": "Lucrări de reparații curente a platformei la scena de vară din parcul „M. Eminescu” din mun. Soroca",
     "authority": "PRIMARIA MUNICIPIULUI SOROCA",
@@ -337,62 +241,6 @@
     "saved_at": "2026-09-29T08:44:12.773737+00:00"
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1789736394782",
-    "title": "Construcția scenei acoperite pentru spectacole în aer liber în Parcul Central  din or. Nisporeni ",
-    "authority": "PRIMARIA ORASULUI NISPORENI",
-    "amount": 3592220.0,
-    "currency": "MDL",
-    "deadline": "2026-10-09T10:00:00Z",
-    "deadline_text": "09.10.2026 13:00",
-    "status": "tendering",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "scenei",
-      "construcția scenei"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789736394782",
-    "source_date": "2026-09-28T14:00:00Z",
-    "saved_at": "2026-09-28T14:11:35.887989+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1790236795436",
-    "title": "Scenă pentru activități culturale și de agrement în comuna Bîrlădeni",
-    "authority": "Primaria comunei Birladeni",
-    "amount": 361806.54,
-    "currency": "MDL",
-    "deadline": "2026-09-29T11:00:00Z",
-    "deadline_text": "29.09.2026 14:00",
-    "status": "tendering",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "scenă",
-      "scena"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1790236795436",
-    "source_date": "2026-09-25T11:00:00Z",
-    "saved_at": "2026-09-25T11:05:10.626364+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789547989637",
-    "title": "Complexe de joacă, inclusiv instalarea și amenajarea lor pe teritoriul municipiului Bălți din str.Tiraspol, nr.7, str.Independenței, nr.94 și bd. Larisa, nr.7 ",
-    "authority": " Primăria mun. Bălți",
-    "amount": 1004126.73,
-    "currency": "MDL",
-    "deadline": "2026-10-02T07:00:00Z",
-    "deadline_text": "02.10.2026 10:00",
-    "status": "tendering",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "complexe de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789547989637",
-    "source_date": "2026-09-25T09:00:00Z",
-    "saved_at": "2026-09-25T09:05:10.668948+00:00"
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1790247791967",
     "title": "Scenă pentru activități culturale și de agrement în comuna Bîrlădeni",
     "authority": "Primaria comunei Birladeni",
@@ -412,78 +260,6 @@
     "saved_at": "2026-09-24T11:04:59.415781+00:00"
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1790073132490",
-    "title": "«Amenajarea  zonei  de  agrement  din  com.  Berlinti, s.  Caracusenii  Noi,  raionul  Briceni»",
-    "authority": "PRIMARIA COMUNEI BERLINTI",
-    "amount": 374998.0,
-    "currency": "MDL",
-    "deadline": "2026-09-28T13:00:00Z",
-    "deadline_text": "28.09.2026 16:00",
-    "status": "tendering",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "amenajarea zonei de agrement"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1790073132490",
-    "source_date": "2026-09-23T13:20:00Z",
-    "saved_at": "2026-09-23T13:25:58.716448+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789026204026",
-    "title": "„ Echipamente și mobilier pentru terenul de joaca, inclusiv asamblarea, montarea, fixarea și punerea în funcțiune  în orașul Telenești și satul Băneștii Noi pentru implementarea inițiativelor civice selectate prin intermediul Laboratorului de Inovație Civică, ediția 2026”",
-    "authority": "Primaria Telenesti",
-    "amount": 225350.0,
-    "currency": "MDL",
-    "deadline": "2026-09-30T10:30:00Z",
-    "deadline_text": "30.09.2026 13:30",
-    "status": "tendering",
-    "score": 85,
-    "label": "INTERESANTĂ",
-    "matches": [
-      "mobilier urban"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789026204026",
-    "source_date": "2026-09-21T10:00:00Z",
-    "saved_at": "2026-09-21T10:05:01.522350+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789023327516",
-    "title": " Lucrări de reparație teren de joacă la IET nr. 54,158,183,185  ",
-    "authority": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "amount": 1000000.0,
-    "currency": "MDL",
-    "deadline": "2026-10-01T09:00:00Z",
-    "deadline_text": "01.10.2026 12:00",
-    "status": "tendering",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "teren de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789023327516",
-    "source_date": "2026-09-21T09:00:00Z",
-    "saved_at": "2026-09-21T09:05:27.210507+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1788532682997",
-    "title": "Lucrări de reparatie a unui foișor dublu pe teritoriul IET „Delia”, mun. Ungheni",
-    "authority": "Primăria mun. Ungheni",
-    "amount": 340000.0,
-    "currency": "MDL",
-    "deadline": "2026-09-21T08:35:00Z",
-    "deadline_text": "21.09.2026 11:35",
-    "status": "auction",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "foișor"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788532682997",
-    "source_date": "2026-09-21T08:35:00Z",
-    "saved_at": "2026-09-21T08:39:04.633362+00:00"
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1789979391557",
     "title": "Servicii de amenajare a trei terenuri de joacă din cadrul Grădiniței nr. 45, sat. Brăila, com. Băcioi  cu plăci de cauciuc pe o suprafață de 141 m²",
     "authority": "Primaria comunei Bacioi",
@@ -500,62 +276,5 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789979391557",
     "source_date": "2026-09-21T08:31:33Z",
     "saved_at": "2026-09-21T08:38:58.230213+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1787750095499",
-    "title": "Platforme pentru colectarea deșeurilor menajere, inclusiv instalarea și amenajarea",
-    "authority": "Direcţia Generală Locativ Comunală şi Amenajare",
-    "amount": 4900000.0,
-    "currency": "MDL",
-    "deadline": "2026-09-19T14:04:34Z",
-    "deadline_text": "19.09.2026 17:04",
-    "status": "awarding",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "platforme pentru colectarea deșeurilor",
-      "platforme pentru colectarea deșeurilor menajere"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1787750095499",
-    "source_date": "2026-09-19T14:04:34Z",
-    "saved_at": "2026-09-19T14:04:48.705804+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1789368831343",
-    "title": "Construcția scenei metalice în s.Țarigrad, r-nul Drochia",
-    "authority": "Primaria Tarigrad",
-    "amount": 212076.06,
-    "currency": "MDL",
-    "deadline": "2026-09-23T07:00:00Z",
-    "deadline_text": "23.09.2026 10:00",
-    "status": "empty",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "scenei",
-      "construcția scenei"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1789368831343",
-    "source_date": "2026-09-18T13:27:09Z",
-    "saved_at": "2026-09-18T13:36:25.496073+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1788963701884",
-    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zona de agrement din ÎM „Gradina Zoologică” ",
-    "authority": "Grădina Zoologică",
-    "amount": 466460.0,
-    "currency": "MDL",
-    "deadline": "2026-09-18T11:58:06Z",
-    "deadline_text": "18.09.2026 14:58",
-    "status": "tendering",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "complex de joacă",
-      "complexe de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1788963701884",
-    "source_date": "2026-09-14T19:58:06Z",
-    "saved_at": "2026-09-14T20:05:14.649522+00:00"
   }
 ]
