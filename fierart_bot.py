@@ -490,6 +490,12 @@ def main():
         offset = nxt
 
     save_state(state)
+    
+    latest = [
+        x for x in latest
+        if not expired(x.get("deadline"))
+]
+    
     save_latest(latest)
 
     log(
