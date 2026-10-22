@@ -493,7 +493,8 @@ def main():
     
     latest = [
         x for x in latest
-        if not expired(x.get("deadline"))
+        if x.get("deadline")
+        and not expired(x.get("deadline"))
 ]
     
     save_latest(latest)
