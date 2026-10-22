@@ -169,6 +169,63 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1641821951354",
+    "date": "2022-03-16T14:05:09Z",
+    "title": "Evaluation",
+    "buyer": "Primaria municipiului Hincesti",
+    "cpv": "90600000-3",
+    "estimated_amount": 7499999.2,
+    "bidders": [
+      {
+        "name": "Î.M. REGIA AUTOSALUBRITATE, REPARAȚII ȘI AMENAJARE",
+        "id": "MD-IDNO-1003605009819",
+        "amount": 585443.76
+      }
+    ],
+    "awards": [
+      {
+        "name": "Î.M. REGIA AUTOSALUBRITATE, REPARAȚII ȘI AMENAJARE",
+        "id": "MD-IDNO-1003605009819",
+        "amount": 585443.76,
+        "status": "pending"
+      },
+      {
+        "name": "Î.M. REGIA AUTOSALUBRITATE, REPARAȚII ȘI AMENAJARE",
+        "id": "MD-IDNO-1003605009819",
+        "amount": 1000000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Î.M. REGIA AUTOSALUBRITATE, REPARAȚII ȘI AMENAJARE",
+        "id": "MD-IDNO-1003605009819",
+        "amount": 184396.82,
+        "status": "pending"
+      },
+      {
+        "name": "Î.M. REGIA AUTOSALUBRITATE, REPARAȚII ȘI AMENAJARE",
+        "id": "MD-IDNO-1003605009819",
+        "amount": 143294.96,
+        "status": "pending"
+      },
+      {
+        "name": "Î.M. REGIA AUTOSALUBRITATE, REPARAȚII ȘI AMENAJARE",
+        "id": "MD-IDNO-1003605009819",
+        "amount": 5586863.66,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1647259269145",
+    "date": "2022-03-18T09:51:36Z",
+    "title": "Teren Sportiv în s.Țarigrad, r-l Drochia",
+    "buyer": "Primaria Tarigrad",
+    "cpv": "45200000-9",
+    "estimated_amount": 569259.6,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
