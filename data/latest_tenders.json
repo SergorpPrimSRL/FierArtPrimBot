@@ -1,5 +1,24 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1792392007299",
+    "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
+    "authority": "Grădina Zoologică",
+    "amount": 521235.0,
+    "currency": "MDL",
+    "deadline": "2026-10-30T06:00:00Z",
+    "deadline_text": "30.10.2026 09:00",
+    "status": "clarification",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "complex de joacă",
+      "amenajarea zonei de agrement"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792392007299",
+    "source_date": "2026-10-22T14:40:37Z",
+    "saved_at": "2026-10-22T14:45:04.631272+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1792662509470",
     "title": "Complex de joaca pentru copii inclusiv livrarea si instalare",
     "authority": "PRIMARIA COMUNEI PRUTENI",
@@ -34,24 +53,5 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792564641117",
     "source_date": "2026-10-21T08:01:23Z",
     "saved_at": "2026-10-21T13:03:26.215695+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1792392007299",
-    "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
-    "authority": "Grădina Zoologică",
-    "amount": 521235.0,
-    "currency": "MDL",
-    "deadline": "2026-10-30T06:00:00Z",
-    "deadline_text": "30.10.2026 09:00",
-    "status": "clarification",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "complex de joacă",
-      "amenajarea zonei de agrement"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792392007299",
-    "source_date": "2026-10-19T18:25:58Z",
-    "saved_at": "2026-10-19T19:55:34.989287+00:00"
   }
 ]
