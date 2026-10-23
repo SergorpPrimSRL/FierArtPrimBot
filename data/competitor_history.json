@@ -236,6 +236,85 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1649080394771",
+    "date": "2022-04-11T06:54:14Z",
+    "title": "Servicii de elaborare a documentației tehnice pentru proiectul ”Amenajarea parcului multifuncțional – Parcul Unirii” din com. Stăuceni",
+    "buyer": "Primaria comunei Stauceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 500000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1647010112152",
+    "date": "2022-04-12T11:42:32Z",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zonele de agrement din sectorul Botanica",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 1737000.0,
+    "bidders": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 794995.08
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 813187.11
+      }
+    ],
+    "awards": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 794995.08,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 813187.11,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 710996.95,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 884888.39,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1646415880473",
+    "date": "2022-04-14T15:46:14Z",
+    "title": "Amenajare, construcția teren de minifotbal pe terenul construcției de cultură și agrement str. Independenței, nr. 223 din or. Sîngerei, Reconstrucție, construcție pavilioane, amenajare teren pentru copii. Acces din beton asfaltic la Grădinița nr. 1 din or. Sîngerei și Reconstrucția teren sportiv/ amenajarea scuar str. T. Nencev din or. Sîngerei în cadrul proiectului  „Sîngerei orașul incluziunii teritoriale”",
+    "buyer": "Agenția de Dezvoltare Regională Nord",
+    "cpv": "45200000-9",
+    "estimated_amount": 5692491.0,
+    "bidders": [
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 5637246.77
+      }
+    ],
+    "awards": [
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 5637246.77,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
