@@ -36597,16 +36597,6 @@
     "awards": []
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1792485914579",
-    "date": "2026-10-22T08:17:37Z",
-    "title": "Achiziționarea echipamentelor de joacă pentru terenul de joacă din satul Pașcani, raionul Criuleni",
-    "buyer": "Primaria com Pascani",
-    "cpv": "37535200-9",
-    "estimated_amount": 166666.67,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1792662509470",
     "date": "2026-10-22T09:50:44Z",
     "title": "Complex de joaca pentru copii inclusiv livrarea si instalare",
@@ -36623,6 +36613,16 @@
     "buyer": "Grădina Zoologică",
     "cpv": "45300000-0",
     "estimated_amount": 521235.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792485914579",
+    "date": "2026-10-22T19:50:47Z",
+    "title": "Achiziționarea echipamentelor de joacă pentru terenul de joacă din satul Pașcani, raionul Criuleni",
+    "buyer": "Primaria com Pascani",
+    "cpv": "37535200-9",
+    "estimated_amount": 166666.67,
     "bidders": [],
     "awards": []
   }
