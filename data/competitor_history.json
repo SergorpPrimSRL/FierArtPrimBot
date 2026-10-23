@@ -36430,57 +36430,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1791187752307",
-    "date": "2026-10-20T06:04:56Z",
-    "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
-    "buyer": "PRIMARIA COVURLUI",
-    "cpv": "45200000-9",
-    "estimated_amount": 447641.0,
-    "bidders": [
-      {
-        "name": "UDS-CONSTRUCT",
-        "id": "MD-IDNO-1023611001966",
-        "amount": 324814.8
-      },
-      {
-        "name": "SRL SUD-TERRA",
-        "id": "MD-IDNO-1014611001799",
-        "amount": 350006.27
-      },
-      {
-        "name": "Pro Tron Media",
-        "id": "MD-IDNO-1011600007699",
-        "amount": 58900.4
-      }
-    ],
-    "awards": [
-      {
-        "name": "UDS-CONSTRUCT",
-        "id": "MD-IDNO-1023611001966",
-        "amount": 324814.8,
-        "status": "pending"
-      },
-      {
-        "name": "SRL SUD-TERRA",
-        "id": "MD-IDNO-1014611001799",
-        "amount": 350006.27,
-        "status": "pending"
-      },
-      {
-        "name": "UDS-CONSTRUCT",
-        "id": "MD-IDNO-1023611001966",
-        "amount": 50444.77,
-        "status": "pending"
-      },
-      {
-        "name": "Pro Tron Media",
-        "id": "MD-IDNO-1011600007699",
-        "amount": 58900.4,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1792479423989",
     "date": "2026-10-20T07:02:02Z",
     "title": "Articole și echipament pentru terenele de sport",
@@ -36577,16 +36526,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1792009698814",
-    "date": "2026-10-22T07:00:00Z",
-    "title": "Echipament pentru terenuri de joacă (inclusiv livrare și instalare), CPV: 37535200-9 (REPETAT)",
-    "buyer": "Primaria Puhaceni",
-    "cpv": "37500000-3",
-    "estimated_amount": 333000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1792662509470",
     "date": "2026-10-23T08:12:54Z",
     "title": "Complex de joaca pentru copii inclusiv livrarea si instalare",
@@ -36603,16 +36542,6 @@
     "buyer": "Primaria com Pascani",
     "cpv": "37535200-9",
     "estimated_amount": 166666.67,
-    "bidders": [],
-    "awards": []
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1792392007299",
-    "date": "2026-10-23T11:28:30Z",
-    "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
-    "buyer": "Grădina Zoologică",
-    "cpv": "45300000-0",
-    "estimated_amount": 521235.0,
     "bidders": [],
     "awards": []
   },
@@ -36646,6 +36575,101 @@
         "name": "PLAYGROUND STORE SRL",
         "id": "MD-IDNO-1023600047388",
         "amount": 76666.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792009698814",
+    "date": "2026-10-23T12:11:51Z",
+    "title": "Echipament pentru terenuri de joacă (inclusiv livrare și instalare), CPV: 37535200-9 (REPETAT)",
+    "buyer": "Primaria Puhaceni",
+    "cpv": "37500000-3",
+    "estimated_amount": 333000.0,
+    "bidders": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 282375.0
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 330044.17
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 282375.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 330044.17,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792392007299",
+    "date": "2026-10-23T13:02:30Z",
+    "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
+    "buyer": "Grădina Zoologică",
+    "cpv": "45300000-0",
+    "estimated_amount": 521235.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1791187752307",
+    "date": "2026-10-23T14:37:32Z",
+    "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
+    "buyer": "PRIMARIA COVURLUI",
+    "cpv": "45200000-9",
+    "estimated_amount": 447641.0,
+    "bidders": [
+      {
+        "name": "UDS-CONSTRUCT",
+        "id": "MD-IDNO-1023611001966",
+        "amount": 324814.8
+      },
+      {
+        "name": "SRL SUD-TERRA",
+        "id": "MD-IDNO-1014611001799",
+        "amount": 350006.27
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 58900.4
+      }
+    ],
+    "awards": [
+      {
+        "name": "UDS-CONSTRUCT",
+        "id": "MD-IDNO-1023611001966",
+        "amount": 324814.8,
+        "status": "pending"
+      },
+      {
+        "name": "SRL SUD-TERRA",
+        "id": "MD-IDNO-1014611001799",
+        "amount": 350006.27,
+        "status": "pending"
+      },
+      {
+        "name": "UDS-CONSTRUCT",
+        "id": "MD-IDNO-1023611001966",
+        "amount": 50444.77,
+        "status": "pending"
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 58900.4,
         "status": "pending"
       }
     ]
