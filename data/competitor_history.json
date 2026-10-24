@@ -378,6 +378,85 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1648117443275",
+    "date": "2022-05-04T10:21:29Z",
+    "title": "Amenajarea scuarului „Ciocana” cu amfiteatru, adiacent bulevardului Mircea cel Bătrân, 4/3 ",
+    "buyer": "Pretura sectorului Ciocana",
+    "cpv": "45200000-9",
+    "estimated_amount": 11192253.0,
+    "bidders": [
+      {
+        "name": "Sigma VenMer",
+        "id": "MD-IDNO-1007600018551",
+        "amount": 10798840.14
+      },
+      {
+        "name": "ATAR INTER",
+        "id": "MD-IDNO-1015600010057",
+        "amount": 9824722.77
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 11125195.26
+      }
+    ],
+    "awards": [
+      {
+        "name": "ATAR INTER",
+        "id": "MD-IDNO-1015600010057",
+        "amount": 9824722.77,
+        "status": "pending"
+      },
+      {
+        "name": "Sigma VenMer",
+        "id": "MD-IDNO-1007600018551",
+        "amount": 10798840.14,
+        "status": "pending"
+      },
+      {
+        "name": "MEDALMIR",
+        "id": "MD-IDNO-1014600019994",
+        "amount": 11125195.26,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1645709815731",
+    "date": "2022-05-11T05:52:04Z",
+    "title": "Lucrări de construcție unui teren sportiv și teren de joacă pentru copii s. Marianca de Jos, r-nul Ștefan Vodă",
+    "buyer": "Primăria Marianca de Jos",
+    "cpv": "45200000-9",
+    "estimated_amount": 1076698.0,
+    "bidders": [
+      {
+        "name": "Paduret Alexandru",
+        "id": "MD-IDNO-1005608001232",
+        "amount": 1076184.4
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 1074367.41
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 1074367.41,
+        "status": "pending"
+      },
+      {
+        "name": "Paduret Alexandru",
+        "id": "MD-IDNO-1005608001232",
+        "amount": 1076184.4,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
