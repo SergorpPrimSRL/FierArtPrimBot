@@ -315,6 +315,69 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1646414644797",
+    "date": "2022-04-20T15:43:14Z",
+    "title": "Reconstrucția/ amenajarea din preajma blocurilor locative din str. A Crihan nr. 2, 4 și str. Independenței nr. 127, 129 din or. Sîngerei,  Reconstrucția/ amenajarea din preajma blocurilor locative din str.  Independenței nr. 128, 140, 142 din or. Sîngerei și Reconstrucție, pavare pietonală pe segmentul de drum Nencev-Mateevici din or. Sîngerei în cadrul proiectului  „Sîngerei orașul incluziunii teritoriale”",
+    "buyer": "Agenția de Dezvoltare Regională Nord",
+    "cpv": "45200000-9",
+    "estimated_amount": 6656094.0,
+    "bidders": [
+      {
+        "name": "SA Drumuri Bălți",
+        "id": "MD-IDNO-1003602008028",
+        "amount": 6633117.7
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 5907175.21
+      }
+    ],
+    "awards": [
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 5907175.21,
+        "status": "pending"
+      },
+      {
+        "name": "SA Drumuri Bălți",
+        "id": "MD-IDNO-1003602008028",
+        "amount": 6633117.7,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1647622087340",
+    "date": "2022-04-20T16:33:32Z",
+    "title": "servicii de supraveghere tehnică la Amenajare, construcția teren de minifotbal pe terenul construcției de cultură și agrement str. Independenței, nr. 223 din or. Sîngerei, Reconstrucție, construcție pavilioane, amenajare teren pentru copii. Acces din beton asfaltic la Grădinița nr. 1 din or. Sîngerei și Reconstrucția teren sportiv/ amenajarea scuar str. T. Nencev din or. Sîngerei în cadrul proiectului „Sîngerei orașul incluziunii teritoriale” și Reconstrucția/ amenajarea din preajma blocurilor locative din str. A Crihan nr. 2, 4 și str. Independenței nr. 127, 129 din or. Sîngerei, Reconstrucția/ amenajarea din preajma blocurilor locative din str. Independenței nr. 128, 140, 142 din or. Sîngerei și Reconstrucție, pavare pietonală pe segmentul de drum Nencev-Mateevici din or. Sîngerei în cadrul proiectului „Sîngerei orașul incluziunii teritoriale”",
+    "buyer": "Agenția de Dezvoltare Regională Nord",
+    "cpv": "71521000-6",
+    "estimated_amount": 123485.85,
+    "bidders": [
+      {
+        "name": "SC Helicecom-Nord",
+        "id": "MD-IDNO-1005602001115",
+        "amount": 45539.92
+      }
+    ],
+    "awards": [
+      {
+        "name": "SC Helicecom-Nord",
+        "id": "MD-IDNO-1005602001115",
+        "amount": 45539.92,
+        "status": "pending"
+      },
+      {
+        "name": "SC Helicecom-Nord",
+        "id": "MD-IDNO-1005602001115",
+        "amount": 53248.75,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
