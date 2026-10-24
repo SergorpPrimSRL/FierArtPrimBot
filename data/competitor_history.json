@@ -36757,16 +36757,6 @@
     "awards": []
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1792485914579",
-    "date": "2026-10-23T11:24:40Z",
-    "title": "Achiziționarea echipamentelor de joacă pentru terenul de joacă din satul Pașcani, raionul Criuleni",
-    "buyer": "Primaria com Pascani",
-    "cpv": "37535200-9",
-    "estimated_amount": 166666.67,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1792068727748",
     "date": "2026-10-23T12:00:49Z",
     "title": "Mobilier urban",
@@ -36894,5 +36884,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792485914579",
+    "date": "2026-10-24T11:24:40Z",
+    "title": "Achiziționarea echipamentelor de joacă pentru terenul de joacă din satul Pașcani, raionul Criuleni",
+    "buyer": "Primaria com Pascani",
+    "cpv": "37535200-9",
+    "estimated_amount": 166666.67,
+    "bidders": [],
+    "awards": []
   }
 ]
