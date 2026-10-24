@@ -457,6 +457,483 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1651750100018",
+    "date": "2022-05-25T08:00:00Z",
+    "title": "Mobilier urban, inclusiv instalarea în Parcul Butoiaș",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "34900000-6",
+    "estimated_amount": 120000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1650991342969",
+    "date": "2022-05-26T11:41:56Z",
+    "title": "Servicii de elaborare a documentației tehnice pentru proiectul ”Amenajarea parcului multifuncțional – Parcul Unirii” din com. Stăuceni",
+    "buyer": "Primaria comunei Stauceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 500000.0,
+    "bidders": [
+      {
+        "name": "\"Maistcons Grup\" SRL",
+        "id": "MD-IDNO-1003600151780",
+        "amount": 500000.0
+      },
+      {
+        "name": "Agh Premium Grup",
+        "id": "MD-IDNO-1010600000095",
+        "amount": 455000.0
+      },
+      {
+        "name": "Intexnauca",
+        "id": "MD-IDNO-1003600063324",
+        "amount": 385400.0
+      },
+      {
+        "name": "Gorgona",
+        "id": "MD-IDNO-1005600028341",
+        "amount": 450000.0
+      },
+      {
+        "name": "ART FACTORY",
+        "id": "MD-IDNO-1015600031562",
+        "amount": 425000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Intexnauca",
+        "id": "MD-IDNO-1003600063324",
+        "amount": 385400.0,
+        "status": "pending"
+      },
+      {
+        "name": "ART FACTORY",
+        "id": "MD-IDNO-1015600031562",
+        "amount": 425000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Gorgona",
+        "id": "MD-IDNO-1005600028341",
+        "amount": 450000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Agh Premium Grup",
+        "id": "MD-IDNO-1010600000095",
+        "amount": 455000.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"Maistcons Grup\" SRL",
+        "id": "MD-IDNO-1003600151780",
+        "amount": 500000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1651149074566",
+    "date": "2022-05-26T13:25:28Z",
+    "title": "Lucrări de amenajare stații auto cu instalarea elementelor SMART",
+    "buyer": "Primăria mun. Ungheni",
+    "cpv": "45100000-8",
+    "estimated_amount": 2480000.0,
+    "bidders": [
+      {
+        "name": "Aedificator",
+        "id": "MD-IDNO-1011609003775",
+        "amount": 2472610.31
+      },
+      {
+        "name": "BTC Tehnologii",
+        "id": "MD-IDNO-1017609000857",
+        "amount": 2696433.52
+      },
+      {
+        "name": "ARTIZANCONS",
+        "id": "MD-IDNO-1014609001532",
+        "amount": 2514246.6
+      }
+    ],
+    "awards": [
+      {
+        "name": "Aedificator",
+        "id": "MD-IDNO-1011609003775",
+        "amount": 2472610.31,
+        "status": "pending"
+      },
+      {
+        "name": "ARTIZANCONS",
+        "id": "MD-IDNO-1014609001532",
+        "amount": 2514246.6,
+        "status": "pending"
+      },
+      {
+        "name": "BTC Tehnologii",
+        "id": "MD-IDNO-1017609000857",
+        "amount": 2696433.52,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1646656825347",
+    "date": "2022-05-27T07:13:46Z",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zonele de agrement din sectorul Râșcani",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 2410000.0,
+    "bidders": [
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 1049837.22
+      },
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 981480.83
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 1167498.8
+      }
+    ],
+    "awards": [
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 981480.83,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 1049837.22,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 1167498.8,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 1105129.42,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 1181000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1651226660209",
+    "date": "2022-05-28T13:02:37Z",
+    "title": "Materiale de construcții, conform necesităților DÎTS a Primăriei mun.Bălți",
+    "buyer": "Direcția Învățămînt, Tineret și Sport a Primăriei mun. Bălți",
+    "cpv": "44100000-1",
+    "estimated_amount": 539622.5,
+    "bidders": [
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 4620.8
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 13125.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 23226.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 76200.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 1624.0,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 2268.78,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 226706.69,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 310034.91,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 4620.8,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 13125.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 3456.0,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 5138.33,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 15677.0,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 2612.5,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 10934.21,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 41635.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 16274.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 403.81,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 2124.15,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 2410.0,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 2052.08,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 65946.67,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 447.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 206154.0,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 2036.67,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 3209.0,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 3217.5,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 8631.53,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 564.0,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 34859.5,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 3234.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 66386.75,
+        "status": "pending"
+      },
+      {
+        "name": "Î. I. \"Caliga Valeriu\"",
+        "id": "MD-IDNO-1003609006702",
+        "amount": 14299.58,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1652354963937",
+    "date": "2022-05-30T10:10:59Z",
+    "title": "Lucrări de construcție a unui scuar/parc, din s.Dobrogea, municipiul Chișinău. Construcția și instalarea unui teren de joaca pentru copii, s Dobrogea, în interiorul scuarului/parcului.",
+    "buyer": "Primaria or.Singera",
+    "cpv": "45200000-9",
+    "estimated_amount": 1615182.0,
+    "bidders": [
+      {
+        "name": "Adrika",
+        "id": "MD-IDNO-1014600026086",
+        "amount": 1349573.33
+      },
+      {
+        "name": "SA PASC-CON",
+        "id": "MD-IDNO-1003600102081",
+        "amount": 1276571.0
+      },
+      {
+        "name": "SCARTEH SRL",
+        "id": "MD-IDNO-1013600018440",
+        "amount": 1409989.17
+      },
+      {
+        "name": "IDEAL CRISLUCI",
+        "id": "MD-IDNO-1020608000025",
+        "amount": 1094972.01
+      }
+    ],
+    "awards": [
+      {
+        "name": "IDEAL CRISLUCI",
+        "id": "MD-IDNO-1020608000025",
+        "amount": 1094972.01,
+        "status": "pending"
+      },
+      {
+        "name": "SA PASC-CON",
+        "id": "MD-IDNO-1003600102081",
+        "amount": 1276571.0,
+        "status": "pending"
+      },
+      {
+        "name": "Adrika",
+        "id": "MD-IDNO-1014600026086",
+        "amount": 1349573.33,
+        "status": "pending"
+      },
+      {
+        "name": "SCARTEH SRL",
+        "id": "MD-IDNO-1013600018440",
+        "amount": 1409989.17,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1647438223639",
+    "date": "2022-06-02T07:14:36Z",
+    "title": "Lucrări de reparații a caruselului „Autodrom” din str. Valea Trandafirilor",
+    "buyer": "Direcția Parcurilor Cultură și Odihnă",
+    "cpv": "45200000-9",
+    "estimated_amount": 715160.63,
+    "bidders": [
+      {
+        "name": "SRL \"SIMCON-LUX\"",
+        "id": "MD-IDNO-1003600035598",
+        "amount": 685618.17
+      },
+      {
+        "name": "Ginacom SRL",
+        "id": "MD-IDNO-18600035593",
+        "amount": 712413.17
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL \"SIMCON-LUX\"",
+        "id": "MD-IDNO-1003600035598",
+        "amount": 685618.17,
+        "status": "pending"
+      },
+      {
+        "name": "Ginacom SRL",
+        "id": "MD-IDNO-18600035593",
+        "amount": 712413.17,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
