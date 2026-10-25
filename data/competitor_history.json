@@ -37608,16 +37608,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1792392007299",
-    "date": "2026-10-23T13:02:30Z",
-    "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
-    "buyer": "Grădina Zoologică",
-    "cpv": "45300000-0",
-    "estimated_amount": 521235.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1791187752307",
     "date": "2026-10-23T14:37:32Z",
     "title": "Amenajarea terenului aferent Casei de cultură din satul Covurlui, r-l Leova",
@@ -37675,6 +37665,16 @@
     "buyer": "Primaria com Pascani",
     "cpv": "37535200-9",
     "estimated_amount": 166666.67,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792392007299",
+    "date": "2026-10-25T13:02:30Z",
+    "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
+    "buyer": "Grădina Zoologică",
+    "cpv": "45300000-0",
+    "estimated_amount": 521235.0,
     "bidders": [],
     "awards": []
   }
