@@ -934,6 +934,76 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1654671299793",
+    "date": "2022-06-24T08:17:52Z",
+    "title": "(repetat) Materiale de construcții, conform necesităților DÎTS a Primăriei mun.Bălți            ",
+    "buyer": "Direcția Învățămînt, Tineret și Sport a Primăriei mun. Bălți",
+    "cpv": "44100000-1",
+    "estimated_amount": 500803.33,
+    "bidders": [
+      {
+        "name": "Lilitec-Prim SRL",
+        "id": "MD-IDNO-1002600034332",
+        "amount": 141.46
+      }
+    ],
+    "awards": [
+      {
+        "name": "Lilitec-Prim SRL",
+        "id": "MD-IDNO-1002600034332",
+        "amount": 1033.33,
+        "status": "pending"
+      },
+      {
+        "name": "Lilitec-Prim SRL",
+        "id": "MD-IDNO-1002600034332",
+        "amount": 21866.66,
+        "status": "pending"
+      },
+      {
+        "name": "Lilitec-Prim SRL",
+        "id": "MD-IDNO-1002600034332",
+        "amount": 141.46,
+        "status": "pending"
+      },
+      {
+        "name": "Lilitec-Prim SRL",
+        "id": "MD-IDNO-1002600034332",
+        "amount": 1000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1653483960547",
+    "date": "2022-06-29T08:23:40Z",
+    "title": "Mobilier urban, inclusiv instalarea în Parcul Butoiaș",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "34900000-6",
+    "estimated_amount": 120000.0,
+    "bidders": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 55200.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 69840.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 55200.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
