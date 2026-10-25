@@ -1737,6 +1737,224 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1647612391861",
+    "date": "2022-08-17T13:10:09Z",
+    "title": "Echipamente de joacă (inclusiv instalarea și amenajarea) în curțile de bloc",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 10000000.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 3981283.33
+      },
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 3298400.0
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 3850318.2
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 3975017.16
+      }
+    ],
+    "awards": [
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 4947600.0,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 5775477.3,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 5971925.0,
+        "status": "pending"
+      },
+      {
+        "name": "Tehnolider",
+        "id": "MD-IDNO-1004605005324",
+        "amount": 3298400.0,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 3850318.2,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 3975017.16,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 3981283.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1657802593748",
+    "date": "2022-08-18T07:46:21Z",
+    "title": "Amenajarea spațiului public din str. Chișinăului, microraionul Gara Fălești",
+    "buyer": "Primăria oraşului Făleşti",
+    "cpv": "45200000-9",
+    "estimated_amount": 5317790.0,
+    "bidders": [
+      {
+        "name": "Profact Construct",
+        "id": "MD-IDNO-1010600024992",
+        "amount": 5180221.27
+      }
+    ],
+    "awards": [
+      {
+        "name": "Profact Construct",
+        "id": "MD-IDNO-1010600024992",
+        "amount": 5180221.27,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1660132180020",
+    "date": "2022-08-18T12:30:00Z",
+    "title": "Instalatie de mobilier urban de tip Pavilion Multifunctional, din str. Calea Orheiului, sect. Riscani, mun. Chisinau",
+    "buyer": "Pretura sectorului Rascani",
+    "cpv": "45200000-9",
+    "estimated_amount": 173300.0,
+    "bidders": [
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 229354.86
+      }
+    ],
+    "awards": [
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 229354.86,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1660820000363",
+    "date": "2022-08-18T13:13:46Z",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zonele de agrement din satele Bălășești si Sloveanca rl Sîngerei",
+    "buyer": "Primaria Balasesti",
+    "cpv": "37500000-3",
+    "estimated_amount": 2499900.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1654687217019",
+    "date": "2022-08-18T13:13:50Z",
+    "title": "Lucrări de reparație a foisoarelor la Instituția de Educație Timpurie nr.2 din com. Truseni",
+    "buyer": "Primăria Trușeni",
+    "cpv": "45200000-9",
+    "estimated_amount": 366941.55,
+    "bidders": [
+      {
+        "name": "Quantis Eco",
+        "id": "MD-IDNO-1021600022826",
+        "amount": 281611.73
+      }
+    ],
+    "awards": [
+      {
+        "name": "Quantis Eco",
+        "id": "MD-IDNO-1021600022826",
+        "amount": 281611.73,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1660197328822",
+    "date": "2022-08-19T07:00:01Z",
+    "title": "Stație automatizată de alimentare cu lichid de răcire a sistemelor de aer condiționat",
+    "buyer": "REGIA TRANSPORT ELECTRIC Î.M.",
+    "cpv": "34900000-6",
+    "estimated_amount": 90000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1661344392425",
+    "date": "2022-08-24T12:33:12Z",
+    "title": "Teren de joacă pentru copii",
+    "buyer": "AO \"Solidarii Neamului\"",
+    "cpv": "",
+    "estimated_amount": 56320.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1658728122031",
+    "date": "2022-08-29T10:04:31Z",
+    "title": "Amenajarea parcului public din satul Ucrainca raionul Causeni (Pavare)",
+    "buyer": "Primaria comunei Ucrainca",
+    "cpv": "45200000-9",
+    "estimated_amount": 353106.0,
+    "bidders": [
+      {
+        "name": "IDEAL CRISLUCI",
+        "id": "MD-IDNO-1020608000025",
+        "amount": 295511.28
+      },
+      {
+        "name": "Provladina Construct",
+        "id": "MD-IDNO-1013600019838",
+        "amount": 336273.73
+      },
+      {
+        "name": "San Construct Grup",
+        "id": "MD-IDNO-1011600024117",
+        "amount": 312102.5
+      }
+    ],
+    "awards": [
+      {
+        "name": "IDEAL CRISLUCI",
+        "id": "MD-IDNO-1020608000025",
+        "amount": 295511.28,
+        "status": "pending"
+      },
+      {
+        "name": "San Construct Grup",
+        "id": "MD-IDNO-1011600024117",
+        "amount": 312102.5,
+        "status": "pending"
+      },
+      {
+        "name": "Provladina Construct",
+        "id": "MD-IDNO-1013600019838",
+        "amount": 336273.73,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
