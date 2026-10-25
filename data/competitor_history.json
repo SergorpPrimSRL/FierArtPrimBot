@@ -1240,6 +1240,186 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1658495242364",
+    "date": "2022-07-25T06:59:50Z",
+    "title": "Amenajarea parcului public din satul Ucrainca raionul Causeni (Pavare)",
+    "buyer": "Primaria comunei Ucrainca",
+    "cpv": "45200000-9",
+    "estimated_amount": 353106.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1658752444278",
+    "date": "2022-07-25T12:34:04Z",
+    "title": "Amenajarea parcului public din satul Ucrainca raionul Causeni (Pavare)",
+    "buyer": "Primaria comunei Ucrainca",
+    "cpv": "",
+    "estimated_amount": 353106.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1656482838544",
+    "date": "2022-07-28T12:14:37Z",
+    "title": "(repetat) Materiale de construcții, conform necesităților DÎTS a Primăriei mun.Bălți                    \t\t",
+    "buyer": "Direcția Învățămînt, Tineret și Sport a Primăriei mun. Bălți",
+    "cpv": "44100000-1",
+    "estimated_amount": 470428.33,
+    "bidders": [
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 3800.0
+      },
+      {
+        "name": "Acseal Gaz SRL",
+        "id": "MD-IDNO-1006600022416",
+        "amount": 7916.66
+      }
+    ],
+    "awards": [
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 7200.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 11356.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 3960.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 12705.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 447.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 2295.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 202839.9,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 17640.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 60450.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 3800.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 51278.44,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 2550.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 10654.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 5379.0,
+        "status": "pending"
+      },
+      {
+        "name": "Acseal Gaz SRL",
+        "id": "MD-IDNO-1006600022416",
+        "amount": 7916.66,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 8330.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 6120.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 1198.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 28920.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 3240.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 63918.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 13400.0,
+        "status": "pending"
+      },
+      {
+        "name": "DELTA FORTA SECURITATE",
+        "id": "MD-IDNO-1004600034314",
+        "amount": 250.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
