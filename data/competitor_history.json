@@ -1420,6 +1420,323 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1659360088649",
+    "date": "2022-08-01T13:21:28Z",
+    "title": "Instalație de mobilier urban de tip Pavilion Multifuncțional, din str. Calea Orheiului, sect. Rîșcani, mun. Chișinău",
+    "buyer": "Pretura sectorului Rascani",
+    "cpv": "",
+    "estimated_amount": 173300.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1651659965466",
+    "date": "2022-08-04T09:36:46Z",
+    "title": "Amenajarea scuarului „Ciocana” cu amfiteatru, adiacent bulevardului Mircea cel Bătrân, 4/3",
+    "buyer": "Pretura sectorului Ciocana",
+    "cpv": "45200000-9",
+    "estimated_amount": 11192253.0,
+    "bidders": [
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 10992389.08
+      },
+      {
+        "name": "Structural Construct",
+        "id": "MD-IDNO-1007600024738",
+        "amount": 12400344.18
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 12879106.2
+      },
+      {
+        "name": "Sigma VenMer",
+        "id": "MD-IDNO-1007600018551",
+        "amount": 10992869.85
+      }
+    ],
+    "awards": [
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 10992389.08,
+        "status": "pending"
+      },
+      {
+        "name": "Sigma VenMer",
+        "id": "MD-IDNO-1007600018551",
+        "amount": 10992869.85,
+        "status": "pending"
+      },
+      {
+        "name": "Structural Construct",
+        "id": "MD-IDNO-1007600024738",
+        "amount": 12400344.18,
+        "status": "pending"
+      },
+      {
+        "name": "Vastavit SRL",
+        "id": "MD-IDNO-1004600066894",
+        "amount": 12879106.2,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1659360598772",
+    "date": "2022-08-08T10:00:00Z",
+    "title": "Instalație de mobilier urban de tip Pavilion Multifuncțional, din str. Calea Orheiului, sect. Rîșcani, mun. Chișinău",
+    "buyer": "Pretura sectorului Rascani",
+    "cpv": "45200000-9",
+    "estimated_amount": 173300.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1656422274437",
+    "date": "2022-08-08T11:38:48Z",
+    "title": "Lucrări de construcție a leagănelor pe aleea Grigore Vieru (2 unități)",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "45200000-9",
+    "estimated_amount": 1052000.0,
+    "bidders": [
+      {
+        "name": "GREEN ENGINEERING SRL",
+        "id": "MD-IDNO-1013600036806",
+        "amount": 827316.77
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 916000.0
+      },
+      {
+        "name": "Mavitex-Cons",
+        "id": "MD-IDNO-1007600057905",
+        "amount": 1000275.85
+      }
+    ],
+    "awards": [
+      {
+        "name": "GREEN ENGINEERING SRL",
+        "id": "MD-IDNO-1013600036806",
+        "amount": 827316.77,
+        "status": "pending"
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 916000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Mavitex-Cons",
+        "id": "MD-IDNO-1007600057905",
+        "amount": 1000275.85,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1652707866295",
+    "date": "2022-08-08T13:27:38Z",
+    "title": "Materiale de construcție și uz gospodăresc pentru instituţiile subordonate DETS sectorul Ciocana anul 2022",
+    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
+    "cpv": "44100000-1",
+    "estimated_amount": 903942.67,
+    "bidders": [
+      {
+        "name": "SRL DENIADI",
+        "id": "MD-IDNO-1003600022839",
+        "amount": 299.0
+      },
+      {
+        "name": "VERMILION SRL",
+        "id": "MD-IDNO-1003608004343",
+        "amount": 48750.0
+      },
+      {
+        "name": "CDH Olimpus-85",
+        "id": "MD-IDNO-1004600009626",
+        "amount": 549820.0
+      },
+      {
+        "name": "VERIX-GRUP",
+        "id": "MD-IDNO-1002602000047",
+        "amount": 614932.75
+      },
+      {
+        "name": "Eleamag SRL",
+        "id": "MD-IDNO-1006600057355",
+        "amount": 139965.0
+      },
+      {
+        "name": "Arta Zidarului",
+        "id": "MD-IDNO-1008605005403",
+        "amount": 25240.0
+      },
+      {
+        "name": "Lilitec-Prim SRL",
+        "id": "MD-IDNO-1002600034332",
+        "amount": 134333.33
+      },
+      {
+        "name": "MANTICORA",
+        "id": "MD-IDNO-1011600002683",
+        "amount": 298596.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "VERMILION SRL",
+        "id": "MD-IDNO-1003608004343",
+        "amount": 19278.0,
+        "status": "pending"
+      },
+      {
+        "name": "Lilitec-Prim SRL",
+        "id": "MD-IDNO-1002600034332",
+        "amount": 134333.33,
+        "status": "pending"
+      },
+      {
+        "name": "Eleamag SRL",
+        "id": "MD-IDNO-1006600057355",
+        "amount": 139965.0,
+        "status": "pending"
+      },
+      {
+        "name": "VERMILION SRL",
+        "id": "MD-IDNO-1003608004343",
+        "amount": 217000.0,
+        "status": "pending"
+      },
+      {
+        "name": "VERMILION SRL",
+        "id": "MD-IDNO-1003608004343",
+        "amount": 31750.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL DENIADI",
+        "id": "MD-IDNO-1003600022839",
+        "amount": 48750.0,
+        "status": "pending"
+      },
+      {
+        "name": "VERMILION SRL",
+        "id": "MD-IDNO-1003608004343",
+        "amount": 48750.0,
+        "status": "pending"
+      },
+      {
+        "name": "MANTICORA",
+        "id": "MD-IDNO-1011600002683",
+        "amount": 298596.0,
+        "status": "pending"
+      },
+      {
+        "name": "VERMILION SRL",
+        "id": "MD-IDNO-1003608004343",
+        "amount": 314310.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL DENIADI",
+        "id": "MD-IDNO-1003600022839",
+        "amount": 317974.2,
+        "status": "pending"
+      },
+      {
+        "name": "Arta Zidarului",
+        "id": "MD-IDNO-1008605005403",
+        "amount": 320511.67,
+        "status": "pending"
+      },
+      {
+        "name": "VERMILION SRL",
+        "id": "MD-IDNO-1003608004343",
+        "amount": 21500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Arta Zidarului",
+        "id": "MD-IDNO-1008605005403",
+        "amount": 25240.0,
+        "status": "pending"
+      },
+      {
+        "name": "VERMILION SRL",
+        "id": "MD-IDNO-1003608004343",
+        "amount": 8850.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL DENIADI",
+        "id": "MD-IDNO-1003600022839",
+        "amount": 8946.0,
+        "status": "pending"
+      },
+      {
+        "name": "Arta Zidarului",
+        "id": "MD-IDNO-1008605005403",
+        "amount": 10143.33,
+        "status": "pending"
+      },
+      {
+        "name": "SRL DENIADI",
+        "id": "MD-IDNO-1003600022839",
+        "amount": 299.0,
+        "status": "pending"
+      },
+      {
+        "name": "VERMILION SRL",
+        "id": "MD-IDNO-1003608004343",
+        "amount": 500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Arta Zidarului",
+        "id": "MD-IDNO-1008605005403",
+        "amount": 505305.83,
+        "status": "pending"
+      },
+      {
+        "name": "CDH Olimpus-85",
+        "id": "MD-IDNO-1004600009626",
+        "amount": 549820.0,
+        "status": "pending"
+      },
+      {
+        "name": "VERMILION SRL",
+        "id": "MD-IDNO-1003608004343",
+        "amount": 588795.0,
+        "status": "pending"
+      },
+      {
+        "name": "VERIX-GRUP",
+        "id": "MD-IDNO-1002602000047",
+        "amount": 614932.75,
+        "status": "pending"
+      },
+      {
+        "name": "Arta Zidarului",
+        "id": "MD-IDNO-1008605005403",
+        "amount": 12899.17,
+        "status": "pending"
+      },
+      {
+        "name": "VERMILION SRL",
+        "id": "MD-IDNO-1003608004343",
+        "amount": 13435.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
