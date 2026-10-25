@@ -1004,6 +1004,242 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1654013756895",
+    "date": "2022-06-30T12:02:24Z",
+    "title": "Foi de odihna ( Servicii de  alimentare si cazare a copiilor  in taberele de odihna ) pentru  sezonul estival 2022",
+    "buyer": "Direcția Educație a Consiliului Raional Criuleni",
+    "cpv": "55200000-2",
+    "estimated_amount": 1953000.0,
+    "bidders": [
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 1609300.0
+      },
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 1609300.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "OLCRISCOM SRL",
+        "id": "MD-IDNO-1008600007826",
+        "amount": 1609300.0,
+        "status": "pending"
+      },
+      {
+        "name": "Zimbet",
+        "id": "MD-IDNO-1004600050765",
+        "amount": 1609300.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1652863844469",
+    "date": "2022-06-30T12:09:14Z",
+    "title": "Teren de agrement multifunctional din sectorul \"Bozu\", or. Ialoveni (REPETAT)",
+    "buyer": "Agenția de Dezvoltare Regională Centru",
+    "cpv": "45100000-8",
+    "estimated_amount": 7313366.66,
+    "bidders": [
+      {
+        "name": "Telprod-Com",
+        "id": "MD-IDNO-1011600003819",
+        "amount": 9192758.74
+      },
+      {
+        "name": "Sigma VenMer",
+        "id": "MD-IDNO-1007600018551",
+        "amount": 8731925.97
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 9484694.95
+      }
+    ],
+    "awards": [
+      {
+        "name": "Sigma VenMer",
+        "id": "MD-IDNO-1007600018551",
+        "amount": 8731925.97,
+        "status": "pending"
+      },
+      {
+        "name": "Telprod-Com",
+        "id": "MD-IDNO-1011600003819",
+        "amount": 9192758.74,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 9484694.95,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1649939655716",
+    "date": "2022-07-05T10:41:21Z",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zonele de agrement din sectorul Buiucani",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 4210000.0,
+    "bidders": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 1191175.7
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 1252915.64
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 1259367.41
+      }
+    ],
+    "awards": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 1191175.7,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 1252915.64,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 1259367.41,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 2508258.12,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 2571330.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1654781476774",
+    "date": "2022-07-06T07:43:50Z",
+    "title": "Lucrări de reparații curente a grădinițelor (procedura 2)",
+    "buyer": "Primăria Cimișlia",
+    "cpv": "45400000-1",
+    "estimated_amount": 1115952.54,
+    "bidders": [
+      {
+        "name": "DSI Construct Grup SRL",
+        "id": "MD-IDNO-1014600043629",
+        "amount": 549824.73
+      },
+      {
+        "name": "FIRMA ”PRIMA-FICHIR” SRL",
+        "id": "MD-IDNO-1003611002134",
+        "amount": 233819.89
+      },
+      {
+        "name": "S.A  DSRM-3",
+        "id": "MD-IDNO-1003600053297",
+        "amount": 556037.4
+      },
+      {
+        "name": "ALARCON GROUP",
+        "id": "MD-IDNO-1017605003285",
+        "amount": 521853.09
+      }
+    ],
+    "awards": [
+      {
+        "name": "FIRMA ”PRIMA-FICHIR” SRL",
+        "id": "MD-IDNO-1003611002134",
+        "amount": 479000.0,
+        "status": "pending"
+      },
+      {
+        "name": "DSI Construct Grup SRL",
+        "id": "MD-IDNO-1014600043629",
+        "amount": 480000.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALARCON GROUP",
+        "id": "MD-IDNO-1017605003285",
+        "amount": 498333.38,
+        "status": "pending"
+      },
+      {
+        "name": "S.A  DSRM-3",
+        "id": "MD-IDNO-1003600053297",
+        "amount": 521037.54,
+        "status": "pending"
+      },
+      {
+        "name": "FIRMA ”PRIMA-FICHIR” SRL",
+        "id": "MD-IDNO-1003611002134",
+        "amount": 242980.52,
+        "status": "pending"
+      },
+      {
+        "name": "S.A  DSRM-3",
+        "id": "MD-IDNO-1003600053297",
+        "amount": 272517.71,
+        "status": "pending"
+      },
+      {
+        "name": "FIRMA ”PRIMA-FICHIR” SRL",
+        "id": "MD-IDNO-1003611002134",
+        "amount": 221000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.A  DSRM-3",
+        "id": "MD-IDNO-1003600053297",
+        "amount": 221331.63,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1655302301225",
+    "date": "2022-07-07T11:14:07Z",
+    "title": "Amenajarea scuarului cu scenă de vară în satul Brănești, comuna Ivancea, raionul Orhei",
+    "buyer": "Primaria comunei Ivancea",
+    "cpv": "45212300-9",
+    "estimated_amount": 2368200.08,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1657519633035",
+    "date": "2022-07-11T07:53:25Z",
+    "title": "„Amenajarea scuarului cu scenă de vară în satul Brănești, comuna Ivancea, raionul Orhei”",
+    "buyer": "Primaria comunei Ivancea",
+    "cpv": "",
+    "estimated_amount": 2368200.08,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
