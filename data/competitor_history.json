@@ -1955,6 +1955,96 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1655107479425",
+    "date": "2022-09-05T12:24:23Z",
+    "title": "Mobilier pentru grupe  necesare instituțiilor de educație timpurie   din   subordinea DETS Centru pentru anul 2022    ",
+    "buyer": "DETS sectorul Centru",
+    "cpv": "39100000-3",
+    "estimated_amount": 361491.0,
+    "bidders": [
+      {
+        "name": "Anstelux SRL",
+        "id": "MD-IDNO-1004600022962",
+        "amount": 360433.33
+      },
+      {
+        "name": "Mobil Forum",
+        "id": "MD-IDNO-1008600001422",
+        "amount": 286902.83
+      }
+    ],
+    "awards": [
+      {
+        "name": "Mobil Forum",
+        "id": "MD-IDNO-1008600001422",
+        "amount": 286882.82,
+        "status": "pending"
+      },
+      {
+        "name": "Anstelux SRL",
+        "id": "MD-IDNO-1004600022962",
+        "amount": 360433.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1653736676751",
+    "date": "2022-09-06T14:16:19Z",
+    "title": "elaborarea documentației de proiect pentru execuția ”Teren sportiv multifunțional  și zona de agrement” în mun. Cahul, sector Lapaevca ",
+    "buyer": "Primăria municipiului Cahul",
+    "cpv": "71300000-1",
+    "estimated_amount": 190000.0,
+    "bidders": [
+      {
+        "name": "GENESISARCH-GROUP",
+        "id": "MD-IDNO-1016600036678",
+        "amount": 182750.0
+      },
+      {
+        "name": "Reconsal Cons SRL",
+        "id": "MD-IDNO-1020600033470",
+        "amount": 175500.0
+      },
+      {
+        "name": "Fart-Home-Project",
+        "id": "MD-IDNO-1020600024465",
+        "amount": 214544.0
+      },
+      {
+        "name": "Biroul de proiectări Urban-Design",
+        "id": "MD-IDNO-1007606003373",
+        "amount": 119600.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Biroul de proiectări Urban-Design",
+        "id": "MD-IDNO-1007606003373",
+        "amount": 118698.0,
+        "status": "pending"
+      },
+      {
+        "name": "GENESISARCH-GROUP",
+        "id": "MD-IDNO-1016600036678",
+        "amount": 118700.0,
+        "status": "pending"
+      },
+      {
+        "name": "Reconsal Cons SRL",
+        "id": "MD-IDNO-1020600033470",
+        "amount": 175000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Fart-Home-Project",
+        "id": "MD-IDNO-1020600024465",
+        "amount": 214544.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
