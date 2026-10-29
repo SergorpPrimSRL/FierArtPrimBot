@@ -38457,16 +38457,6 @@
     "awards": []
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1792485914579",
-    "date": "2026-10-28T12:24:40Z",
-    "title": "Achiziționarea echipamentelor de joacă pentru terenul de joacă din satul Pașcani, raionul Criuleni",
-    "buyer": "Primaria com Pascani",
-    "cpv": "37535200-9",
-    "estimated_amount": 166666.67,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1792068727748",
     "date": "2026-10-29T07:04:40Z",
     "title": "Mobilier urban",
@@ -38496,6 +38486,62 @@
         "name": "PLAYGROUND STORE SRL",
         "id": "MD-IDNO-1023600047388",
         "amount": 76666.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792485914579",
+    "date": "2026-10-29T12:19:04Z",
+    "title": "Achiziționarea echipamentelor de joacă pentru terenul de joacă din satul Pașcani, raionul Criuleni",
+    "buyer": "Primaria com Pascani",
+    "cpv": "37535200-9",
+    "estimated_amount": 166666.67,
+    "bidders": [
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 166495.0
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 175583.34
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 165166.67
+      },
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 165916.66
+      }
+    ],
+    "awards": [
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 163166.0,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 163498.33,
+        "status": "pending"
+      },
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 165916.66,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 166495.0,
         "status": "pending"
       }
     ]
