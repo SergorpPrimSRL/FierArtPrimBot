@@ -2045,6 +2045,107 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1661406128211",
+    "date": "2022-09-11T15:43:50Z",
+    "title": "Teren sportiv s.Tarigrad r-l Drochia",
+    "buyer": "Primaria Tarigrad",
+    "cpv": "45200000-9",
+    "estimated_amount": 789650.0,
+    "bidders": [
+      {
+        "name": "SA\"Coloana de constructie montaj-17\"",
+        "id": "MD-IDNO-1005607002933",
+        "amount": 592075.01
+      },
+      {
+        "name": "MAXCOSM PRIM",
+        "id": "MD-IDNO-1009600028556",
+        "amount": 664672.74
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 786946.39
+      }
+    ],
+    "awards": [
+      {
+        "name": "SA\"Coloana de constructie montaj-17\"",
+        "id": "MD-IDNO-1005607002933",
+        "amount": 592075.01,
+        "status": "pending"
+      },
+      {
+        "name": "Primaterax-nord",
+        "id": "MD-IDNO-1006602011124",
+        "amount": 663600.0,
+        "status": "pending"
+      },
+      {
+        "name": "MAXCOSM PRIM",
+        "id": "MD-IDNO-1009600028556",
+        "amount": 664672.74,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1662019209853",
+    "date": "2022-09-12T06:00:00Z",
+    "title": "Mobilier urban (Container modular)",
+    "buyer": "IP ,,Serviciul național unic pentru apelurile de urgență 112",
+    "cpv": "34900000-6",
+    "estimated_amount": 50000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1657527942901",
+    "date": "2022-09-13T06:39:23Z",
+    "title": "Amenajarea scuarului cu scenă de vară în satul Brănești, comuna Ivancea, raionul Orhei",
+    "buyer": "Primaria comunei Ivancea",
+    "cpv": "45200000-9",
+    "estimated_amount": 2368200.08,
+    "bidders": [
+      {
+        "name": "Maniuk Prime",
+        "id": "MD-IDNO-1019600051218",
+        "amount": 2134224.03
+      }
+    ],
+    "awards": [
+      {
+        "name": "Maniuk Prime",
+        "id": "MD-IDNO-1019600051218",
+        "amount": 2134224.03,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1660899842447",
+    "date": "2022-09-15T12:56:57Z",
+    "title": "Lucrări de amenajarea parcului de agrement din s. Cîșla r-nul Telenești",
+    "buyer": "Primaria Cisla",
+    "cpv": "45200000-9",
+    "estimated_amount": 3012030.0,
+    "bidders": [
+      {
+        "name": "\"Devastcom\" S.R.L.",
+        "id": "MD-IDNO-1006600051009",
+        "amount": 2892909.36
+      }
+    ],
+    "awards": [
+      {
+        "name": "\"Devastcom\" S.R.L.",
+        "id": "MD-IDNO-1006600051009",
+        "amount": 2892909.36,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
