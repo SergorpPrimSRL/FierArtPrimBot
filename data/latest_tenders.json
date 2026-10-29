@@ -1,5 +1,26 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1793278719955",
+    "title": "Ghirlande luminoase",
+    "authority": "Primăria comunei Cocieri",
+    "amount": 140000.0,
+    "currency": "MDL",
+    "deadline": "2026-11-03T08:30:00Z",
+    "deadline_text": "03.11.2026 11:30",
+    "status": "empty",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "ghirlandă",
+      "ghirlande",
+      "ghirlande luminoase",
+      "ghirlanda"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793278719955",
+    "source_date": "2026-10-29T13:02:39Z",
+    "saved_at": "2026-10-29T16:07:53.292113+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1792662509470",
     "title": "Complex de joaca pentru copii inclusiv livrarea si instalare",
     "authority": "PRIMARIA COMUNEI PRUTENI",
