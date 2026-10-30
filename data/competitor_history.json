@@ -2146,6 +2146,84 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1660828860920",
+    "date": "2022-09-19T07:48:28Z",
+    "title": "Lucrări de reparație a foișoarelor La Instituția de Educație Timpurie nr.2 din com. Trușeni (REPETAT)",
+    "buyer": "Primăria Trușeni",
+    "cpv": "45200000-9",
+    "estimated_amount": 366941.55,
+    "bidders": [
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 306773.55
+      },
+      {
+        "name": "SA PASC-CON",
+        "id": "MD-IDNO-1003600102081",
+        "amount": 326232.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL BAUHOF GROUP",
+        "id": "MD-IDNO-1019600006285",
+        "amount": 306773.55,
+        "status": "pending"
+      },
+      {
+        "name": "SA PASC-CON",
+        "id": "MD-IDNO-1003600102081",
+        "amount": 326232.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1662989045303",
+    "date": "2022-09-19T21:00:00Z",
+    "title": "Amenajarea Parcului Central din sat. Untesti r-ul Ungheni",
+    "buyer": "Primaria Untesti",
+    "cpv": "45200000-9",
+    "estimated_amount": 3701629.33,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1660552864758",
+    "date": "2022-09-21T08:32:21Z",
+    "title": "Lucrări de reamenajare arhitecturală, amenajare teren de joacă, marcaje auto din cartierul Cartușa or.Durlești, mun.Chișinău",
+    "buyer": "Primaria or. Durlesti",
+    "cpv": "45200000-9",
+    "estimated_amount": 10000000.0,
+    "bidders": [
+      {
+        "name": "Nouconst",
+        "id": "MD-IDNO-1005600012120",
+        "amount": 11074437.19
+      },
+      {
+        "name": "PULTUSK INVEST",
+        "id": "MD-IDNO-1014606001999",
+        "amount": 10228218.54
+      }
+    ],
+    "awards": [
+      {
+        "name": "PULTUSK INVEST",
+        "id": "MD-IDNO-1014606001999",
+        "amount": 10228218.54,
+        "status": "pending"
+      },
+      {
+        "name": "Nouconst",
+        "id": "MD-IDNO-1005600012120",
+        "amount": 11074437.19,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
