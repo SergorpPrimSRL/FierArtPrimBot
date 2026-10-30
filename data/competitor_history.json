@@ -2224,6 +2224,320 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1663853472720",
+    "date": "2022-09-22T13:31:12Z",
+    "title": "Amenajarea Parcului central din sat. Untesti  r-ul Ungheni",
+    "buyer": "Primaria Untesti",
+    "cpv": "",
+    "estimated_amount": 3701629.33,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1662467091669",
+    "date": "2022-09-29T06:21:00Z",
+    "title": "Echipament pentru terenul de joacă necesar  instituțiilor de educație timpurie din  subordinea  DETS sectorului Buiucani  ",
+    "buyer": "DETS Buiucani",
+    "cpv": "37500000-3",
+    "estimated_amount": 574299.0,
+    "bidders": [
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 56000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 16700.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 12000.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 10000.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 34600.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 70000.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 27000.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 56000.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 58450.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 20000.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 35000.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 138285.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 120000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1663655952518",
+    "date": "2022-09-30T09:00:00Z",
+    "title": "Mobilier urban (Container modular)",
+    "buyer": "IP ,,Serviciul național unic pentru apelurile de urgență 112",
+    "cpv": "34900000-6",
+    "estimated_amount": 50000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1660306374287",
+    "date": "2022-09-30T10:51:59Z",
+    "title": "Construcția unui parc public cu terenuri de joacă pentru copii situat pe str. Alexei Mateevici, com. Stăuceni, mun. Chișinău ",
+    "buyer": "Primaria comunei Stauceni",
+    "cpv": "45200000-9",
+    "estimated_amount": 7403149.0,
+    "bidders": [
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 843741.52
+      },
+      {
+        "name": "Alex Garden",
+        "id": "MD-IDNO-1012600006895",
+        "amount": 1348193.47
+      },
+      {
+        "name": "\"BENESTAR TRADE\" SRL",
+        "id": "MD-IDNO-1018606000886",
+        "amount": 918915.48
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 916000.0
+      },
+      {
+        "name": "Ginacom SRL",
+        "id": "MD-IDNO-1008600035593",
+        "amount": 999057.83
+      }
+    ],
+    "awards": [
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 843741.52,
+        "status": "pending"
+      },
+      {
+        "name": "\"BENESTAR TRADE\" SRL",
+        "id": "MD-IDNO-1018606000886",
+        "amount": 918915.48,
+        "status": "pending"
+      },
+      {
+        "name": "Alex Garden",
+        "id": "MD-IDNO-1012600006895",
+        "amount": 1348193.47,
+        "status": "pending"
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 916000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Ginacom SRL",
+        "id": "MD-IDNO-1008600035593",
+        "amount": 999057.83,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 1338202.68,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 6370545.44,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1662721893057",
+    "date": "2022-09-30T12:36:31Z",
+    "title": "Echipament și utilaj pentru terenul sportiv universal pe lîngă casa de cultură din satul Ustia raionul Glodeni",
+    "buyer": "Primăria Ustia",
+    "cpv": "37400000-2",
+    "estimated_amount": 196560.0,
+    "bidders": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 253000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 253000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1662973814482",
+    "date": "2022-10-03T16:30:21Z",
+    "title": "Mobilier și tehnologii moderne pentru dotarea instituțiilor educaționale din satul Maramonovca, raionul Drochia  ",
+    "buyer": "Primaria Maramonovca",
+    "cpv": "39100000-3",
+    "estimated_amount": 964512.0,
+    "bidders": [
+      {
+        "name": "Taticol SRL",
+        "id": "MD-IDNO-1015600032374",
+        "amount": 223610.0
+      },
+      {
+        "name": "BTS PRO",
+        "id": "MD-IDNO-1008600061565",
+        "amount": 54648.0
+      },
+      {
+        "name": "Genial Invest SRL",
+        "id": "MD-IDNO-1018600000851",
+        "amount": 15500.0
+      },
+      {
+        "name": "Inoxplus SRL",
+        "id": "MD-IDNO-1011600039984",
+        "amount": 68425.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Taticol SRL",
+        "id": "MD-IDNO-1015600032374",
+        "amount": 150380.0,
+        "status": "pending"
+      },
+      {
+        "name": "Genial Invest SRL",
+        "id": "MD-IDNO-1018600000851",
+        "amount": 256250.0,
+        "status": "pending"
+      },
+      {
+        "name": "Genial Invest SRL",
+        "id": "MD-IDNO-1018600000851",
+        "amount": 15500.0,
+        "status": "pending"
+      },
+      {
+        "name": "Taticol SRL",
+        "id": "MD-IDNO-1015600032374",
+        "amount": 223610.0,
+        "status": "pending"
+      },
+      {
+        "name": "BTS PRO",
+        "id": "MD-IDNO-1008600061565",
+        "amount": 54648.0,
+        "status": "pending"
+      },
+      {
+        "name": "Inoxplus SRL",
+        "id": "MD-IDNO-1011600039984",
+        "amount": 68425.0,
+        "status": "pending"
+      },
+      {
+        "name": "BTS PRO",
+        "id": "MD-IDNO-1008600061565",
+        "amount": 17490.0,
+        "status": "pending"
+      },
+      {
+        "name": "Genial Invest SRL",
+        "id": "MD-IDNO-1018600000851",
+        "amount": 81000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1661275113027",
+    "date": "2022-10-04T12:04:49Z",
+    "title": "Lucrări de construcţii complete sau parţiale şi lucrări publice",
+    "buyer": "Primaria comunei Codreanca",
+    "cpv": "45200000-9",
+    "estimated_amount": 1853995.0,
+    "bidders": [
+      {
+        "name": "SRL ,,Gabrina-Prim''",
+        "id": "MD-IDNO-1009600006066",
+        "amount": 1795672.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL ,,Gabrina-Prim''",
+        "id": "MD-IDNO-1009600006066",
+        "amount": 1795672.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
