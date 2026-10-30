@@ -1,5 +1,41 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1792832428197",
+    "title": "Reparația și mentenanța elementelor de decor festiv existente, precum și furnizarea, instalarea și demontarea elementelor decorative noi în zonele: str. Alba Iulia – str. Liviu Deleanu, rondul Piața Dimitrie Cantemir, rondul Piața Unirii Principatelor",
+    "authority": "Pretura Buiucani",
+    "amount": 1215408.7,
+    "currency": "MDL",
+    "deadline": "2026-11-12T10:30:00Z",
+    "deadline_text": "12.11.2026 13:30",
+    "status": "clarification",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "decor festiv"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792832428197",
+    "source_date": "2026-10-30T15:00:06Z",
+    "saved_at": "2026-10-30T16:05:35.280393+00:00"
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792760655460",
+    "title": "Reparația și mentenanța elementelor de decor festiv existente, precum și furnizarea, instalarea și demontarea elementelor decorative noi în zonele: str. Calea Ieșilor, Parcul La Izvor și Parcul Alunelul.",
+    "authority": "Pretura Buiucani",
+    "amount": 1447704.25,
+    "currency": "MDL",
+    "deadline": "2026-11-11T14:30:00Z",
+    "deadline_text": "11.11.2026 17:30",
+    "status": "clarification",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "decor festiv"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792760655460",
+    "source_date": "2026-10-30T14:57:24Z",
+    "saved_at": "2026-10-30T16:05:30.025112+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1793278719955",
     "title": "Ghirlande luminoase",
     "authority": "Primăria comunei Cocieri",
@@ -7,7 +43,7 @@
     "currency": "MDL",
     "deadline": "2026-11-03T08:30:00Z",
     "deadline_text": "03.11.2026 11:30",
-    "status": "empty",
+    "status": "tendering",
     "score": 100,
     "label": "FOARTE INTERESANTĂ",
     "matches": [
@@ -17,26 +53,8 @@
       "ghirlanda"
     ],
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793278719955",
-    "source_date": "2026-10-29T13:02:39Z",
-    "saved_at": "2026-10-29T16:07:53.292113+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1792662509470",
-    "title": "Complex de joaca pentru copii inclusiv livrarea si instalare",
-    "authority": "PRIMARIA COMUNEI PRUTENI",
-    "amount": 167945.0,
-    "currency": "MDL",
-    "deadline": "2026-10-30T14:16:20Z",
-    "deadline_text": "30.10.2026 17:16",
-    "status": "clarification",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "complex de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792662509470",
-    "source_date": "2026-10-26T12:16:20Z",
-    "saved_at": "2026-10-26T14:00:41.333486+00:00"
+    "source_date": "2026-10-30T14:00:01Z",
+    "saved_at": "2026-10-30T16:04:24.317415+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1792392007299",
