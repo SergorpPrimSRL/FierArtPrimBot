@@ -37648,35 +37648,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1789026204026",
-    "date": "2026-10-02T11:09:59Z",
-    "title": "„ Echipamente și mobilier pentru terenul de joaca, inclusiv asamblarea, montarea, fixarea și punerea în funcțiune  în orașul Telenești și satul Băneștii Noi pentru implementarea inițiativelor civice selectate prin intermediul Laboratorului de Inovație Civică, ediția 2026”",
-    "buyer": "Primaria Telenesti",
-    "cpv": "37400000-2",
-    "estimated_amount": 225350.0,
-    "bidders": [
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 87908.33
-      }
-    ],
-    "awards": [
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 87908.33,
-        "status": "pending"
-      },
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 65066.66,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1791277339458",
     "date": "2026-10-06T09:11:24Z",
     "title": "Scrînciob din lemn",
@@ -38670,8 +38641,37 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1789026204026",
+    "date": "2026-10-30T05:57:52Z",
+    "title": "„ Echipamente și mobilier pentru terenul de joaca, inclusiv asamblarea, montarea, fixarea și punerea în funcțiune  în orașul Telenești și satul Băneștii Noi pentru implementarea inițiativelor civice selectate prin intermediul Laboratorului de Inovație Civică, ediția 2026”",
+    "buyer": "Primaria Telenesti",
+    "cpv": "37400000-2",
+    "estimated_amount": 225350.0,
+    "bidders": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 87908.33
+      }
+    ],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 87908.33,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 65066.66,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1792485914579",
-    "date": "2026-10-29T12:19:04Z",
+    "date": "2026-10-30T06:26:35Z",
     "title": "Achiziționarea echipamentelor de joacă pentru terenul de joacă din satul Pașcani, raionul Criuleni",
     "buyer": "Primaria com Pascani",
     "cpv": "37535200-9",
