@@ -38597,16 +38597,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1792662509470",
-    "date": "2026-10-27T12:16:20Z",
-    "title": "Complex de joaca pentru copii inclusiv livrarea si instalare",
-    "buyer": "PRIMARIA COMUNEI PRUTENI",
-    "cpv": "39100000-3",
-    "estimated_amount": 167945.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1792068727748",
     "date": "2026-10-29T07:04:40Z",
     "title": "Mobilier urban",
@@ -38721,6 +38711,62 @@
         "name": "PLAYPARK",
         "id": "MD-IDNO-1023600065456",
         "amount": 166495.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792662509470",
+    "date": "2026-10-30T14:16:20Z",
+    "title": "Complex de joaca pentru copii inclusiv livrarea si instalare",
+    "buyer": "PRIMARIA COMUNEI PRUTENI",
+    "cpv": "39100000-3",
+    "estimated_amount": 167945.0,
+    "bidders": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 145960.0
+      },
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 158331.66
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 165166.67
+      },
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 154166.67
+      }
+    ],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 145960.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL,, Regina Lemn Plast\"",
+        "id": "MD-IDNO-1010607000898",
+        "amount": 154166.67,
+        "status": "pending"
+      },
+      {
+        "name": "EXIMPROD-TRADE",
+        "id": "MD-IDNO-1021609001886",
+        "amount": 158331.66,
+        "status": "pending"
+      },
+      {
+        "name": "Trio Construct SRL",
+        "id": "MD-IDNO-1016600013974",
+        "amount": 165166.67,
         "status": "pending"
       }
     ]
