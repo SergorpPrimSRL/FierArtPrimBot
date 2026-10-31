@@ -3031,6 +3031,299 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1666868637980",
+    "date": "2022-10-27T11:03:57Z",
+    "title": "Decorațiuni festive cu ghirlande LED",
+    "buyer": "IP Universitatea de Stat de Medicină și Farmacie ”Nicolae Testemițanu”",
+    "cpv": "",
+    "estimated_amount": 317916.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1665039429002",
+    "date": "2022-10-28T08:18:29Z",
+    "title": "Teren de joaca",
+    "buyer": "Primaria Maramonovca",
+    "cpv": "37500000-3",
+    "estimated_amount": 65938.0,
+    "bidders": [
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 75940.0
+      },
+      {
+        "name": "\"BADAR - M\"",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 63980.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 61345.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"BADAR - M\"",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 62300.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1659101272402",
+    "date": "2022-10-31T11:48:43Z",
+    "title": "Lucrări de amenajare parcări stradale în centrul istoric al or. Chişinău, Lot 1",
+    "buyer": "Direcţia generală transport public şi căi de comunicaţie",
+    "cpv": "45200000-9",
+    "estimated_amount": 9259400.0,
+    "bidders": [
+      {
+        "name": "Varincom SRL",
+        "id": "MD-IDNO-1004600031450",
+        "amount": 7910837.0
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 9058244.03
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 7870490.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 7870490.0,
+        "status": "pending"
+      },
+      {
+        "name": "Varincom SRL",
+        "id": "MD-IDNO-1004600031450",
+        "amount": 7910837.0,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 9058244.03,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1662472504149",
+    "date": "2022-10-31T11:49:35Z",
+    "title": "Procurarea și amenajarea parcărilor pentru biciclete",
+    "buyer": "Direcţia generală transport public şi căi de comunicaţie",
+    "cpv": "45233293-9",
+    "estimated_amount": 634030.0,
+    "bidders": [
+      {
+        "name": "Ginacom SRL",
+        "id": "MD-IDNO-1008600035593",
+        "amount": 349946.3
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 579030.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Ginacom SRL",
+        "id": "MD-IDNO-1008600035593",
+        "amount": 349946.3,
+        "status": "pending"
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 579030.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1659101860849",
+    "date": "2022-10-31T11:50:39Z",
+    "title": "Lucrări de amenajare parcări stradale în centrul istoric al or. Chişinău, Lot 2",
+    "buyer": "Direcţia generală transport public şi căi de comunicaţie",
+    "cpv": "45300000-0",
+    "estimated_amount": 50422000.0,
+    "bidders": [
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 53354435.27
+      }
+    ],
+    "awards": [
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 53354435.27,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1664805368068",
+    "date": "2022-10-31T13:26:56Z",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zonele de agrement din or. Vadul lui Vodă",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 420000.0,
+    "bidders": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 118950.0
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 195100.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 195100.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 218500.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 89120.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 118950.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1662649981896",
+    "date": "2022-11-01T13:41:20Z",
+    "title": "Amenajarea scuarului din str. N. Zelinski intersecție cu bd. Decebal, sectorul Botanica, municipiul Chișinău",
+    "buyer": "Pretura Botanica",
+    "cpv": "45200000-9",
+    "estimated_amount": 5255184.32,
+    "bidders": [
+      {
+        "name": "Întreprinderea Mixtă ”ANCARO-S.V.” SRL",
+        "id": "MD-IDNO-1007600022332",
+        "amount": 5194032.06
+      },
+      {
+        "name": "Atractiv Invest",
+        "id": "MD-IDNO-1014600000370",
+        "amount": 6285314.04
+      }
+    ],
+    "awards": [
+      {
+        "name": "Întreprinderea Mixtă ”ANCARO-S.V.” SRL",
+        "id": "MD-IDNO-1007600022332",
+        "amount": 5194032.06,
+        "status": "pending"
+      },
+      {
+        "name": "Atractiv Invest",
+        "id": "MD-IDNO-1014600000370",
+        "amount": 6285314.04,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1665662145286",
+    "date": "2022-11-02T07:29:10Z",
+    "title": "Constructia unui teren sportiv pentru minifotbal din s. Mihailovca, com. Prepelita, rl Singerei",
+    "buyer": "Primaria comunei Prepelita",
+    "cpv": "45200000-9",
+    "estimated_amount": 728910.0,
+    "bidders": [
+      {
+        "name": "Danlevita",
+        "id": "MD-IDNO-1003602004927",
+        "amount": 726849.21
+      }
+    ],
+    "awards": [
+      {
+        "name": "Danlevita",
+        "id": "MD-IDNO-1003602004927",
+        "amount": 726849.21,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1666871265763",
+    "date": "2022-11-03T12:18:18Z",
+    "title": "Decorațiuni festive cu ghirlande LED",
+    "buyer": "IP Universitatea de Stat de Medicină și Farmacie ”Nicolae Testemițanu”",
+    "cpv": "31500000-1",
+    "estimated_amount": 317916.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1665124083667",
+    "date": "2022-11-04T07:01:27Z",
+    "title": "Privind achizitionarea Complexelor de joacă pentru dotare a IET nr.5 din or. Glodeni",
+    "buyer": "Primaria or. Glodeni",
+    "cpv": "39300000-5",
+    "estimated_amount": 270800.0,
+    "bidders": [
+      {
+        "name": "\"BADAR - M\"",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 260000.0
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 270700.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "\"BADAR - M\"",
+        "id": "MD-IDNO-1014600041625",
+        "amount": 244800.0,
+        "status": "pending"
+      },
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 245000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
