@@ -3324,6 +3324,168 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1664197589865",
+    "date": "2022-11-04T13:27:11Z",
+    "title": "Amenajarea Parcului central din sat. Untesti r-ul Ungheni",
+    "buyer": "Primaria Untesti",
+    "cpv": "45200000-9",
+    "estimated_amount": 3701629.33,
+    "bidders": [
+      {
+        "name": "Aflux-Prim",
+        "id": "MD-IDNO-1008602001596",
+        "amount": 3652980.76
+      },
+      {
+        "name": "Alexnatcons",
+        "id": "MD-IDNO-1012609003196",
+        "amount": 3408970.62
+      },
+      {
+        "name": "SRL \"Javelin N.A.\"",
+        "id": "MD-IDNO-1003609004546",
+        "amount": 3700382.66
+      }
+    ],
+    "awards": [
+      {
+        "name": "SRL \"Javelin N.A.\"",
+        "id": "MD-IDNO-1003609004546",
+        "amount": 3408900.0,
+        "status": "pending"
+      },
+      {
+        "name": "Alexnatcons",
+        "id": "MD-IDNO-1012609003196",
+        "amount": 3408970.62,
+        "status": "pending"
+      },
+      {
+        "name": "Aflux-Prim",
+        "id": "MD-IDNO-1008602001596",
+        "amount": 3652980.76,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1664275945397",
+    "date": "2022-11-10T10:12:27Z",
+    "title": "servicii privind elaborarea documentației de proiect pentru execuția ”Teren sportiv multifunțional  și zona de agrement” în mun. Cahul, sector Lapaevca, REPETAT ",
+    "buyer": "Primăria municipiului Cahul",
+    "cpv": "71300000-1",
+    "estimated_amount": 190000.0,
+    "bidders": [
+      {
+        "name": "GENESISARCH-GROUP",
+        "id": "MD-IDNO-1016600036678",
+        "amount": 182750.0
+      },
+      {
+        "name": "GEOCONSTRUCT",
+        "id": "MD-IDNO-1005600046006",
+        "amount": 168500.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "GEOCONSTRUCT",
+        "id": "MD-IDNO-1005600046006",
+        "amount": 168500.0,
+        "status": "pending"
+      },
+      {
+        "name": "GENESISARCH-GROUP",
+        "id": "MD-IDNO-1016600036678",
+        "amount": 182750.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1665075817049",
+    "date": "2022-11-10T11:02:42Z",
+    "title": "Amenajarea Parcului Central din satul Delacău, raionul Anenii Noi",
+    "buyer": "Primaria Delacau",
+    "cpv": "45200000-9",
+    "estimated_amount": 6238453.41,
+    "bidders": [
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 969926.9
+      },
+      {
+        "name": "Emcom E&E",
+        "id": "MD-IDNO-1011600027451",
+        "amount": 4534589.97
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 5939860.47
+      }
+    ],
+    "awards": [
+      {
+        "name": "Emcom E&E",
+        "id": "MD-IDNO-1011600027451",
+        "amount": 4534589.97,
+        "status": "pending"
+      },
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 5164577.77,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 5939860.47,
+        "status": "pending"
+      },
+      {
+        "name": "Emcom E&E",
+        "id": "MD-IDNO-1011600027451",
+        "amount": 842543.0,
+        "status": "pending"
+      },
+      {
+        "name": "5AQ INVEST SRL",
+        "id": "MD-IDNO-1008600004663",
+        "amount": 969926.9,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 1088601.27,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1668092292547",
+    "date": "2022-11-11T14:03:03Z",
+    "title": "Bunuri pentru dotarea grădiniței",
+    "buyer": "Primaria Negureni",
+    "cpv": "39300000-5",
+    "estimated_amount": 1811923.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1668083301727",
+    "date": "2022-11-11T14:03:51Z",
+    "title": "Bunuri pentru dotarea grădiniței",
+    "buyer": "Primaria Negureni",
+    "cpv": "39300000-5",
+    "estimated_amount": 1811923.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
