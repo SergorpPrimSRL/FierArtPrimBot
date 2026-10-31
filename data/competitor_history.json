@@ -2685,6 +2685,318 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1662540470304",
+    "date": "2022-10-11T12:18:19Z",
+    "title": "Echipament și utilajul pentru terenul sportiv universal  pe lîngă Gimnaziul din satul Limbenii Vechi, raionul Glodeni",
+    "buyer": "Primaria s.Limbenii Vechi",
+    "cpv": "37400000-2",
+    "estimated_amount": 196560.0,
+    "bidders": [
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 253000.0
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 273.87
+      }
+    ],
+    "awards": [
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 273.87,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 253000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1662627338998",
+    "date": "2022-10-17T06:33:47Z",
+    "title": "Complexe de joacă pentru copii, inclusiv instalarea și amenajarea ",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 33750000.0,
+    "bidders": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 221047.64
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 11250000.0
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 671785.1
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 209547.64,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 380901.77,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 671785.1,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 11250000.0,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 221047.64,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1663153428197",
+    "date": "2022-10-17T08:26:11Z",
+    "title": "achizitionarea echipamentului si  Inventarului pentrudotare a IET nr.5 din or. Glodeni",
+    "buyer": "Primaria or. Glodeni",
+    "cpv": "39300000-5",
+    "estimated_amount": 1000900.0,
+    "bidders": [
+      {
+        "name": "Inoxplus SRL",
+        "id": "MD-IDNO-1011600039984",
+        "amount": 146269.11
+      },
+      {
+        "name": "VMS-COMPANIE",
+        "id": "MD-IDNO-1006602003242",
+        "amount": 295000.0
+      },
+      {
+        "name": "BTS PRO",
+        "id": "MD-IDNO-1008600061565",
+        "amount": 174325.0
+      },
+      {
+        "name": "Taticol SRL",
+        "id": "MD-IDNO-1015600032374",
+        "amount": 175000.0
+      },
+      {
+        "name": "Anstelux SRL",
+        "id": "MD-IDNO-1004600022962",
+        "amount": 238333.33
+      }
+    ],
+    "awards": [
+      {
+        "name": "BTS PRO",
+        "id": "MD-IDNO-1008600061565",
+        "amount": 174325.0,
+        "status": "pending"
+      },
+      {
+        "name": "Taticol SRL",
+        "id": "MD-IDNO-1015600032374",
+        "amount": 158000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Anstelux SRL",
+        "id": "MD-IDNO-1004600022962",
+        "amount": 158333.33,
+        "status": "pending"
+      },
+      {
+        "name": "VMS-COMPANIE",
+        "id": "MD-IDNO-1006602003242",
+        "amount": 295000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Inoxplus SRL",
+        "id": "MD-IDNO-1011600039984",
+        "amount": 146269.11,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1658222005358",
+    "date": "2022-10-17T13:49:40Z",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zonele de agrement din sectorul Ciocana",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 488750.0,
+    "bidders": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 170532.33
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 197812.02
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 249735.51
+      }
+    ],
+    "awards": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 217532.48,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 233744.21,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 249735.51,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 170532.33,
+        "status": "pending"
+      },
+      {
+        "name": "S.C. ALTAPRIM S.R.L.",
+        "id": "MD-IDNO-1007600029685",
+        "amount": 197812.02,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 220744.3,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1663138824790",
+    "date": "2022-10-18T08:11:59Z",
+    "title": "Achiziționarea lucrărilor  de construcție a unui complex de terenuri de joacă pentru o copilărie frumoasă localizat în satul Drăgușeni, satul Zamcioji, satul Rădeni, rl. Strășeni",
+    "buyer": "Primaria Radeni",
+    "cpv": "45200000-9",
+    "estimated_amount": 836923.75,
+    "bidders": [
+      {
+        "name": "SRL ,,Gabrina-Prim''",
+        "id": "MD-IDNO-1009600006066",
+        "amount": 836923.75
+      },
+      {
+        "name": "\"A.S. Vest grup\" SRL",
+        "id": "MD-IDNO-1005600047634",
+        "amount": 835000.0
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 742429.84
+      }
+    ],
+    "awards": [
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 742429.84,
+        "status": "pending"
+      },
+      {
+        "name": "\"A.S. Vest grup\" SRL",
+        "id": "MD-IDNO-1005600047634",
+        "amount": 835000.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL ,,Gabrina-Prim''",
+        "id": "MD-IDNO-1009600006066",
+        "amount": 836923.75,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1657026121195",
+    "date": "2022-10-18T11:06:16Z",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zonele de agrement din sectorul Buiucani",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 4210000.0,
+    "bidders": [
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 2421330.35
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 1189175.7
+      }
+    ],
+    "awards": [
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 1102915.61,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 1189175.7,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 2421330.35,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 2505758.12,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
