@@ -3486,6 +3486,74 @@
     "awards": []
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1659102189103",
+    "date": "2022-11-16T13:51:49Z",
+    "title": "Lucrări de amenajare parcări stradale în centrul istoric al or. Chişinău, Lot  3",
+    "buyer": "Direcţia generală transport public şi căi de comunicaţie",
+    "cpv": "45200000-9",
+    "estimated_amount": 18389949.0,
+    "bidders": [
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 16465517.81
+      },
+      {
+        "name": "Varincom SRL",
+        "id": "MD-IDNO-1004600031450",
+        "amount": 17646828.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 16465517.81,
+        "status": "pending"
+      },
+      {
+        "name": "Varincom SRL",
+        "id": "MD-IDNO-1004600031450",
+        "amount": 17646828.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1659102525043",
+    "date": "2022-11-16T13:55:53Z",
+    "title": "Lucrări de amenajare parcări stradale în centrul istoric al or. Chişinău, Lot 4",
+    "buyer": "Direcţia generală transport public şi căi de comunicaţie",
+    "cpv": "45200000-9",
+    "estimated_amount": 17365921.0,
+    "bidders": [
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 18149391.32
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 14761032.85
+      }
+    ],
+    "awards": [
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 14761032.85,
+        "status": "pending"
+      },
+      {
+        "name": "SC Foremcons SRL",
+        "id": "MD-IDNO-1005600001878",
+        "amount": 18149391.32,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
