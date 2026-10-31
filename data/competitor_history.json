@@ -2997,6 +2997,40 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1660828725655",
+    "date": "2022-10-19T11:13:19Z",
+    "title": "Complexe de joacă, inclusiv instalarea și amenajarea în zonele de agrement din satele Bălășești si Sloveanca rl Sîngerei",
+    "buyer": "Primaria Balasesti",
+    "cpv": "37500000-3",
+    "estimated_amount": 2499900.0,
+    "bidders": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 2439032.68
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 2490127.88
+      }
+    ],
+    "awards": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 2439032.68,
+        "status": "pending"
+      },
+      {
+        "name": "Standard Impex SRL",
+        "id": "MD-IDNO-1011600008216",
+        "amount": 2490127.88,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
