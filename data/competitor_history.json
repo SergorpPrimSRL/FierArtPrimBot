@@ -39625,16 +39625,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1792392007299",
-    "date": "2026-10-25T13:02:30Z",
-    "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
-    "buyer": "Grădina Zoologică",
-    "cpv": "45300000-0",
-    "estimated_amount": 521235.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1788532682997",
     "date": "2026-10-26T12:26:03Z",
     "title": "Lucrări de reparatie a unui foișor dublu pe teritoriul IET „Delia”, mun. Ungheni",
@@ -39867,6 +39857,40 @@
         "name": "Trio Construct SRL",
         "id": "MD-IDNO-1016600013974",
         "amount": 165166.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1792392007299",
+    "date": "2026-10-31T15:02:30Z",
+    "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
+    "buyer": "Grădina Zoologică",
+    "cpv": "45300000-0",
+    "estimated_amount": 521235.0,
+    "bidders": [
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 409510.62
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 459988.59
+      }
+    ],
+    "awards": [
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 409510.62,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 459988.59,
         "status": "pending"
       }
     ]
