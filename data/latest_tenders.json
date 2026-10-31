@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1793017214847",
+    "title": "Bomboane sub formă de cadouri de Crăciun",
+    "authority": "AGENŢIA ASIGURARE RESURSE ŞI ADMINISTRARE PATRIMONIU A MINISTERULUI APĂRĂRII",
+    "amount": 250000.0,
+    "currency": "MDL",
+    "deadline": "2026-11-03T13:00:00Z",
+    "deadline_text": "03.11.2026 16:00",
+    "status": "tendering",
+    "score": 62,
+    "label": "POSIBIL RELEVANTĂ",
+    "matches": [
+      "anul nou"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793017214847",
+    "source_date": "2026-10-31T13:00:00Z",
+    "saved_at": "2026-10-31T14:05:26.662071+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1792832428197",
     "title": "Reparația și mentenanța elementelor de decor festiv existente, precum și furnizarea, instalarea și demontarea elementelor decorative noi în zonele: str. Alba Iulia – str. Liviu Deleanu, rondul Piața Dimitrie Cantemir, rondul Piața Unirii Principatelor",
     "authority": "Pretura Buiucani",
