@@ -3554,6 +3554,69 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1653671499807",
+    "date": "2022-11-30T12:33:44Z",
+    "title": "Echipament pentru terenuri de joacă pentru grădinițele nr. 4 ”Andrieș” și nr. 7 ”Guguță” ",
+    "buyer": "Primaria municipiului Hincesti",
+    "cpv": "37500000-3",
+    "estimated_amount": 500000.0,
+    "bidders": [
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 249988.33
+      },
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 218380.0
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 239393.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 218380.0,
+        "status": "pending"
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 243393.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 249988.33,
+        "status": "pending"
+      },
+      {
+        "name": "\"POWER GREEN\"",
+        "id": "MD-IDNO-1021603000887",
+        "amount": 217000.0,
+        "status": "pending"
+      },
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 217995.0,
+        "status": "pending"
+      },
+      {
+        "name": "SRL POWER TEAM",
+        "id": "MD-IDNO-1002600025121",
+        "amount": 249970.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
