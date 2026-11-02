@@ -40144,8 +40144,82 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1792392007299",
+    "date": "2026-11-01T17:10:13Z",
+    "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
+    "buyer": "Grădina Zoologică",
+    "cpv": "45300000-0",
+    "estimated_amount": 521235.0,
+    "bidders": [
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 409510.62
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 459988.59
+      }
+    ],
+    "awards": [
+      {
+        "name": "Dastimart",
+        "id": "MD-IDNO-1021600020039",
+        "amount": 409510.62,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYPARK",
+        "id": "MD-IDNO-1023600065456",
+        "amount": 459988.59,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793606238124",
+    "date": "2026-11-02T07:59:06Z",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 54 din str.  Ion Creangă 4a ",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793606429657",
+    "date": "2026-11-02T08:01:36Z",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 158 din str.  O. Ghibu, 2",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793606577291",
+    "date": "2026-11-02T08:04:06Z",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 183 din str. L. Deleanu 1/1",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793606740578",
+    "date": "2026-11-02T08:06:37Z",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 185 din str.  Alba Iulia 202/3",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1792662509470",
-    "date": "2026-10-30T14:16:20Z",
+    "date": "2026-11-02T08:20:48Z",
     "title": "Complex de joaca pentru copii inclusiv livrarea si instalare",
     "buyer": "PRIMARIA COMUNEI PRUTENI",
     "cpv": "39100000-3",
@@ -40200,35 +40274,18 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1792392007299",
-    "date": "2026-11-01T17:10:13Z",
-    "title": "Instalarea unui complex de joaca multifunctional si amenajarea zonei de agrement de pe teritoriul IM \"Gradina Zoologica\"",
-    "buyer": "Grădina Zoologică",
-    "cpv": "45300000-0",
-    "estimated_amount": 521235.0,
-    "bidders": [
-      {
-        "name": "Dastimart",
-        "id": "MD-IDNO-1021600020039",
-        "amount": 409510.62
-      },
-      {
-        "name": "PLAYPARK",
-        "id": "MD-IDNO-1023600065456",
-        "amount": 459988.59
-      }
-    ],
+    "ocid": "ocds-b3wdp1-MD-1793609497045",
+    "date": "2026-11-02T08:55:37Z",
+    "title": "Complex de joacă",
+    "buyer": "PRIMARIA SATULUI OLANESTI",
+    "cpv": "37500000-3",
+    "estimated_amount": 166666.67,
+    "bidders": [],
     "awards": [
       {
-        "name": "Dastimart",
-        "id": "MD-IDNO-1021600020039",
-        "amount": 409510.62,
-        "status": "pending"
-      },
-      {
-        "name": "PLAYPARK",
-        "id": "MD-IDNO-1023600065456",
-        "amount": 459988.59,
+        "name": "S.R.L. \"SERGORP-PRIM\"",
+        "id": "MD-IDNO-1018608001681",
+        "amount": 166666.67,
         "status": "pending"
       }
     ]
