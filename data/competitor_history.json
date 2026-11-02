@@ -3617,6 +3617,51 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1668175548954",
+    "date": "2022-12-28T09:33:27Z",
+    "title": "Bunuri pentru dotarea grădiniței",
+    "buyer": "Primaria Negureni",
+    "cpv": "39300000-5",
+    "estimated_amount": 1811923.0,
+    "bidders": [
+      {
+        "name": "BTS PRO",
+        "id": "MD-IDNO-1008600061565",
+        "amount": 447300.65
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 396700.0
+      },
+      {
+        "name": "MAGDA SRL",
+        "id": "MD-IDNO-1002600011546",
+        "amount": 764408.33
+      }
+    ],
+    "awards": [
+      {
+        "name": "BTS PRO",
+        "id": "MD-IDNO-1008600061565",
+        "amount": 447300.65,
+        "status": "pending"
+      },
+      {
+        "name": "MAGDA SRL",
+        "id": "MD-IDNO-1002600011546",
+        "amount": 764408.33,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Nova Nivel Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 396700.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1676531497783",
     "date": "2023-03-03T11:58:00Z",
     "title": "Achiziționarea echipamentului pentru teren de joacă, instalarea și amenajarea zonei de agrement.",
