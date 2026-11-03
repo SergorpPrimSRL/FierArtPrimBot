@@ -1,5 +1,41 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1792832428197",
+    "title": "Reparația și mentenanța elementelor de decor festiv existente, precum și furnizarea, instalarea și demontarea elementelor decorative noi în zonele: str. Alba Iulia – str. Liviu Deleanu, rondul Piața Dimitrie Cantemir, rondul Piața Unirii Principatelor",
+    "authority": "Pretura Buiucani",
+    "amount": 1215408.7,
+    "currency": "MDL",
+    "deadline": "2026-11-14T13:42:24Z",
+    "deadline_text": "14.11.2026 16:42",
+    "status": "clarification",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "decor festiv"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792832428197",
+    "source_date": "2026-11-03T13:42:24Z",
+    "saved_at": "2026-11-03T16:14:16.848831+00:00"
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793621543851",
+    "title": "Cadou universal de Anul Nou 2026 (biscuiți, napoletane) pentru instituţiile de educaţie timpurie subordonate DETS sec.Centru",
+    "authority": "DETS sectorul Centru",
+    "amount": 166875.0,
+    "currency": "MDL",
+    "deadline": "2026-11-06T12:30:00Z",
+    "deadline_text": "06.11.2026 15:30",
+    "status": "tendering",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "anul nou"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793621543851",
+    "source_date": "2026-11-03T12:30:00Z",
+    "saved_at": "2026-11-03T16:13:11.635822+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1792760655460",
     "title": "Reparația și mentenanța elementelor de decor festiv existente, precum și furnizarea, instalarea și demontarea elementelor decorative noi în zonele: str. Calea Ieșilor, Parcul La Izvor și Parcul Alunelul.",
     "authority": "Pretura Buiucani",
@@ -124,62 +160,5 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793606238124",
     "source_date": "2026-11-02T07:59:06Z",
     "saved_at": "2026-11-02T08:20:44.465491+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1793017214847",
-    "title": "Bomboane sub formă de cadouri de Crăciun",
-    "authority": "AGENŢIA ASIGURARE RESURSE ŞI ADMINISTRARE PATRIMONIU A MINISTERULUI APĂRĂRII",
-    "amount": 250000.0,
-    "currency": "MDL",
-    "deadline": "2026-11-03T13:00:00Z",
-    "deadline_text": "03.11.2026 16:00",
-    "status": "tendering",
-    "score": 62,
-    "label": "POSIBIL RELEVANTĂ",
-    "matches": [
-      "anul nou"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793017214847",
-    "source_date": "2026-10-31T13:00:00Z",
-    "saved_at": "2026-10-31T14:05:26.662071+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1792832428197",
-    "title": "Reparația și mentenanța elementelor de decor festiv existente, precum și furnizarea, instalarea și demontarea elementelor decorative noi în zonele: str. Alba Iulia – str. Liviu Deleanu, rondul Piața Dimitrie Cantemir, rondul Piața Unirii Principatelor",
-    "authority": "Pretura Buiucani",
-    "amount": 1215408.7,
-    "currency": "MDL",
-    "deadline": "2026-11-12T10:30:00Z",
-    "deadline_text": "12.11.2026 13:30",
-    "status": "clarification",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "decor festiv"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792832428197",
-    "source_date": "2026-10-30T15:00:06Z",
-    "saved_at": "2026-10-30T16:05:35.280393+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1793278719955",
-    "title": "Ghirlande luminoase",
-    "authority": "Primăria comunei Cocieri",
-    "amount": 140000.0,
-    "currency": "MDL",
-    "deadline": "2026-11-03T08:30:00Z",
-    "deadline_text": "03.11.2026 11:30",
-    "status": "tendering",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "ghirlandă",
-      "ghirlande",
-      "ghirlande luminoase",
-      "ghirlanda"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793278719955",
-    "source_date": "2026-10-30T14:00:01Z",
-    "saved_at": "2026-10-30T16:04:24.317415+00:00"
   }
 ]
