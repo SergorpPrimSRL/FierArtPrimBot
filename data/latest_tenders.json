@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1793879454706",
+    "title": "Achiziţionarea lucrărilor de amenajare a unei zone de agrement cu echipamente de joacă și sport din Centrul Integra",
+    "authority": "Agentia Teritoriala de asistenta Sociala Sud",
+    "amount": 250000.0,
+    "currency": "MDL",
+    "deadline": "2026-11-12T09:00:00Z",
+    "deadline_text": "12.11.2026 12:00",
+    "status": "clarification",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "echipamente de joacă"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793879454706",
+    "source_date": "2026-11-05T18:42:50Z",
+    "saved_at": "2026-11-05T22:50:10.812971+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1792832428197",
     "title": "Reparația și mentenanța elementelor de decor festiv existente, precum și furnizarea, instalarea și demontarea elementelor decorative noi în zonele: str. Alba Iulia – str. Liviu Deleanu, rondul Piața Dimitrie Cantemir, rondul Piața Unirii Principatelor",
     "authority": "Pretura Buiucani",
@@ -16,24 +34,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792832428197",
     "source_date": "2026-11-05T13:42:24Z",
     "saved_at": "2026-11-05T17:40:51.287494+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1793879454706",
-    "title": "Achiziţionarea lucrărilor de amenajare a unei zone de agrement cu echipamente de joacă și sport din Centrul Integra",
-    "authority": "Agentia Teritoriala de asistenta Sociala Sud",
-    "amount": 250000.0,
-    "currency": "MDL",
-    "deadline": "2026-11-12T09:00:00Z",
-    "deadline_text": "12.11.2026 12:00",
-    "status": "clarification",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "echipamente de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793879454706",
-    "source_date": "2026-11-05T12:05:03Z",
-    "saved_at": "2026-11-05T17:38:52.255549+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1793804773862",
