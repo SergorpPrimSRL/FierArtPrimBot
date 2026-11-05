@@ -35165,84 +35165,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1769100386262",
-    "date": "2026-09-11T17:11:35Z",
-    "title": "Lucrări de amenajare a teritoriului (drumuri acces, platforme, garduri interioare, parcări, zone verzi, mobilier urban, etc.). Contract cu finanțare multianuală 2026-2028",
-    "buyer": "AGENŢIA ASIGURARE RESURSE ŞI ADMINISTRARE PATRIMONIU A MINISTERULUI APĂRĂRII",
-    "cpv": "45111291-4",
-    "estimated_amount": 91670000.0,
-    "bidders": [
-      {
-        "name": "KVM Cons SRL",
-        "id": "MD-IDNO-1010600042392",
-        "amount": 86770594.26
-      },
-      {
-        "name": "Neledimpex",
-        "id": "MD-IDNO-1007600055200",
-        "amount": 72497120.98
-      },
-      {
-        "name": "SC \"Prestigiu - AZ\" SRL",
-        "id": "MD-IDNO-1005600037219",
-        "amount": 77487393.39
-      },
-      {
-        "name": "Horus",
-        "id": "MD-IDNO-1002600011498",
-        "amount": 116929440.67
-      },
-      {
-        "name": "S.A. LUSMECON",
-        "id": "MD-IDNO-1002600050842",
-        "amount": 83749792.8
-      },
-      {
-        "name": "DAS",
-        "id": "MD-IDNO-1986070",
-        "amount": 84999728.93
-      }
-    ],
-    "awards": [
-      {
-        "name": "Neledimpex",
-        "id": "MD-IDNO-1007600055200",
-        "amount": 72497120.98,
-        "status": "pending"
-      },
-      {
-        "name": "SC \"Prestigiu - AZ\" SRL",
-        "id": "MD-IDNO-1005600037219",
-        "amount": 77487393.39,
-        "status": "pending"
-      },
-      {
-        "name": "S.A. LUSMECON",
-        "id": "MD-IDNO-1002600050842",
-        "amount": 83749792.8,
-        "status": "pending"
-      },
-      {
-        "name": "DAS",
-        "id": "MD-IDNO-1986070",
-        "amount": 84999728.93,
-        "status": "pending"
-      },
-      {
-        "name": "KVM Cons SRL",
-        "id": "MD-IDNO-1010600042392",
-        "amount": 86770594.26,
-        "status": "pending"
-      },
-      {
-        "name": "Horus",
-        "id": "MD-IDNO-1002600011498",
-        "amount": 116929440.67,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1789374168819",
     "date": "2026-09-14T08:25:44Z",
     "title": "servicii de proiectare pentru amenajarea scuarului",
@@ -40301,16 +40223,6 @@
     "awards": []
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1793879454706",
-    "date": "2026-11-05T12:05:03Z",
-    "title": "Achiziţionarea lucrărilor de amenajare a unei zone de agrement cu echipamente de joacă și sport din Centrul Integra",
-    "buyer": "Agentia Teritoriala de asistenta Sociala Sud",
-    "cpv": "45200000-9",
-    "estimated_amount": 250000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1793881723110",
     "date": "2026-11-05T12:30:53Z",
     "title": "Leagăn",
@@ -40323,6 +40235,94 @@
         "name": "I.I. \"CEBAN ANA\"",
         "id": "MD-IDNO-1004604003792",
         "amount": 545.83,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793879454706",
+    "date": "2026-11-05T18:42:50Z",
+    "title": "Achiziţionarea lucrărilor de amenajare a unei zone de agrement cu echipamente de joacă și sport din Centrul Integra",
+    "buyer": "Agentia Teritoriala de asistenta Sociala Sud",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1769100386262",
+    "date": "2026-11-05T20:09:39Z",
+    "title": "Lucrări de amenajare a teritoriului (drumuri acces, platforme, garduri interioare, parcări, zone verzi, mobilier urban, etc.). Contract cu finanțare multianuală 2026-2028",
+    "buyer": "AGENŢIA ASIGURARE RESURSE ŞI ADMINISTRARE PATRIMONIU A MINISTERULUI APĂRĂRII",
+    "cpv": "45111291-4",
+    "estimated_amount": 91670000.0,
+    "bidders": [
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 86770594.26
+      },
+      {
+        "name": "Neledimpex",
+        "id": "MD-IDNO-1007600055200",
+        "amount": 72497120.98
+      },
+      {
+        "name": "SC \"Prestigiu - AZ\" SRL",
+        "id": "MD-IDNO-1005600037219",
+        "amount": 77487393.39
+      },
+      {
+        "name": "Horus",
+        "id": "MD-IDNO-1002600011498",
+        "amount": 116929440.67
+      },
+      {
+        "name": "S.A. LUSMECON",
+        "id": "MD-IDNO-1002600050842",
+        "amount": 83749792.8
+      },
+      {
+        "name": "DAS",
+        "id": "MD-IDNO-1986070",
+        "amount": 84999728.93
+      }
+    ],
+    "awards": [
+      {
+        "name": "Neledimpex",
+        "id": "MD-IDNO-1007600055200",
+        "amount": 72497120.98,
+        "status": "pending"
+      },
+      {
+        "name": "SC \"Prestigiu - AZ\" SRL",
+        "id": "MD-IDNO-1005600037219",
+        "amount": 77487393.39,
+        "status": "pending"
+      },
+      {
+        "name": "S.A. LUSMECON",
+        "id": "MD-IDNO-1002600050842",
+        "amount": 83749792.8,
+        "status": "pending"
+      },
+      {
+        "name": "DAS",
+        "id": "MD-IDNO-1986070",
+        "amount": 84999728.93,
+        "status": "pending"
+      },
+      {
+        "name": "KVM Cons SRL",
+        "id": "MD-IDNO-1010600042392",
+        "amount": 86770594.26,
+        "status": "pending"
+      },
+      {
+        "name": "Horus",
+        "id": "MD-IDNO-1002600011498",
+        "amount": 116929440.67,
         "status": "pending"
       }
     ]
