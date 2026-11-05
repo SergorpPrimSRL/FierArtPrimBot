@@ -40043,36 +40043,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1793606429657",
-    "date": "2026-11-02T08:01:36Z",
-    "title": "Lucrări de reparație  teren de joacă la IET nr. 158 din str.  O. Ghibu, 2",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "45200000-9",
-    "estimated_amount": 250000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1793606577291",
-    "date": "2026-11-02T08:04:06Z",
-    "title": "Lucrări de reparație  teren de joacă la IET nr. 183 din str. L. Deleanu 1/1",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "45200000-9",
-    "estimated_amount": 250000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1793606740578",
-    "date": "2026-11-02T08:06:37Z",
-    "title": "Lucrări de reparație  teren de joacă la IET nr. 185 din str.  Alba Iulia 202/3",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "45200000-9",
-    "estimated_amount": 250000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1792662509470",
     "date": "2026-11-02T08:20:48Z",
     "title": "Complex de joaca pentru copii inclusiv livrarea si instalare",
@@ -40291,13 +40261,70 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1793606429657",
+    "date": "2026-11-05T10:00:00Z",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 158 din str.  O. Ghibu, 2",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793606577291",
+    "date": "2026-11-05T10:00:00Z",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 183 din str. L. Deleanu 1/1",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793606740578",
+    "date": "2026-11-05T10:00:00Z",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 185 din str.  Alba Iulia 202/3",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1793606238124",
-    "date": "2026-11-04T20:27:52Z",
+    "date": "2026-11-05T10:00:00Z",
     "title": "Lucrări de reparație  teren de joacă la IET nr. 54 din str.  Ion Creangă 4a ",
     "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
     "cpv": "45200000-9",
     "estimated_amount": 250000.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793879454706",
+    "date": "2026-11-05T12:05:03Z",
+    "title": "Achiziţionarea lucrărilor de amenajare a unei zone de agrement cu echipamente de joacă și sport din Centrul Integra",
+    "buyer": "Agentia Teritoriala de asistenta Sociala Sud",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793881723110",
+    "date": "2026-11-05T12:30:53Z",
+    "title": "Leagăn",
+    "buyer": "PRIMARIA COMUNEI BERLINTI",
+    "cpv": "37500000-3",
+    "estimated_amount": 545.83,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "I.I. \"CEBAN ANA\"",
+        "id": "MD-IDNO-1004604003792",
+        "amount": 545.83,
+        "status": "pending"
+      }
+    ]
   }
 ]
