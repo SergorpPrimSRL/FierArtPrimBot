@@ -14,8 +14,26 @@
       "echipamente de joacă"
     ],
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793879454706",
-    "source_date": "2026-11-05T18:42:50Z",
-    "saved_at": "2026-11-05T22:50:10.812971+00:00"
+    "source_date": "2026-11-06T07:10:56Z",
+    "saved_at": "2026-11-06T10:27:42.122404+00:00"
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793606238124",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 54 din str.  Ion Creangă 4a ",
+    "authority": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "amount": 250000.0,
+    "currency": "MDL",
+    "deadline": "2026-11-11T07:09:33Z",
+    "deadline_text": "11.11.2026 10:09",
+    "status": "clarification",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "teren de joacă"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793606238124",
+    "source_date": "2026-11-06T07:09:33Z",
+    "saved_at": "2026-11-06T10:27:38.683733+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1792832428197",
@@ -59,24 +77,6 @@
     "saved_at": "2026-11-05T09:43:39.374597+00:00"
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1793606238124",
-    "title": "Lucrări de reparație  teren de joacă la IET nr. 54 din str.  Ion Creangă 4a ",
-    "authority": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "amount": 250000.0,
-    "currency": "MDL",
-    "deadline": "2026-11-09T10:00:00Z",
-    "deadline_text": "09.11.2026 13:00",
-    "status": "clarification",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "teren de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793606238124",
-    "source_date": "2026-11-04T20:27:52Z",
-    "saved_at": "2026-11-04T22:02:37.716080+00:00"
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1793621543851",
     "title": "Cadou universal de Anul Nou 2026 (biscuiți, napoletane) pentru instituţiile de educaţie timpurie subordonate DETS sec.Centru",
     "authority": "DETS sectorul Centru",
@@ -111,24 +111,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792760655460",
     "source_date": "2026-11-02T14:30:00Z",
     "saved_at": "2026-11-02T18:39:44.504827+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1793366993511",
-    "title": "Cadou universal de Anul Nou  pentru instituţiile de educație timpurie subordonate DETS Botanica",
-    "authority": "Direcția Educație Tineret și Sport Sectorul Botanica",
-    "amount": 265762.5,
-    "currency": "MDL",
-    "deadline": "2026-11-06T08:00:00Z",
-    "deadline_text": "06.11.2026 11:00",
-    "status": "tendering",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "anul nou"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793366993511",
-    "source_date": "2026-11-02T13:00:00Z",
-    "saved_at": "2026-11-02T18:38:20.727850+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1793606740578",
