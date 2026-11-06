@@ -40326,5 +40326,22 @@
     "estimated_amount": 250000.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793970371683",
+    "date": "2026-11-06T13:24:52Z",
+    "title": "PROCURAREA DE JOCURI EDUCATIVE PENTRU GRADINITA NR. DIN OR.CANTEMIR",
+    "buyer": "PRIMARIA CANTEMIR",
+    "cpv": "37500000-3",
+    "estimated_amount": 8333.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SOCIETATEA COMERCIALA \"AV-DIVERTA\" S.R.L.",
+        "id": "MD-IDNO-1003600066428",
+        "amount": 8333.33,
+        "status": "pending"
+      }
+    ]
   }
 ]
