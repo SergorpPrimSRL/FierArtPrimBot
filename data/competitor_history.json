@@ -40213,16 +40213,6 @@
     "awards": []
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1793606238124",
-    "date": "2026-11-05T10:00:00Z",
-    "title": "Lucrări de reparație  teren de joacă la IET nr. 54 din str.  Ion Creangă 4a ",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "45200000-9",
-    "estimated_amount": 250000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1793881723110",
     "date": "2026-11-05T12:30:53Z",
     "title": "Leagăn",
@@ -40238,16 +40228,6 @@
         "status": "pending"
       }
     ]
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1793879454706",
-    "date": "2026-11-05T18:42:50Z",
-    "title": "Achiziţionarea lucrărilor de amenajare a unei zone de agrement cu echipamente de joacă și sport din Centrul Integra",
-    "buyer": "Agentia Teritoriala de asistenta Sociala Sud",
-    "cpv": "45200000-9",
-    "estimated_amount": 250000.0,
-    "bidders": [],
-    "awards": []
   },
   {
     "ocid": "ocds-b3wdp1-MD-1769100386262",
@@ -40326,5 +40306,25 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793606238124",
+    "date": "2026-11-06T07:09:33Z",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 54 din str.  Ion Creangă 4a ",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793879454706",
+    "date": "2026-11-06T07:10:56Z",
+    "title": "Achiziţionarea lucrărilor de amenajare a unei zone de agrement cu echipamente de joacă și sport din Centrul Integra",
+    "buyer": "Agentia Teritoriala de asistenta Sociala Sud",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [],
+    "awards": []
   }
 ]
