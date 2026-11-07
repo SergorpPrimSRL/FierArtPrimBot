@@ -1,5 +1,43 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1793879454706",
+    "title": "Achiziţionarea lucrărilor de amenajare a unei zone de agrement cu echipamente de joacă și sport din Centrul Integra",
+    "authority": "Agentia Teritoriala de asistenta Sociala Sud",
+    "amount": 250000.0,
+    "currency": "MDL",
+    "deadline": "2026-11-12T09:00:00Z",
+    "deadline_text": "12.11.2026 12:00",
+    "status": "tendering",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "echipamente de joacă"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793879454706",
+    "source_date": "2026-11-07T15:00:00Z",
+    "saved_at": "2026-11-07T15:09:44.903608+00:00"
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793005463822",
+    "title": "Servicii de amenajare a decorului pentru sărbătorile de Crăciun și Anul Nou 2026–2027",
+    "authority": "Pretura sectorului Ciocana",
+    "amount": 4531062.5,
+    "currency": "MDL",
+    "deadline": "2026-11-18T11:13:55Z",
+    "deadline_text": "18.11.2026 14:13",
+    "status": "tendering",
+    "score": 100,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "anul nou",
+      "sărbătorile de crăciun",
+      "sarbatorile de craciun"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793005463822",
+    "source_date": "2026-11-07T11:13:55Z",
+    "saved_at": "2026-11-07T15:09:36.769660+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1793606238124",
     "title": "Lucrări de reparație  teren de joacă la IET nr. 54 din str.  Ion Creangă 4a ",
     "authority": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
@@ -16,24 +54,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793606238124",
     "source_date": "2026-11-07T07:09:33Z",
     "saved_at": "2026-11-07T08:42:38.241257+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1793879454706",
-    "title": "Achiziţionarea lucrărilor de amenajare a unei zone de agrement cu echipamente de joacă și sport din Centrul Integra",
-    "authority": "Agentia Teritoriala de asistenta Sociala Sud",
-    "amount": 250000.0,
-    "currency": "MDL",
-    "deadline": "2026-11-12T09:00:00Z",
-    "deadline_text": "12.11.2026 12:00",
-    "status": "clarification",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "echipamente de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793879454706",
-    "source_date": "2026-11-06T07:10:56Z",
-    "saved_at": "2026-11-06T10:27:42.122404+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1792832428197",
