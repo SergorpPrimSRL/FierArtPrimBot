@@ -1,5 +1,23 @@
 [
   {
+    "ocid": "ocds-b3wdp1-MD-1793606238124",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 54 din str.  Ion Creangă 4a ",
+    "authority": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "amount": 250000.0,
+    "currency": "MDL",
+    "deadline": "2026-11-11T07:09:33Z",
+    "deadline_text": "11.11.2026 10:09",
+    "status": "tendering",
+    "score": 95,
+    "label": "FOARTE INTERESANTĂ",
+    "matches": [
+      "teren de joacă"
+    ],
+    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793606238124",
+    "source_date": "2026-11-07T07:09:33Z",
+    "saved_at": "2026-11-07T08:42:38.241257+00:00"
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1793879454706",
     "title": "Achiziţionarea lucrărilor de amenajare a unei zone de agrement cu echipamente de joacă și sport din Centrul Integra",
     "authority": "Agentia Teritoriala de asistenta Sociala Sud",
@@ -16,24 +34,6 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793879454706",
     "source_date": "2026-11-06T07:10:56Z",
     "saved_at": "2026-11-06T10:27:42.122404+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1793606238124",
-    "title": "Lucrări de reparație  teren de joacă la IET nr. 54 din str.  Ion Creangă 4a ",
-    "authority": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "amount": 250000.0,
-    "currency": "MDL",
-    "deadline": "2026-11-11T07:09:33Z",
-    "deadline_text": "11.11.2026 10:09",
-    "status": "clarification",
-    "score": 95,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "teren de joacă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793606238124",
-    "source_date": "2026-11-06T07:09:33Z",
-    "saved_at": "2026-11-06T10:27:38.683733+00:00"
   },
   {
     "ocid": "ocds-b3wdp1-MD-1792832428197",
