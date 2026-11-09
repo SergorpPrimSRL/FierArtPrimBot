@@ -40183,36 +40183,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1793606429657",
-    "date": "2026-11-05T10:00:00Z",
-    "title": "Lucrări de reparație  teren de joacă la IET nr. 158 din str.  O. Ghibu, 2",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "45200000-9",
-    "estimated_amount": 250000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1793606577291",
-    "date": "2026-11-05T10:00:00Z",
-    "title": "Lucrări de reparație  teren de joacă la IET nr. 183 din str. L. Deleanu 1/1",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "45200000-9",
-    "estimated_amount": 250000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1793606740578",
-    "date": "2026-11-05T10:00:00Z",
-    "title": "Lucrări de reparație  teren de joacă la IET nr. 185 din str.  Alba Iulia 202/3",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "45200000-9",
-    "estimated_amount": 250000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1793881723110",
     "date": "2026-11-05T12:30:53Z",
     "title": "Leagăn",
@@ -40341,6 +40311,107 @@
     "buyer": "Agentia Teritoriala de asistenta Sociala Sud",
     "cpv": "45200000-9",
     "estimated_amount": 250000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793606740578",
+    "date": "2026-11-09T10:34:50Z",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 185 din str.  Alba Iulia 202/3",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [
+      {
+        "name": "CP INVEST CONSTRUCT",
+        "id": "MD-IDNO-1023600046679",
+        "amount": 168894.91
+      },
+      {
+        "name": "S.R.L Urban Nova Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 213334.22
+      }
+    ],
+    "awards": [
+      {
+        "name": "CP INVEST CONSTRUCT",
+        "id": "MD-IDNO-1023600046679",
+        "amount": 168894.91,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Urban Nova Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 213334.22,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793606577291",
+    "date": "2026-11-09T10:35:25Z",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 183 din str. L. Deleanu 1/1",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [
+      {
+        "name": "S.R.L Urban Nova Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 230963.49
+      },
+      {
+        "name": "CP INVEST CONSTRUCT",
+        "id": "MD-IDNO-1023600046679",
+        "amount": 176875.57
+      }
+    ],
+    "awards": [
+      {
+        "name": "CP INVEST CONSTRUCT",
+        "id": "MD-IDNO-1023600046679",
+        "amount": 176875.57,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Urban Nova Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 230963.49,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793606429657",
+    "date": "2026-11-09T10:35:49Z",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 158 din str.  O. Ghibu, 2",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 195281.53
+      }
+    ],
+    "awards": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 195281.53,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794230349541",
+    "date": "2026-11-09T13:58:20Z",
+    "title": "Procurarea materialelor pentru scopuri didactice, științifice și alte scopuri pentru instituțiile subordonate Direcției Educație, Tineret și Sport sectorul Ciocana  ",
+    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
+    "cpv": "37500000-3",
+    "estimated_amount": 460010.83,
     "bidders": [],
     "awards": []
   }
