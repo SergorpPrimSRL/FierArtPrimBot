@@ -113,23 +113,5 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792760655460",
     "source_date": "2026-11-02T14:30:00Z",
     "saved_at": "2026-11-02T18:39:44.504827+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1792564641117",
-    "title": "Construcții metalice pentru LEA 110-400 kV  ",
-    "authority": "Moldelectrica",
-    "amount": 1800000.0,
-    "currency": "MDL",
-    "deadline": "2026-11-10T15:00:00Z",
-    "deadline_text": "10.11.2026 18:00",
-    "status": "tendering",
-    "score": 72,
-    "label": "INTERESANTĂ",
-    "matches": [
-      "construcții metalice"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1792564641117",
-    "source_date": "2026-11-02T08:00:00Z",
-    "saved_at": "2026-11-02T08:20:52.158530+00:00"
   }
 ]
