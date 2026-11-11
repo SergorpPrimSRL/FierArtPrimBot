@@ -40239,16 +40239,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1793606238124",
-    "date": "2026-11-07T07:09:33Z",
-    "title": "Lucrări de reparație  teren de joacă la IET nr. 54 din str.  Ion Creangă 4a ",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "45200000-9",
-    "estimated_amount": 250000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1793879454706",
     "date": "2026-11-07T15:00:00Z",
     "title": "Achiziţionarea lucrărilor de amenajare a unei zone de agrement cu echipamente de joacă și sport din Centrul Integra",
@@ -40288,40 +40278,6 @@
         "name": "S.R.L Urban Nova Grup",
         "id": "MD-IDNO-1008600038815",
         "amount": 213334.22,
-        "status": "pending"
-      }
-    ]
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1793606577291",
-    "date": "2026-11-09T10:35:25Z",
-    "title": "Lucrări de reparație  teren de joacă la IET nr. 183 din str. L. Deleanu 1/1",
-    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
-    "cpv": "45200000-9",
-    "estimated_amount": 250000.0,
-    "bidders": [
-      {
-        "name": "S.R.L Urban Nova Grup",
-        "id": "MD-IDNO-1008600038815",
-        "amount": 230963.49
-      },
-      {
-        "name": "CP INVEST CONSTRUCT",
-        "id": "MD-IDNO-1023600046679",
-        "amount": 176875.57
-      }
-    ],
-    "awards": [
-      {
-        "name": "CP INVEST CONSTRUCT",
-        "id": "MD-IDNO-1023600046679",
-        "amount": 176875.57,
-        "status": "pending"
-      },
-      {
-        "name": "S.R.L Urban Nova Grup",
-        "id": "MD-IDNO-1008600038815",
-        "amount": 230963.49,
         "status": "pending"
       }
     ]
@@ -40411,6 +40367,63 @@
         "name": "Trio Construct SRL",
         "id": "MD-IDNO-1016600013974",
         "amount": 165166.67,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793606238124",
+    "date": "2026-11-11T07:33:28Z",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 54 din str.  Ion Creangă 4a ",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 242195.13
+      }
+    ],
+    "awards": [
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 242195.13,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793606577291",
+    "date": "2026-11-11T10:01:35Z",
+    "title": "Lucrări de reparație  teren de joacă la IET nr. 183 din str. L. Deleanu 1/1",
+    "buyer": "Direcţia Educaţie, Tineret şi Sport sect. Buiucani",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [
+      {
+        "name": "S.R.L Urban Nova Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 230963.49
+      },
+      {
+        "name": "CP INVEST CONSTRUCT",
+        "id": "MD-IDNO-1023600046679",
+        "amount": 176875.57
+      }
+    ],
+    "awards": [
+      {
+        "name": "CP INVEST CONSTRUCT",
+        "id": "MD-IDNO-1023600046679",
+        "amount": 176875.57,
+        "status": "pending"
+      },
+      {
+        "name": "S.R.L Urban Nova Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 230963.49,
         "status": "pending"
       }
     ]
