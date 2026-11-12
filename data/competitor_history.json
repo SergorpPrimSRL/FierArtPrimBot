@@ -40419,8 +40419,18 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1794481000568",
+    "date": "2026-11-12T10:59:27Z",
+    "title": "Achiziționarea mobilier urban, inclusiv instalarea în scuarul Doina și Ion Aldea Teodorovici, sect.Centru",
+    "buyer": "Pretura sectorului Centru",
+    "cpv": "34900000-6",
+    "estimated_amount": 160000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1793879454706",
-    "date": "2026-11-12T09:00:00Z",
+    "date": "2026-11-12T12:07:37Z",
     "title": "Achiziţionarea lucrărilor de amenajare a unei zone de agrement cu echipamente de joacă și sport din Centrul Integra",
     "buyer": "Agentia Teritoriala de asistenta Sociala Sud",
     "cpv": "45200000-9",
@@ -40437,6 +40447,40 @@
         "name": "Nova Park Company SRL",
         "id": "MD-IDNO-1019600055179",
         "amount": 247044.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794488799663",
+    "date": "2026-11-12T13:08:40Z",
+    "title": "Echipament pentru teren de joacă  și fitness, reparația acestora",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE CIOCANA",
+    "cpv": "37500000-3",
+    "estimated_amount": 1833.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"ECOELASTIC LUX\"",
+        "id": "MD-IDNO-1017600042232",
+        "amount": 1833.33,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794490406191",
+    "date": "2026-11-12T13:35:03Z",
+    "title": "Mobilier urban",
+    "buyer": "INTREPRINDEREA MUNICIPALA PENTRU SERVICII LOCATIVE CIOCANA",
+    "cpv": "34900000-6",
+    "estimated_amount": 21250.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"WOODARTCONS\"",
+        "id": "MD-IDNO-1021600037590",
+        "amount": 21250.0,
         "status": "pending"
       }
     ]
