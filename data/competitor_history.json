@@ -40016,16 +40016,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1793691601307",
-    "date": "2026-11-03T09:28:12Z",
-    "title": "„ Echipament și inventar pentru „cursele” parcului de aventură” în cadrul proiectului „Cantemir Adventure Park-CAP” REPETAT",
-    "buyer": "Agenția de Dezvoltare Regională Sud",
-    "cpv": "43325000-7",
-    "estimated_amount": 2478635.04,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1792485914579",
     "date": "2026-11-03T09:40:11Z",
     "title": "Achiziționarea echipamentelor de joacă pentru terenul de joacă din satul Pașcani, raionul Criuleni",
@@ -40481,6 +40471,50 @@
         "name": "S.R.L. \"WOODARTCONS\"",
         "id": "MD-IDNO-1021600037590",
         "amount": 21250.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793691601307",
+    "date": "2026-11-13T08:00:01Z",
+    "title": "„ Echipament și inventar pentru „cursele” parcului de aventură” în cadrul proiectului „Cantemir Adventure Park-CAP” REPETAT",
+    "buyer": "Agenția de Dezvoltare Regională Sud",
+    "cpv": "43325000-7",
+    "estimated_amount": 2478635.04,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794569952594",
+    "date": "2026-11-13T11:54:39Z",
+    "title": "achiziții de valoare mică",
+    "buyer": "Primaria Frumoasa rul-Calarasi",
+    "cpv": "24500000-9",
+    "estimated_amount": 962.93,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "GHIOCEL",
+        "id": "MD-IDNO-1003609005370",
+        "amount": 962.93,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794573015280",
+    "date": "2026-11-13T13:04:08Z",
+    "title": "Renovarea stadionului din sat",
+    "buyer": "PRIMARIA COMUNEI CIOCILTENI",
+    "cpv": "37400000-2",
+    "estimated_amount": 152579.17,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. CIVO TRADE MARKET",
+        "id": "MD-IDNO-1021600054166",
+        "amount": 152579.17,
         "status": "pending"
       }
     ]
