@@ -40500,16 +40500,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1794582953137",
-    "date": "2026-11-13T15:38:57Z",
-    "title": "Complexelor de joacă, inclusiv instalarea  în cadrul Programului Buget Civil 2026",
-    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
-    "cpv": "37500000-3",
-    "estimated_amount": 299357.49,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1794481000568",
     "date": "2026-11-16T09:00:00Z",
     "title": "Achiziționarea mobilier urban, inclusiv instalarea în scuarul Doina și Ion Aldea Teodorovici, sect.Centru",
@@ -40552,6 +40542,33 @@
         "name": "SRL Agentinter",
         "id": "MD-IDNO-1003602004835",
         "amount": 166626.5,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794582953137",
+    "date": "2026-11-17T12:00:00Z",
+    "title": "Complexelor de joacă, inclusiv instalarea  în cadrul Programului Buget Civil 2026",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 299357.49,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794919871457",
+    "date": "2026-11-17T12:58:00Z",
+    "title": "Achiziționarea unui foișor cu livrare și instalare",
+    "buyer": "Spitalul Clinic Militar Central",
+    "cpv": "44200000-2",
+    "estimated_amount": 95833.33,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "Parchet Exotic SRL",
+        "id": "MD-IDNO-1011600043352",
+        "amount": 95833.33,
         "status": "pending"
       }
     ]
