@@ -40286,16 +40286,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1794230349541",
-    "date": "2026-11-09T13:58:20Z",
-    "title": "Procurarea materialelor pentru scopuri didactice, științifice și alte scopuri pentru instituțiile subordonate Direcției Educație, Tineret și Sport sectorul Ciocana  ",
-    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
-    "cpv": "37500000-3",
-    "estimated_amount": 460010.83,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1792662509470",
     "date": "2026-11-10T09:21:57Z",
     "title": "Complex de joaca pentru copii inclusiv livrarea si instalare",
@@ -40536,6 +40526,16 @@
     "buyer": "DIRECTIA GENERALA EDUCATIE STEFAN VODA",
     "cpv": "43325000-7",
     "estimated_amount": 375000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794230349541",
+    "date": "2026-11-16T14:32:00Z",
+    "title": "Procurarea materialelor pentru scopuri didactice, științifice și alte scopuri pentru instituțiile subordonate Direcției Educație, Tineret și Sport sectorul Ciocana  ",
+    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
+    "cpv": "37500000-3",
+    "estimated_amount": 460010.83,
     "bidders": [],
     "awards": []
   }
