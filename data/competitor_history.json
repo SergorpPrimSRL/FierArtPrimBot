@@ -40538,5 +40538,22 @@
     "estimated_amount": 460010.83,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794899824956",
+    "date": "2026-11-17T08:08:52Z",
+    "title": "Drumuri de interes raional. Lucrări pentru asigurarea circulației rutiere. Instalarea semafoarelor pietonale. Stație auto.",
+    "buyer": "Președintele Raionului Glodeni",
+    "cpv": "45200000-9",
+    "estimated_amount": 166626.5,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "SRL Agentinter",
+        "id": "MD-IDNO-1003602004835",
+        "amount": 166626.5,
+        "status": "pending"
+      }
+    ]
   }
 ]
