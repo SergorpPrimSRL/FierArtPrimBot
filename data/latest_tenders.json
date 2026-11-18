@@ -78,25 +78,5 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793804773862",
     "source_date": "2026-11-14T22:00:00Z",
     "saved_at": "2026-11-15T00:59:53.682955+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1793005463822",
-    "title": "Servicii de amenajare a decorului pentru sărbătorile de Crăciun și Anul Nou 2026–2027",
-    "authority": "Pretura sectorului Ciocana",
-    "amount": 4531062.5,
-    "currency": "MDL",
-    "deadline": "2026-11-18T11:13:55Z",
-    "deadline_text": "18.11.2026 14:13",
-    "status": "tendering",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "anul nou",
-      "sărbătorile de crăciun",
-      "sarbatorile de craciun"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1793005463822",
-    "source_date": "2026-11-07T11:13:55Z",
-    "saved_at": "2026-11-07T15:09:36.769660+00:00"
   }
 ]
