@@ -40399,29 +40399,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1793879454706",
-    "date": "2026-11-12T12:07:37Z",
-    "title": "Achiziţionarea lucrărilor de amenajare a unei zone de agrement cu echipamente de joacă și sport din Centrul Integra",
-    "buyer": "Agentia Teritoriala de asistenta Sociala Sud",
-    "cpv": "45200000-9",
-    "estimated_amount": 250000.0,
-    "bidders": [
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 247044.0
-      }
-    ],
-    "awards": [
-      {
-        "name": "Nova Park Company SRL",
-        "id": "MD-IDNO-1019600055179",
-        "amount": 247044.0,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1794488799663",
     "date": "2026-11-12T13:08:40Z",
     "title": "Echipament pentru teren de joacă  și fitness, reparația acestora",
@@ -40510,26 +40487,6 @@
     "awards": []
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1794827208685",
-    "date": "2026-11-16T11:14:19Z",
-    "title": "procurarea pergola,scrinciob cu doua leagane și fuisor la tabara Dumbrava",
-    "buyer": "DIRECTIA GENERALA EDUCATIE STEFAN VODA",
-    "cpv": "43325000-7",
-    "estimated_amount": 375000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1794230349541",
-    "date": "2026-11-16T14:32:00Z",
-    "title": "Procurarea materialelor pentru scopuri didactice, științifice și alte scopuri pentru instituțiile subordonate Direcției Educație, Tineret și Sport sectorul Ciocana  ",
-    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
-    "cpv": "37500000-3",
-    "estimated_amount": 460010.83,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1794899824956",
     "date": "2026-11-17T08:08:52Z",
     "title": "Drumuri de interes raional. Lucrări pentru asigurarea circulației rutiere. Instalarea semafoarelor pietonale. Stație auto.",
@@ -40572,5 +40529,48 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1793879454706",
+    "date": "2026-11-18T11:14:08Z",
+    "title": "Achiziţionarea lucrărilor de amenajare a unei zone de agrement cu echipamente de joacă și sport din Centrul Integra",
+    "buyer": "Agentia Teritoriala de asistenta Sociala Sud",
+    "cpv": "45200000-9",
+    "estimated_amount": 250000.0,
+    "bidders": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 247044.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Nova Park Company SRL",
+        "id": "MD-IDNO-1019600055179",
+        "amount": 247044.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794827208685",
+    "date": "2026-11-18T13:44:32Z",
+    "title": "procurarea pergola,scrinciob cu doua leagane și fuisor la tabara Dumbrava",
+    "buyer": "DIRECTIA GENERALA EDUCATIE STEFAN VODA",
+    "cpv": "43325000-7",
+    "estimated_amount": 375000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794230349541",
+    "date": "2026-11-18T14:32:00Z",
+    "title": "Procurarea materialelor pentru scopuri didactice, științifice și alte scopuri pentru instituțiile subordonate Direcției Educație, Tineret și Sport sectorul Ciocana  ",
+    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
+    "cpv": "37500000-3",
+    "estimated_amount": 460010.83,
+    "bidders": [],
+    "awards": []
   }
 ]
