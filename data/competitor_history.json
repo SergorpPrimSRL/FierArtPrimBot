@@ -40572,5 +40572,22 @@
     "estimated_amount": 460010.83,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1795032933341",
+    "date": "2026-11-18T20:18:07Z",
+    "title": "Servicii  de elaborare a devizului de cheltueli  la  obiectul \"Amenajarea unui teren de joaca ă pe strada Uririi nr.2 ",
+    "buyer": "PRIMARIA ORASULUI CAUSENI",
+    "cpv": "71200000-0",
+    "estimated_amount": 3872.34,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "INTREPRINZATOR INDIVIDUAL RUSU STEFAN",
+        "id": "MD-IDNO-1011608000319",
+        "amount": 3872.34,
+        "status": "pending"
+      }
+    ]
   }
 ]
