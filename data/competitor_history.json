@@ -40477,16 +40477,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1794481000568",
-    "date": "2026-11-16T09:00:00Z",
-    "title": "Achiziționarea mobilier urban, inclusiv instalarea în scuarul Doina și Ion Aldea Teodorovici, sect.Centru",
-    "buyer": "Pretura sectorului Centru",
-    "cpv": "34900000-6",
-    "estimated_amount": 160000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1794899824956",
     "date": "2026-11-17T08:08:52Z",
     "title": "Drumuri de interes raional. Lucrări pentru asigurarea circulației rutiere. Instalarea semafoarelor pietonale. Stație auto.",
@@ -40586,6 +40576,40 @@
         "name": "INTREPRINZATOR INDIVIDUAL RUSU STEFAN",
         "id": "MD-IDNO-1011608000319",
         "amount": 3872.34,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794481000568",
+    "date": "2026-11-19T09:30:59Z",
+    "title": "Achiziționarea mobilier urban, inclusiv instalarea în scuarul Doina și Ion Aldea Teodorovici, sect.Centru",
+    "buyer": "Pretura sectorului Centru",
+    "cpv": "34900000-6",
+    "estimated_amount": 160000.0,
+    "bidders": [
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 152000.0
+      },
+      {
+        "name": "S.R.L Urban Nova Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 141666.66
+      }
+    ],
+    "awards": [
+      {
+        "name": "S.R.L Urban Nova Grup",
+        "id": "MD-IDNO-1008600038815",
+        "amount": 141666.66,
+        "status": "pending"
+      },
+      {
+        "name": "SC LUXGAZ SRL",
+        "id": "MD-IDNO-1004600011768",
+        "amount": 152000.0,
         "status": "pending"
       }
     ]
