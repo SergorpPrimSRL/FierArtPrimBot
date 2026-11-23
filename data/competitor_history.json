@@ -40534,16 +40534,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1794230349541",
-    "date": "2026-11-18T14:32:00Z",
-    "title": "Procurarea materialelor pentru scopuri didactice, științifice și alte scopuri pentru instituțiile subordonate Direcției Educație, Tineret și Sport sectorul Ciocana  ",
-    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
-    "cpv": "37500000-3",
-    "estimated_amount": 460010.83,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1795032933341",
     "date": "2026-11-18T20:18:07Z",
     "title": "Servicii  de elaborare a devizului de cheltueli  la  obiectul \"Amenajarea unui teren de joaca ă pe strada Uririi nr.2 ",
@@ -40700,5 +40690,15 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794230349541",
+    "date": "2026-11-23T10:32:00Z",
+    "title": "Procurarea materialelor pentru scopuri didactice, științifice și alte scopuri pentru instituțiile subordonate Direcției Educație, Tineret și Sport sectorul Ciocana  ",
+    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
+    "cpv": "37500000-3",
+    "estimated_amount": 460010.83,
+    "bidders": [],
+    "awards": []
   }
 ]
