@@ -40595,8 +40595,52 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1794827208685",
+    "date": "2026-11-20T12:07:00Z",
+    "title": "procurarea pergola,scrinciob cu doua leagane și fuisor la tabara Dumbrava",
+    "buyer": "DIRECTIA GENERALA EDUCATIE STEFAN VODA",
+    "cpv": "43325000-7",
+    "estimated_amount": 375000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1795180949915",
+    "date": "2026-11-20T13:25:38Z",
+    "title": "complex de joaca",
+    "buyer": "PRIMARIA SATULUI SAUCA",
+    "cpv": "37500000-3",
+    "estimated_amount": 113815.83,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"VICBRAG PARK\"",
+        "id": "MD-IDNO-1024600083222",
+        "amount": 113815.83,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1795419857103",
+    "date": "2026-11-23T07:48:17Z",
+    "title": "Servicii de reparație curentă, montare și deservire cazanelor și a echipamentului din cazangerie de la grădinița nr. 1 “Leagănul copilăriei” din or. Rezina",
+    "buyer": "PRIMARIA ORASULUI REZINA",
+    "cpv": "50530000-9",
+    "estimated_amount": 21335.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "INTREPRINZATOR INDIVIDUAL \"CEBOTARI SERGIU\"",
+        "id": "MD-IDNO-1023606003551",
+        "amount": 21335.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1794582953137",
-    "date": "2026-11-20T12:00:00Z",
+    "date": "2026-11-23T08:34:16Z",
     "title": "Complexelor de joacă, inclusiv instalarea  în cadrul Programului Buget Civil 2026",
     "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
     "cpv": "37500000-3",
@@ -40641,28 +40685,18 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1794827208685",
-    "date": "2026-11-20T12:07:00Z",
-    "title": "procurarea pergola,scrinciob cu doua leagane și fuisor la tabara Dumbrava",
-    "buyer": "DIRECTIA GENERALA EDUCATIE STEFAN VODA",
-    "cpv": "43325000-7",
-    "estimated_amount": 375000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1795180949915",
-    "date": "2026-11-20T13:25:38Z",
-    "title": "complex de joaca",
-    "buyer": "PRIMARIA SATULUI SAUCA",
-    "cpv": "37500000-3",
-    "estimated_amount": 113815.83,
+    "ocid": "ocds-b3wdp1-MD-1795424595770",
+    "date": "2026-11-23T09:06:48Z",
+    "title": " Mobilier urban ",
+    "buyer": "PRIMARIA S.ELIZAVETA",
+    "cpv": "34900000-6",
+    "estimated_amount": 76666.67,
     "bidders": [],
     "awards": [
       {
-        "name": "S.R.L. \"VICBRAG PARK\"",
-        "id": "MD-IDNO-1024600083222",
-        "amount": 113815.83,
+        "name": "S.R.L. \"PLAYGROUND STORE\"",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 76666.67,
         "status": "pending"
       }
     ]
