@@ -40433,16 +40433,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1793691601307",
-    "date": "2026-11-13T08:00:01Z",
-    "title": "„ Echipament și inventar pentru „cursele” parcului de aventură” în cadrul proiectului „Cantemir Adventure Park-CAP” REPETAT",
-    "buyer": "Agenția de Dezvoltare Regională Sud",
-    "cpv": "43325000-7",
-    "estimated_amount": 2478635.04,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1794569952594",
     "date": "2026-11-13T11:54:39Z",
     "title": "achiziții de valoare mică",
@@ -40692,13 +40682,84 @@
     ]
   },
   {
+    "ocid": "ocds-b3wdp1-MD-1793691601307",
+    "date": "2026-11-24T11:37:08Z",
+    "title": "„ Echipament și inventar pentru „cursele” parcului de aventură” în cadrul proiectului „Cantemir Adventure Park-CAP” REPETAT",
+    "buyer": "Agenția de Dezvoltare Regională Sud",
+    "cpv": "43325000-7",
+    "estimated_amount": 2478635.04,
+    "bidders": [
+      {
+        "name": "I.I. Sisianu Igor",
+        "id": "MD-IDNO-1006603001382",
+        "amount": 2478597.5
+      }
+    ],
+    "awards": [
+      {
+        "name": "I.I. Sisianu Igor",
+        "id": "MD-IDNO-1006603001382",
+        "amount": 2478597.5,
+        "status": "pending"
+      }
+    ]
+  },
+  {
     "ocid": "ocds-b3wdp1-MD-1794230349541",
-    "date": "2026-11-23T10:32:00Z",
+    "date": "2026-11-24T12:47:22Z",
     "title": "Procurarea materialelor pentru scopuri didactice, științifice și alte scopuri pentru instituțiile subordonate Direcției Educație, Tineret și Sport sectorul Ciocana  ",
     "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
     "cpv": "37500000-3",
     "estimated_amount": 460010.83,
-    "bidders": [],
-    "awards": []
+    "bidders": [
+      {
+        "name": "Homy Decor SRL",
+        "id": "MD-IDNO-1014600019606",
+        "amount": 252948.34
+      },
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 172650.83
+      }
+    ],
+    "awards": [
+      {
+        "name": "Homy Decor SRL",
+        "id": "MD-IDNO-1014600019606",
+        "amount": 252948.34,
+        "status": "pending"
+      },
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 289634.17,
+        "status": "pending"
+      },
+      {
+        "name": "Homy Decor SRL",
+        "id": "MD-IDNO-1014600019606",
+        "amount": 138239.15,
+        "status": "pending"
+      },
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 172650.83,
+        "status": "pending"
+      },
+      {
+        "name": "Homy Decor SRL",
+        "id": "MD-IDNO-1014600019606",
+        "amount": 68823.34,
+        "status": "pending"
+      },
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 101269.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
