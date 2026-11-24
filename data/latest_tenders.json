@@ -16,25 +16,5 @@
     "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1795005369443",
     "source_date": "2026-11-23T13:00:00Z",
     "saved_at": "2026-11-23T16:19:58.345279+00:00"
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1794827208685",
-    "title": "procurarea pergola,scrinciob cu doua leagane și fuisor la tabara Dumbrava",
-    "authority": "DIRECTIA GENERALA EDUCATIE STEFAN VODA",
-    "amount": 375000.0,
-    "currency": "MDL",
-    "deadline": "2026-11-24T14:07:00Z",
-    "deadline_text": "24.11.2026 17:07",
-    "status": "tendering",
-    "score": 100,
-    "label": "FOARTE INTERESANTĂ",
-    "matches": [
-      "terenuri de joacă",
-      "leagăne",
-      "pergolă"
-    ],
-    "url": "https://mtender.gov.md/tenders/ocds-b3wdp1-MD-1794827208685",
-    "source_date": "2026-11-20T12:07:00Z",
-    "saved_at": "2026-11-20T17:09:56.531167+00:00"
   }
 ]
