@@ -40707,16 +40707,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1794827208685",
-    "date": "2026-11-24T14:07:00Z",
-    "title": "procurarea pergola,scrinciob cu doua leagane și fuisor la tabara Dumbrava",
-    "buyer": "DIRECTIA GENERALA EDUCATIE STEFAN VODA",
-    "cpv": "43325000-7",
-    "estimated_amount": 375000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1794582953137",
     "date": "2026-11-24T14:13:37Z",
     "title": "Complexelor de joacă, inclusiv instalarea  în cadrul Programului Buget Civil 2026",
@@ -40781,5 +40771,39 @@
     "estimated_amount": 400000.0,
     "bidders": [],
     "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794827208685",
+    "date": "2026-11-25T12:13:48Z",
+    "title": "procurarea pergola,scrinciob cu doua leagane și fuisor la tabara Dumbrava",
+    "buyer": "DIRECTIA GENERALA EDUCATIE STEFAN VODA",
+    "cpv": "43325000-7",
+    "estimated_amount": 375000.0,
+    "bidders": [
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 373350.0
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 356000.0
+      }
+    ],
+    "awards": [
+      {
+        "name": "Mobilier Novator",
+        "id": "MD-IDNO-1002600031629",
+        "amount": 355890.0,
+        "status": "pending"
+      },
+      {
+        "name": "Pro Tron Media",
+        "id": "MD-IDNO-1011600007699",
+        "amount": 356000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
