@@ -40575,16 +40575,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1794827208685",
-    "date": "2026-11-20T12:07:00Z",
-    "title": "procurarea pergola,scrinciob cu doua leagane și fuisor la tabara Dumbrava",
-    "buyer": "DIRECTIA GENERALA EDUCATIE STEFAN VODA",
-    "cpv": "43325000-7",
-    "estimated_amount": 375000.0,
-    "bidders": [],
-    "awards": []
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1795180949915",
     "date": "2026-11-20T13:25:38Z",
     "title": "complex de joaca",
@@ -40614,52 +40604,6 @@
         "name": "INTREPRINZATOR INDIVIDUAL \"CEBOTARI SERGIU\"",
         "id": "MD-IDNO-1023606003551",
         "amount": 21335.0,
-        "status": "pending"
-      }
-    ]
-  },
-  {
-    "ocid": "ocds-b3wdp1-MD-1794582953137",
-    "date": "2026-11-23T08:34:16Z",
-    "title": "Complexelor de joacă, inclusiv instalarea  în cadrul Programului Buget Civil 2026",
-    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
-    "cpv": "37500000-3",
-    "estimated_amount": 299357.49,
-    "bidders": [
-      {
-        "name": "ALEXGREEN CONCEPT SRL",
-        "id": "MD-IDNO-1017600033283",
-        "amount": 73100.0
-      },
-      {
-        "name": "PLAYGROUND STORE SRL",
-        "id": "MD-IDNO-1023600047388",
-        "amount": 171666.65
-      }
-    ],
-    "awards": [
-      {
-        "name": "PLAYGROUND STORE SRL",
-        "id": "MD-IDNO-1023600047388",
-        "amount": 171666.65,
-        "status": "pending"
-      },
-      {
-        "name": "ALEXGREEN CONCEPT SRL",
-        "id": "MD-IDNO-1017600033283",
-        "amount": 206060.0,
-        "status": "pending"
-      },
-      {
-        "name": "ALEXGREEN CONCEPT SRL",
-        "id": "MD-IDNO-1017600033283",
-        "amount": 73100.0,
-        "status": "pending"
-      },
-      {
-        "name": "PLAYGROUND STORE SRL",
-        "id": "MD-IDNO-1023600047388",
-        "amount": 77250.0,
         "status": "pending"
       }
     ]
@@ -40761,5 +40705,81 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794827208685",
+    "date": "2026-11-24T14:07:00Z",
+    "title": "procurarea pergola,scrinciob cu doua leagane și fuisor la tabara Dumbrava",
+    "buyer": "DIRECTIA GENERALA EDUCATIE STEFAN VODA",
+    "cpv": "43325000-7",
+    "estimated_amount": 375000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794582953137",
+    "date": "2026-11-24T14:13:37Z",
+    "title": "Complexelor de joacă, inclusiv instalarea  în cadrul Programului Buget Civil 2026",
+    "buyer": "Direcţia Generală Locativ Comunală şi Amenajare",
+    "cpv": "37500000-3",
+    "estimated_amount": 299357.49,
+    "bidders": [
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 73100.0
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 171666.65
+      }
+    ],
+    "awards": [
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 171666.65,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 206060.0,
+        "status": "pending"
+      },
+      {
+        "name": "ALEXGREEN CONCEPT SRL",
+        "id": "MD-IDNO-1017600033283",
+        "amount": 73100.0,
+        "status": "pending"
+      },
+      {
+        "name": "PLAYGROUND STORE SRL",
+        "id": "MD-IDNO-1023600047388",
+        "amount": 77250.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1795590273016",
+    "date": "2026-11-25T07:04:32Z",
+    "title": "achiziționarea gazonului artificial pentru terenuri sportive și componentelor aferente",
+    "buyer": "Primaria s. Costesti, Ialoveni",
+    "cpv": "",
+    "estimated_amount": 400000.0,
+    "bidders": [],
+    "awards": []
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1795591111489",
+    "date": "2026-11-25T07:20:13Z",
+    "title": "achiziționarea gazonului artificial pentru terenuri sportive și componentelor aferente",
+    "buyer": "Primaria s. Costesti, Ialoveni",
+    "cpv": "39200000-4",
+    "estimated_amount": 400000.0,
+    "bidders": [],
+    "awards": []
   }
 ]
