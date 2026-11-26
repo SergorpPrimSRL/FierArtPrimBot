@@ -40805,5 +40805,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1795699774622",
+    "date": "2026-11-26T13:33:06Z",
+    "title": "reamenajare teren sportiv Grădinița nr.2",
+    "buyer": "PRIMARIA COMUNEI TRUSENI",
+    "cpv": "45400000-1",
+    "estimated_amount": 61869.46,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"OPTIMUM SLINE\"",
+        "id": "MD-IDNO-1022600043936",
+        "amount": 61869.46,
+        "status": "pending"
+      }
+    ]
   }
 ]
