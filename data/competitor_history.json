@@ -40649,64 +40649,6 @@
     ]
   },
   {
-    "ocid": "ocds-b3wdp1-MD-1794230349541",
-    "date": "2026-11-24T12:47:22Z",
-    "title": "Procurarea materialelor pentru scopuri didactice, științifice și alte scopuri pentru instituțiile subordonate Direcției Educație, Tineret și Sport sectorul Ciocana  ",
-    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
-    "cpv": "37500000-3",
-    "estimated_amount": 460010.83,
-    "bidders": [
-      {
-        "name": "Homy Decor SRL",
-        "id": "MD-IDNO-1014600019606",
-        "amount": 252948.34
-      },
-      {
-        "name": "BIG DISTRIBUTION SRL",
-        "id": "MD-IDNO-1024600026205",
-        "amount": 172650.83
-      }
-    ],
-    "awards": [
-      {
-        "name": "Homy Decor SRL",
-        "id": "MD-IDNO-1014600019606",
-        "amount": 252948.34,
-        "status": "pending"
-      },
-      {
-        "name": "BIG DISTRIBUTION SRL",
-        "id": "MD-IDNO-1024600026205",
-        "amount": 289634.17,
-        "status": "pending"
-      },
-      {
-        "name": "Homy Decor SRL",
-        "id": "MD-IDNO-1014600019606",
-        "amount": 138239.15,
-        "status": "pending"
-      },
-      {
-        "name": "BIG DISTRIBUTION SRL",
-        "id": "MD-IDNO-1024600026205",
-        "amount": 172650.83,
-        "status": "pending"
-      },
-      {
-        "name": "Homy Decor SRL",
-        "id": "MD-IDNO-1014600019606",
-        "amount": 68823.34,
-        "status": "pending"
-      },
-      {
-        "name": "BIG DISTRIBUTION SRL",
-        "id": "MD-IDNO-1024600026205",
-        "amount": 101269.0,
-        "status": "pending"
-      }
-    ]
-  },
-  {
     "ocid": "ocds-b3wdp1-MD-1794582953137",
     "date": "2026-11-24T14:13:37Z",
     "title": "Complexelor de joacă, inclusiv instalarea  în cadrul Programului Buget Civil 2026",
@@ -40802,6 +40744,64 @@
         "name": "Pro Tron Media",
         "id": "MD-IDNO-1011600007699",
         "amount": 356000.0,
+        "status": "pending"
+      }
+    ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1794230349541",
+    "date": "2026-11-26T09:46:39Z",
+    "title": "Procurarea materialelor pentru scopuri didactice, științifice și alte scopuri pentru instituțiile subordonate Direcției Educație, Tineret și Sport sectorul Ciocana  ",
+    "buyer": "Directia educatie, tineret şi sport sectorul Ciocana",
+    "cpv": "37500000-3",
+    "estimated_amount": 460010.83,
+    "bidders": [
+      {
+        "name": "Homy Decor SRL",
+        "id": "MD-IDNO-1014600019606",
+        "amount": 252948.34
+      },
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 172650.83
+      }
+    ],
+    "awards": [
+      {
+        "name": "Homy Decor SRL",
+        "id": "MD-IDNO-1014600019606",
+        "amount": 252948.34,
+        "status": "pending"
+      },
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 289634.17,
+        "status": "pending"
+      },
+      {
+        "name": "Homy Decor SRL",
+        "id": "MD-IDNO-1014600019606",
+        "amount": 138239.15,
+        "status": "pending"
+      },
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 172650.83,
+        "status": "pending"
+      },
+      {
+        "name": "Homy Decor SRL",
+        "id": "MD-IDNO-1014600019606",
+        "amount": 68823.34,
+        "status": "pending"
+      },
+      {
+        "name": "BIG DISTRIBUTION SRL",
+        "id": "MD-IDNO-1024600026205",
+        "amount": 101269.0,
         "status": "pending"
       }
     ]
