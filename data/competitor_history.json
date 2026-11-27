@@ -40822,5 +40822,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1795761892335",
+    "date": "2026-11-27T06:48:37Z",
+    "title": "construcții speciale (echipament de joacă)",
+    "buyer": "PRIMARIA COMUNEI TRUSENI",
+    "cpv": "37500000-3",
+    "estimated_amount": 98620.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. \"FLEX WOOD\"",
+        "id": "MD-IDNO-1025600045919",
+        "amount": 98620.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
