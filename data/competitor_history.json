@@ -40873,5 +40873,22 @@
         "status": "pending"
       }
     ]
+  },
+  {
+    "ocid": "ocds-b3wdp1-MD-1795857382998",
+    "date": "2026-11-28T09:20:26Z",
+    "title": "Achizitionarea serviciilor de executie a devizului de cheltuieli la proiectul de amenajare a teritoriului cu parcare si teren de joacă.",
+    "buyer": "PRIMARIA LEOVA",
+    "cpv": "71300000-1",
+    "estimated_amount": 102000.0,
+    "bidders": [],
+    "awards": [
+      {
+        "name": "S.R.L. CONSIL PRIM GRUP",
+        "id": "MD-IDNO-1021600025056",
+        "amount": 102000.0,
+        "status": "pending"
+      }
+    ]
   }
 ]
